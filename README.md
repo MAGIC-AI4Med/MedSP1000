@@ -14,6 +14,8 @@
 This repository is the official implementation of
 [**MedSP1000**](https://arxiv.org/abs/XXXX.XXXXX).
 
+> 🚧 **Work in progress.** The full code release is on its way — we will complete it within one week (by **June 9, 2026**). Thanks for your patience!
+
 ---
 
 ## Abstract
