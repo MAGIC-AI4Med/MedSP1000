@@ -1,0 +1,157 @@
+judgment: |-
+  You are extracting the FROZEN scoring rubric for ONE medical-simulation
+  scenario. This rubric will later be reused, unchanged, to score every
+  examinee model on this scenario, so it must depend ONLY on the scenario's
+  evaluator materials — never on any model's behavior or any transcript.
+
+  [Context]
+  The current working directory is one scenario directory. It contains four
+  role sub-directories: examinee/ , sp_actor/ , environment_controller/ ,
+  evaluator/ . The scoring rubric is derived EXCLUSIVELY from the files inside
+  the `evaluator/` sub-directory.
+
+  [Which files to read]
+  1. Read every readable text file (.md / .txt) directly under `evaluator/`.
+     Recurse into sub-folders of `evaluator/` if any exist.
+  2. Read ONLY `evaluator/`. Do NOT read examinee/ , sp_actor/ ,
+     environment_controller/ , or any pipeline product elsewhere
+     (phase1_* / phase2_* / *_summary.md / *_packets_index.md /
+     scenario*_NOT_APPLICABLE.md / CLAUDE.md / .codex_tmp_* / __MACOSX/ /
+     files starting with ._ / .DS_Store / Thumbs.db / *.log / *.tmp).
+  3. Bilingual duplicates: if the same document exists as both an English
+     file and a translated copy whose name only adds a language suffix
+     (e.g. `Foo.md` and `Foo-zh.md`), use ONLY the English file and ignore
+     the translated copy, so each concept is counted exactly once.
+
+  [Source of scoring items] (strong constraints; violating these pollutes
+  downstream paper data)
+  1. A scoring item must be a decidable statement about the examinee's
+     behavior or judgment — a form on which one can ask, "Did the examinee
+     complete / make this?" The following content in the source text is NOT a
+     scoring item and must not be extracted:
+     - Narrative facts (sentences that describe what happens in the case
+       itself).
+     - Structural numbering or step names.
+     - Overarching learning-objective statements (which do not point to a
+       specific observable behavior).
+     When the same concept appears in the source text both as an overarching
+     objective and as concrete scoring-level / tier descriptions under that
+     objective, extract only the concrete scoring levels and skip the
+     overarching statement.
+  2. Each scoring item must have a matching original sentence (or one with
+     identical semantics) somewhere in the evaluator materials.
+  3. Scoring items must preserve the original wording; rewriting, merging,
+     abbreviating, or paraphrasing is forbidden.
+  4. Do not invent scoring items that are not explicitly present in the
+     evaluator materials. Extracting the rubric is the ONLY task here; there
+     is no transcript and no examinee behavior to consider.
+  5. If a competency dimension has no corresponding scoring item in the
+     materials, simply produce no item for that dimension; never fabricate an
+     item just to fill a dimension.
+  6. Granularity — extract scoring items at the source's OWN granularity and
+     prefer the coarser, self-contained form. Do NOT fragment.
+     - A checklist row / checkbox line, a single numbered or bulleted list
+       entry, or a line ending with a colon together with the detail lines
+       that follow it, counts as ONE scoring item; do not break it into
+       several items.
+     - When a parent label groups several sub-checkboxes / sub-points, keep
+       it as ONE scoring item that carries the parent label's wording (e.g.
+       a single line that enumerates several differential diagnoses, or one
+       checklist cell holding several tick-boxes, stays as one item — not
+       one item per element).
+     - Every scoring item must be judgeable on its own. Never emit an item
+       whose text is so short or context-stripped that, read alone, one
+       cannot tell what behavior is being assessed.
+
+  [6 competency dimensions (ACGME Core Competencies)]
+  Assign each scoring item to exactly one dimension by "which competency the
+  scoring item's semantics points to". Do not rely on matching keywords; look
+  at what competency the scoring item, as a whole, is describing.
+
+  - PC (Patient Care & Procedural Skills)
+    The scoring item points to the physician's direct diagnostic/therapeutic
+    actions on the patient (history, physical exam, monitoring, investigation
+    execution, medication administration, procedures, treatment delivery,
+    preventive intervention, etc.).
+  - MK (Medical Knowledge)
+    The scoring item points to the cognitive ability of "forming judgments
+    from evidence" (differential diagnosis, interpreting investigation
+    results, final diagnostic reasoning, etc.).
+  - SBP (Systems-Based Practice)
+    The scoring item points to capabilities at the healthcare-system/process
+    level (consultation requests, disposition, transport/handoff,
+    patient-safety recognition, recognition of dangerous actions,
+    documentation or platform workflow, etc.).
+  - ICS (Interpersonal & Communication Skills)
+    The scoring item points to communication skills (doctor-patient
+    communication, informed consent, breaking bad news, empathy, cultural
+    competence, intra-team communication and collaboration, etc.).
+  - PBLI (Practice-Based Learning & Improvement)
+    The scoring item points to self-reflection and learning improvement
+    (debrief, error recognition, completion of learning objectives,
+    CCC/Milestones-style meta-evaluation tasks, etc.).
+  - PROF (Professionalism)
+    The scoring item points to professional behavior and ethics (professional
+    integrity, responsibility, ethical principles, self-awareness, etc.).
+
+  Categorization rules:
+  - Each scoring item is assigned to exactly one dimension; no duplicate
+    categorization.
+  - Ambiguous items are assigned to the nearest dimension by "what competency
+    the scoring item's semantics points to".
+  - There is no catch-all category; if a scoring item is truly hard to place
+    into any of the 6 dimensions, still assign it to the nearest one.
+
+  [Output]
+  Write your result as STRICT JSON to this absolute path, which is the ONLY
+  output file of this task:
+    {OUTPUT_JSON_PATH}
+
+  The JSON content must match exactly this structure (field order is
+  irrelevant, but field names must be exactly these). The rubric is
+  organised by the six ACGME competency dimensions: each dimension is a
+  JSON array (list) of the scoring-item strings belonging to it.
+  {
+    "case_id": "{CASE_ID}",
+    "scenario": "{SCENARIO}",
+    "scenario_dir": "{SCENARIO_DIR}",
+    "rubric_version": "v1",
+    "PC": [
+      "<scoring item, verbatim from the evaluator materials>",
+      "<another scoring item under PC>"
+    ],
+    "MK": [],
+    "SBP": [],
+    "ICS": [],
+    "PBLI": [],
+    "PROF": []
+  }
+
+  Rules for the fields:
+  - The six top-level keys PC / MK / SBP / ICS / PBLI / PROF are each a JSON
+    array of strings. Each string is one scoring item belonging to that
+    competency dimension. This is a FROZEN rubric — it carries the scoring
+    items only; completion (true/false) is judged later, not here, so do
+    not attach any value/flag to an item.
+  - A scoring item's text must be copied verbatim from the materials (you
+    may trim surrounding whitespace / list bullets only). It must be unique
+    within its dimension array, and must not be repeated across dimensions.
+  - Assign each scoring item to exactly one of the six dimensions.
+  - A dimension that has no scoring item must be the empty array [] —
+    never fabricate an item just to fill it.
+  - If the evaluator materials genuinely contain no decidable scoring item,
+    still write the JSON file with all six dimensions as [].
+
+  [Forbidden]
+  - Do NOT modify any existing file in this scenario directory.
+  - Do NOT create any file inside this scenario directory (no logs, temp
+    files, or report markdown).
+  - The ONLY file you may write is the JSON at {OUTPUT_JSON_PATH}.
+  - Do NOT output a Markdown report or any explanatory document.
+  - Do NOT add any top-level field other than case_id / scenario /
+    scenario_dir / rubric_version / PC / MK / SBP / ICS / PBLI / PROF.
+  - Each dimension's value must be a flat array of strings. Do NOT attach an
+    id, a source file, a source quote, a boolean, or any nested structure to
+    an item — a scoring item is just its verbatim text string.
+  - The six dimension keys MUST be exactly PC / MK / SBP / ICS / PBLI /
+    PROF (character-identical, no suffix, no synonym).

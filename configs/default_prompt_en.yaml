@@ -1,0 +1,216 @@
+phase1: |-
+  I downloaded the files in the current working directory from mededportal. Please look through every .md file (ignore pdf/docx/doc/ppt/pptx) and complete two tasks.
+
+  [Task 1: Sort out the materials]
+  Produce a summary md (filename: phase1_md_summary.md, written into the current working directory) that records, for each md file, its content, its directory structure, and how those documents are expected to be used during the simulated evaluation.
+
+  [Task 2: Decide simulatability + extract scenario meta]
+  Additionally produce a JSON file named phase1_scenarios_meta.json in the current working directory. The JSON must follow this exact shape:
+
+  {
+    "simulatable": true,
+    "simulatable_reason": "English. Must explain whether this case can constitute a text-simulatable patient-encounter scenario.",
+    "case_shape": "One English sentence freely describing the shape of this case (for downstream statistics only; does NOT participate in the gate).",
+    "scenarios": [
+      {
+        "scenario_id": "scenario1",
+        "scenario_title": null,
+        "department": null,
+        "urgency_level": null,
+        "patient_gender": null,
+        "patient_age": null,
+        "patient_race": null,
+        "patient_nationality": null,
+        "injury_body_part": null
+      }
+    ]
+  }
+
+  [About the simulatable judgement]
+  Although the downstream pipeline will split the materials across 4 roles, in the phase1 gate you should **not** pre-disqualify the case by checking each of the 4 roles one by one. What you actually need to judge is: whether this case contains a relatively well-defined patient-encounter / communication scenario that can be enacted in text — i.e., whether it already provides the minimum skeleton needed to put people into the scene and start simulating.
+
+  Use this "scenario-centered" standard:
+
+  - **Core 1: there is a clear encounter task.** For example: triage/admission, history taking, physical-exam communication, breaking bad news, informed consent, discharge instructions, family communication, crisis-management communication, a teaching mini-encounter, etc. As long as one clear interactive task exists, this is satisfied.
+  - **Core 2: there is a patient/family/counterpart that can be portrayed.** A concrete character script is best; if there is no full script, but the role positioning, background, chief complaint/situation, key emotions, or response boundaries are clear enough that a portrayer can perform stably within those role boundaries, that also counts. If there is no patient-side interactive counterpart at all (e.g. pure lecture, pure question bank, pure theoretical discussion, pure teaching workflow), this is not satisfied.
+  - **Core 3: there is enough scene information to open and advance the scenario.** For example: opening location, character relationships, what is currently happening, the starting state, observable information, workflow notes, how the SP responds, and — where applicable — exam reports or branching cues. For purely communicative tasks, as long as there is an opening setup and cues for advancing the interaction, this is satisfied even without complex exam results.
+
+  When all three are satisfied, you should normally judge simulatable=true. Do **not** flip to false merely because the following are missing:
+
+  - no formal checklist / rubric / validated assessment tool;
+  - the materials for the 4 roles are not pre-split;
+  - patient data is not fully quantified — as long as the role boundaries and opening info are sufficient to support simulation.
+
+  Only judge simulatable=false when:
+
+  - no concrete patient-encounter / communication scenario can be extracted at all;
+  - there is no patient/family/interactive counterpart that can be portrayed;
+  - there are only abstract teaching ideas, course schedules, lecture notes, knowledge points, and the starting information needed to actually launch a scene is missing;
+  - what looks like a "scenario" is actually a class session, a lecture topic, or a discussion outline rather than one clinical/communication encounter.
+
+  [About the simulatable_reason field]
+  Do not check items off role by role across the 4 roles. Instead, write around "why this case can / cannot constitute a text-simulatable scenario", and cover at least three points: whether the task is clear, whether the patient/family role can be portrayed, and whether the scenario/environment starting point is sufficient. Recommended format: "task=...; patient-side=...; scene advancement=...; notes=...". If you judge false, explicitly state which scenario-skeleton element is missing.
+
+  [About the case_shape field]
+  One English sentence freely describing the shape of this case. It must cover both dimensions: the clinical scenario (e.g., department / nature of task) and the teaching format (e.g., OSCE / SP case / workshop mini-case / teaching handout / assessment tool, etc.), so downstream code can categorize the case from this single line. For downstream statistics only — does **not** participate in the gate.
+
+  [About the scenarios field]
+  - Each scenario is its own entry; if there are multiple scenarios, number them scenario1, scenario2, scenario3, etc.
+  - Only fill in information that is explicitly given in the original md files; if the text does not provide it, you must write null. You are not allowed to guess or fill in based on common sense, contextual hints, or medical experience.
+  - The semantics of a "scenario" is "one independently runnable variant of the clinical / communication encounter". Only split into a separate scenario when the original material explicitly provides identifying anchors for that variant on its own (e.g., a different counterpart, different setting, different age/identity, different task, or any other explicit information that distinguishes the variant).
+  - If the source material is written as "shared opening / shared framework + several explicit variants", you may list those explicit variants separately in scenarios; but the phase1 summary must clearly state which content is shared across scenarios, which content belongs only to certain scenarios, and which content is purely teaching/explanation/answer/discussion material rather than a runtime script.
+  - If the source material truly contains no recognizable scenario at all (e.g., pure lecture handout, pure question bank, pure teaching workflow), scenarios must be the empty array []. It is **forbidden** to fabricate scenarios by treating "teaching units / lecture topics / Instructor Blueprint section headings / sessions in a course timetable" as scenarios: the semantics of a scenario is "one concrete clinical/communication encounter", not "one class session".
+  - For communication-skill training and similar materials, even without a fully structured patient script, as long as there is a clear patient/family role, a clear task, and an opening setup, scenarios is normally = 1 (the entire material corresponds to one interview / communication scenario). Do not write an empty array merely because there is no formal assessment tool or because some isolated detail is missing.
+  - Relationship between simulatable and scenarios:
+    * When simulatable=true, scenarios must be ≥ 1.
+    * When simulatable=false, scenarios is normally [].
+
+phase2: |-
+  [Pre-check — must run first]
+  Before any action, read phase1_scenarios_meta.json from the current working directory:
+
+  1. If simulatable == false, **or** the scenarios field is the empty array [], execute the "skip branch":
+     - Do not create any scenario directory
+     - Do not copy any file
+     - Do not generate any material for any role
+     - Write a phase2_NOT_APPLICABLE.md in the current working directory containing: simulatable, simulatable_reason, case_shape from phase1, the count of scenarios, and the sentence "This case cannot support 4-role text simulation; phase2 has been skipped."
+     - In this reply, explicitly state "phase2 skipped" and exit this phase. Do not continue with any subsequent step.
+  2. If simulatable == true and scenarios is non-empty, continue with the "normal flow" below.
+
+  [Normal flow]
+  What should each simulated scenario expected by the source material look like? If we strictly enact the content of the source material, and assume the entire process of each scenario is simulated through text, I need to prepare instruction files for the SP actor, the examinee, the evaluator, and the environment controller. For each scenario, create a folder; inside it, create one folder per role, e.g. scenario1/examinee/, to hold the files given to that role. Copy the relevant original md file(s) into that folder, then for each file, **directly delete** the passages that this role should not see (also clean up the blank lines immediately before and after the deleted passage; do not leave placeholders or any "removed here" notes), keeping only the content that this role should see.
+
+  [Make a per-scenario readiness judgement before processing each scenario]
+  For each scenario in `scenarios[]`, first make an independent judgement based on the original md files + `phase1_scenarios_meta.json`:
+  - Does this scenario have an opening state consistent with itself?
+  - Is there explicit material sufficient to support patient-side portrayal, or at least explicit material sufficient to stably constrain the patient-side role boundary?
+  - Is there explicit material sufficient to brief the examinee on the starting situation without leaking hidden information?
+  - Is there explicit material sufficient for the environment controller to advance the scene at runtime?
+  If a scenario cannot meet the minimum conditions above, **do not force it through**, and do not keep partial fragments just to fill out the directory. Instead, write a `scenarioN_NOT_APPLICABLE.md` in the case root, briefly explaining that this scenario is skipped due to insufficient source material; do not create any role directory for that scenario. A case-level simulatable=true does NOT mean every scenario in `scenarios[]` must be forcibly produced.
+
+  [First separate shared content, branch content, and teaching/answer content]
+  Before processing any scenario, divide the content of the original md files semantically into three categories:
+  - Runtime content shared across multiple scenarios in this case;
+  - Branch content that belongs only to one scenario or only to certain scenarios;
+  - Non-runtime content used only for teaching organization, knowledge explanation, scoring, answers, debriefing, or discussion.
+  What may enter a `scenarioN/<role>/` directory is only:
+  - Shared runtime content usable by this scenario;
+  - Branch content that explicitly belongs to this scenario.
+  Branch content of other scenarios, and pure teaching/answer content, must be deleted, and must not be carried across scenarios.
+
+  [Minimal consistency rewrites are allowed, but fact fabrication is forbidden]
+  The primary mode of this phase is still "copy + delete". However, if the source uses a templated, shared, or parallel-listed style such that a retained passage still contains mutually exclusive options, placeholder phrasings, or wording that explicitly conflicts with the current scenario's properties, you are allowed to make a "minimal consistency rewrite" **on the copy**. This rewrite is allowed only for:
+  - Selecting, from a parallel/templated passage, the version that explicitly applies to the current scenario;
+  - Removing mutually exclusive branches, placeholders, undecided items, or leftover multi-choice options;
+  - Bringing the retained sentence into agreement with the explicit attributes of this scenario in `phase1_scenarios_meta.json`.
+  Such rewrites must not introduce new facts that are not explicitly provided in the original md, must not fabricate history, physical exam, lab/imaging results, diagnoses, treatments, dialogue lines, or workflow rules. If the gap cannot be filled without fabrication, skip the scenario instead of expanding it on your own.
+
+  [All retained content must agree with the scenario meta]
+  For each `scenarioN`, every piece of content kept in any role directory must agree with the explicit fields of that scenario in `phase1_scenarios_meta.json`, including but not limited to age, gender, scene identity, location, injury body part, and any other explicitly provided distinguishing attribute.
+  - If a passage explicitly conflicts with the current scenario meta, it should be deleted, or rewritten with a minimal consistency rewrite without introducing new facts;
+  - If a passage is compatible with multiple scenarios but does not conflict with the current one, it may be kept as shared runtime content;
+  - If, after retention, a passage still lets the reader see parallel information for multiple mutually exclusive scenarios, it has not been split cleanly and must be processed further.
+
+  [Copies and audit]
+  - The original md files remain in the case root. The agent **must not** modify any file in the root — the root is the audit source; a diff between the copy and the original should reveal what was cut.
+  - A copy in a role directory **must keep the same filename** as the original in the root, to make the audit diff easy.
+  - **Do not** create any agent-synthesized briefing, instruction, README, role card, role profile, summary, or guide document in any role directory; that directory is only allowed to contain copies of the original md files after role-specific cutting.
+  - If all the content a role should see lives in a different original md file and is unrelated to a given file, that file does not enter this role's directory; do not keep an "empty shell after cutting" file just to fill space.
+
+  For each role's output, follow these semantic boundaries strictly to decide what should appear and what should be deleted directly:
+
+  [Nature of the examinee material]
+  The examinee's starting material is the "role briefing" handed to the examinee before the evaluation begins. Its purpose is to let them know who they are, the clinical situation they are in, the objective information they can immediately observe, and the role responsibility they are taking on in this scenario. It is not teaching material, not a workflow guide, not a critical-actions playbook, and not an early reveal of the scoring checklist.
+
+  Content the examinee material "may include":
+  - The role's identity and position (e.g., department, seniority);
+  - The specific environment (department area, bed type, other roles currently present, available resources);
+  - The objective situation and timeline currently unfolding (how events are unfolding, when the patient arrived, etc.);
+  - Patient basic information immediately observable when the evaluation begins (chief complaint, initial visible state, etc., as determined by the scenario design);
+  - The role's macro-level responsibility in this scenario (expressed in role-responsibility semantics, e.g. at the level of "evaluate and manage this patient", not as an enumeration of concrete actions).
+
+  Content the examinee material "must not include" (these belong only in the evaluator directory; even if the source material interleaves them with the scenario introduction, they must be **directly deleted** from copies in the examinee directory):
+  - Critical-action items, operation step lists, or recommended management pathways used by the evaluator for scoring;
+  - Specific exams, labs, or imaging study names and their interpretation criteria;
+  - Specific medications to give, dosages, routes of administration, threshold conditions;
+  - Usage requirements, completion time limits, or target scores of any scoring/screening scale;
+  - Teaching objectives, learning objectives, evaluation objectives — anything used for instructional design;
+  - Hidden case information (lab values, imaging findings, family-member dialogue lines, nurse cue logic, time-driven state-change rules — anything that only the evaluator/environment controller/SP needs to know).
+
+  [About the word "task"]
+  The examinee should know "their task". Here, "task" means the role responsibility they are portraying, not the action set the evaluator will tick off item by item. The source material often contains sections such as "Critical Action Checklist / Key Actions / Performance Checklist / Critical Behaviors / key actions / key operations / scoring items / scoring checklist / learning objectives / teaching objectives". Regardless of what these sections are called, regardless of what form they take, they are scoring anchors by nature and belong only in the evaluator directory. You must not keep them in the examinee directory in original form, rewritten form, excerpted form, split-into-paragraphs form, or under a different name — any retention undermines the evaluation's validity. Such content must be **directly deleted** from copies in the examinee directory (also clean up the blank lines immediately before and after).
+
+  [Boundaries for other roles]
+  - sp_actor: should receive the patient-side character background, chief complaint, course of illness, emotional and behavioral boundaries, what may / may not be revealed in response to the examinee's questions, and what the patient side may express.
+  - environment_controller: should receive the objective information and rules required to advance the scene at runtime, e.g., exam/lab/imaging readouts, time progression, state changes, feedback from non-patient roles present, and the basis for responding to the examinee's requests. The environment controller may know "how to respond to the examinee per the source text".
+  - evaluator: receives all scoring-related material, the critical-action list, the teaching objectives, and the scoring rationale.
+
+  Begin processing under the boundaries above. The current directory should already contain enough information.
+
+phase3: |-
+  [Pre-check — must run first]
+  If phase2_NOT_APPLICABLE.md exists in the current working directory, phase2 was skipped, so this phase is also skipped: in this reply, simply state "phase2 is marked NOT_APPLICABLE, phase3 is also skipped", make no file changes, and exit this phase.
+
+  [Normal flow]
+  Run an independent self-audit of the artifacts produced in phase2. The focus of phase3, in order, is: whether the examinee leaks information, whether the SP has received sufficient and correct portrayal information, and the per-scenario splitting consistency. The environment controller only needs obvious scoring-style content removed; do not over-narrow it.
+
+  [Audit scope]
+  Scan all files inside every generated `scenario*/examinee/`, `scenario*/environment_controller/`, and `scenario*/sp_actor/` directory under this case, and check every retained passage in each file (phase2 already performed deletion / minimal rewriting, but residues, gaps, or mismatches may remain). If a scenario was already marked `scenarioN_NOT_APPLICABLE.md` in phase2, skip that scenario.
+
+  [Audit task 1: examinee leak self-audit]
+  Compare the content retained in the examinee directory with all material in the evaluator directory of the same scenario, semantically. Decide whether the examinee directory contains any item with the same semantics as something the evaluator would tick off during scoring — regardless of whether such content appears in original wording, rewritten wording, excerpted wording, list form, or has been broken across paragraphs and mixed into the prose. The concern is "semantic equivalence", not "literal equivalence".
+
+  Any of the following categories of content that the evaluator directory would tick off counts as a leak if matching semantics can be found in the examinee directory:
+  - Critical-action items, operation step lists, recommended management pathways;
+  - Specific exams, labs, or imaging study names and their interpretation criteria;
+  - Specific medications to be ordered, dosages, routes of administration, threshold conditions;
+  - Usage requirements, completion time limits, or target scores of any scale;
+  - Teaching objectives, learning objectives, evaluation objectives;
+  - Any hidden information that should be held only by the environment controller or the SP (lab values, imaging findings, family-member dialogue lines, state-progression rules, etc.).
+
+  [Audit task 2: SP material sufficiency and correctness self-audit]
+  Compare the content retained in the SP directory with the original case md, the phase1 summary, and the explicit information for that scenario in `phase1_scenarios_meta.json`. Focus on two things:
+  - **Whether the information is sufficient for portrayal**: does the SP have the core information needed to portray this scenario stably, e.g., patient/family identity, chief complaint or reason for visit, course of illness or current situation, emotional and behavioral boundaries, the boundary between answerable and non-answerable information, and how to respond to the examinee in this scenario;
+  - **Whether the information is correct**: does the content kept in the SP directory agree with the explicit attributes of this scenario; have other scenarios' branch content, template residues, mutually exclusive options, wrong identity, wrong age/gender/location/illness course been mixed in; have advancement rules that belong only to other roles been wrongly assigned to the SP.
+
+  If the SP directory's information is insufficient for stable portrayal, the first remedy is to restore from the original md the **explicitly usable original wording for this scenario**; if there is mismatch, cross-scenario contamination, or template residue, delete it or apply a minimal consistency rewrite. You are still not allowed to fabricate new facts that are not in the original md.
+
+  [Audit task 3: environment_controller obvious-impropriety self-audit]
+  The environment controller's job is to return scenario feedback in response to the examinee's questions, requests, and actions, so the environment_controller directory may keep hidden information needed for runtime response, state-progression information, exam results, and the basis for decisions. Do not mechanically judge it as out-of-bounds just because the environment knows more than the examinee.
+
+  Only the following content, when it appears in the environment_controller directory, is considered obvious impropriety and should be deleted:
+  - Scoring anchors, critical-action items, operation step lists, item-by-item answers used by the evaluator;
+  - Pure scoring-style "model answer" wording whose primary function is not to help the environment respond to the examinee, but to directly tell the environment "what the right answer is";
+  - Branch-answer content unrelated to the current scenario, belonging only to other scenarios.
+
+  Do not blanket-delete from the environment_controller directory just because it holds exam results, hidden conditions, illness-progression logic, candidate-diagnosis bases, or treatment-related information; the key criterion is whether such content serves the environment's job of **responding to and advancing the scene based on examinee behavior** at runtime.
+
+  [Audit task 4: scenario splitting and consistency self-audit]
+  Run a consistency check across all three directory types — `examinee/`, `sp_actor/`, `environment_controller/`:
+  - No file may retain branch content that belongs exclusively to other scenarios;
+  - No file may retain parallel templates, placeholder phrasings, or undecided branches for multiple mutually exclusive scenarios;
+  - The retained content in a file must agree with the explicit attributes of that scenario in `phase1_scenarios_meta.json`;
+  - If a passage can be fixed merely by deleting mutually exclusive options or by selecting the explicit attributes of the current scenario, a minimal consistency rewrite is allowed;
+  - If a passage can only be fixed by fabricating new facts, it should be deleted, not expanded.
+
+  [How to apply fixes]
+  Once issues are found, apply fixes directly to the copies in the corresponding role directory:
+  - For examinee leaks and obvious scoring-style content in the environment, delete directly;
+  - For SP material insufficiency, restore from the original md the **explicitly usable original wording for this scenario**;
+  - For consistency issues that can be fixed by deleting a mutually exclusive template or by selecting the current variant per the explicit meta, apply a minimal consistency rewrite;
+  - No fix may introduce new facts not explicitly provided in the original md.
+  The original md files remain in the case root as the audit source, so there is no need to keep any cut content in the copies. Do not create any audit-report document, issue-list document, or scoring-point summary document — such documents would themselves become a new leak source.
+
+  [Output]
+  In this reply, give a brief summary, scenario by scenario:
+  - Which file removed which category of examinee leak;
+  - Which file restored which category of SP-portrayal key information, or corrected which category of SP-mismatch information;
+  - Which file removed which category of obvious impropriety from the environment controller;
+  - Which file applied which category of consistency fix (describe categories only, do not repeat the specific text).
+  In the summary, describe categories only; do not repeat the specific deleted or rewritten text — that would turn the log itself into a new leak source.
+
+  [Do not]
+  - Do not modify any file in the evaluator directory;
+  - Do not modify any original md file in the case root;
+  - Apart from `scenarioN_NOT_APPLICABLE.md` skip markers, do not create any extra documents;
+  - Do not delete from the content allowed by the "positive definition of examinee material" (role identity, environment, objective situation, patient basic chief complaint, macro-level role responsibility).

@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "test:codex": "node --loader ts-node/esm test_codex.ts"
+  },
+  "dependencies": {
+    "@openai/codex-sdk": "^0.118.0",
+    "yaml": "^2.8.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}

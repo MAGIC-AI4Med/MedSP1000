@@ -1,0 +1,48 @@
+# MedSP1000 — example simulation/evaluation config.
+# Copy to config.yaml and fill in credentials via environment variables.
+# DO NOT commit a config.yaml with real keys.
+
+# API Configuration
+# Each provider is selected by the model-name prefix in `agents.*.model`
+# (see src/simulate/api.py:LLMClient._select_client):
+#   baichuan* -> baichuan_*, deepseek* -> deepseek_*, qwen* -> qwen_*,
+#   medgemma* -> medgemma_* (local vLLM), everything else -> the default api.* block.
+api:
+  base_url: "${OPENAI_BASE_URL}"        # default/aggregator gateway
+  api_key: "${OPENAI_API_KEY}"
+  model: "gpt-5.5"
+  timeout_seconds: 180
+  baichuan_base_url: "https://api.baichuan-ai.com/v1/"
+  baichuan-api-key: "${BAICHUAN_API_KEY}"
+  deepseek_base_url: "https://api.deepseek.com"
+  deepseek-api-key: "${DEEPSEEK_API_KEY}"
+  qwen_base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  qwen-api-key: "${QWEN_API_KEY}"
+  medgemma_base_url: "${MEDGEMMA_BASE_URL}"   # local vLLM; comma-separated for DP round-robin
+  medgemma-api-key: "EMPTY"
+
+# Optional outbound proxy (leave empty if not needed).
+proxy:
+  url: "${HTTP_PROXY:-}"
+
+# Parallel Processing
+num_parallel: 8
+
+version: "v6_P"
+
+simulation:
+  output_root: "./runs"          # per-run transcripts / logs / evaluations land here
+  max_total_turns: 12
+  console_progress: true
+  debug: false
+
+agents:
+  default_model: null
+  examinee:                      # the clinician agent under test
+    model: "gpt-5.5"
+  sp:                            # patient agent
+    model: "gpt-5.5"
+  environment:                   # environment controller
+    model: "gpt-5.5"
+  evaluator:                     # scores the trajectory against the frozen rubric
+    model: "gpt-5.5"

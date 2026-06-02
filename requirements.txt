@@ -1,8 +1,19 @@
-# Pin exact versions used for the reported results.
-# Fill in from your environment, e.g.:  pip freeze > requirements.txt
-#
-# openai>=1.0
-# pyyaml
-# flask
-# pandas
-# numpy
+# MedSP1000 — Python dependencies (versions used for the reported results).
+# Core simulation + evaluation engine
+openai==1.109.1
+pyyaml==6.0.2
+tenacity>=8.0
+
+# Analysis / statistics / figures
+pandas==2.3.0
+numpy==2.2.6
+matplotlib==3.10.3
+
+# Optional: run viewer/dashboard or human-eval stations (not required to reproduce scores)
+flask==3.1.2
+
+# Optional: local MedGemma serving via vLLM (see docs/medgemma_models_notes.md for the
+# exact pinned stack — vllm==0.8.3, starlette==0.41.3, sse-starlette==1.8.2, numba==0.65.1).
+
+# Note: the data-processing and rubric-extraction pipelines drive the Codex Agent SDK
+# (Node.js) under src/dataproc/ and src/rubric/. See docs/data_processing.zh.md.
