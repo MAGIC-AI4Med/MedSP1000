@@ -3,6 +3,7 @@
 ### Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases
 
 [![Paper](https://img.shields.io/badge/paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Dataset](https://img.shields.io/badge/🤗%20HuggingFace-Dataset-yellow.svg)](https://huggingface.co/datasets/byrLLCC/MedSP1000)
 [![Project Page](https://img.shields.io/badge/project-page-blue.svg)](https://your-project-page.github.io)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
@@ -104,11 +105,19 @@ pip install -r requirements.txt
 
 ## Data
 
-MedSP1000 is derived from MedEdPORTAL teaching materials.
+MedSP1000 is derived from MedEdPORTAL teaching materials and released on the
+🤗 Hugging Face Hub:
 
-> 📋 *Describe how to obtain the released scenarios and the expected directory
-> layout (each scenario holds materials for the four role agents), and link the
-> data release here.*
+**👉 [huggingface.co/datasets/byrLLCC/MedSP1000](https://huggingface.co/datasets/byrLLCC/MedSP1000)**
+
+```python
+from datasets import load_dataset
+
+ds = load_dataset("byrLLCC/MedSP1000")
+```
+
+> 📋 *Describe the expected directory layout (each scenario holds materials for the
+> four role agents) and how the local manifest maps to the released data.*
 
 ```data
 python scripts/generate_scenario_directories_json.py --pretty
