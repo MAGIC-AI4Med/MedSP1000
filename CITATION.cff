@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "<Paper Title>"
+authors:
+  - family-names: "<LastName>"
+    given-names: "<FirstName>"
+preferred-citation:
+  type: article
+  title: "<Paper Title>"
+  authors:
+    - family-names: "<LastName>"
+      given-names: "<FirstName>"
+  year: <YEAR>
+  journal: "<Venue>"
+  url: "https://arxiv.org/abs/XXXX.XXXXX"

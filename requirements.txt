@@ -1,0 +1,8 @@
+# Pin exact versions used for the reported results.
+# Fill in from your environment, e.g.:  pip freeze > requirements.txt
+#
+# openai>=1.0
+# pyyaml
+# flask
+# pandas
+# numpy

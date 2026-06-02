@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+env/
+
+# Data & run outputs (release separately; do not commit large blobs)
+*.zip
+data/
+runs/
+logs/
+*.log
+status/
+.viewer_cache/
+
+# Model weights
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets
+.env
+*.key
