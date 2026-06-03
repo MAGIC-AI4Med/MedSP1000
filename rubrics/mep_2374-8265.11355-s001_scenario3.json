@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11355-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11355-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "state whether or not they order prns, specify location of conversation",
+    "state what they will communicate and to whom"
+  ],
+  "ICS": [
+    "state concerns",
+    "state rationale (e.g., “I’m worried that X will happen if you go home.”)",
+    "express that they are coming from a place of concern and desire to help",
+    "state decision with transparency",
+    "no ambiguity/ambivalence",
+    "empathic listening",
+    "appropriate use of empathic statements",
+    "patient concerns are heard",
+    "re-state decision"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

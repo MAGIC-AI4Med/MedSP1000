@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.11391-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11391-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Screen all women of reproductive age for IPV victimization\nAsk anyone with symptoms of trauma",
+    "Discuss the management of symptoms with the knowledge about their trauma because now you can provide effective interventions."
+  ],
+  "MK": [
+    "\u201cThis may be contributing to why we are having such a hard time managing your symptoms.\u201d"
+  ],
+  "SBP": [
+    "2-1-1 List/include SDOH Resources",
+    "Discuss any reporting requirements with a trauma-informed perspective"
+  ],
+  "ICS": [
+    "I am sorry this happened to you.\nI believe you and I can help."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

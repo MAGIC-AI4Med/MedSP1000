@@ -1,0 +1,48 @@
+{
+  "case_id": "mep_2374-8265.10924-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10924-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain intravenous (IV) access, place on monitor, apply oxygen, and obtain vital signs",
+    "Promptly perform focused History and Physical Exam",
+    "Discover complaints of dyspnea, itching rash, and facial swelling",
+    "Discover association with medication use",
+    "Identify tachycardia, wheezing, and urticaria on exam",
+    "Recognize anaphylaxis and treat with appropriate dose/route of epinephrine",
+    "Administer 300-500mcg of 1:1000 epinephrine IM",
+    "Collect adjuncts and difficult airway equipment (eg NPA, OPA, stylet, bougie, scalpel/cric kit)",
+    "Attempt to pre-oxygenate with non-rebreather at high flow rate",
+    "Assemble equipment, at minimum: Bag-valve-mask (BVM) attached to O2, suction, laryngoscope (confirmed functional), endotracheal tube (size 7.0-8.0, confirmed intact balloon), stethoscope",
+    "Recognize and utilize an acceptable sedative at correct dose for RSI:E.g. Etomidate, 0.2-0.4mg/kg IV, Ketamine, 1-2mg/kg IV, or Propofol 1-3mg/kg IV",
+    "Perform endotracheal intubation, and verbalize confirmation with multiple methods (e.g. direct visualization, fog in tube, absent epigastric sounds, bilateral chest rise, bilateral breath sounds) that must include end-tidal CO2 colorimetry or capnography",
+    "Ensure tube not displaced",
+    "Do not release ETT until securely fixed with tape or securement device",
+    "Ensure patient secured with non-violent restraints after procedure"
+  ],
+  "MK": [
+    "Promptly recognize critical illness",
+    "Verbalize diagnosis",
+    "Recognize need for intubation",
+    "Verbalize impending airway failure",
+    "Verbalize impending breathing failure despite maximal non-invasive methods",
+    "Verbalize anticipated difficult airway"
+  ],
+  "SBP": [
+    "Recruit multiple healthcare workers to assist",
+    "Recognize need for backups for possible difficult intubation",
+    "Promptly admit to medical intensive care unit (ICU) after patient is stabilized"
+  ],
+  "ICS": [
+    "Promptly lead team in successful intubation",
+    "Update family once initial stabilization complete",
+    "Discuss presentation, evaluation, current diagnosis, severity and next steps",
+    "Provide effective team leadership",
+    "Verbally assign roles",
+    "Provide specific instructions"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Remain calm"
+  ]
+}

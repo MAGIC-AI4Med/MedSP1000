@@ -1,0 +1,35 @@
+{
+  "case_id": "mep-15-10803-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10803-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "A detailed social history including tobacco, alcohol and substance use, sexual history, a screen for domestic violence, and details about a social support system will be helpful in determining her risk for stress, illness, and depression.",
+    "Students will likely suggest introducing the ACE Survey at this time to better understand sources of trauma and stress.",
+    "They may also suggest doing a more thorough screening for depression, and asking about suicidal ideation.",
+    "Patient-centered counseling on healthy behaviors is indicated, specifically related to tobacco, alcohol and drug use, diet, exercise, safer sexual practices, and contraception.",
+    "Trauma-focused cognitive behavioral therapy may be beneficial for teens and adults.",
+    "Since High ACE scores may lead to lower parental attachment, trauma-informed care in the form of group or individual therapy may be helpful for mothers with high ACE scores to facilitate parent-child attachment.",
+    "Attachment therapy can help individuals with histories of ACEs to shift evolved negative trajectories, work toward resolving adverse experiences, and achieve greater attachment security—therefore breaking intergenerational cycles of abuse and trauma that contribute to multiple health problems.2"
+  ],
+  "MK": [
+    "Students will likely be concerned about the possibility of post partum depression given Simone’s flat affect.",
+    "Simone’s ACE score is a 10, which indicates a high risk for multiple co-morbidities, including obesity, depression, smoking, alcohol and substance use disorders, suicide attempts, sexually transmitted infections, diabetes, and heart disease.",
+    "All of this can lead to premature mortality.",
+    "The proposed mechanisms for lower health status in adulthood include altered immunity as the result of stress, altered early brain development, and increased risk for unhealthy behaviors as a coping mechanism in response to chronic stress.",
+    "ACEs and other stressors can also alter long-term gene expression (epigenetics).",
+    "While the ACE Survey tool is frequently used to gauge risks for patients who have been exposed to trauma, as a research tool, it is has not validated as a tool to know when to refer."
+  ],
+  "SBP": [
+    "They will also be concerned about her current lack of support to help with the new baby.",
+    "Access to a consistent patient-centered medical home with integrated mental health services has been shown to lead to higher levels of child wellbeing for children with ACE exposure.",
+    "In a medical home with a trauma-informed practice environment, staff are trained to recognize the signs of trauma and to avoid re-traumatization through supportive and respective communication.",
+    "Quality improvement programs incorporate community and patient needs and focus on ensuring a trauma-informed approach.",
+    "Enhancing access to and developing referral systems for community resources are also important potential interventions.",
+    "These resources may include: domestic violence prevention programs, parenting classes, home-visiting services, teen pregnancy prevention, and preschool enrichment programs.",
+    "Simone should be referred to mental health services at this time for evaluation and treatment for post-partum depression."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

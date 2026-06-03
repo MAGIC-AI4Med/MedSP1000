@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.10926-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10926-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Appropriate evaluation in this case would include ordering a complete blood count, complete metabolic panel, urinalysis, and CT of the abdomen and pelvis.",
+    "You may also consider ordering an abdominal ultrasound (if you are not considering small bowel obstruction), serum lipase if acute pancreatitis is high on the differential,."
+  ],
+  "MK": [
+    "What is the correct diagnosis?\n**Acute cholecystitis**\nGastric cancer\nAcute diverticulitis\nMyocardial infarction",
+    "Which of the following features of the patient history was most important in making the correct diagnosis?\nAssociated vomiting\nAssociated fever\nPain location and radiation\n**Post-prandial timing of pain**",
+    "Which of the following features of the physical examination was most important in making the correct diagnosis?\nLow-grade fever\n**Positive Murphy’s sign**\nBMI 31\nLack of jaundice",
+    "Which of the following lab tests would you expect to be abnormal in this case?\n**CBC (hemoglobin, hematocrit, WBC, platelet count)**\nCMP (electrolytes, renal function, liver function tests)\nAmylase, lipase\nUrinalysis",
+    "Which of the following imaging studies would be most useful in making the correct diagnosis?\nKUB (plain film of the abdomen)\n**Ultrasound of the abdomen**\nCT of the abdomen/pelvis\nMR of the abdomen/pelvis"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

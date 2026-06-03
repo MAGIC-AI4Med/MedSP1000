@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.11264-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11264-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Potential questions for discussion:\nDid the clinician ask the patient to share how she has been taking her medications? (Starting with an open-ended question)\nDid the clinician review the patient’s medication list from the Discharge Summary and compare to the last visit list?\nDid the clinician review the list of what was brought to the visit to assess for discrepancies from the intended discharge list?"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [
+    "After the conclusion of the role play, ask the clinician:\nHow did that go?\nWhat did you do effectively?\nWhat did you find challenging?"
+  ],
+  "PROF": []
+}

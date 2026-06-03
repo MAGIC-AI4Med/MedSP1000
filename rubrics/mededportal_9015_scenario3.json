@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_9015",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9015/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "The doctor must explain how physicians try to avoid this kind of complication. For example:\n\n(DOCTOR): When putting in a line, we monitor the patient closely, we position them carefully to have the best angle, two people work together to insert the line, we use imaging or other signs to guide us, we call for back-up if the patient has some unusual feature that makes the procedure more difficult. Next time I do this, I will remember how you weren\u2019t really clear about the procedure\u2019s risk ahead of time and try to explain it better.",
+    "The doctor should provide closure to the discussion prior to leaving. This is best done by again apologizing and reassuring you that the medical staff will continue to provide the best care possible, and explain how that will happen, and when and how you will get further information."
+  ],
+  "ICS": [
+    "Told family members what the complication was",
+    "Explained why it happened",
+    "Told family members how it impacted care for their relative",
+    "Told family members how the consequences will be addressed",
+    "Allowed family members to express emotions",
+    "Responded well (non-defensively) to family members' anger, concerns, doubts",
+    "Listened respectfully, actively to what family members had to say",
+    "Was verbally coherent, avoided jargon",
+    "Had appropriate non-verbal expressions, behaviors (e.g., eye contact)",
+    "Checked for family members' understanding of information",
+    "Finally, the doctor should explain the new treatment plan for George, now that he\u2019s on the ventilator with a collapsed lung, with clear, understandable, non-medical terms."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Took responsibility for the complication",
+    "Explained the problem freely and directly, without the family members having to ask a lot of probing questions to get details",
+    "Did not keep things from family members that they should know",
+    "Did not avoid family members' questions (was not evasive)",
+    "Said he/she was sorry and apologized sincerely"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11377-s001",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11377-s001/scenario10",
+  "rubric_version": "v1",
+  "PC": [
+    "Eldiagnosticodesangradonasal sehace despuesde:\nEs c u c h a r s u s s ínto m a s y s u h i sto ri a l m é d i c o y r e p a s a r s u l i sta H a c e r u n exa m e n fís i c o A ve c e s s e h a c e u n a n á l i s i s d e s a n g r e p a r a eva l u a r l a c a nti d a d o la causa delsangradopero nosiempreesnecesario",
+    "Debe soplarse (sonarsacudir)la narizpara sacar los coagulos.",
+    "Debeinclinarlacabezahaciaadelanteno hacia atras.",
+    "Debe aplicar presion continu por 10 minutos pinchando la parte blanda de la nariz con sus dedos sin soltar. Respire por la boca.",
+    "En algunos casos, si la nariz no deja de sangrar, puede ser necesario aplicar un tapón nasal, aplicar medicamentos para cortar la hemorragia o hacer un procedimiento.",
+    "Es cierto que hay algunos medicamentos y también productos naturales y vitaminas gue pueden afectar el sangrado.iTiene una lista de todo lo gue usted toma?"
+  ],
+  "MK": [],
+  "SBP": [
+    "Si vuelve asangrar,primerodebe seguir los pasos que repasamos.Sin embargo, hay algunos sintomas dealarma que indican que usted esta perdiendo mucha sangreydebe volveralhospital.",
+    "POSIBLES SINTOMAS DE ALARMA:\nMareos o pérdida de conciencia\nFalta de aire\nDolor de pecho\nSangrado excesivo que no para después\ndemedia horadeoplicar presion"
+  ],
+  "ICS": [
+    "Ustedtiene unsangrado nasal,que tambiense conoce como hemorragia nasal o epistaxis. Las venitas en a parte interior de la nariz puedensangrar.Estoa veces pasa porque algo rompe estos pequenos vasos sanguineos,como si usted sufre un golpe a la cara O cabeza,si se mete algo en la nariz O siselimpia con fuerza.Laresequedad delambiente,temperaturas muy calientes ofrias,oalgunas medicinas tambien pueden provocar sangrado. >",
+    "The student provides a clear definition or explanation of the term.",
+    "The student provides a word/phrase synonym in plain language.",
+    "The student provides sufficient context for the term during the encounter/transcript that the meaning of the term becomes clear."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

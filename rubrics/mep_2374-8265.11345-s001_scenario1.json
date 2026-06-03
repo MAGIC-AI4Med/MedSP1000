@@ -1,0 +1,31 @@
+{
+  "case_id": "mep_2374-8265.11345-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11345-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Review the patient’s medical issues and primary concern",
+    "Cover the appropriate systems for a geriatric patient?",
+    "Follow up with questions about weight loss (about meals, supplements)?",
+    "Identify that the patient is taking turmeric?",
+    "Note concern for not taking Apap and recommendation that patient take this at least at bedtime",
+    "Note concern for Aleve PM and Aleve and specifically recommend patient NOT take it until we try other measures"
+  ],
+  "MK": [
+    "Note concern for memory loss and recommendation of assessment"
+  ],
+  "SBP": [
+    "Identify incorrect dosing of one of the metoprolol?",
+    "Note concern for improper dosing of metoprolol and reduction to once daily OR recommendation that BP and HR be checked"
+  ],
+  "ICS": [
+    "Ask the patient their concerns?",
+    "Set the agenda?",
+    "Ensure patient can hear and see?",
+    "Redirect to questions if patient gets side-tracked?",
+    "Adapt to patient’s pace (if applicable)?",
+    "Did they use Teach Back?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_10120",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10120/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Verbalized components of general inspection of low back",
+    "Back ROM was assessed",
+    "Palpation of paraspinal muscles **AND** spinous processes",
+    "Assessment of strength in lower extremities",
+    "Assessment of reflexes in lower extremities",
+    "Performed SLR",
+    "Any 2 of the following: Bragard, Lasegue differential test, Reverse Lasegue",
+    "Checked for signs of myelopathy (Clonus and Babinski)",
+    "Rate appropriateness of diagnostic/therapeutic plan"
+  ],
+  "MK": [
+    "Learner arrived at correct diagnosis *before* feedback was given (no = 2, yes = 4)",
+    "Rate thoroughness and appropriateness of DDx"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

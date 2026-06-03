@@ -1,0 +1,40 @@
+{
+  "case_id": "mep_2374-8265.10853-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10853-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Discusses or treats hypertension",
+    "Checks Airway, Breathing, Circulation",
+    "Requests repeat vital signs after giving a medicine",
+    "Examines patient, including requesting a pelvic exam",
+    "Elicits history of recent delivery from family",
+    "Physical exam takes no more than 90 seconds",
+    "Elicits history from family, including prior pregnancies, complications, pre-natal care.",
+    "Orders LFTs (included in CMP) and urinalysis",
+    "Orders a fingerstick glucose",
+    "Asks family about patient’s allergies",
+    "Orders magnesium IV",
+    "Orders any anti-hypertensive",
+    "Checks DTR after given magnesium",
+    "Chooses appropriate anti-hypertensive medication (labetalol, hydralazine) for eclampsia in breast-feeding post-partum patient"
+  ],
+  "MK": [],
+  "SBP": [
+    "Consults OB/GYN (must correctly diagnose as eclampsia AND give magnesium to receive credit"
+  ],
+  "ICS": [
+    "Requests interpreter OR speaks fluent Spanish (verify fluency with interpreter)",
+    "Maintains eye contact with the family member while using interpreter (use n/a if no interpreter used due to Spanish fluency)",
+    "Uses only lay terminology",
+    "Speaks directly to patient avoiding third person. (use n/a if no interpreter used)",
+    "Asks questions politely and in a culturally sensitive manner",
+    "Introduces self to nurse and treats her with respect",
+    "Provides succinct, accurate presentation of case to consultant",
+    "Includes vital signs, pertinent exam findings, medications given, pertinent lab findings, and correct diagnosis to consultants",
+    "Remains professional while effectively urging the reluctant OB consultant to come down emergently",
+    "Treats nurse, consultant, family and patient with respect and provides care in a culturally appropriate manner"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_10264",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10264/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform focused history and complete undressed physical exam based on crying toddler",
+    "Order appropriate imaging",
+    "Intravenous fluid administration: Should be started after recognition of foreign body ingestion on x-ray (along with N.P.O. status)."
+  ],
+  "MK": [
+    "Recognizes esophageal foreign body on x-ray",
+    "Recognizes button battery based on x-ray findings"
+  ],
+  "SBP": [
+    "Consult appropriate service for emergent endoscopic removal",
+    "Arrive at correct disposition",
+    "The learner should not discharge the patient without ordering chest x-ray.",
+    "Delayed removal of the button battery is contraindicated.",
+    "Additionally, attempted removal of the button battery in the Emergency Department is contraindicated."
+  ],
+  "ICS": [
+    "Communication present between team members",
+    "Appropriate division of tasks"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

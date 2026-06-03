@@ -1,0 +1,42 @@
+{
+  "case_id": "mededportal_9310",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9310/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain further history",
+    "Expose patient",
+    "Apply monitor",
+    "Prepare suction apparatus",
+    "Stop GT feeds/Make NPO",
+    "Obtain labs: complete blood count (CBC), basic metabolic panel (BMP), creatinine kinase (CK), cultures, cerebrospinal fluid (CSF) studies, serum/CSF baclofen levels",
+    "Give antipyretic",
+    "Re-evaluate ABCDE",
+    "Initiate appropriate work-up and management of ITB withdrawal syndrome",
+    "Optimize access",
+    "Administer IV diazepam or administer high-dose enteral baclofen",
+    "Obtain abdominal Xray to see pump placement and tubing position",
+    "Obtain dedicated spiral CT study to evaluate baclofen pump catheter",
+    "If catheter integrity is disrupted, eventual surgical exploration and repair is warranted; contact neurosurgeon and treat patient with oral baclofen.",
+    "Assess fever and agitation",
+    "Plan initial management of baclofen withdrawal related to intrathecal baclofen pump malfunction"
+  ],
+  "MK": [
+    "Consider sepsis vs other diagnoses",
+    "Develop differential of   Increased spasticity and agitation",
+    "Recognize hypermetabolic state",
+    "Recognize possibility of baclofen withdrawal",
+    "Consider recent spinal surgery as increasing risk of pump malfunction",
+    "Rule out medical causes:   Sepsis or infectious  Meningitis  Dysautonomia  Malignant hyperthermia  Neuroleptic malignant syndrome  Other withdrawal syndromes",
+    "Develop a differential for fever and agitation that incorporates device-related diagnoses"
+  ],
+  "SBP": [
+    "Notify primary service (i.e. the service that placed the pump-in this case, pediatric neurosurgery)",
+    "Contact the patient’s ITB pump specialist to interrogate the pump and check the reservoir",
+    "If the problem is unresolved, contact the manufacturer (Medtronic 1-800-328-0810).",
+    "Call a rapid response/ code blue"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

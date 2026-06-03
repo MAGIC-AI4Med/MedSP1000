@@ -1,0 +1,44 @@
+{
+  "case_id": "mep_2374-8265.10978-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10978-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Establishes hemodynamic stability (SBP ≥ 100 mm Hg)",
+    "Confirms absence of spontaneous respirations",
+    "Recognizes hypothermia and corrects",
+    "Pre-oxygenates the patient with 100% FiO2",
+    "Checks for responsiveness to noxious stimuli at supraorbital nerve or temporomandibular joint as well as in all 4 extremities",
+    "Checks pupillary, corneal, oculocephalic, oculovestibular, gag, and cough reflexes",
+    "Confirms that patient is normocarbic prior to apnea testing (PaCO2 35-45 mm Hg)",
+    "Provides oxygen via suction catheter at level of carina at 6L/min",
+    "Disconnects ventilator",
+    "Uncovers chest and abdomen to observe for spontaneous effort",
+    "Checks ABG after 8-10 minutes of apnea"
+  ],
+  "MK": [
+    "Asks to see neuroimaging to determine if it is compatible with brain death",
+    "Excludes confounders including metabolic disturbances, medication effects"
+  ],
+  "SBP": [
+    "Declares and documents brain death at time of 2nd ABG result"
+  ],
+  "ICS": [
+    "Huddles with interprofessional team to discuss approach to family meeting",
+    "Introduce and meet all parties",
+    "Ensure that setting is appropriate (chairs in circle, quiet, etc.)",
+    "Assess family’s understanding",
+    "Give warning shot",
+    "Use the term “death”",
+    "Provides date and time of death to family",
+    "Avoid medical jargon",
+    "Avoid terminology that perpetuates view of patient as alive (i.e. “life support,” “breathing on the ventilator,” etc.)",
+    "Offer silence",
+    "Respond to motions by attempting to name and understand them",
+    "Use ask-tell-ask approach",
+    "Give short-term plan with next steps",
+    "Offer space for final questions"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10966-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10966-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Latest vitals, ask to check a new set of vitals. Ask for ECG +/- portable CXR, put in order.",
+    "Would not ask nurse too many details of the pain – you should get the history from the patient.",
+    "BP good: metoprolol or diltiazem",
+    "BP low: amiodarone, or may need cardioversion if hypotensive"
+  ],
+  "MK": [
+    "The patient is in symptomatic atrial fibrillation with RVR. Acutely, the main goal is control of the rapid rates.",
+    "We have explained the patient’s symptoms, but a question remains: why is he in AF? This is important but slightly less urgent to answer. Once you believe the patient is stable, this would be another thing you could look up online, and consider further studies such as a TSH or echo."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

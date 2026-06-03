@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_9651",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9651/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Place 2 large bore IVs",
+    "Uses pressure bags or level 1 infuser",
+    "Obtains laboratory studies a. Hemoglobin b. Type and screen to laboratory c. Coagulation studies & platelets",
+    "Requests O negative blood (female, of child bearing age)",
+    "Requests calcium or checks ionized calcium after 6 units of PRBCs",
+    "Identifies & attempts to control post-partum hemorrhage\nAdministers oxytocin\nPerforms bimanual fundal massage\nPerforms vaginal examination\nExamines for retained products of conception\nPlaces uterine hemostatic device\nConsults OB for potential surgical intervention (IR for embolization)",
+    "Identifies transfusion reaction & stops blood transfusion",
+    "Starts NS infusion after transfusion reaction (not LR or D5)",
+    "Rechecks potassium after hemolytic transfusion reaction",
+    "Starts CPR for PEA arrest",
+    "Identifies PEA arrest as secondary to hypovolemia, and continues with volume resuscitation"
+  ],
+  "MK": [],
+  "SBP": [
+    "Calls blood bank to institute massive transfusion protocol a. Discusses FFP & platelets",
+    "Asks where the newborn infant is",
+    "Informs blood bank and requests new units of O negative blood",
+    "Transfer to OR or IR with OB/Gyn"
+  ],
+  "ICS": [
+    "Talks to the patient throughout the case while she is conscious and alert, keeping her informed about the situation and plan of care, including obtaining (at least) verbal informed consent for the transfusion and other procedures"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

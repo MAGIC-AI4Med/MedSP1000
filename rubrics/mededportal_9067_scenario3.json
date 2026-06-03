@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_9067",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9067/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked about how often her son consumes fish i.e. number of meals per week or month.",
+    "Asked what types of fish consumed.",
+    "Asked what proportion of her fish meals were wild caught versus store purchased.",
+    "Asked where the wild caught fish were caught."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "States that the recommend guideline for fish consumption is two servings a week.",
+    "Cautions that fish may contain potentially dangerous contaminants and she should be cautious about how much fish her son eats and the type and location caught.",
+    "Notes fish preparation can significantly influence the amount of exposure to certain dangerous contaminants.",
+    "Cautions children are particularly susceptible to the contaminants in fish and there are more stringent recommendations for fish consumption for children.",
+    "Provides a handout or informs the patient where they can find more specific information on minimizing the risks of eating fish."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

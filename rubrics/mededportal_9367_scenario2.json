@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_9367",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9367/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Student introduced him or herself to family.",
+    "Student asked or used family member and patient name.",
+    "Student explained the purpose and goals for the meeting.",
+    "Student used questions to learn about family understanding of current issue.",
+    "Student gave an advance warning of bad news (warning shot)",
+    "Student displayed appropriate listening behaviors (i.e., no interrupting, not focused on notes, not focused on watch).",
+    "Student gave the update on patient using plain terms and no medical jargon.",
+    "Student displayed appropriate silence to let family digest information.",
+    "Student asked family if he/she could clarify and address any concerns.",
+    "Student addressed concerns and questions.",
+    "Student closed meeting by outlining next steps and anticipated care trajectory.",
+    "Student talked down to me.",
+    "I felt comfortable talking with this student.",
+    "Student maintained appropriate eye contact.",
+    "Student displayed appropriate facial expressions.",
+    "Student expressed empathy through word, expression or touch.",
+    "Student expressed understanding (e.g., rephrased answers, nods).",
+    "Student maintained an open posture and sat down.",
+    "Do you believe the student physician was able to present news with compassion in a manner so as to do no harm? YES OR NO"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Student acted bored.",
+    "Student presented him/herself in a professional manner."
+  ]
+}

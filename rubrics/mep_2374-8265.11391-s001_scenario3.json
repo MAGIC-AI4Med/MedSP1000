@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11391-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11391-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask anyone with symptoms of trauma",
+    "Discuss the management of symptoms with the knowledge about their trauma because now you can provide effective interventions."
+  ],
+  "MK": [
+    "Linking the trauma exposure to patient’s symptomatology aids in the understanding of the connection between exposure and health. “This may be contributing to why we are having such a hard time managing your symptoms.”"
+  ],
+  "SBP": [
+    "2-1-1 List/include SDOH Resources",
+    "Discuss any reporting requirements with a trauma-informed perspective",
+    "Discuss why this needs to be reported to Adult Protective Services. (Refer to your state-specific mandatory reporting requirements for healthcare providers.)",
+    "Role-play session ends when the physician provides resources and informs your father and you that the physician must report this to Adult Protective Services."
+  ],
+  "ICS": [
+    "I am sorry this happened to you.",
+    "I believe you and I can help.",
+    "Discuss the concerns that the caregiver and patient might have when you tell them you must report this to Adult Protective Services.",
+    "In a trauma-informed manner, discuss with the family what this report might mean. It is difficult to say with certainty what APS will do but let the family know that you are making the report to provide services to Mr. Grey to improve his health and well-being."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

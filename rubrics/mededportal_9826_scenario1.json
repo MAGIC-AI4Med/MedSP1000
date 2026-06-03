@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_9826",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9826/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Placement of the patient on telemetry",
+    "Placement of IV",
+    "Placement of O2",
+    "Complete history including history from the patient’s husband",
+    "Treatment of blood pressure",
+    "Administration of magnesium",
+    "Administration of benzodiazepines for magnesium-refractory seizures",
+    "Fetal evaluation"
+  ],
+  "MK": [],
+  "SBP": [
+    "Obstetrics consultation",
+    "Disposition – immediate delivery vs. ICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

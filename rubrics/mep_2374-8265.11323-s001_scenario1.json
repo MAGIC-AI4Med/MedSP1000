@@ -1,0 +1,69 @@
+{
+  "case_id": "mep_2374-8265.11323-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11323-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Location of pain.",
+    "Quality of pain/Severity of pain.",
+    "Severity of pelvic bleeding?(e.g. how man pads have I bled through/ frequency of changing pads)",
+    "About any past medical problems, and for each diagnosis:",
+    "About past hospitalizations",
+    "About any past surgery, and why I had the surgery:",
+    "Do I take any medications, and if so the dose and frequency of each medication",
+    "Do I have any allergies",
+    "What was the specific allergic reaction",
+    "Do I take any supplements and/or use any form of complementary medicine",
+    "Am I currently sexually active",
+    "Are my partners male, female, or both",
+    "Do I have vaginal sex, oral sex, and/or anal sex",
+    "Do I/does my partner use any form of contraception",
+    "Have I ever had a sexually transmitted disease, pelvic inflammatory disease or ovarian cysts.",
+    "Any history of fibroids, endometriosis or any abnomal pap smears.",
+    "Are my periods regular and how long do they last",
+    "When was my last menstrual period",
+    "Have I ever been pregnant, and if I have been pregnant: number of deliveries, about any complications related to pregnancy",
+    "If I have ever had a miscarriage and if so did it require a dilation and curettage procedure",
+    "Timing of first miscarriage (How many weeks were you pregnant before miscarrying?)",
+    "Any history of hypothyroidism and it's treatment.",
+    "Any history of anxiety and it's treatment.",
+    "Do my parents, siblings or children have any medical problems",
+    "General/systemic - Fever, chills, night sweats, any changes in weight, any changes in appetite, fatigue"
+  ],
+  "MK": [
+    "Data Interpretation: Based on what you have learned from the history and physical examination, list up to 3 diagnoses that might explain this patient's complaint(s). List your diagnoses from most likely to least likely. For some cases, fewer than 3 diagnoses will be appropriate. Then, enter the positive or negative findings from the history and the physical examination (if present) that support each diagnosis. Lastly, list initial diagnostic studies (if any) you would order for each listed diagnosis (e.g. restricted physical exam maneuvers, laboratory tests, imaging, ECG, etc.).",
+    "Incomplete miscarriage presented with cramping pelvic pain, vaginal bleeding with clots and positive urinary pregnancy test. Exam consistent with blood in the vaginal vault and open cervical os.",
+    "Ectopic pregnancy, inevitable, complete and threatened miscarriages can present with cramping pelvic pain, vaginal bleeding and a positive urinary pregnancy test. However with ectopic pregnancy, complete and threatened miscarriages on pelvic examination there may be blood in the vaginal vault, however, the cervical os is closed. The cervical os is open in an inevitable miscarriage, however, unlike an incomplete miscarriage, all conception products are seen in the uterus on sonogram.",
+    "Chromosomal abnormalities – True",
+    "Young age – False",
+    "Diabetes Mellitus – True",
+    "Fibroids – True",
+    "Reducing Alcohol Intake – True",
+    "Starting Anxiolytics – False",
+    "Gaining Weight – False",
+    "Stress reduction – True",
+    "What type of thrombophilia is most likely to be associated with recurrent pregnancy loss? Antiphospholipid Syndrome",
+    "What is the definition of Recurrent Pregnancy Loss? 2 or more miscarriages"
+  ],
+  "SBP": [
+    "HISTORY: Describe the history you just obtained from this patient. Include only information (pertinent positives and negatives) relevant to this patient's problem(s).",
+    "PHYSICAL EXAMINATION: Describe any positive and negative findings relevant to this patient's problem(s). Be careful to include ONLY thos parts of examination you performed in THIS encounter."
+  ],
+  "ICS": [
+    "Sat down.",
+    "Showed \"listening\" body language (eye contact, leaned forward, eye level).",
+    "Asked me what I knew or had been told about the exam results.",
+    "Asked me if I was ready to talk about the exam results/why I was in the office.",
+    "Used language that I could understand (i.e. avoided technical terms).",
+    "Periodically assessed my understanding of what I was being told (asked me if I understood, asked me to repeat statements).",
+    "Corrected misunderstandings/misinformation.",
+    "Gave me the opportunity to express my emotions.",
+    "Responded to me with empathy - eye contact, touched my arm, responses such as \"I wish the news were better\", or \"I can understand that you would be upset.\"",
+    "Discussed a management plan (e.g. I would need to have a D and C.)",
+    "Asked me if I had any questions."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Admitted to lack of knowledge when not equipped to answer question/did not have answer (e.g. was not able to state likelihood of futur miscarriages )."
+  ]
+}

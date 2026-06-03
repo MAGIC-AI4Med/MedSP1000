@@ -1,0 +1,58 @@
+{
+  "case_id": "mededportal_8267",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8267/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "MD Procedures: Ultrasound, IV/Central Access",
+    "Silence during paramedic report ☐MD Primary evaluates ABCs (primary survey)",
+    "ED Tech places patient on ☐BP cuff ☐pulse oximeter ☐cardiac monitor and ☐checks temperature ☐Vital Signs called out",
+    "Vital Signs repeated during case",
+    "Nurse 1 obtains IV access and ☐ sends labs ☐1000cc NS bolus ☐1000cc NS bolus ☐2 Units of Packed Red Blood Cells",
+    "Nurse 1 prepares and administers fluid or blood via rapid infuser",
+    "ECG ordered ☐ED Tech obtains ECG",
+    "Blood Glucose ordered ☐ED Tech obtains Blood Glucose",
+    "Airway Management ☐Rapid Sequence Intubation: ☐Fentanyl ☐Lidocaine ☐Etomidate ☐Succinocholine ☐Ventilate/oxygenate hypoxic patient",
+    "C-Spine immobilization maintained during intubation",
+    "Backboard removed prior to CT"
+  ],
+  "MK": [
+    "FAST obtained and interpreted",
+    "Team leader summarizes patient history, data, differentialand current situation",
+    "Avoid fixation errors",
+    "Generate new ideasand provide clarityof established ideas",
+    "Promote internal and external thinking“outside the box&quot;"
+  ],
+  "SBP": [
+    "Triage: ☐ Highest Level ☐Lower Level (dependant on hospital system)",
+    "ED Tech: Chest tube and ☐Blood Cooler",
+    "Nurse 2 documents assessment",
+    "ED Tech obtains blood cooler if ordered",
+    "Massive transfusion cooler ordered (optional, with FFP/platelets)",
+    "ED Tech obtains Massive Transfusion Cooler",
+    "Disposition: ☐OR ☐CT ☐ICU ☐Telemetry/Ward",
+    "Know when and whom to call for help",
+    "Identify the sources of help available",
+    "Ascertain the type of help needed: advice, hands on,specialized",
+    "Prepare for anticipated needs: special carts or equipment",
+    "Understand the infrastructure of the trauma bays"
+  ],
+  "ICS": [
+    "Steps back,physically and mentally, to manage the event",
+    "Sets clear goals",
+    "Organizes the team and delegates responsibility",
+    "Assume and complete assigned responsibilities",
+    "Feed back event management data",
+    "Provide task and cognitive support",
+    "Introduce themselves and address people directly",
+    "Establish communication paths",
+    "Use nonjudgmental comments",
+    "Close the loop and give feedback",
+    "Use clear and standard language"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Hand washing",
+    "Universal precautions by all team members"
+  ]
+}

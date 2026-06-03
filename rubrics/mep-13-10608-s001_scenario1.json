@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-13-10608-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10608-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assessed for military history\nMay I ask about your military experience?\nWhen/where did you serve?\nWhat did you do in the service?\nHas the military service impacted you?\nThanked veteran for service?",
+    "Assessed for prior treatment at VA/DOD hospital",
+    "Asked probing questing about sleep\nhow long have you had trouble sleeping?\nwhat type of sleep problems do you experience?",
+    "Asked about alcohol consumption\nhow many drinks per week?\nhow much is most consumed at one time?\ndoes drinking cause problems?",
+    "Assessed for symptoms of mental illness?\nAsked about current mood\nAsked about thoughts of suicide?"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Demonstrated Respect for Patient\nIntroduced self\nActive listening\nAsking questions with tact",
+    "Noticed non-verbal behavioral cues?\nShifting in the chair; Getting up from the chair and pacing; Sighing heavily; Intense eye contact or staring at the learner; Throwing arms and hands in the air with a disgusted look; Looking away from the learner (taking long periods of time looking around the room)"
+  ],
+  "PBLI": [
+    "Asked for facilitator “time –out” when stuck?"
+  ],
+  "PROF": []
+}

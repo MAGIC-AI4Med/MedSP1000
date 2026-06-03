@@ -1,0 +1,42 @@
+{
+  "case_id": "mep-12-10409-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10409-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Reviewed medication regimen",
+    "Highlight warning signs and problems (hypoglycemia or hyperglycemia symptoms)",
+    "Monitors the status of the patient"
+  ],
+  "MK": [],
+  "SBP": [
+    "Identified barriers to care",
+    "Discuss follow up appointments",
+    "Assembles a team",
+    "Assigns or identifies team members",
+    "Holds team members accountable",
+    "Identifies team goals and vision",
+    "Uses resources efficiently to maximize team performance",
+    "Balances workload within the team",
+    "Delegates tasks or assignments, as appropriate",
+    "Conducts debrief. Huddles, and debriefs",
+    "Role models teamwork behaviors",
+    "Monitors fellow team members to ensure safety and prevent errors",
+    "Monitors the environment for safety and availability of resources (e.g. equipment)",
+    "Monitors profess toward the goad and identifies changes that could alter the plan of care"
+  ],
+  "ICS": [
+    "Include patient as a full partner in the discharge process",
+    "Educate the patient in plain language about condition (no medical jargon used)",
+    "Assess patient understanding/patient teach back (asked patient to repeat back)",
+    "Provide information in small chunks and repeat key pieces of information",
+    "Includes patients and families as part of the team",
+    "Provides brief, clear, specific, and timely information to team members",
+    "Seeks information from all available sources",
+    "Uses check back to verify information that is communicated",
+    "Uses SBAR, call-outs, and handoff techniques to communicate effectively with team members",
+    "Fosters communication to ensure that team members have a shared mental model"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

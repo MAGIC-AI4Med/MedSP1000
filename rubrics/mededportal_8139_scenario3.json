@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_8139",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8139/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "where the pain was initially?",
+    "to describe the quality of the pain?",
+    "whether the pain is constant OR whether it comes and goes?",
+    "if anything makes the pain better or worse?",
+    "what color my stools were OR if my stools had blood in them OR if I had dark colored stools?",
+    "if I have had a fever or chills?",
+    "have I ever had this pain before?",
+    "washed the patient's hands BEFORE doing the PX.",
+    "was gentle during the abdominal exam.",
+    "percussed/tapped my abdomen in at least ONE place.",
+    "palpated (pressed) my abdomen ALL FOUR quadrants",
+    "listened to my lungs at least ONCE on EACH SIDE either front OR back.",
+    "asked about a rectal/pelvic exam."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Did the student introduce the patientself to me?\n[Must give last name and indicate role]",
+    "Consistently attentive to my comfort and discomfort (pain, warmth) and sought my feedback about discomfort (e.g. “Please let me know if I am pressing too hard.”)",
+    "Asked open-ended questions, let me tell my story without interrupting, and addressed all my issues without being judgmental.",
+    "Explained their thoughts about my condition or situation clearly and discussed what (s)he thinks might be causing my pain (no jargon)."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "appropriately draped me during the PX."
+  ]
+}

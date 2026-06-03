@@ -1,0 +1,36 @@
+{
+  "case_id": "mededportal_9372",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9372/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Requests updated vital signs",
+    "Performs/requests pulse exam",
+    "Listens for breath sounds",
+    "Places on telemetry",
+    "Monitors BP",
+    "Obtain baseline labs, incl troponin?",
+    "Obtain CXR",
+    "Obtain EKG",
+    "Place patient on oxygen",
+    "Give patient analgesic",
+    "Give patient NTG",
+    "Consider aspirin (order or discuss up the chain)",
+    "Re examine the patient?",
+    "Recheck vitals?"
+  ],
+  "MK": [
+    "Identifies critical diagnoses (hyperkalemia, shock, hypoxia)",
+    "Generate differential diagnosis?"
+  ],
+  "SBP": [
+    "Transfer to higher level of care"
+  ],
+  "ICS": [
+    "Communicates with other team members",
+    "Delegates tasks/requests help",
+    "Communicates with upper level resident/staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

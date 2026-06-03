@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_10166",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10166/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The student should take an initial history on Mr. Jones.",
+    "initially an EKG should be done",
+    "As a group, decide what interventions to perform: the goal is to choose the simultaneous and urgent interventions and therapies that should occur in the office setting."
+  ],
+  "MK": [],
+  "SBP": [
+    "The student will communicate information regarding Mr. Jones presenting history, pertinent previous history, PE findings, working Dx, and office based treatment to the receiving physician."
+  ],
+  "ICS": [
+    "After the Hx, PE findings, EKG findings are reviewed and discussed within the group, the student should explain to the patient that he is having a myocardial infarction (MI). In general terms the student should tell the patient his plans and come to common ground with the patient about the plans.",
+    "The student should end the encounter by telling Mr. Jones that a colleague will see him in the hospital after his procedure is completed."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

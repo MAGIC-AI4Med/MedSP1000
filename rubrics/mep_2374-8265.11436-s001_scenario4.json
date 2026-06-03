@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11436-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11436-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "As I think about the systemic ways we can make sure this never happens again, I want to make sure that you are supported. Would you like some resources?"
+  ],
+  "ICS": [
+    "Who: Use the power map to determine who to debrief with; understand your station in the learner’s support network",
+    "When: Ideally as time-sensitive as possible",
+    "Where: Ideally an in-person face-to-face conversation",
+    "I’m really sorry that you went through that experience. Would you like to debrief with me?",
+    "I appreciate you sharing with me. Would you like to tell me more?",
+    "I want to acknowledge the harm that has just occurred.",
+    "I can see how those words and actions were hurtful.",
+    "What would be helpful to you right now?",
+    "How can I support you?",
+    "What do you need right now?",
+    "I want to prioritize you and your self-care right now. How can we do that?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "I am committed to creating a safer culture here. I will be _____, and is it okay if I check in with you to see how you’re doing in _____?"
+  ]
+}

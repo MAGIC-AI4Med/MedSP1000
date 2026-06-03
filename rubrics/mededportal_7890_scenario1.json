@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_7890",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7890/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Needs complete developmental history: what can the patient do in the mom's own words. Also needs when they started doing these things. In this patient, there isn't a lot, she's only 3mo.",
+    "Needs complete description of social situation. Who lives in the home? Who cares for the baby ever? If mom is alone, it is appropriate to screen for DV no matter what. Must inquire about where dad is, if he is involved at all. If discovers the jail history, needs to follow up with why he is in jail. Needs to know where the baby sleeps and the position she usually sleeps in. Needs to ask smoking history. Should ask relevant history in boyfriend (does he have kids, does he see his kids, looking for prior DCS history or DV history with him).",
+    "Needs chronological history of events leading up to the findings. When was the last time you saw the child completely, totally fine with no evidence of injury? Then what happened all the way through until the injuries are found. What have you been told by caregivers that could explain the injuries? What do you think about this explanation? Have you had concerns before?",
+    "In ROS, need to clearly establish if there is any history of bruising, bleeding, unexplained injuries prior to this. Need to specifically address whether the baby has been eating, sleeping, interacting normally. Is there any history of vomiting, lethargy, irritability?",
+    "Needs family history looking specifically for bruising, bleeding issues which includes asking menstrual history of mom and delivery history (hemorrhages)."
+  ],
+  "MK": [],
+  "SBP": [
+    "What to include in your report:\n\n- Name, address, and telephone number of parent or guardian\n- Age of child\n- Exact description of what you saw or what the child said to you\n- Photographs - at least two photos of each injury (close up and overview) - consent not necessary in child maltreatment cases"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,51 @@
+{
+  "case_id": "mededportal_9921",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9921/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked about breast or bottle feeding",
+    "Asked about feeding pattern (frequency, duration)",
+    "Asked about voiding pattern (wet diapers)",
+    "Asked about stooling pattern (dirty diapers)",
+    "Asked about change in jaundice (better or worse) since discharge",
+    "Asked about changes in activity level or behavior",
+    "Asked about other / associated symptoms (fever, vomiting, spit-ups, rash, cough, runny nose) \u2013 minimum 1",
+    "Determined that current weight is below birth weight, and relayed this information to the caregiver",
+    "Asked about prematurity / gestational age (was the baby term or \u201con time\u201d)",
+    "Asked about maternal infections (or infections during pregnancy)",
+    "Asked about maternal blood type",
+    "Determined that 2 siblings had jaundice / required phototherapy as infants",
+    "Asked about family medical history",
+    "Asked about any medications being given to Aaron",
+    "Asked about social history (who lives at home, employment, smokers)-minimum 1"
+  ],
+  "MK": [
+    "Name threepotential causes of **this** neonate\u2019s jaundice:",
+    "What **one** laboratory study would be **most** helpful in evaluating Aaron\u2019s jaundice?",
+    "Based on the bilirubin risk assessment algorithm, what is Aaron\u2019s risk level for hyperbilirubinemia?",
+    "Based on the phototherapy chart, at what level (in mg/dL) should phototherapy be initiated for Aaron?",
+    "What is the most concerning possible complication if Aaron\u2019s hyperbilirubinemia continues to increase?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Asked about my concerns",
+    "Addressed my question about breastfeeding causing jaundice",
+    "Told me a blood test would be necessary to determine whether the bilirubin is too high",
+    "Explained to me that the treatment plan is not yet known / would be determined based on the results of the blood test (bilirubin level)",
+    "Addressed the my affect / fatigue",
+    "Introduced him/herself and his/her role",
+    "Seemed to care about me and my baby",
+    "Listened carefully to me",
+    "Had good eye contact",
+    "Did not rush or interrupt my answers",
+    "Expressed support, encouragement, and/or empathy",
+    "Used open-ended questions",
+    "Had an organized approach",
+    "Closed the encounter by confirming my comfort with the plan / asking me if I had further questions"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Treated me with respect"
+  ]
+}

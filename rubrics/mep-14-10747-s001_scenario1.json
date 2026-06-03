@@ -1,0 +1,41 @@
+{
+  "case_id": "mep-14-10747-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10747-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Washes hands with soap and water or hand sanitizer",
+    "Positions patient appropriately Supine or lateral decubitus, head of bed elevated",
+    "Inspects abdominal wall Notes location of scars, cellulitis, and collateral veins",
+    "Percusses the abdomen Notes tympany vs dullness",
+    "Palpates the abdomen and selects site Palpates and notes lateral border of rectus and chooses site 2 fingerbreadths superior and 2 fingerbreadths medial to anterior iliac spine Unless contraindicated, chooses LLQ.",
+    "Confirms appropriateness of site using ultrasound Uses low frequency probe to confirm: Presence of ascites Lack of nearby bowel",
+    "Marks site with needle cap or sterile marker",
+    "Washes hands again with soap and water",
+    "Puts on cap and mask, and then sterile gloves Optional: Applies sterile or non-sterile gown",
+    "Cleans area with sterilizing solution (chlorhexidine/betadine) Must dispose of swab appropriately without contaminating sterile environment",
+    "Drapes the area",
+    "Sets up the kit (Yueh catheter) Appropriately draws lidocaine and ensures no air in syringe Attaches Yueh catheter or paracentesis needle to 35 CC syringe Has assistant confirm proper tubing set up",
+    "Uses lidocaine to anesthetize the skin (wheal) Uses smaller bore needle Constantly aspirates before injecting",
+    "Anesthetizes deeper If no peritoneal fluid obtained from initial anesthetic, switches to larger bore needle to anesthetize the peritoneum",
+    "Using the Yueh catheter/needle complex enters the skin while aspirating",
+    "Continues advancing the catheter/needle complex while aspirating until peritoneal fluid is aspirated Stops advancing the needle once peritoneal fluid is obtained Pulls off enough fluid for diagnostic studies",
+    "Advances the catheter over the needle until it is flush with the skin and withdraws the needle syringe unit",
+    "Maintains sterile technique Does not contaminate sterile field with unsterile equipment Keeps gloved hands sterile up until tubing is accessed",
+    "Connects the tubing to a 1 liter vacuum container or the vacuum apparatus connected to low wall suction",
+    "Withdraws catheter when drainage stops",
+    "Places dressing",
+    "Positions the patient with area up",
+    "Send fluid for diagnostic studies Always sends for cell count"
+  ],
+  "MK": [],
+  "SBP": [
+    "Calls “time out” Confirms patient ID, procedure, and site by all members of team doing procedure and no allergy to local anesthetic",
+    "Cleans up Caps needles by sliding needle into cap on table using one hand, secures cap in place only once sure it is over the needle or Directly disposes of uncapped needles in sharps container"
+  ],
+  "ICS": [
+    "Obtains informed consent Appropriately names risks (ex: infection, bleeding, abdominal organ puncture, death) and benefits: (ex: diagnosis and/or therapeutic relief)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

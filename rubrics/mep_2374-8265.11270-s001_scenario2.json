@@ -1,0 +1,37 @@
+{
+  "case_id": "mep_2374-8265.11270-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11270-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Educational history (psycho-educational testing in school, past or present IEP, grade retentions, attendance)",
+    "ADHD symptoms (parent interview, SNAP)",
+    "Developmental history (language, early schooling and learning)",
+    "Home environment (structure of homework time, bedtime, recent stressors)",
+    "Recent changes (any recent external changes before this started)",
+    "Family history: LD, ADHD, parents’ education",
+    "History of bullying",
+    "Prior IEP (Individualized education program) evaluation and services like speech therapy in school.",
+    "Collateral from school: report card, SNAP/Vanderbilt (teacher)",
+    "Rule out hearing or vision impairment",
+    "What interventions have been effective or ineffective?"
+  ],
+  "MK": [
+    "Learning Disorder (LD) – Reading"
+  ],
+  "SBP": [
+    "Assist parent in drafting letter requesting psychoeducational testing through the Committee for Special Education (CSE)",
+    "Write letter of support for CSE testing which parent can submit with the parent letter",
+    "F/U within 6 weeks + SW referral for families that may need additional support",
+    "Bring the letter requesting a CSE evaluation in person to the school",
+    "Encourage parent to get receipt from school when submitting letter to school",
+    "Follow-up on the request if you have not received information within one month"
+  ],
+  "ICS": [
+    "Educate parents on their role in advocating for their child, LD, educational rights",
+    "We can support you, but parents are the best advocates for their children",
+    "While awaiting the evaluation, encourage and help your child with his or her work but try to minimize the frustration and conflict at home"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

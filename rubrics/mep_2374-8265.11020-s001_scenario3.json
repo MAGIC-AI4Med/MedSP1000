@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11020-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11020-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "1. Suction airway 2. Calculate fluids 3. Set up and administer fluids using equipment in crash cart",
+    "First Person: Enters the room, checks for responsiveness, sees difficulty breathing, cyanosis, and hypoxia.",
+    "Expected Actions:\nSecond responder enters and gets gloves as the First Person conducts rapid assessment of perfusion, respiratory examination including airway, breath sounds, and pulse oximeter reading.",
+    "Both responders should help get oxygen applied to the patient, ideally nasal cannula, and then prepare to suction with a catheter.",
+    "Administer bolus 20mL/kg of Normal Saline (NS) or Lactated Ringers (LR) via push-pull method."
+  ],
+  "MK": [],
+  "SBP": [
+    "“Patient is in distress. I need help!” pushes code button and then gets gloves."
+  ],
+  "ICS": [
+    "“She has a pulse, has secretions in her airway, and is breathing adequately.”",
+    "After suctioning and oxygen, team leader should share partial mental model recognizing tachycardia and compensated shock.",
+    "Team Leader: Share Mental Model (three problems: hypoxia, airway clearance, compensated shock now improving)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

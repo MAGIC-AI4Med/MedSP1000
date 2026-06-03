@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-14-10762-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10762-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Monitor airway and intervene with airway maneuver.",
+    "Apply oxygen.",
+    "Administer benzodiazepine medication (PR, IN) in setting of seizure >3 minutes.",
+    "Place patient on SpO2 monitor.",
+    "Rapid bedside testing for point-of-care glucose *(if available).*"
+  ],
+  "MK": [
+    "Recognize respiratory distress and seizure."
+  ],
+  "SBP": [
+    "Call medics (911) immediately upon recognizing decompensating patient."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

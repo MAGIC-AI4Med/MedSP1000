@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10015",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10015/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "**Needs Work for Level:** Interrupts patients/family, does not use silence, gives too much information, is falsely reassuring, becomes defensive",
+    "**Adequate for Level:** Listened carefully and used silence, avoided false reassurance, didn’t give too much information without permission, uses some NURSE (naming, understanding, emotions)",
+    "**Proficient:** Listens, Responds to emotion (names, understands, responds, supports and explores emotion) uses silence, warning shots and body language effectively; Avoided false reassurance, paces conversation well, asked permission before providing information",
+    "***Positive Response:*** Student will listen, explore and respect the family’s relative and his opinion, name emotions of confusion and frustration, restate what she said, then ask if he/she can tell the patient what he/she thinks/recommend.",
+    "**Negative:** Student will disregard fears, be defensive, blame others, disallow any family input.",
+    "***Positive response (PR):*** Use ask-tell-ask to start the conversation since the resident does not know what the patient’s family has already been told. Name the patients emotions (confusion, frustration) respond with empathy statements. Summarize what the family member has said.",
+    "***Negative response (NR):*** Student will focus only on patient, be over authoritative, or lacking empathy."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

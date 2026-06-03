@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_9168_1",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9168_1/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Allows colleague to express self\n(does not interrupt, expresses interest in hearing more, asks how pt/parent feels)",
+    "Communicates in non-judgmental fashion\n(no leading questions, is respectful and courteous, no patronizing or arrogant comments)",
+    "Makes empathic and supportive statements\n(expresses concern, acknowledges emotional content and/or coping efforts)",
+    "Uses language appropriate to situation\n(using terms that are unambiguous but not offensive)",
+    "Uses non-verbal behavior that is facilitative & culturally appropriate\n(appropriate distance, tone of voice, attentive posture, gestures & verbal message match)",
+    "Proceeds in organized fashion\n(clear beginning, middle & end, moved through encounter in efficient manner)",
+    "Clearly state your concerns\n(Your behavior was not appropriate)",
+    "Be specific about the behavior - not the person\n(e.g.  \"your comments were impatient\" vs. \"you were terrible\")",
+    "Elicit self assessment\n(What did you think of your behavior?)",
+    "Acknowledge resident stress\n(I know there's too much work to do)",
+    "Remain neutral  in face of anger\n(Doesn't get angry at resident)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Explain your rationale\n(The behavior of one person represents the whole medical center / profession. We need to work together as a team. The patient is the priority)"
+  ]
+}

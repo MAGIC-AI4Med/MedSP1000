@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-15-10818-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10818-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Based on this information, is this patient eligible for PrEP?\n\n*Injection drug users are a population of patients indicated for PrEP as they are at high risk for HIV. The case does mention that KJ is ill-appearing so it will be necessary to run labs to test kidney function and overall health, including an HIV test. Her illness may be signs of an acute HIV-infection in which she would not be a candidate for PrEP.*",
+    "What red flags in the social history may interfere with PrEP therapy effectiveness?\n\n*The complex social situation of this patient poses barriers to adherence to PrEP, which will in turn reduce effectiveness. KJ’s instable housing and drug use pose significant potential areas of concern regarding her ability to not only access PrEP, but also to remain on therapy. Given her reliance on transactional sex, her partners may also express concern or become violent if they notice she is taking PrEP, which can put her in danger. Finally, all of the above may also interfere with follow-up care for maintaining PrEP prescription, safely.*"
+  ],
+  "SBP": [
+    "What other resources can be offered to this patient, including to help her access and afford PrEP if needed?\n\n*Based on the state KJ lives in, there may be assistance programs for her through a local or state department of health. These agencies may also be able to enroll KJ in Medicaid to get her access to other health services and preventative care. KJ should also be referred to housing services, as having safe and stable housing will be a major influence on her ability to adhere to all her medical and social care, including PrEP.*"
+  ],
+  "ICS": [
+    "What can healthcare providers do to help KJ gain control of her situation, and how is provision of PrEP related to the patient-physician relationship?\n\n*The social reality of this patient is complex and is exerting obvious negative pressure on her health status. Referral to drug rehabilitation programs is one option, provided KJ is amenable to the idea. Through a primary care provider beginning conversation about PrEP, the door to conversation about other preventative services is opened. Talking about PrEP with a patient is one method of opening a conversation about difficult healthcare subjects, and to build trust in the provider-patient relationship.*"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

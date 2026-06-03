@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11402-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11402-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the doctor explore Mr. Lewis’s living situation and its impact on his health? (Consider where the patient is sleeping, how the patient is able to get to the grocery store given that he can no longer drive, food preparation, his role as care-giver to his wife)",
+    "Did the doctor explore Mr. Lewis’s economic situation and its impact on his health? (Consider food choice, ability to pay for home health aids, financial support patient is providing to his son and his son’s family)",
+    "Did the doctor explore the family’s neighborhood environment and its impact on Mr. Lewis’s health? (Consider accessibility of public transportation, community resources)"
+  ],
+  "MK": [
+    "Consider speech and swallow tests in patients post CVA (medical knowledge)"
+  ],
+  "SBP": [
+    "Inquire about living situation before discharge post CVA",
+    "Inquire about caretakers and asses for services prior to discharge post CVA"
+  ],
+  "ICS": [
+    "Did the doctor express empathy to the patient? (Consider reflection, legitimation, and exploration)",
+    "Did the doctor express partnership and/or support?",
+    "Did the doctor use open-ended questions?",
+    "Did the doctor explore issues of health information fluency? (Consider Mr. Lewis’s understanding of his pureed diet, or wound care recommendations)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

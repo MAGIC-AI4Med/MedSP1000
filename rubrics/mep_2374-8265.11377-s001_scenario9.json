@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11377-s001",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11377-s001/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "Le recomiendo unejercicode respiracion muyefectivo:\nCuente hasta cuatro(uno,dos,tres,cuatro) mientras respira para llenar los pulmones de aire. 2.Cuente hasta siete mientras aquanta la respiracion.\n3．Cuente hasta ocho mientras saca elaire.",
+    "Algunas veces se recetan pastillas para controlar la ansiedad, pero no siempre se recomiendan. Su médico debe hablar con usted sobre los beneficios y riesgos de los medicamentos."
+  ],
+  "MK": [
+    "Usted sufrio un ataque de panico,tambien llamado atague de ansiedad o de nervios. Las personas que sufren un atague de este tipo pueden sentir doloropresionenelpecho,faltadeaire, respiraciones rapidas,taguicardia oel corazon acelerado,mareos,nauseas ymiedo que vana morir. Los ataques de panico pueden causar mucha angustia.Es comun que los atagues ocurran cuando usted esta relajadoodescansando",
+    "Eldiagnosticodeunataque depanicosehace despues de:\nEs c u c h a r s u s s ínto m a s $\\nparallel$ s u h i sto ri a l m é d i c o H a c e r u n exa m e n fís i c o A ve c e s s e h a c e n otr a s p r u e b a s c o m o a n á l i s i s d e s a n g r e o un electrocardiograma,pero no siempre serecomiendan.",
+    "Los ataques de panico son comunes. Pueden afectar su calidad de vida. Es importante identificar si los atagues son parte de un diagnostico de ansiedad o depresion. Tambien es itil identificar si hay una situacion que esté provocando estrés."
+  ],
+  "SBP": [
+    "Tambien le voya referir a un especialista,un psicologo,que le puede recomendar otras estrategias.",
+    "Los ataques de panico pueden ocurrir mas de una vez.Si vuelve a ocurir,debe usar la estrategia derespiracion que practicamos hoy.Pero hayalgunos sintomas dealarma que indicanque usteddeberegresaral hospital",
+    "POSIBLES SINTOMAS DE ALARMA:\nDolor de pecho diferente o que no\nmejora\nDi!cultad para respirar\nConfusión o pérdida de conocimiento\nPensamientos de suicidio o de\nlastimarse"
+  ],
+  "ICS": [
+    "The student provides a clear definition or explanation of the term.",
+    "The student provides a word/phrase synonym in plain language.",
+    "The student provides sufficient context for the term during the encounter/transcript that the meaning of the term becomes clear."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

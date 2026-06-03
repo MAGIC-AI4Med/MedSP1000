@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.11360-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11360-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Redirect Change the subject or shift attention away from the target.",
+    "Uplift Elevate the target by countering the microaggression with affirmation， 'You are partnered with an amazing provider and are so fortunate to have them taking care of you.'",
+    "Besting [39] Use affirming counter-narratives to oppose microaggressions. 'Historically Black Colleges and Universities (HBCUs) matriculate the highest percentage of Black dpctors.",
+    "Reflect Back 1 heard you say __, can you explain what you mean by_",
+    "Communicate Impact 'Using words like___ makes me feel uncomfortable.'",
+    "Raise Awareness 1 believe a more inclusive term is__.'",
+    "Check-ln (with the person who commited a microaggression): 1've been reflecting on the conversation from our team meeting yesterday. Can we find some time to check-in?'"
+  ],
+  "PBLI": [
+    "Reflect on the impact of not addressing the microaggression (the target, actor, witnesses, and self)"
+  ],
+  "PROF": []
+}

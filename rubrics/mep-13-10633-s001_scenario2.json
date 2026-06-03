@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-13-10633-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10633-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Device A-\u2191 AHI with obstructive events.\nBONUS: This patient needs a higher EPAP.",
+    "For optimal results, patients should use the device the entire time they are sleeping."
+  ],
+  "MK": [
+    "Two questions should arise when evaluating a patient on a PAP device:\nWhat am I treating? diagnosis\nHow is it working? Settings and efficacy",
+    "When approaching a patient, I think about:\nSettings: Are they correct? Are they appropriate?\nAre there any problems/complications limiting efficacy?\nCompliance: is the patient using it? \u22654hr per night recommended if symptomatic, ideally all night long\nMask issues (old, poor fit, claustrophobia)\nEmergence of central apneas\nPAP machines use sophisticated algorithms to provide specific target pressures and then evaluate their efficacy as well as common hindrances to therapeutic delivery of pressure.",
+    "Typical measures provided on almost all current device downloads are:\nSettings: are they correct?\nSettings: are they adequate?\nIs the patient using the device\nMask leak\nPressures actually delivered\nApnea Hypopnea Index (AHI)\nBilevel devices can also *estimate* minute ventilation and RR, though they can\u2019t tell you if that is actually sufficient for your particular patient.",
+    "**AHI Goal with therapy is <=5 events/hr [normal range]**"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

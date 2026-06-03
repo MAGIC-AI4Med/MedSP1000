@@ -1,0 +1,24 @@
+{
+  "case_id": "mep-12-10407-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10407-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Learner should check for pulse (present) Learner should examine patient",
+    "Appropriate treatment of pulselessventricular tachycardia (initially with CPRuntil defibrillator arives)",
+    "defibrillate with 2 Joules/kg Learner asks for repeat defibrillation after 2 minutes of CPR at 4 Joules/kg",
+    "Learner asks for epinephrine to be given and asks nurse to prepare amiodarone or lidocaine",
+    "Learner should ask nurse to administer 5mg/kg bolus of amiodarone or 1mg/kg of lidocaine Learner should discuss reversible causes for ventricular tachycardia Learner should defibrillate with 4 Joules/kg of energy"
+  ],
+  "MK": [
+    "Learner should verbalize that these are PVCs and we should obtain an EKG and basic laboratory values including electrolytes",
+    "Learner should check for a pulse (absent) and identify pulseless ventricular tachycardia",
+    "Discussed differential diagnosis forpulseless ventricular tachycardia in apediatric heart transplant patient"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Formation of a team"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

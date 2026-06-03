@@ -1,0 +1,39 @@
+{
+  "case_id": "mededportal_9218",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9218/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Number of sexual partners:\n\n2\n3\n4   \n5   \n6   \nDid not ask",
+    "Unprotected sex?\n\nYes   \nNo   \nDid not ask",
+    "Immunosuppression?\n\nYes   \nNo   \nDid not ask",
+    "Age first coitus? Junior high High school College Did not ask",
+    "h/o STD ? Yes No Did not ask",
+    "Cigarette smoking?\n\nYes   \nNo   \nDid not ask",
+    "Are you sexually active?",
+    "When was your first sexual contact?",
+    "What type of contact have you had? Any question about the type of sex?",
+    "Do you use condoms/latex dams when having sex?",
+    "Did you notice any sores or rashes on your partner(s)?",
+    "Have you ever had or been tested for any sexually transmitted disease?",
+    "When was your last pap smear?",
+    "Would you like to be tested today?"
+  ],
+  "MK": [
+    "Which of the following counseling options was most pertinent to Ms Bonder’s care?\n\na. Discussed contraceptive choices, risks, and benefits b. Discussed importance of healthy diet with adequate calcium uptake c. The patient should have a screening mammogram this year. d. Patient is age-appropriate for Gardasil and was counseled",
+    "Based on her sexual history, which of the following safe-sex practices should Ms. Bonder be counseled for? Check all that apply?\n\na. Oral Sex   \nb. Vaginal Sex   \nc. Anal Sex   \nd. Appropriate handling of sexual aids.   \ne. She does not need further counseling at this time",
+    "Assume that today’s Pap is normal. How often should Amy get a Pap smear?\n\na. Once per year   \nb. Once every 2-3 years   \nc. She does not need additional Pap smears, since she is age 40 and has had no abnormal results.   \nd. She does not need additional Pap smears, based upon her relationship status.",
+    "Of the options below, which would be the best choice to reassure Amy that she is unlikely to suffer the effects of cervical cancer that her mom has endured?\n\na. Cervical cancer is not genetic so she has nothing to worry about.   \nb. If she maintains appropriate screening, we would expect to detect any potential cancer at an earlier stage than her mother’s and thus the treatment would have less morbidity.   \nc. She should quit smoking which would reduce her risk of cervical cancer and be good for her overall health anyway."
+  ],
+  "SBP": [],
+  "ICS": [
+    "The student told me that I should use barriers methods (due to STDs O O being sexually transmitted)",
+    "If counseled, which of the following were mentioned: O O\n\n• Use of condoms only (assumed heterosexual) O O • Dental dams and condoms (barrier methods discussed) O O • Discussed barrier methods with sexual aids O O",
+    "When introduced by me or the student, the student either told me I was out O O of the age range for Guardasil.",
+    "Did you ever feel uncomfortable during the course of the encounter? O O If yes, please comment. Please describe when this occurred, what specific behavior led to this feeling, and how you felt"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did the student ever appear uncomfortable during the course of the encounter?\n\nIf yes, please comment. Please describe when this occurred, what specific behavior led to this feeling, and how you felt"
+  ]
+}

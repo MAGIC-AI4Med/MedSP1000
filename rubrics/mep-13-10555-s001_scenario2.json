@@ -1,0 +1,49 @@
+{
+  "case_id": "mep-13-10555-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10555-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "| Open Airway  Assess Patency | * Not Done | * > 30 seconds | * Opens Airway * Recognizes child is vocalizing * < 30 seconds |",
+    "| Assess Breathing | * Not Done | * > 30 seconds * Auscultation only, no recognition of decreased effort | * < 30 seconds, auscultation, tachypnea, and WOB |",
+    "| Oxygen | * Not Done | * Nasal Cannula or facemask | * 100% oxygen * via BVM or ETT |",
+    "| Monitors | * Not Done | * > 60 seconds * Pulse oximetry or cardiac monitors in place | * < 60 seconds * Pulse oximetry and cardiac monitor in place |",
+    "| Pulse Check | * Not Done | * > 30 seconds | * < 30 seconds |",
+    "| Blood Pressure | * Not Done | * >120 seconds | * <120 seconds |",
+    "| IV/IO | * Not Done | * PIV or IO placed in >120 seconds | * PIV or IO placed in < 120 seconds |",
+    "| Fluid Bolus  (Shock or Tachydysrhythmia) | * Not Done | * Wrong fluid ordered * Wrong amount | * 20 mL/kg isotonic fluid bolus ordered |",
+    "| CPR  (Asystole or Respiratory Arrest | * Not Done | * > 30 seconds after pulselessness * Poor technique | * <30 seconds after pulselessness * Good technique |",
+    "| Effective Ventilation | * Not Done | * > 30 seconds after apnea occurs * Wrong rate | * < 30 seconds after apnea * Proper rate |",
+    "| CPR | * Not Done | * > 30 seconds after pulselessness * Poor technique (improper rate or depth) | * <30 seconds after pulselessness * Good technique (proper rate and depth) |",
+    "| Epinephrine | * Not given | * Incorrect dose * >30 seconds after asystole recognized * Suboptimal route | * Correct dose * < 30 seconds after asystole * Correct route (IV/IO) |",
+    "| Pulse Check | * Not Done | * > 60 seconds after change in status | * < 60 seconds after change in status |",
+    "Resident should respond with cardioversion, if they do not perform cardioversion (25-50 joules) within 2 minutes should deteriorate to pulseless VFIB",
+    "With the onset of VFIB the resident should start CPR immediately including BVM and adequate chest compressions.",
+    "Should cardiovert with 25-50 joules. Within 2 minutes or pt deteriorates to PEA",
+    "Once the patient is in PEA the resident should continue BVM, potentially consider intubation, they should continue chest compressions and ask for a code dose of epi within 2 minutes of developing PEA, if epi dose is given within 2 minutes of PEA the patient will recover and be in sinus rhythm, HR 170 BP 90/40 resident should then check pulse and proceed with intubation",
+    "Resident must ask for appropriate ETT size, blade and intubation medications, verify tube placement with ETCO2, auscultate breath sounds and order chest x-ray."
+  ],
+  "MK": [
+    "| Rhythm identification | * Not Done | * Does not verbalize rhythm, but demonstrates awareness | * Verbalizes correct rhythm |"
+  ],
+  "SBP": [
+    "| Transfer Request | * Not Done | * Vague or poorly worded request | * Clear and complete |"
+  ],
+  "ICS": [
+    "| Identify Yourself | * Not Done | * Partial or Poor Identification | * Well identified |",
+    "| Identify Patient | * Not Done | * Partial of Poor Identification | * Well identified |",
+    "| Describe why calling | * Not Done | * Vague or poor description | * Clear statement |",
+    "| Patient’s Presenting Complaint | * Not Done | * Vague or poor description | * Clear and complete |",
+    "| Relevant PMH | * Not Done | * Vague or poor description | * Clear and complete |",
+    "| Brief code summary | * Not Done | * Vague or poor description | * Clear and complete |",
+    "| Current Condition of Patient | * Not Done | * Vague or poor description | * Clear and complete |",
+    "| Current Therapies | * Not Done | * Vague or poor description | * Clear and complete |",
+    "| Leader initiated response | * Not Done | * Others started and then assumed role | * Initiated Response |",
+    "| Asked for team input | * Not Done | * Asked but did not recognize input | * Asked for input and acknowledged |",
+    "| Orders stated clearly | * Not Done | * Orders unclear | * Clear |",
+    "| Person receiving orders clearly identified | * Not Done | * Personnel identification unclear | * Clear personnel identification |",
+    "| Readback | * Not Done | * Readback done with prompting | * Readback performed |"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

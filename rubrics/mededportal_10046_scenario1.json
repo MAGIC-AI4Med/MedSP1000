@@ -1,0 +1,39 @@
+{
+  "case_id": "mededportal_10046",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10046/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "| How is your sleep?  *I’ve been having trouble sleeping for about one week.*  How many hours do you actually sleep?  *Only 2-3 hours and I’m ready to start my day.* |",
+    "| **Tell me about your mood.**  *I feel very “up”. I feel wonderful.* |",
+    "| **Do you have any talents of abilities? Are you gifted?**  *I’ve thought about writing a book about my life. I think it would be a best seller.* |",
+    "| **Has your mood been irritable?**  *Any little thing makes me angry. I threw the vacuum cleaner across the living room because my kids had not done their chores.* |",
+    "| Has this happened before?  I*’ve felt like this many times before. It lasts until I come crashing down into a depression.* |",
+    "| How do you feel when you “crash”? Tell me more about the times when you “crash”?  *When I crash I have crying spells, I don’t get out of bed, I don’t eat, and I’m not motivated to do anything.* |",
+    "| How long do the high mood periods last?  *When I’m like this it can last for 3-4 weeks.* |",
+    "| How long are the periods when you “crash” or feel depressed?  *When I’m depressed it usually lasts up to 2 weeks.* |",
+    "| **Have you been speaking faster than usual?**  *My spouse tells me I talk too fast, that I should slow down. I sometimes tell him that he listens too slowly.* |",
+    "| **Can you focus or pay attention to things?**  *I am easily distracted.* |",
+    "| **Do you have a lot of thoughts coming to you at once? Or any racing thoughts?**  *I have lots of thoughts going on in my head at the same time. The thoughts are very fast. Like “rapid fire”.* |",
+    "| **Tell me about your energy level.**  *I have numerous projects that I am working on right now. I have been doing a lot of cleaning and moving furniture around at home.* |",
+    "| Have you done anything that is out of the ordinary? Like spending a lot of money? Or impulsive behaviors?  *I’ve done some things I probably shouldn’t have done, but who cares? I went shopping yesterday and maxed out the credit card. I went and bought a new car.* |",
+    "| **When you are depressed, do you ever have suicide thoughts?**  *I thought of hurting myself.* |",
+    "| Have you ever done anything to hurt yourself? Tried to attempt suicide?  I’ve never done anything to hurt myself. I just think about it every time I get like this. |",
+    "| **Have you made plans to hurt yourself?**  *I have never made a plan of suicide.* |",
+    "| Do you have any guns or other weapons at home?  *We do not have any weapons at home.* |",
+    "| **Have you thought of harming someone else?**  *I have never thought of hurting anybody else.* |",
+    "| How did your mother die?  *My mother committed suicide.* |",
+    "| Do you drink alcohol? Are you a drinker?  *I have been drinking more wine lately. Maybe 3-4 glasses of wine every night.* |",
+    "| How about drugs? Have you ever used street drugs or taken prescription drugs to get high?  *I have never used drugs.* |",
+    "| Do you have any medical problems?  *I have diabetes.* |",
+    "| Do you take any medication on a regular basis? Do you take any medication for diabetes?  *I take Metformin* |"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "**If identified as a communication case:** The student must remain focused on obtaining vital information including performing a suicide risk assessment in a patient who has fast and pressured speech and has flight or ideas. Eliciting this information in a 15 min interview represents a challenge.",
+    "| Sorry to hear about your mother. That must have been tough. Any other family members with mental illness?  *My brother has bipolar disorder.* |"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

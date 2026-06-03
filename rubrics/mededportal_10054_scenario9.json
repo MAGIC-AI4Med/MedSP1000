@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_10054",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10054/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "Residents will be expected to inquire about the following:\nHPI\nPMHx\nMedications\nAllergies\nVital Signs\nHeight and Weight\nAirway Status\nIV Access / Invasive Lines\nCervical stability\nLabs\nT&S / Blood availability\nFoley catheter"
+  ],
+  "MK": [],
+  "SBP": [
+    "Mobilize staff to discuss patient needs o Huddle other participants and develop a plan to mobilize essential personnel:\nOR Secretary\nBack Up Anesthesia Residents and Attendings\nAnesthesia Tech\nNursing\nOrderly\nSurgeon\nConsultants (if indicated)",
+    "Time To Mobilize Staff To Discuss Patient Needs: Seconds",
+    "Anesthesia - Workstation Setup o Basic setup o Infusion pumps and vasopressors o IV, arterial and central line setup o Sterile gowns, gloves o F/U blood product availability",
+    "Anesthesia Techs\no Hot line\no Level 1\no Transducers\no Arterial line\no Central line / Cordis / Swan Ganz\no Doppler ultrasound\no Difficult airway cart\no I-STAT with appropriate cartridges",
+    "Nursing\no Blood ordering (T&S/Cross or Uncrossmatched blood)\no Surgical airway equipment\no Antibiotics\no Cell Saver\no Bariatric bed\no Room temperature\no Special instruction (i.e. CPB if penetrating cardiac injury)",
+    "Surgeon\no Surgical airway on standby\no Cardiac surgeon on standby if suspected penetrating cardiac injury"
+  ],
+  "ICS": [
+    "Team Leader Identified: ___Yes ___No",
+    "Back Up Assistants Identified: __Yes ___No",
+    "Designate specific tasks to each team member using closed loop communication o OR Secretary o Page requested personnel and communicate instruction orders o Orderlies o Provide transport assistance o Retrieve blood products from Blood Bank"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

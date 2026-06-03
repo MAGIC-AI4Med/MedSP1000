@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-14-10764-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10764-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Explains how to obtain an IEP and the expected timeline of events"
+  ],
+  "ICS": [
+    "Uses patient-friendly language",
+    "Explains what an IEP is",
+    "Gives examples of things that an IEP can offer that may help this patient"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

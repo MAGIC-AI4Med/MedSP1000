@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11400-s001",
+  "scenario": "scenario15",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11400-s001/scenario15",
+  "rubric_version": "v1",
+  "PC": [
+    "Double check what parenting changes have been made and how they are working",
+    "Gauge how impairing the persistent hyperactive behaviors are. Answer: mom reports they are quite impairing, not allowing him to participate fully in class activities, causing significant stress at home",
+    "Offer a trial of medication.",
+    "Start at lowest dose since probably metabolized slower, increase only in small increments",
+    "Assess sleep hygiene\nBedtime routine – consistency, timing, activities\nLimiting screen time before bedtime for at least 1 hour\nPhysical activity during the daytime\nAny possible sleep associations? A sleep association is something the child needs to go to sleep (e.g., a blanket or stuffed animal), but if it is not present when they wake up overnight, they will have problems going back to sleep. A blanket is not problematic in this regard, but if a parent is laying down with them to fall asleep, for example, it will be hard for them to fall asleep alone or to fall back asleep if they awaken overnight.",
+    "Additional information needed:\nIs it a problem with sleep initiation? Sleep maintenance?\nWhen do they put him down? How long does it take him to fall asleep?\nIf he gets up out of bed, how do they handle it?\nAny sleep training methods they have already tried? How did they work?",
+    "Possible recommendations\nSleep hygiene\nMelatonin – 1mg starting dose, OK to go up to about 3mg in his age (5-6mg max in older children)\nSleep training techniques – graduated extinction (providing less interaction each time they go in to check on the child or space out the times in which they check on them), fading (pushing bedtime back to when they are usually sleepy to take advantage of tiredness, then moving it back up slowly over time), or bedtime pass method (give child a token they can use once per night to get up to have an extra hug, extra water, etc, but after then they cannot get up; if they don’t use their token they can redeem it for a small reward or a sticker on a sticker chart) might be a good fit for his age range."
+  ],
+  "MK": [
+    "Reinforce from last visit: methylphenidate has better evidence for safety and efficacy in younger children, even though amphetamine has FDA approval for use in children <6yo (the approval happened in an era with less stringent criteria, but data since that time support the use of methylphenidate). Refer to ADHD medication reference chart to discuss options. Also consider which medications (such as Adderall) are available as liquid formulations or sprinkle tabs for children who cannot swallow pills.",
+    "Might see a higher risk of mood changes",
+    "Little data exists about long-term effects on brain development and growth, but generally well tolerated"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

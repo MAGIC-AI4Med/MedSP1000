@@ -1,0 +1,24 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario13",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario13",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Strategize going forward: referral to psychiatry for psychotherapy and medication to improve coping"
+  ],
+  "ICS": [
+    "Assess the patient’s perception – Wilma: “It’s nothing, right?”",
+    "Obtain the patient’s invitation",
+    "Giving knowledge to the patient. Learner should use lead-in narrative, then use “a part of” language: “I know that you are very positive and hopeful, yet I wonder if **a part of you** isn’t worried. I want to speak to that part.” Learner should give knowledge in small amounts while monitoring your reaction/emotion.",
+    "Address emotions (RAP), empathy. Learner should reflect your denial: “it’s very difficult for you to talk about this.” *If learner is empathic and understanding, you can break down and express your overarching fear of being overcome by the cancer and have uncontrollable pain. Learner should validate this as a very common concern.*",
+    "Summarize the discussion",
+    "Sustain hope for control from second line chemotherapy – not cure, but something to hope for in addition to maintaining hope that her symptoms will be well controlled in your care.",
+    "Survey of concerns",
+    "Support coping – Brother very supportive, offers to have her move in with him for time being; recruit clergy from her church",
+    "Statement of support: Offer ongoing, personal support"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

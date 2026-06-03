@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_10181",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10181/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Checks ABCs.",
+    "Requests EKG, IV, O2, monitor.",
+    "Asks the appropriate questions (directed history-taking).",
+    "Past medical history and any previous history of “fluid in the lungs.”",
+    "Onset, provoking/alleviating factors, quality, severity, time course.",
+    "Chest pain, cough, Dyspnea on exertion, orthopnea/paroxysmal nocturnal dyspnea (PND), weight gain, leg swelling, salt and fluid intake, ejection fraction if known.",
+    "Performs physical exam (asks specific questions re: findings).",
+    "Orders appropriate tests.",
+    "Starts appropriate treatment:\nOptimize O2 : prefer non-rebreather mask (NRB) to start, progress to CPAP/BiPAP🡪Intubation (although the students will not intubate).\nReduce cardiac workload:\n1. Decrease preload:\n1. Best: Nitroglycerin (IV drip is best (10-80mcg/min); other forms include: Sublingual or paste),\n2. Diuresis: Lasix (lasix-naïve-start 20-40mg IV), time of onset: 20-90minutes\n3. Morphine 2-6mg IV push\n2. Decrease afterload: ACE, higher dose nitrates.\nImprove cardiac function: Dobutamine, Dopamine (dose effect), Milrinone.",
+    "Rechecks ABCs.",
+    "Follows ACLS protocols for UNstable ventricular tachycardia:\n1. Orders “crash cart”\n2. Follow most recent ACLS protocols (per 2012):\n1. Requests/Initiates CPR\n2. Synchronized Cardioversion at 100-200 J\n3. 1 minute of CPR after initial cardioversion\n4. Initiate Bag valve mask ventilation\n5. Repeat synch cardioversion at 200J—this should stabilize back to sinus rhythm with regain of consciousness\n6. If you chose to continue resuscitation after 2 shocks then CPR to be continued and give epinephrine 1mg every 3-5 minutes; consider lidocaine/amiodarone"
+  ],
+  "MK": [
+    "EKG – ask student to interpret: discuss criteria for diagnosing left ventricular hypertrophy (LVH) (e.g. P waves taller than 25microvolts in lead II reflects right atrial enlargement. S in V2 summed with R in V5 greater than 35mv reflects LVH, etc.).",
+    "Chest X-ray – ask student to interpret: Discuss enlarged cardiac silhouette, cephalization of lung vasculature, pleural effusions, perihilar infiltrates",
+    "Labs: VBG, BNP, cardiac enzymes: discuss normal ranges, BNP>500 specific, BNP<100 sensitive.",
+    "Obtain EKG/rhythm strip – ask student to interpret."
+  ],
+  "SBP": [
+    "Consults with ICU for admission.",
+    "Calls Cardiac Critical Care unit for admission."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,27 @@
+{
+  "case_id": "mep-12-10483-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10483-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Inquires about recent travel",
+    "Inquires about leg pain or swelling",
+    "Examines legs",
+    "Listens to lungs",
+    "Reviews prior chest radiograph",
+    "Orders new chest radiograph",
+    "Reviews prior ECG",
+    "Orders new ECG",
+    "Orders D-Dimer",
+    "Orders LE DVT study (Ultrasound)",
+    "Orders CT Angiogram of the chest",
+    "Initiates anticoagulation (heparin or LMWH)"
+  ],
+  "MK": [
+    "Identified PE diagnosis"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

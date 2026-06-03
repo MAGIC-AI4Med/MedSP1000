@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario21",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario21",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Learner at this point should introduce both the phase I trial – (“There is a trial of a new drug at a nearby treatment center. It is a phase 1 trial. That means it is a new drug that is being tried in your situation where the cancer is growing despite chemotherapy. The doctor’s agreed to put you on the trial but only one of ten people has had any good results so far.”) – and palliative care – (“We need to talk about the best plan overall for you – I think your goal is to maintain your quality of life, from what I heard you say earlier. Have you heard of the term “palliative care” or “hospice care?”)"
+  ],
+  "ICS": [
+    "Learner should start the appointment by greeting Mary and Peter.",
+    "Learner should assess what Mary and Peter are hoping for."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

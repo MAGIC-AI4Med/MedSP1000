@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11020-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11020-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Check for responsiveness and call for help when child is unresponsive",
+    "Check for a pulse, start compressions if no pulse",
+    "Open airway and begin ventilation with 15:2 ratio with compressions",
+    "Roll patient, place backboard and defibrillation pads",
+    "Set and charge defibrillator based on weight",
+    "Perform coordinated pulse and rhythm check while anticipating need for new compressor"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Share mental model"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

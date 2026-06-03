@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_9067",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9067/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked about how often he consumed fish i.e. number of meals per week or month.",
+    "Asked what types of fish consumed.",
+    "Asked what proportion of his fish meals were wild caught versus store purchased.",
+    "Asked where the wild caught fish were caught.",
+    "Asked if he took fish oil"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "States that the recommend guideline for fish consumption is two servings a week.",
+    "Notes that there is clear evidence consuming fish reduces risk of complications of cardiovascular disease in those with known coronary heart disease",
+    "Notes that it is evidence that it is likely consuming fish reduces the occurrence of cardiovascular disease in those currently without coronary heart disease.",
+    "Cautions that fish may contain potentially dangerous contaminants and he should be cautious about how much fish is eaten, the type and location caught.",
+    "Notes fish preparation can significantly influence the exposure to certain dangerous contaminant",
+    "Provides a handout or informs the patient where they can find more specific information on minimizing the risks of eating fish."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10037",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10037/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Do you want to give an antihypertensive drug? (Teacher note: waiting for better evidence can be another choice if the team makes that choice. The suggested correct answer is a. However, any answer can be correct if the student provides a good reason)\n\nYes__X__"
+  ],
+  "MK": [
+    "What is the PICO question for this patient? (Teacher note: the PICO stands for Patient, Intervention, Control, Outcomes. It is widely used in the evidence-based medicine field. The instructor could explain PICO in 1-2 min if the team is unfamiliar to PICO term)\n\nP=an 80 y/o healthy robust man with newly diagnosis of hypertension (stage II) without any organ damage\n\nI=antihypertensive medication or non-drug therapy such as diet change\n\nC=no treatment or keep active as it is\n\nO=prevent a stroke (prevent complications), have an active and healthy life with his wife, and prolong life (mortality benefit)",
+    "How long will this patient live based on the article in JAMA (It is based on the Figure on page 2751 from the paper written by Walter et al. The suggested correct answer is c. However, any answer could be correct if the student provides a good reason. This is the patient who is at the top of health status and someone we call a successful aging or robust patient)\n\n10 years_X___",
+    "Write down reasons <u>to Give</u> an antihypertensive drug for this patient and reasons <u>NOT to give</u> an antihypertensive drug for this patient (team answers only) (Teacher’s note: this exercise is designed to stimulate the students’ deep thinking and active learning and make a family- and patient-centered decision based on not only the evidence-based JNC VIII Hypertension Treatment Guideline, but also multiple other competing factors such as patient’s preferences etc. The decision-making frame work is critical for the students. The instructor could emphasize that the guidelines can be applicable to treating robust healthy older adults with hypertension or other chronic diseases. It starts with one team who has the answers. Then, the instructor asks another team to support or refute the answers. Debate is strongly encouraged during the session. These decision making factors can be applied to discussing other two cases below)\n\n<table><tr><td><p>Decision making Factors</p></td><td><p>Reasons <strong>to give</strong> an antihypertensive drug to this patient</p></td><td><p>Reasons <strong>NOT to give</strong> antihypertensive drug to this patient</p></td></tr><tr><td><p>Evidence-based clinical practice guideline </p></td><td></td><td></td></tr><tr><td><p>Other type of evidence such as randomized controlled trials</p></td><td></td><td></td></tr><tr><td><p>Patient’s preference and goals of care</p></td><td></td><td></td></tr><tr><td><p>Patient wife’s preference and goals of care</p></td><td></td><td></td></tr><tr><td><p>The time to the benefit</p></td><td></td><td></td></tr><tr><td><p>Life expectancy</p></td><td></td><td></td></tr><tr><td><p>Co-existing diseases</p></td><td></td><td></td></tr><tr><td><p>Co-existing geriatric syndromes</p></td><td></td><td></td></tr><tr><td><p>Functional status</p></td><td></td><td></td></tr><tr><td><p>Symptoms burden</p></td><td></td><td></td></tr><tr><td><p>Balance of benefit and harm, burden (cost, complex of therapy, adherence, caregiver burden etc)</p></td><td></td><td></td></tr><tr><td><p>Expert opinion</p></td><td></td><td></td></tr><tr><td><p>Your own experience</p></td><td></td><td></td></tr></table>"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Write down the goals of care for this patient based on your encounter described above. (Teacher’s note: this question emphasizes family- and patient-centered and goal of care-based decision making)\n\nPrevent complication i.e. treating hypertension to prevent a stroke\n\nHave a active and healthy life with his wife\n\nLive longer"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

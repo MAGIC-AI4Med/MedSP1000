@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.11269-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11269-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "One learner enters the room to assess the patient.",
+    "After recognizing that patient is unresponsive and hypotensive, the learner checks for a pulse and recognizes bradycardia.",
+    "The team leader will instruct the team to prepare for Atropine administration for treatment of unstable bradycardia while also placing defibrillator pads and limb leads on the patient.",
+    "The team will administer 1 mg of Atropine IV and increase the patient’s oxygen to 100%.",
+    "The team will then state their plan to proceed with transcutaneous pacing.",
+    "The team leader will instruct the person operating the defibrillator to put it into manual mode and set the rate to 80 bpm.",
+    "The current is then increased until capture is achieved.",
+    "The team will confirm the patient has a pulse with capture.",
+    "EKG and labs (including electrolytes and cardiac enzymes) will be obtained before a patient disposition is discussed."
+  ],
+  "MK": [
+    "It will then be determined that the patient’s condition has not improved with Atropine, and unstable bradycardia persists."
+  ],
+  "SBP": [
+    "The learner will name the rhythm “unstable bradycardia” and call for the help of other learners and a crash cart.",
+    "The team leader will summarize the situation for the team and instruct a team member to consult cardiology."
+  ],
+  "ICS": [
+    "Upon the arrival of the rest of the team, the first participant will inform other learners of the situation using the SBAR format and distinguish themselves as the team leader.",
+    "Other learners will define their roles before proceeding with patient care.",
+    "The team will then summarize the situation and ask for the recycling of blood pressure.",
+    "Failure to define roles and use closed loop communication: Clearly defined roles and closed loop communication will be assessed by instructors. Failure by learners to display these behaviors will lead to a pause in the simulation for micro skill improvement."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,34 @@
+{
+  "case_id": "mededportal_10398",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10398/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Resident explained the next step, regarding release of the body, for example: medical examiner, OR answered honestly \u201cI don\u2019t know, but I will find out.\u201d"
+  ],
+  "ICS": [
+    "Resident greeted the family member and introduced him or herself.",
+    "Resident asked or used family member name and/or relationship",
+    "Resident gave an advance warning of bad news (warning shot).",
+    "Resident responded appropriately to emotional response of family member.",
+    "Resident allowed the family member to digest the information; used silence.",
+    "Resident offered an opportunity for the family member to ask questions.",
+    "Resident used plain language, no medical jargon.",
+    "Resident used the \u201cd\u201d word, for example: \u201cdeath,\u201d \u201cdead,\u201d or \u201cdied\u201d",
+    "Resident displayed appropriate listening behaviors (i.e., no interrupting, checking watch, focusing on notes).",
+    "Resident avoided talking down to family member.",
+    "Resident appeared interested, did not seem bored.",
+    "Resident sat down and maintained an open posture.",
+    "Resident displayed appropriate facial expressions.",
+    "Resident expressed empathy through word, expression, or touch.",
+    "Resident expressed understanding (i.e., rephrased answer, nod)",
+    "The resident should ask you \u2013 \u201cWhat were you told about\u2026or what do you know about your husband\u2019s condition?\u201d",
+    "They should provide key information about the patient\u2019s condition when he got to the ED, describe what steps were taken to resuscitate your husband. They should provide relevant outcome of the resuscitation in a manner that was easily understood by you and phrased in a thoughtful manner."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Resident presented him or herself in a professional manner."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.11473-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11473-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Your task is to de-brief the junior resident from this complication in a judgment-free, supportive environment that allows the junior resident to cope from this experience."
+  ],
+  "PBLI": [
+    "Guiding Principle: Utilize the Royal College of Surgeons “First Responder” framework to de-brief the event."
+  ],
+  "PROF": []
+}

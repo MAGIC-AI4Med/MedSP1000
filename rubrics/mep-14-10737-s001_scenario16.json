@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10737-s001",
+  "scenario": "scenario16",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10737-s001/scenario16",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "What other measures can be taken to ensure a smooth transition of care?"
+  ],
+  "ICS": [
+    "How do you approach “coaching up” the oncoming team to (or with) your patient?",
+    "How do you approach “coaching up” the surgeon or surgical team to you patient?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

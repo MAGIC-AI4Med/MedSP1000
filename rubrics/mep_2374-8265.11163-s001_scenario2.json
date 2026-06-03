@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11163-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11163-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Confirms that son/daughter is health care proxy for father and the correct person to be speaking with.",
+    "When asked, makes a recommendation that focus of care be comfort and a Do Not Resuscitate order be enacted."
+  ],
+  "ICS": [
+    "Elicits son’s/daughter’s understanding of father’s current medical condition with open-ended question(s).",
+    "Elicits son’s/daughter’s understanding of father’s values and preferences with open-ended question(s).",
+    "Describes father’s current medical condition with jargon-free language.",
+    "Informs son/daughter about prognosis of imminent death with direct, jargon free language.",
+    "Discusses resuscitation preferences/DNR orders with non-mechanistic simple language",
+    "Does NOT say, “Do you want us to do everything?”",
+    "Responds to son/daughter’s emotion with verbal empathic statement(s).",
+    "Responds to son/daughter’s emotion with non-verbal empathic behaviors (e.g. offering tissues, leaning in, light touch, respectful silence).",
+    "Informs son/daughter that goals of care will include all efforts to assure as much comfort as possible for father."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

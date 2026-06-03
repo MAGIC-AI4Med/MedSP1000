@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.11020-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11020-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Check for response, recognize unresponsiveness and call for help",
+    "Check for a pulse, recognize pulselessness and start chest compressions",
+    "Open airway, turn on oxygen, attach Bag-Valve-Mask (BVM) Device, and begin ventilations",
+    "Attach pads and place backboard under patient",
+    "Turn on and set defibrillator correctly",
+    "Perform pulse and rhythm check",
+    "Defibrillate",
+    "Resume Compressions, start timing, and draw up correct drug dosages",
+    "Continue Cardiopulmonary Resuscitation (CPR) and search for reversible causes of arrest"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.10906-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10906-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "What information are you going to review with the parents when you meet them?\n*Information to elicit: PMHX and whether Eli has ever been admitted to the PICU for Asthma*\n*Family history or asthma, atopia, allergies*\n*Medications that Eli has been on or tried*\n*Under what circumstances have they noticed Eli having respiratory distress? Have they noted any specific triggers?*",
+    "What orders will you place for the child?\n***A****dmit to General Medicine, Attending Name*\n***D****iagnosis – Asthma Exacerbation/Status Asthmaticus*\n***D****ischarge criteria – not requiring supplemental oxygen, weaned to albuterol 4 puffs Q4hours, respiratory status stable, taking adequate PO intake, asthma teaching complete, close follow up in place*\n***C****ondition –stable*\n***A****llergies – NKDA*\n***V****itals – Q4 hours*\n***A****ctivity – as tolerated*\n***N****ursing – cardiorespiratory monitoring, monitor I/Os closely*\n***D****iet – as tolerated, make NPO if respiratory status deteriorates, respiratory rate > 45-50 or is requiring CPAP*\n***I****v fluids – if patient is dry or made NPO then patient should be ordered for maintenance IV fluids*\n***M****eds –Albuterol starting with continuous nebulized treatment (high dose 30mg x1hr) then spacing to puffs, steroids (prednisolone 2mg/kg/day), Acetaminophen (15mg/kg Q6hrs)*\n***L****abs – none*\n***S****pecial – Consider chest physical therapy, Oxygen 2L NC to keep sats >92% may wean as tolerated*",
+    "How you will assess if his condition is improving or worsening?\n*Frequent respiratory checks including respiratory rate, O2 saturations, monitoring retractions, auscultating to listen to improved or worsening air movement, check in with family frequently*",
+    "Write prescriptions for oral steroids and albuterol and discuss possible side effects.\n*Side effects of oral steroids include mood lability, increased appetite while albuterol use can cause jitteriness, tachycardia, nausea.*"
+  ],
+  "MK": [],
+  "SBP": [
+    "If, then statements (eg. **if** his respiratory status changes, **then** consider getting a chest x-ray)\n***If*** *he has mental status changes or starts to tire out,* ***then*** *call and rapid response and get a blood gas*\n***If*** *his respiratory status worsens and his respiratory rate increases,* ***then*** *make NPO and start IV fluids*\n***If*** *his respiratory status worsens,* ***then*** *call your senior, attending to alert them of the change in status*",
+    "What steps will you take if his condition worsens?\n*Call senior and attending*\n*Explain to parents what you are seeing and what the concerns are and next steps in escalation of care*\n*Call a rapid response to get more resources and the PICU team alerted*\n*Make NPO and obtain IV access if not already obtained*",
+    "What resources are available if his condition worsens?\n*Senior residents*\n*Attending/inpatient hospitalist*\n*ED physicians*\n*PICU physicians*\n*Pulmonology*",
+    "What the criterial are for discharging Eli and how we will know when he has met those criteria\n***Improved Respiratory Exam*** *- review with parents the signs of respiratory distress making sure to focus on retractions and ask parents how they feel Eli is doing compared to when he was admitted*\n*That he is not requiring more than 4 puffs of albuterol every 4 hours*\n***Taking adequate PO -*** *discuss importance of assessing hydration status and whether Eli is taking enough PO to prevent dehydration.*\n***Follow-up in place -*** *discuss importance of close follow –up with PCP in 1-2 days to assess how Eli is doing and indications for need to return to the hospital*"
+  ],
+  "ICS": [
+    "What parameters will you give to the nurses for when to call with concerns?\n*Increasing respiratory distress (increased retractions, increasing need for O2, frequent O2 saturations, apnea, cyanosis) fever >38.5, change in mental status*",
+    "What will you tell the parents about likely course of disease and what are the discharge criteria?\n*Time courses vary, but he will likely be in the hospital for 2-3 days depending on how well he responds to the medications. He will continue to get albuterol, and it will be weaned both in dosage and frequency as tolerated, likely no more frequent than every 4 hours.*\n*Discharge depends on: 1) respiratory status – he must be off of oxygen and not working hard to breath, 2) taking adequate PO intake to stay hydrated, albuterol has been weaned to 4 puffs every 4 hours and 3) follow up is in place.*",
+    "Proper use of the albuterol inhaler and steroids\n*Make a clear distinction between the use of albuterol and the use of steroids. Albuterol will be used when wheezing is first noted or before exposure to a known trigger. Oral steroids are used during asthma exacerbations to decrease the inflammation in the lungs.*\n*Be sure to stress the importance of proper use of the inhaler with spacer and need to have several inhalers at different places (home, school, grandparents' house, etc)*",
+    "How to assess if the child is doing worse and what criteria are for returning to the hospital?\n*Increased work of breathing, excessive coughing, not tolerating PO, shortness of breath*",
+    "Develop and explain the asthma action plan with the family."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

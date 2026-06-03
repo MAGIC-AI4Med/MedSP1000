@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario18",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario18",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for full set of vitals and a repeat blood pressure",
+    "Verbal order for an IV pain medication – preferably labetalol $1 0 { - } 2 0 \\ \\mathsf { m g } \\ \\mathsf { N }$ or hydralazine 10-20 mg IV"
+  ],
+  "MK": [
+    "Inquire about symptoms suggestive of hypertensive emergency (HA, N, vision changes, chest pain); recognize this is unlikely the case in this patient"
+  ],
+  "SBP": [
+    "Ask nurse to recheck blood pressure in 1-2 hours and page with result (or give parameters for which to page)"
+  ],
+  "ICS": [
+    "Clear, closed-loop communication when relaying orders to nursing staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

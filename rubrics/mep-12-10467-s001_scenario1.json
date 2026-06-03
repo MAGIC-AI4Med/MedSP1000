@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-12-10467-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10467-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "The fellow sets up the interview\n\nExpectations: maintains privacy, involve appropriate family/friends, introduces self, sits down, make a connection, manage time and interruptions",
+    "The fellow assesses the family’s understanding and perception of the situation\n\nExpectations: asks for the family to explain the situation in their own words, clarify as needed",
+    "The fellow obtains the family’s invitation for a discussion\n\nExpectations: transitions the conversation, explains reason for the meeting",
+    "The fellow appropriately delivers the news and information to the family\n\nExpectations: appropriate vocabulary, avoid medical jargon, clear and concise, check family’s understanding",
+    "The fellow addresses the family’s emotions and shows empathy\n\nExpectations: uses exploratory questions as needed, validates feelings",
+    "The fellow summarizes the discussion and shares the plan of action with the family\n\nExpectations: clear and concise, gives timeline for future steps and follow-up"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,16 @@
+{
+  "case_id": "mep-13-10590-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10590-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "The important thing is that the student recognizes that there are stakeholders involved beyond their U.S. academic medical center and the poor patients: Are the hospitalized patients getting their share of medicine? Who else will be affected if the student notifies their home institution, besides the pharmacist and his patients? How will the ongoing relationship between the local hospital and the U.S. institution be affected? Taking all this into consideration when resolving an ethical dilemma is a mark of good ethical sensitivity."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": [
+    "Appropriate responses would include some of the following relevant ethical principles and concepts:\n\n* The duty of truth-telling\n* Conflicting loyalties (to employer vs. to those who need medical care)\n* Professional obligations\n* Common good & utilitarian concerns (greatest good for greatest number)\n* Health as a human right\n* Equal access to health-care"
+  ]
+}

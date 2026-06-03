@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_10334",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10334/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Prepares an appropriate operation room set-up for performing deep sedation:\nPlaces nasal cannula with end-tidal CO2 monitoring capability\nHas appropriate size bag and mask, handle and blade, LMA, and endotracheal tube available\nPlaces standard ASA monitors appropriately",
+    "Administers deep sedation with assistance:\nChooses the sedative and both the appropriate dose and route for administration",
+    "Initiates management under supervision:\nPerforms anesthesia induction or deep sedation with assistance\nAdministers appropriate anesthetic or sedative agents and appropriate doses\nAttempts airway control",
+    "Controls the airway while maintaining general anesthesia (with LMA or endotracheal tube) or deep sedation (jaw thrust and chin lift) for retrobulbar hemorrhage repair",
+    "Learner should assess patient, including brief assessment of airway, cardiovascular, pulmonary, and neurologic systems.",
+    "Learner should provide oxygen to the patient via mask or nasal cannula, ideally with end tidal CO2 monitoring in place.",
+    "Learner should administer sedation or other comfort measures.",
+    "Learner should continue to monitor the patient during the block.",
+    "Learner should inform the patient of the situation and induce either general anesthesia or deep sedation for emergent retrobulbar hemorrhage repair.",
+    "Learner should develop an induction plan and begin to induce general anesthesia or deep sedation.",
+    "Learner should pre-oxygenate the patient with a face mask",
+    "Learner should induce general anesthesia with any of the available IV anesthetics",
+    "Learner should intubate the patient with endotracheal intubation or an LMA.",
+    "Learner should provide deep sedation with monitored anesthesia care."
+  ],
+  "MK": [
+    "Identifies patient specific complications with supervision:\nVerbalizes a plan for general anesthesia or deep sedation for repair of retrobulbar hemorrhage with assistance",
+    "Verbalizes the need for deep but short lasting sedation for the procedure",
+    "Verbalizes retrobulbar hemorrhage as complications of retrobulbar block",
+    "Verbalizes the potential need for repair of retrobulbar hemorrhage",
+    "Verbalizes the different anesthetic options to facilitate the repair of retrobulbar hemorrhage",
+    "Learner should identify potential retrobulbar hemorrhage as a cause for proptosis and pain."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Introduces self to the surgical team at the beginning of procedure",
+    "Clearly asks the surgeon about the magnitude of the retrobulbar hemorrhage",
+    "Discusses patient’s condition and treatment options with the surgeon in a clear manner",
+    "Plays a team leader role in management",
+    "Gives clear instructions to other team members in a non-threatening calm manner if assistance is needed (e.g. squeeze the bag once every 6 seconds while I am providing a two hand-mask)",
+    "Gives positive feedback to other team members (e.g. good job squeezing that bag)",
+    "Learner should inform the surgeons when the patient is appropriately sedated to perform the block.",
+    "Learner should discuss the situation with the surgeon."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

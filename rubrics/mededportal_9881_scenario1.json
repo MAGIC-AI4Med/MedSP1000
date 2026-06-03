@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9881",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9881/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Relevant patient history",
+    "Relevant physical examination with vitals",
+    "Based on the above history and physical, the appropriate action would be to administer oxygen via face mask or nasal cannula and to take note of the time. The team must be specific as to what oxygen delivery system they will use and how it will be set up. Using an invasive method of oxygenation such as an LMA or BVM would be inappropriate at this point.",
+    "The patient should be placed on a continuous cardiopulmonary monitor.",
+    "An IV should be placed and if unable to obtain access, an IO may be placed",
+    "At the 5-10 minute mark, the interns should give a dose of Ativan.",
+    "After the first dose of Ativan failed to break the seizure, 3-5 minutes later a second dose of Ativan should be given.",
+    "When the patient becomes apneic the interns should immediately begin bag mask ventilation.",
+    "It would be appropriate if someone collected the equipment necessary for intubation."
+  ],
+  "MK": [
+    "Appropriate lab tests would be a chemistry to evaluate for electrolyte abnormalities, a fingerstick glucose level, CBC to evaluate for infectious etiology and drug levels if the patient is taking any seizure medications.",
+    "There is no role for imaging at this point in the case."
+  ],
+  "SBP": [
+    "It would be inappropriate at this time for the interns to use any form of oxygen support other than BVM or intubation or to give any medications."
+  ],
+  "ICS": [
+    "A team leader should be declared and all team members should be given roles."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

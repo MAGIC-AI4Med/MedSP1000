@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_10258_1",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10258_1/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Clarify goals andobjectives for the feedback",
+    "Focused on specificbehaviors",
+    "Used non-judgmental language",
+    "When fedback was subjective, labeled it assuch",
+    "Acknowledged andaddressed emotions duringfeedback session",
+    "Actively listened tolearner",
+    "Asked effective questionsto engage learner",
+    "Encouraged learner toexpress concerns andneeds",
+    "Expressed respect forlearner's experience andemotions",
+    "Expresses empathy and/orconcern for learner",
+    "Summarized the session",
+    "Ended with a positivecomment"
+  ],
+  "PBLI": [
+    "Asked learner to evaluatehis own performance",
+    "Responded to and builtupon learner's self-assessment",
+    "Built on positive behaviorthen moved onto behavior that could be improved",
+    "Problem-solved together on ways to changebehavior",
+    "Plan for the future"
+  ],
+  "PROF": []
+}

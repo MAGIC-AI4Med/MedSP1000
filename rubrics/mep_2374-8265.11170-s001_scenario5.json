@@ -1,0 +1,39 @@
+{
+  "case_id": "mep_2374-8265.11170-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11170-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Personal Protective Equipment",
+    "Considers stabilization of c-spine",
+    "Develops a General Impression of Patient",
+    "Assesses Level of Consciousness (AVPU)",
+    "Identifies Chief Complaint",
+    "Assesses Airway and Breathing",
+    "Assesses Circulation",
+    "Vital Signs  HR, RR, SpO2, B/P, Temp",
+    "SAMPLE – Signs and Symptoms, Allergies, Medication, Pertinent Past History, Last Oral Intake, and Events Leading Up To Arrival",
+    "Assesses Onset, Provocation, Quality, Radiation, Severity, Time",
+    "Trauma Assessment as Needed",
+    "Manages Life Threatening Injuries",
+    "Perform a focused history and physical exam",
+    "Treat hypoglycemia using IV dextrose appropriately",
+    "Participant requests finger stick blood glucose.",
+    "Requests repeat fingerstick"
+  ],
+  "MK": [
+    "Determines mechanism of injury/nature of illness",
+    "Evaluate for capacity to refuse transport"
+  ],
+  "SBP": [
+    "Determines if the scene is safe",
+    "Identifies number of patients",
+    "Requests additional help if needed",
+    "Discuss with medical control"
+  ],
+  "ICS": [
+    "Communicate with patient and family"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

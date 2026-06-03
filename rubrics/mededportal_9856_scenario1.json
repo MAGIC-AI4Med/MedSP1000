@@ -1,0 +1,16 @@
+{
+  "case_id": "mededportal_9856",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9856/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "For all cases, students should ask a comprehensive sexual history."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Students should counsel Danni on her high-risk sexual behavior in a non-judgmental manner."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

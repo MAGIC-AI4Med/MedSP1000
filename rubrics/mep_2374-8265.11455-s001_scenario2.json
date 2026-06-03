@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11455-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11455-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Check both venous and arterial limb of circuit",
+    "Attempt to restart pump",
+    "Manually hand crank pump when it fails to restart"
+  ],
+  "MK": [
+    "Immediate recognition of ECMO circuit pressure changes",
+    "Identify pump malfunction"
+  ],
+  "SBP": [
+    "Call ECMO clinician for help"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

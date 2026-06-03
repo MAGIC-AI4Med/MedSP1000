@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_8384",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8384/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "HPI: Timing, onset, and precipitating factors of chest pain?\nPain relieved by? Aggravated by?\nSpecific nature and degree of pain?\nAssociated symptoms that suggest underlying pathology?",
+    "A physical exam would be useful at this point, specifically:\nVital signs.\nChest findings.\nAbdomen findings.\nMental status examination.",
+    "The most important tests needed to rule out an underlying cardiac pathology are the cardiac enzymes, the EKG, and an echocardiogram. Only after these tests are complete could other pathology be considered as a cause of this patient’s symptoms.",
+    "As the patient’s condition is being worked up, it is important to presumptively start the treatment of this patient’s chest pain. This is important to decrease the mortality and morbidity of this patient.",
+    "It is important to stress that management should start before the diagnosis is made. While we have a list of differential diagnoses, patients' treatment should start even before a definitive diagnosis is made.",
+    "The results of the urine drug screen dispute the patient’s response earlier in the assessment to the question about his drug use. This proves the importance of getting a urine drug screen as part of the assessment of an acute presentation.",
+    "Re-administer the test if the patient believes the result showed a false positive."
+  ],
+  "MK": [
+    "Differential diagnosis of chest pain includes:\nAngina secondary to coronary artery disease.\nPulmonary pathology.\nVascular pathology.\nTrauma.\nGI disturbances.\nEmotional/psychiatric conditions.\nSubstance use intoxication and withdrawals.",
+    "Given this information, the focus of the differential diagnosis has not really changed. A further workup is required before noncardiac causes can be considered for the acute management of this condition. Even though with this patient's presentation a diagnosis of panic attacks and anxiety could be considered, one of the requirements of making this diagnosis is that the underlying medical conditions that could present with these symptoms be ruled out first.",
+    "The results of the cardiac enzymes are not confirmatory for cardiac tissue damage.",
+    "Possible recurrence of anxiety disorder, possibility of gastrointestinal complaints, local inflammation, and substance use/intoxication may be reasons for the pain.",
+    "The elevated vital signs suggest a possibility of a hyperadrenergic state and the possibility of substance use or toxicity should be entertained. The results of the urine drug screen would help resolve this possibility.",
+    "The limited information that is available is not enough to make a presumptive diagnosis. Screening for drug use may provide additional information as to the risk level of the patient. The NM ASSIST—NIDA-Modified Alcohol, Smoking, and Substance Involvement Screening Test is a Web-based interactive tool that guides clinicians through a short series of screening questions that, based on the patient’s responses, generates a substance involvement score that suggests the level of intervention needed."
+  ],
+  "SBP": [
+    "Echocardiogram suggests hypokinesis of the inferior septal wall of the myocardium. Further workup should include admission to the hospital, a cardiology consult, and perhaps a cardiac catheterization if recommended by cardiology.",
+    "If the second biological test results are positive, offer a brief intervention and referral for additional assessment and possible treatment."
+  ],
+  "ICS": [
+    "Present the results in a matter-of-fact way, in conjunction with other medically relevant information.",
+    "Use MET to encourage the patient’s recognition of the problems he is having in his life due to drug use. Refer the patient for further assessment and/or treatment, if indicated by the results of the NM ASSIST screen."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

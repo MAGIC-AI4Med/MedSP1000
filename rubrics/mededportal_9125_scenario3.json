@@ -1,0 +1,16 @@
+{
+  "case_id": "mededportal_9125",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9125/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform an assessment utilizing the ABC method administer oxygen establish IV access raise head of bed initiate appropriate pharmacological management of CHF",
+    "Optimal sequence of critical actions (performance in order $=$ higher scores in certain management areas) check patient, check airway, check breathing, recognize crackles, initiate O2, assess cardiac status including blood pressure and heart rate, initiate IV access, administer appropriate medication(s).",
+    "Duration to critical actions: assessment to recheck of patient after appropriate interventions within 10 minutes."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

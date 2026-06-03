@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_10127",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10127/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain a STAT calcium or ionized calcium level shortly after recognizing hydrofluoric acid exposure",
+    "Place the patient on telemetry and obtain an EKG",
+    "Rapidly administer IV calcium gluconate or chloride (antidote) after diagnosis of systemic hydrofluoric acid toxicity",
+    "Rapidly treat hyperkalemia",
+    "Aggressively control pain with IV opioid analgesia",
+    "Prepare and administer topical calcium gel to topical burns"
+  ],
+  "MK": [],
+  "SBP": [
+    "Consult burn surgeon for severe chemical burn",
+    "Transfer the patient to a Burn ICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

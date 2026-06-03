@@ -1,0 +1,41 @@
+{
+  "case_id": "mededportal_10310",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10310/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Bronchodilator therapy - currently receiving albuterol q2 hours via nebulization, will increase frequency of therapy if needed but goal is to wean to q4 hour treatment to facilitate safe discharge home",
+    "Systemic steroids - continue course of systemic steroids if course of illness remains consistent with reactive airway disease; received prednisolone $2 ~ { \\mathrm { m g } } / { \\kappa \\mathrm { g } }$ orally in the ED today - plan for 5-day course of therapy if he shows rapid improvement in symptoms",
+    "Imaging - follow-up final read from attending radiologist; consider obtaining repeat chest x-ray if patient worsens; obtain additional history from patient’s mother about possible preceding choking or coughing episodes",
+    "Continuous pulse oximetry monitoring",
+    "Consider serial non-invasive ${ \\mathsf { C O } } _ { 2 }$ monitoring (TCMs) if available",
+    "Frequent bedside reassessments",
+    "Provide supplemental $\\mathsf { O } _ { 2 }$ if needed",
+    "General age-appropriate diet provided respiratory status remains stable",
+    "Reassess asymmetry of lung exam",
+    "Follow-up on viral respiratory panel",
+    "Inquire about other vital signs and respiratory status (RR 30, no retractions) Discuss clear breath sounds vs decreased breath sounds (Patient seems to have good breath sounds, maybe more on the left than right)",
+    "Next step: Go assess the patient before changing albuterol",
+    "Inquire about current respiratory status (RR 37, $S _ { 9 } 0 _ { 2 } 9 3 \\%$ ) Inquire about episode: Prolonged desaturation, good waveform, repositioning tried? (Lasted 1 minute with good waveform, he was already sleeping with head in a neutral position)",
+    "Next step: Go assess the patient",
+    "Inquire about further possible studies to perform. (Could do decubitus films but these have low sensitivity. If there is clinical concern, ENT or pulmonology should be contacted for bronchoscopy.)"
+  ],
+  "MK": [
+    "Differential diagnosis includes: reactive airway disease, bronchiolitis, aspirated foreign body, vascular ring/sling, pulmonary edema, mediastinal mass, etc.",
+    "(Students should justify the diagnoses included their differential - example: reactive airway disease consistent with presence of concurrent URI symptoms, improvement with bronchodilator therapy, personal history of eczema and family history of asthma; persistent asymmetric exam raises concern for an alternative etiology)."
+  ],
+  "SBP": [
+    "Patient requires inpatient cardiorespiratory monitoring and frequent bronchodilator therapy at this time",
+    "Plan for discharge home when albuterol therapy weaned to every 4 hours and respiratory distress resolved",
+    "Will need PMD follow-up after discharge",
+    "Notify asthma educator of likely need for education prior to discharge",
+    "Next step: Call ENT or pulmonology, update senior team member, RN and family about findings and plan"
+  ],
+  "ICS": [
+    "Asthma and albuterol MDI education for patient’s parents",
+    "Update PMD about patient status and current admission",
+    "Update parents"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

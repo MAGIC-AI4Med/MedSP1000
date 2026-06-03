@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_10015",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10015/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "**Needs Work for Level:** Interrupts patients/family, does not use silence, gives too much information, is falsely reassuring, becomes defensive",
+    "**Adequate for Level:** Listened carefully and used silence, avoided false reassurance, didn’t give too much information without permission, uses some NURSE (naming, understanding, emotions)",
+    "**Proficient:** Listens, Responds to emotion (names, understands, responds, supports and explores emotion) uses silence, warning shots and body language effectively; Avoided false reassurance, paces conversation well, asked permission before providing information",
+    "Include key parts of disclosure: Discuss what is known, what may have happened, apologize, and discuss what will be done to further understand the event, as well as how to prevent this from happening again.",
+    "***Positive Response:*** Set up the situation first. Ask what the family perceptions are about what happened and why. If you don’t understand what she is trying to say, encourage her by saying, “please tell me more.” Empathize, perhaps by Naming the fear / guilt the family has about their possible involvement. Listen, use silence. Consider a wish statement. Discuss what happens when there might be a machine malfunction (it is removed and they evaluate the equipment) Summarize the conversation. Make a plan to followup after more is known",
+    "***Negative Response:*** Says pain is a fact of life in these kinds of situations. Suggests these things happen all the time. In her case, the family should have known better particularly with personal physicians involved. Overemphasize how much time and attention has already been spent on this case and it is time to move on.",
+    "***Positive Response:*** Takes time to listen, using silence. Names the patient’s anger. Understands why she is angry. Use a Wish statement. Explore why she thinks it is the PCA pump. Offer support. Discuss what happens when there might be a machine malfunction (it is removed and they evaluate the equipment). Summarizes the conversation. Make a plan to followup after more is known",
+    "***Negative Response:*** Responds defensively. Asks how often she helped Alonzo push the button on the PCA pump. Informs her that a family member should not touch equipment in a patient’s room. That is what the call button is for."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

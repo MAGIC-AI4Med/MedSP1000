@@ -1,0 +1,33 @@
+{
+  "case_id": "mep-12-10490-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10490-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "The trainee should follow up with asking for other reasons you are here.",
+    "The trainee should ask you to walk, and you should do so slowly but without wobbling or fatigue."
+  ],
+  "MK": [
+    "| Diagnosis with support from positive and negative history and PE findings | 1. Mild cognitive impairment 2. Alcohol dependence 3. Musculoskeletal back pain 4. Medication nonadherence |",
+    "| Differential with support from positive and negative history and PE findings | 1. Pseudodementia / depression 2. Polypharmacy |"
+  ],
+  "SBP": [
+    "| MANAGEMENT OR DIAGNOSTIC PLAN | To be discussed with standardized interprofessionals at the conclusion of the patient case:  Nursing – home nursing referral for medication adherence and home safety check if patient is amenable;  Social worker – community resources, possible referral to long term care  Psychologist – follow-up on low MOCA score, referral for neuropsychiatric testing |"
+  ],
+  "ICS": [
+    "Made a personal connection during the visit (e.g., went beyond medical issues).",
+    "Gave me an opportunity/time to talk (e.g., didn't interrupt).",
+    "Actively listened. Gave me undivided attention (non verbal and/or verbal acknowledgments).",
+    "Summarized and/or clarified information.",
+    "Adapted to my level of understanding, using appropriate language.",
+    "Verbally expressed empathy.",
+    "Encouraged me to ask questions.",
+    "Discussed assessment and involved me in deciding upon a plan.",
+    "Elicited my perspective and addressed any concerns I have about the plan.",
+    "Please prepare a one minute presentation about the patient, adapted to the interprofessional’s area of expertise."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Treated me with respect."
+  ]
+}

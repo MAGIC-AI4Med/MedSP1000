@@ -1,0 +1,31 @@
+{
+  "case_id": "mep-12-10415-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10415-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Start tapering the pain med from Percocet to Tylenol. Use Percocet for severe pain only and Tylenol at other times. Discuss Tylenol use, maximum of 4 grams/day.",
+    "Constipation - counsel patient on strategies to improve constipation. Encourage stool softener and increased water. If this does not help, suggest Miralax. Also with decreasing the Percocet use, this should improve.",
+    "Prescribe bisphosphonate. Counsel on how to take it, side effects, duration of therapy (2 years) and repeating DEXA in one year. Encourage weight bearing exercise.",
+    "Continue calcium and vitamin D.",
+    "Counsel Mr. Smith on smoking cessation and encourage him to smoke outdoors. Encourage him to never smoke in the car.",
+    "Should check the integrity of skin which is in contact with the volar splint to make sure there is no pressure caused by the splint which needs to be modified, or that hand swelling has not caused the splint to be tight in any areas. If the OT member of the team is participating via telecommunication, it is possible the team members who are physically with the patient could use the hand-held general camera to conduct this inspection.",
+    "Occupational performance dysfunction: She is not cooking or maintaining the home like she did previously. The OTs should screen Mrs. Smith for problems with basic ADL (dressing, grooming, toileting, bathing, and eating) and instrumental ADL (cooking, cleaning, money management, etc). They might also make sure that Mrs. Smith is remembering to take her medications regularly and if she is having difficulty, what strategies has she already tried. They should not prescribe techniques or equipment at this point but instead focus on determining Mrs. Smith’s potential need for skilled occupational therapy.",
+    "Environmental assessment: Are there any places in her home where she feels unsafe during walking/moving (stairs, getting into/out of bathtub, etc)? This may indicate the need for a home safety assessment.",
+    "The five degrees of dorsal angulation is consistent with a Colle’s fracture and is to be expected. Clinical union occurs when the fracture callus is apparent on x-ray and happens at three to five weeks. It takes six to eight weeks for a fracture to heal (perhaps longer in people with osteoporosis), as such, Mrs. Smith should remain immobilized in the splint for another two to four weeks, perhaps more (a radiograph at eight weeks will determine if radiographic union/full healing has occurred). Although the student therapists should carefully remove the splint to inspect the wrist, they should not move the wrist or allow the patient to move the wrist – this is contraindicated until healing has occurred at six to eight weeks.",
+    "The pinkness and mild swelling of Mrs. Smith’s wrist indicates mild inflammation. The students should recommend using an ice pack and/or elevation of the hand above the level of the heart. They can also suggest gentle movement of the fingers in the splint to assist with edema control, but resisted movement (such as squeezing a stress ball) might cause pain at the fracture site and isn’t recommended.",
+    "During the patient interaction and/or care planning the PT and OT students should discuss the importance of keeping the uninvolved joints on the right upper extremity moving (for instance, they want to keep the elbow and glenohumeral joints moving to avoid adhesive capsulitis)."
+  ],
+  "MK": [
+    "The students should note that the patient’s vitals are fairly good (although the respiratory rate is a bit high).",
+    "A DEXA scan T-score of -2.5 or lower qualifies as osteoporosis. Mrs. Smith’s score is -2.6, as such, she is osteoporotic. (Note: multiplying the T-score by 10% gives a rough estimate of how much bone density a person has lost, ie for Mrs. Smith, she’s lost about 26% bone density.)",
+    "Stiffness at the wrist is common with immobilization and a good sign that the body is healing itself. When complete healing has occurred, the PT and/or OT can perform joint mobilization (Grades III and IV) to alleviate any stiffness then work toward functional activities."
+  ],
+  "SBP": [
+    "Future assessments by OT would include in-depth assessment of ADL/IADL assessment, her home environment, skin integrity inside the splint and splint modification/management, and progression of use of the UE during activity.",
+    "Future assessments by the PT would include AROM and PROM once the fracture has healed, strength assessment, sensory assessment, and perhaps a balance assessment, since the mechanism of injury was a fall. Ultimately, the students will want to address the functional impact of the fracture on Mrs. Smith’s life, and work toward returning her to all of her preinjury activities. Thank you so much for your contributions to this interprofessional endeavor!"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

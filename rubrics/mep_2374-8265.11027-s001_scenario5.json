@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11027-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11027-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Replace soda with water or unsweetened beverages. Limit items with high amounts of “added sugars,” which you can look for on the nutrition labels and ingredient list; a simplified recommendation would be to limit items that list a sugar as the first or second ingredient.",
+    "Replace refined carbohydrates (processed snack foods, baked goods, white breads/pastas/rice) with healthier carbohydrates (fruits, whole grains like brown rice, wild rice, quinoa, oats, rye, barley, bulgur wheat).",
+    "Be aware that labels that say “made with whole grain” may still contain refined grains. Choose products that have the whole grain listed first in the ingredient list.",
+    "It’s likely best to limit use of both added sugars and artificial sweeteners.",
+    "A simple form of intermittent fasting would be to eat only during 8 hours of the day (ie 8am-4pm), allowing for a prolonged fasting state overnight.",
+    "Intermittent fasting can result in weight loss, although studies have not shown that intermittent fasting is superior to other weight loss methods (ie continuous calorie restriction) in terms of weight loss or compliance rates.",
+    "Certain populations should not attempt these diets unless closely supervised by a physician and/or dietician: people with insulin-dependent diabetes, history of eating disorders, women who are pregnant or breastfeeding."
+  ],
+  "SBP": [
+    "Refer to a dietician or health coach:\nAny patient that has a disease that can be at least partially managed with dietary modifications and who is ready to learn about making dietary changes can and should be referred to a health care provider who specializes in nutrition. This may or may not be covered by insurance- patients can call their insurance to learn more about how many sessions would be covered, as well as calling the dietician’s office for more information.\nHow to refer in our EHR at Sites A and B:\n“Medical nutrition therapy” – this is a referral to a dietician\nA nurse diabetic educator is available at Sites A and B for nutrition counseling in patients with diabetes\n“Wellness” referrals for nutrition are available for patients with selected insurance at our institution: this involves follow ups by phone either with a health coach or dietician",
+    "Note that referrals should not prevent you as the PCP from initiating counseling and following up on adherence and barriers as needed."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

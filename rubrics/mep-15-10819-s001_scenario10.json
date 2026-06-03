@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario10",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Learner should greet Mary to start encounter.",
+    "Learner should assess understanding, e.g. “Tell me in your own words what you heard last time we spoke so we can continue the conversation.”",
+    "Learner might pick up on the fact that it sounds like Mary’s friend may have been on a phase I or II trial, not phase III; regardless, the learner should start with background information about trials, and then specify background details for this particular trial.",
+    "Learner should explain bias as the basis for randomization.",
+    "Learner should explain stopping trial early for crossover and a monitoring committee.",
+    "Learner should introduce equipoise, acknowledging that most people would want to be on the intervention arm of the study.",
+    "The learner should have the handout about Miraculin and can show Mary, if he/she hasn’t already, and can discuss that there is patient information about the study and the drugs including side effects.",
+    "Finally, the learner should discuss that there is a consent form that Mary can take home along with the patient information to look over and no signature is required at this time."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

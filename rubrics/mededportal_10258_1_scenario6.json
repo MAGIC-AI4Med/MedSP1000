@@ -1,0 +1,48 @@
+{
+  "case_id": "mededportal_10258_1",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10258_1/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Addressed use of short- acting vs. long-acting painmedications",
+    "Taught strategies for pain management"
+  ],
+  "MK": [
+    "Discussed neuropathic vs.nocicptive pain",
+    "Generalized from singlecase to patterns/models",
+    "Teach general rules(about pain management,types of pain, etc)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Actively listened tolearner's presentation",
+    "Asked effective questions to engage learner",
+    "Encouraged learner toexpress concerns andneeds",
+    "Expressed respect forlearner's experience andemotions",
+    "Set an agenda for session",
+    "Paced session appropriately for needs oflearner",
+    "Avoideddigressions/distractions",
+    "Did not miss importanttopics",
+    "Presented material in well-organized manner",
+    "Delivered information in small chunks",
+    "Illustrated points withexamples/analogies",
+    "Used effective teaching tools (role play, visual aidsetc)",
+    "Gave specific positivefeedback",
+    "Gave specific correctivefeedback",
+    "Invited questions",
+    "Facilitated discussions",
+    "Effectively led the group",
+    "Asked questions you felt you could answer",
+    "Managed time effectively"
+  ],
+  "PBLI": [
+    "Assessed learner's self- perceived learning needs",
+    "Asked effective questions to probe learner'sknowledge",
+    "Explored learner's attitudes about thisencounter",
+    "Get a commitment",
+    "Probe for supportingevidence",
+    "Reinforce what was right",
+    "Correct mistakes",
+    "Reflected on the process"
+  ],
+  "PROF": []
+}

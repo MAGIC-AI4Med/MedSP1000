@@ -1,0 +1,35 @@
+{
+  "case_id": "mep_2374-8265.11452-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11452-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess patient following Advanced Trauma Life Support (ATLS) protocols, which includes primary survey, use of adjunct and investigations.",
+    "Institute hemodynamic resuscitation, including lateral displacement of the uterus, crystalloid infusion, blood transfusion, tranexamic acid, and relief of tension pneumothorax.",
+    "Recognize deterioration of patient into cardiac arrest and provide appropriate resuscitation according to Advanced Cardiac Life Support (ACLS) protocols, which includes CPR, intubation and use of ACLS drugs.",
+    "Recognize the need for resuscitative hysterotomy and demonstrate the steps of resuscitative hysterotomy.",
+    "Obtain AMPLE (Allergy, Medication, Past medical history, Last meal, Event) history",
+    "Put on monitoring devices",
+    "Fetal HR monitoring",
+    "Oxygen supplementation",
+    "IM/ IV Rhogam 30mls if Rhesus (-)",
+    "bilateral thoracostomy"
+  ],
+  "MK": [
+    "Identify breathing (tension pneumothorax) and circulation (hemorrhagic shock from uterine rupture) issues.",
+    "Describes the indications and steps of resuscitative hysterotomy"
+  ],
+  "SBP": [
+    "Prepare the resuscitation team for the patient’s arrival:\nAssignment of roles\nAppropriate personal protection equipment\nEquipment e.g.: airway, ultrasound, pelvic binder etc.\nConsider prehospital trauma activation",
+    "Trauma activate based on mechanism + vitals",
+    "Activate Trauma and O&G teams",
+    "Activate E-blood if not already, consider massive transfusion protocol (ABC score: 3)",
+    "Prepare another team for neonatal resuscitation",
+    "prepare Children’s Hospital Emergency Transport Service (CHETS) if applicable"
+  ],
+  "ICS": [],
+  "PBLI": [
+    "Learners will clarify doubts/asks questions if any"
+  ],
+  "PROF": []
+}

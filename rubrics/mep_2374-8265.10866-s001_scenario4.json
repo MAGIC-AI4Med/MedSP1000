@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.10866-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10866-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Get a fresh set of vitals, examine patient’s abdomen, assess mental status",
+    "Check to see his IV access",
+    "See if he has an active type & screen",
+    "Ensure adequate access (at least 2 large bore 18 gauge or larger IV’s, see below)",
+    "IVF: 1L NS bolus STAT",
+    "Consent for blood, STAT type and screen if patient does not already have one; consider type & cross",
+    "Consider emergent intubation if patient unable to protect airway 2/2 high volume hematemesis or AMS",
+    "Vitamin K (PO= IV, acts over 24-hour period) as well as 1-unit FFP (immediate-acting, short half-life) to correct coagulopathy",
+    "Octreotide 50mcg bolus followed by 50mcg/hr gtt since you suspect variceal bleed",
+    "Pantoprazole IV 80mg x1 stat then pantoprazole 8mg/hr gtt or pantoprazole 40 mg IV BID boluses",
+    "Consider erythromycin 3mg/kg IV 30 to 90mins before endoscopy to help clear stomach of blood and improve gastric visualization",
+    "Antibiotic- ceftriaxone or quinolone given potential variceal bleed in a cirrhotic puts pt at risk for SBP",
+    "Discontinue nadolol (if on it for variceal prophylaxis) not only due to risk of hypotension in setting of Acute GIB but given increased risk of hepatorenal syndrome and death in patients with cirrhosis and SBP.30"
+  ],
+  "MK": [
+    "Most likely- Variceal bleed given h/o cirrhosis but also high on the differential are peptic ulcer and esophageal (Mallory-Weiss) tear."
+  ],
+  "SBP": [
+    "STAT page GI to consult for emergent upper endoscopy as most variceal bleeds require endoscopic therapy with ligation/banding and/or sclerotherapy"
+  ],
+  "ICS": [
+    "Have your resident paged"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

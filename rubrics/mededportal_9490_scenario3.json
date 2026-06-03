@@ -1,0 +1,44 @@
+{
+  "case_id": "mededportal_9490",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9490/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Discussed treatment options",
+    "Made a clear recommendation",
+    "Interventions to be discontinued as care transitions to comfort--IV fluids, tube feeds, ventilator, labs",
+    "Interventions to be continued/started: medications for pain, shortness of breath, other symptoms, mouth care to prevent dry mouth"
+  ],
+  "MK": [
+    "Stated prognosis",
+    "Patient’s prognosis: hours to days"
+  ],
+  "SBP": [
+    "Suggested a plan",
+    "Made a plan for follow-up",
+    "Patient disposition—staying in hospital v. going to outside facility (hospice)"
+  ],
+  "ICS": [
+    "Sat down",
+    "Made eye contact",
+    "Named emotion",
+    "Understand an emotion",
+    "Stated respect for patient’s decision makers",
+    "Offered support",
+    "Assessed the patient’s understanding",
+    "Used open ended questions",
+    "Fired a “warning shot”, such as “I’m afraid I have some bad news” .",
+    "Attempted to elicit patient’s treatment goals",
+    "Was easily understood",
+    "Avoided medical jargon",
+    "Listened attentively",
+    "Invited questions",
+    "Concluded with a review of what had been decided",
+    "Interrupted"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Made recommendation before eliciting patient’s preferences",
+    "Asked surrogates what THEY would want to do"
+  ]
+}

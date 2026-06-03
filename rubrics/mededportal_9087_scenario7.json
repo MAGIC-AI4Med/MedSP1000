@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_9087",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9087/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "1) Respond promptly to nurse's request for help?",
+    "3) Ask wife for patient's medical history?",
+    "8) Correctly follow ACLS protocol for V-Fib arrest?\na) Assess ABC's (confirm apnea,pulselessness, administer oxygen, BVMventilation,\nCPR immediately- proper technique)\nb) Recognize V-Fib -defibrillate; CPR restImed immediatelyaftereach shock\nc) Advancedairwayafter1stor2nd defibrillation\nd) Give vasopressors appropriatelytely\ne) Recognize asystole; verbalize reversible causes of Asystole/PEA",
+    "12) Pronounce patient?"
+  ],
+  "MK": [],
+  "SBP": [
+    "4) Declare himself/herself leader of code?",
+    "5) Ask nurse for charts, past history and recent labs?",
+    "10) Acknowledge ward resident's disclosure about patient's DNR wishes?",
+    "13) Discuss with wife possible autopsy,organ donation, procedures with death certificate and funeral home?"
+  ],
+  "ICS": [
+    "2) Listen to and acknowledge wife's request to \"do everything\"?",
+    "6) Assign/acknowledge \"call out\" roles of code team tasks to specific individuals?",
+    "7) Listen to code interns/nurses/RT's opinions about the resuscitation?",
+    "Resolve confict regarding difference of opinion without frustration - advocate for patients best interest?",
+    "11) Explain to wife, empathetically, in non-medical terms, the patient's status?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

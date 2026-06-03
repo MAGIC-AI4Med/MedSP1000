@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_10140",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10140/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for vitals",
+    "Ask for urine output",
+    "Recommend ISC or foley replacement now",
+    "Recommend ISC q 4-6 hours until PVR <100",
+    "Order Fluid Bolus",
+    "NOT COMPETENT: not able/not competent to perform this task",
+    "COMPETENT: no prompts/able to assess and manage patient easily"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "1—poor communication, disorganized throughout the case",
+    "2—asked some questions well, scattered throughout the rest of the case",
+    "3—somewhat organized, asked questions well",
+    "4—was able to effectively communicate throughout most of the call",
+    "5—effective communicates in an organized fashion throughout the case",
+    "1—poor teamwork demonstrated throughout the case",
+    "2—rarely addressed nurse as partner in the case",
+    "3—occasionally treated nurse as partner in the case",
+    "4—treated nurse as partner throughout most of the case",
+    "5—treated nurse as partner throughout the case, respectful of information gathered"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

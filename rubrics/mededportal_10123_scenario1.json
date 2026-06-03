@@ -1,0 +1,40 @@
+{
+  "case_id": "mededportal_10123",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10123/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked about onset, location, duration, quality, and of pain",
+    "Asked about medications you are taking",
+    "Asked about visual changes",
+    "Asked about excessive sweating",
+    "Asked about goosebumps",
+    "Asked about when you moved your bowels last",
+    "Asked about how you manage your urine",
+    "Washed hands, either before history or before examination. May use hand sanitizer instead.",
+    "Sits you up",
+    "Loosens clothing",
+    "Obtains vital signs",
+    "Checks cranial nerves",
+    "Examined feet for ingrown toenails",
+    "Examined catheter",
+    "Unkinks kinked catheter"
+  ],
+  "MK": [
+    "Recognizing the kinked foley as the causative factor of AD"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Expressing my agenda- opening the interview\na. Allowed me to complete my opening statement without interruption, negotiated an agenda for the visit, and elicited my full set of concerns\nb. Able to express some of my agenda\nc. Able to express little or none of my agenda",
+    "Telling my story\na. Used open ended questions, clarified details as necessary with more specific yes/no questions, summarized and gave me an opportunity to correct or add information, transitioned effectively to additional questions.\nb. I was able to tell some of my story\nc. I was able to tell little or none of my story",
+    "Understanding explanations\na. Assessed my understanding of the problem and desire for more information, explained using words that were easy for me to understand, and asked me if I had any questions\nb. Able to understand some of the explanations clearly\nc. Able to understand few or none of the explanations clearly",
+    "Committing to the plan\na. Included me in choices and decisions to the extent that I desired, checked for mutual understanding of diagnostic or treatment plans, and identified additional resources as appropriate\nb. Able to somewhat commit to the plan\nc. Able to minimally or not at all able to commit to the plan",
+    "Understanding what will happen next\na. Clarified follow-up, what to do if problems arise, discussed prevention of AD\nb. Able to understand some of what will happen next\nc. Able to understand little or none of what will happen next",
+    "Understanding my perspective\na. Asked about my thoughts, reactions to the illness, diagnosis, and treatment.\nb. Learner had partial understanding of my perspective\nc. Learner had little or no understanding of my perspective",
+    "Supporting my emotions\na. Asked me to talk more about a stated emotion, recognized and asked me about an emotion implied through tone of voice, facial expression, or other body language\nb. Learner sometimes recognized, asked me about, or validated my emotions\nc. Learner rarely or never recognized, asked me about, or validated my emotions",
+    "Showing interest in me as a person\na. Showed interest in me as a person when greeting me, used words to show that he/she cared throughout the interview, and used tone, pace, eye contact, and posture to show care and concern\nb. Showed some interest in me as a person\nc. Showed little to no interest in me as a person",
+    "Overall encounter rating\na. I would be very likely to return to this person as my future care giver\nb. I would be somewhat likely to return to this person as my future care giver\nc. I would be unlikely to return to this person as my future care giver"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-15-10823-s001",
+  "scenario": "scenario12",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10823-s001/scenario12",
+  "rubric_version": "v1",
+  "PC": [
+    "Patient rapidly assessed (circulation, breathing, airway; injuries)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Patient triaged & correct category verbalized: Emergent, Urgent, Not Urgent",
+    "Patient dispositioned appropriately, bedboard #s utilized in decision",
+    "Overall: Accurate and efficient of assessment, triage, disposition"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

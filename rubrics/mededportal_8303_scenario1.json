@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_8303",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8303/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Gets pt out of wet clothes",
+    "Tries naloxone (no change)",
+    "Checks glucose (normal)",
+    "Initiates non-invasive rewarming (minimal change)",
+    "Initiates some form of invasive rewarming",
+    "Obtains info from available sources (patient, medics, family, police).",
+    "Performs/directs primary survey in orderly fashion.",
+    "Expose/undress/remove wet clothes",
+    "Directs airway management, recognizing need for and executing RSI.",
+    "Initiates another IV and resuscitation fluids via “Level 1”",
+    "Initiates aggressive rewarming techniques",
+    "Administers naloxone, checks bedside glucose",
+    "Performs/directs secondary survey in orderly fashion.",
+    "Recognizes/treats Vfib appropriately"
+  ],
+  "MK": [
+    "Recognizes hypothermia"
+  ],
+  "SBP": [
+    "Participant must use rapid infuser due to lack of availability of warmed IV fluids.",
+    "Dispositions patient appropriately"
+  ],
+  "ICS": [
+    "Organizes team/assigns duties to specific members of the team.",
+    "Provides clear instructions to team throughout resuscitation.",
+    "Directs CPR resources / change operators"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Appears confident and calm & asks for help if needed."
+  ]
+}

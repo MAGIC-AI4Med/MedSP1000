@@ -1,0 +1,43 @@
+{
+  "case_id": "mep-14-10725-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10725-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "When did his symptoms start? How long have they been present?",
+    "Exacerbating/relieving factors",
+    "Progression of his symptoms",
+    "How long was his run?",
+    "How much fluid did he drink? What types of fluids did he drink?",
+    "Has this occurred to him during other races?",
+    "Any other associated symptoms?",
+    "PMH, PSH, Meds, Allergies, FH",
+    "What physical exam findings would you obtain for this patient?",
+    "What additional lab tests would you like to obtain? What abnormal characteristics would you be looking for?",
+    "Mr. Stevens needs IV fluid to both increase blood volume and rehydrate the cells; an isotonic saline solution (0.9% sodium chloride) should be administered first to correct extracellular fluid depletion and increase volume.",
+    "Definitely not. Mr. Stevens isn't suffering from a loss of blood, but a loss of fluids. Saline solutions are preferable as they are cheaper."
+  ],
+  "MK": [
+    "There is tachycardia and hypotension which may be due to dehydration from the race. The respiratory rate is elevated; this might be explained as a respiratory compensation (hyperventilation) due to acidosis caused by dehydration.",
+    "The dry conjunctiva and mouth are abnormal (signs of dehydration).",
+    "JVP could not be obtained since JVs cannot be visualized while supine. Delayed CRT - sign of moderate dehydration and presence of tachycardia.",
+    "Weight lost = 155-145 = 10 lbs",
+    "Percentage lost = (10 lbs/155 lbs) * 100 = 6%",
+    "60% of body weight is water: 60% of 10 lbs= 6 lbs.",
+    "Differential: Dehydration, heat exhaustion, heat stroke",
+    "For heat exhaustion, the patient's core body temperature typically rises to 104° F",
+    "For heat stroke, the patient's core body temperature is higher than 104° F",
+    "Mr. Stevens has lost 6% of his weight, delayed skin turgor, slightly prolonged capillary refill time, dry mucous membranes, increased heart rate, and decreased blood pressure. Consequently, he fits under the moderate dehydration category.",
+    "WBC and platelet counts are normal. MCH and MCHC are normal.",
+    "The hematocrit is high and the mean corpuscular volume (MCV) is low. Erythrocytes look normal on the blood smear.",
+    "Mr. Stevens has lost water from his body through sweat. This loss of water leads to a contraction in the extracellular fluid volume and contraction of plasma volume. However, the RBC count is still the same as Mr. Stevens hasn't lost any blood. The same amount of RBCs in a smaller volume of fluid produces a higher hematocrit. As the water levels in the interstitial fluid and plasma decrease, the concentration of solutes dissolved inside (osmolarity) will increase. The higher concentrations of solutes in plasma makes it hypertonic relative to the RBCs. Consequently, water will flow out of the cells and reduce their volume. This process will lead to a reduced MCV. However, the MCV reduction is not severe enough to be obvious visually in a blood smear.",
+    "The ECF osmolality would drop, and water would flow into the ICF. Lower ECF osmolality would cause cell volume to increase.",
+    "ECF osmolality will increase. Water will flow out of the ICF. Cell volume will shrink."
+  ],
+  "SBP": [
+    "Mr. Steven's symptoms suggest moderate dehydration. His reduced blood pressure and elevated heart rate are severe enough to be admitted to the hospital."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-14-10668-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10668-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "The students discussed general health needs common to refugee populations."
+  ],
+  "SBP": [
+    "The students identified barriers to accessing care for this patient.",
+    "The students were able to work together to break down barriers to accessing care.",
+    "Students were able to discuss the consequences of not treating this patient as a health care team.",
+    "Students articulated health disparities or social determinants of health for this patient (i.e. health, social, environmental conditions that affect overall well-being)."
+  ],
+  "ICS": [
+    "All students discussed their role as a health care professional in this patient's care."
+  ],
+  "PBLI": [
+    "Students identified bias or assumptions in their exploration of this patient's case."
+  ],
+  "PROF": []
+}

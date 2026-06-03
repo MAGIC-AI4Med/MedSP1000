@@ -1,0 +1,71 @@
+{
+  "case_id": "mededportal_9317",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9317/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Do you have any pain or bad taste in the mouth or pain on biting/chewing?",
+    "How often do you brush and floss?",
+    "Do your notice that your gums bleed when you brush or floss?",
+    "Do you drink sugared beverages like pop, juice, energy drinks, tea, etc. and if so, can you estimate how much and how often?",
+    "Any adverse effects from the use of the analgesics?",
+    "Follow up on the alcohol use.",
+    "What exactly is the dose of ibuprofen that is used?",
+    "Does the ibuprofen and or acetaminophen actually relieve the pain?",
+    "Have you ever taken over the counter or prescription medication to help you lose weight",
+    "How much is your back pain limiting your daily activities? (work, household, hobbies, social or recreational)",
+    "What do you find makes your pain worse?  Better? (E.g. Sitting, standing, certain activities)",
+    "How have you been doing with the home exercise program you were given a month ago?  Any problems?  Doing it?",
+    "Are you able to sleep at night?  In your bed (vs a recliner?)",
+    "Are you getting any regular exercise?  What do you most enjoy?  What limits you most?",
+    "On a scale of 0-10, please rate your pain level with 0 being no pain and 10 being the worst pain you have ever felt.",
+    "Please describe the pain you are having.",
+    "Is there anything that makes the pain worsen?",
+    "What has been helpful in relieving the pain?",
+    "What is an acceptable level of pain for you?",
+    "Have you completed a diet journal?",
+    "Can you tell me what you have eaten so far today and yesterday?",
+    "Has anyone ever talked to you about healthy food portions or how to read food labels for nutrition content?”",
+    "How do you cope with stress at home? Do you have a support system?",
+    "How long have you had a problem with obesity?",
+    "Have you been obese all of your life?",
+    "How many calories do you eat in a day?",
+    "Have you ever counted calories?",
+    "Tell me about a typical day of eating for you?",
+    "Do you snack in between meals?",
+    "How much soda pop do you drink?",
+    "How much sleep do you get each night?",
+    "Do you eat when you are feeling stressed?",
+    "Do you understand the long-term complications that come from carrying so much weight?",
+    "Do you have morning headaches or daytime sleepiness?"
+  ],
+  "MK": [
+    "Discuss from each disciplines perspective what information to gather from Pat and issues to address",
+    "Students review initial case summary and generate information to be collected (main questions from each discipline and why) and issues to potentially be addressed (with facilitator input as needed)",
+    "Identify patient problem list and consider what the patient’s goals may be.",
+    "Each discipline should be prepared to share at least one strategy or recommended intervention for achieving patient centered goals"
+  ],
+  "SBP": [
+    "Do you have regular dental visits? If so, when was your last visit?",
+    "Do you have insurance that would help cover the cost of prescription medications?",
+    "Do you have any financial concerns related to your medical care?",
+    "Prioritize which treatments/interventions to initiate and discipline(s) responsible (collaborative?)",
+    "Identify potential barriers to achieving pt-centered goals.",
+    "Discuss how one builds a team (beyond referral) to achieve pt goals",
+    "Discuss potential barriers to functioning effectively as a healthcare team (in real-world settings where you don’t get to observe every discipline)"
+  ],
+  "ICS": [
+    "Students introduce themselves; briefly identify their discipline and educational preparation (how much preclinical and how much clinical at this point in their training).",
+    "A representative of each discipline interviews Pat (Note: Pat will not give feedback until completion of all interviews).",
+    "After the interviews, the group will review information and discuss treatment planning and concerns.",
+    "Students decide who will interview simulated patient (1 from each discipline); in what order and their time constraints (may depend on # of interviewers/disciplines). First at-bat, if present are Nurse Residents, followed by PT/Pharm, Dietetic Interns or PA (team decides) with Med student to go last. Allocate time equally.",
+    "After each discipline interview, group delineates on white board what information has been collected (what do we know now) and issues that have arisen. During this time (2-4 minutes) SP makes notes to guide subsequent feedback after all interviews completed.",
+    "How the way they were communicated with made them feel. Were questions and comments understandable, non-judgmental? Did SP feel heard and like a member of the team. Did team work well together?",
+    "If any counseling provided, did SP feel motivated and/or educated by approach to participate in own care and lifestyle changes?"
+  ],
+  "PBLI": [
+    "Students should pay attention to information and insight they get from seeing what other disciplines do",
+    "Discuss the challenges of treating a patient with obesity."
+  ],
+  "PROF": []
+}

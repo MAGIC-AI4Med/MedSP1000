@@ -26,6 +26,9 @@ status/
 .idea/
 .vscode/
 
-# Secrets
+# Secrets — never commit a filled-in config (keep config.example.yaml only)
 .env
 *.key
+configs/config.yaml
+**/config.effective.yaml
+scenario_directories_full.json

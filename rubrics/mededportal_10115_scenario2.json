@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_10115",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10115/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Resident recognizes abnormal vital signs (PC1)",
+    "Resident performs and communicates a reliable, comprehensive history and physical exam (PC2)",
+    "Resident determines the necessity of diagnostic studies (PC 3)",
+    "Resident consistently asks patients for drug allergies (PC5)",
+    "Resident recognizes the need for patient re-evaluation (PC6)",
+    "Resident can manage a single patient amid distractions (PC8)",
+    "Resident can perform basic airway maneuvers or adjuncts (jaw thrust/chin lift/oral airway/nasopharyngeal airway) and ventilates/oxygenates patient using BVM (PC10)"
+  ],
+  "MK": [
+    "Resident constructs a list of potential diagnosis based on chief complaint and initial assessment (PC4)",
+    "Resident knows the different classifications of pharmacologic agents and their mechanism of action. (PC5)",
+    "Resident can describe upper airway anatomy (PC10)"
+  ],
+  "SBP": [
+    "Resident can describes basic resources available for the care of patients in the Emergency Department (ie. Appropriate dispo/consults) (PC7)"
+  ],
+  "ICS": [
+    "Resident establishes rapport with and demonstrate empathy toward patients and their families (ICS1)",
+    "Resident listens effectively to patients and their families (ICS1)",
+    "Resident participates as a member of a patient care team (ICS2)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Resident demonstrates behavior that conveys caring, honesty, genuine interest and tolerance when interacting with a diverse population of patients and families"
+  ]
+}

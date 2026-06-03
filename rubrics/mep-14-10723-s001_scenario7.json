@@ -1,0 +1,25 @@
+{
+  "case_id": "mep-14-10723-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10723-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "The first step should be stabilization of the patient, followed by surgical consultation.",
+    "| CBC + differential | Highly likely to be abnormal given time course and fevers; results may support clinical diagnosis | Provides a snapshot of lab abnormalities (e.g., leukocytosis, anemia); trend over time may be helpful | Labs should **not** be a reason to delay surgical consultation | Intermediate; higher value than in simple SSTI but lower value than immediate surgical consultation |",
+    "| CRP | Highly likely to be abnormal given time course and fevers; results may support clinical diagnosis | Trend over time may be most helpful | Labs should **not** be a reason to delay surgical consultation | Intermediate; higher value than in simple SSTI but lower value than immediate surgical consultation |",
+    "| Blood culture | Higher pre-test probability of being abnormal in ill-appearing patient | Could guide anti-microbial management | Labs should **not** be a reason to delay surgical consultation | Intermediate; higher value than in simple SSTI but lower value than immediate surgical consultation |",
+    "| Ultrasound | Helpful if thrombosis or thrombophlebitis is suspected; however, this does not fit as well with patient's history and presentation | Depends on quality and experience of ultrasonographer | When necrotizing infection is suspected, ultrasound will delay appropriate care | Low |",
+    "| MRI | Indicated for this patient who has failed appropriate empiric therapy, now with systemic toxicity and clinical worsening | Provides most detailed view of skin and soft tissue planes | MRI should **not** be a reason to delay surgical consultation | Intermediate |",
+    "| Empiric Antibiotics | N/A |  |  | High. Adjunctive therapy; *not* *curative* without surgical intervention |"
+  ],
+  "MK": [
+    "When a patient presents with systemic toxicity (e.g., fevers, malaise, nausea, vomiting, SIRS/sepsis) in the setting of worsening SSTI, and/or atypical exam features are present (e.g., pain out of proportion; spreading edema and erythema), you should have a high index of suspicion for necrotizing SSTI."
+  ],
+  "SBP": [
+    "| ID consult | Consultation not necessary to start empiric therapy for necrotizing infection | ID may be able to assist with local resistance patterns (e.g., for MRSA) | ID consultation should not be a reason to delay care or to start empiric antibiotics | Low |",
+    "| General Surgery consult | When necrotizing infection is suspected, this is first-line. STAT page. | Surgical exploration and debridement are both diagnostic and therapeutic; an experienced surgeon's exam can be extremely valuable | If false positive – risk of anesthesia and surgery | **Highest value – both for diagnosis and treatment** |"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

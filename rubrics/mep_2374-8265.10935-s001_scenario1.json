@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10935-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10935-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Insert short, large bore IV’s",
+    "Check capillary glucose and treat hypoglycemia with D50",
+    "Send appropriate labs including basic metabolic panel and a complete blood count",
+    "Promptly initiate IV fluid resuscitation based on tachycardia and hypotension (orthostatics)"
+  ],
+  "MK": [
+    "Note hypokalemia, anemia, and leukocytosis",
+    "Develop a differential diagnosis of at least three diagnoses"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

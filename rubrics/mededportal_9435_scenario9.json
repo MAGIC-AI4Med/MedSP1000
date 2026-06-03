@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "M1Wash hands",
+    "M49: Inspect breasts(D)",
+    "M50: Inspect breastswhile patient raisesarms outstretchedabove the head (D)",
+    "M51: Inspect breastswhile patient hold handsagainst hips (D)",
+    "M52: Palpate axillarynodes (anterior, post., &amp;prox. humerus)bilaterally (D)",
+    "M53: Inspect breastswhile patient raises ipsilateral arm abovehead (D)",
+    "M54: Palpate breastsbilaterally (D)",
+    "M15: Palpate supraclavicular nodesbilaterally"
+  ],
+  "MK": [
+    "Beth, 45 years old, came to the clinic because she found a lump in her right breast. She wants to know whether or not it is cancerous. You are thinking of possible breast cancer or fibrocystic changes. In anticipation of your physical exam of the breast, list the positive sign(s) associated with each diagnostic hypothesis.",
+    "Given the results of your physical exam, which diagnosis is most likely? [x] breast cancer [ ] fibrocystic changes [ ] neither because the findings are ambiguous or contradictory [ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

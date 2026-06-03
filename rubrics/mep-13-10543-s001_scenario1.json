@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-13-10543-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10543-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Deliver bad news paying attention to the patient’s/family’s level of understanding.",
+    "Counsel patient and family to aid understanding of treatment plan in a simplified and understandable manner.",
+    "Demonstrate empathy towards patient’s and family’s problems and attempt to provide solutions while taking their circumstances and cultural beliefs into account.",
+    "Establish rapport with the family",
+    "Discuss the diagnosis and overall treatment plan.",
+    "Engage the patient and family in a discussion about their personal and cultural beliefs",
+    "Be prepared to discuss psychosocial challenges an immigrant family may be facing"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.11400-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11400-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Medication benefits or side effects",
+    "Increase sertraline to 50 mg daily.",
+    "Continue long-acting methylphenidate (Concerta) 36 mg daily."
+  ],
+  "MK": [
+    "**Describe the tenets of Cognitive-Behavioral Therapy:**\nCBT is goal-oriented and problem focused and focuses on what is happening currently.\nCBT emphasizes collaboration and active participation, so children may get homework assignments to complete at home and parents may need to help with the homework at times.\nCBT teaches children to identify, evaluate, and respond to the “dysfunctional” thoughts they are having that are contributing to their problems.\nCBT uses a variety of techniques to change thinking, mood, and behavior. Children are often taught specific strategies for coping with their difficulties."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Inform mother that all therapists work a little differently, but she can expect that at some point the psychologist will want to spend some time alone with both mother and Stephanie, since most children/teens tend to be a little more open when they aren’t speaking in front of their parents.",
+    "Explain that the psychologist will ask both mother and Stephanie a lot of questions, as he/she is trying to figure out exactly what is going on with Stephanie and what type of treatment will be most helpful. Mother and Stephanie may be asked to complete some questionnaires.",
+    "Explain that mother and child should both feel comfortable with the therapist, since a good client-therapist relationship is important to the success of therapy."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

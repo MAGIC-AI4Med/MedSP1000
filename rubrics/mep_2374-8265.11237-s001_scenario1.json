@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.11237-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11237-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Counsel patient on safe firearm storage, describing why the patient may be at higher risk. Describe options for safe firearm storage."
+  ],
+  "MK": [
+    "Patient with recent suicide attempt and history of depression who owns a firearm and stores it unlocked. Additionally, the patient’s grandson, who is 6 years old, will be staying with the patient for a few weeks. Risk for patient for future self-inflicted firearm injury, and risk for grandson for unintentional injury."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

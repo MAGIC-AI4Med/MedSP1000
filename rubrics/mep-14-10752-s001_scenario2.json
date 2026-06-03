@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-14-10752-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10752-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Generally, patients who don\u2019t speak English are less likely to have a regular source of medical care and access to preventative screenings.",
+    "Language barriers are associated with decreased patient satisfaction, decreased patient compliance, and worsened disease severity.",
+    "Ms. Garcia has several signs of domestic abuse: multiple bruises and a dislocated elbow with a suspicious story.",
+    "Her status as a recent immigrant may make it more difficult for her to leave or report her abuser.",
+    "The fear of law enforcement and of being deported empowers abusers and pushes victims to stay in abusive relationships."
+  ],
+  "SBP": [
+    "Even with the availability of language services, research demonstrates these services are often underutilized.",
+    "When physicians do not utilize interpreters, they often turn to patient family members or children for translation; these ad hoc interpreters lack training in medical terminology and confidentiality and may have conflicts of interest."
+  ],
+  "ICS": [
+    "The best option for limited English speaking patients is the use of trained interpreters."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

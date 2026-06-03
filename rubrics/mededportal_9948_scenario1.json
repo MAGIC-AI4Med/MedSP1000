@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_9948",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9948/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Focused brief history, primary and secondary survey",
+    "Gives antivenin",
+    "Recognizes and treats anaphylactic reaction",
+    "Delivers child using appropriate maneuvers",
+    "Resuscitates neonate",
+    "Delivery of placenta",
+    "Mother:\n\nBimanual fundal massage and Pitocin for post-delivery vaginal bleeding\n\nIV Fluid Bolus, Pain control"
+  ],
+  "MK": [
+    "Appropriate review and interpretation of images"
+  ],
+  "SBP": [
+    "Admits patient to Intensive Care Unit (ICU)",
+    "Transfers mother and child"
+  ],
+  "ICS": [
+    "Updates patient and discusses disposition"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

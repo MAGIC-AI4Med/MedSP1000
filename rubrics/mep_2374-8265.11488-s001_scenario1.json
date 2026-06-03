@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.11488-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11488-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Identify the patient’s chief concern and patient needs",
+    "Explore precipitating factors contributing to the patient’s presentation",
+    "Identify static suicide risk factors",
+    "Identify dynamic suicide risk factors",
+    "Identify protective factors",
+    "Assess for current suicidal ideation and baseline suicidal thoughts (if applicable)"
+  ],
+  "MK": [
+    "Major depressive disorder - leading diagnosis. Patient with greater than 2 months of depressive symptoms including lower mood, sleep changes (trouble staying asleep), appetite changes (25# weight loss in the last 6 months), poorer concentration, anhedonia, feelings of guilt, and suicidal ideation.",
+    "* Alcohol use disorder – patient reports drinking ½ of a pint of vodka daily currently. Reported regular alcohol use for the last 2 months. Further information is needed to assess for alcohol use disorder and, if present, its severity. As it is not the focus of this case, if the SP is asked further details about his alcohol use, he can state “I don’t want to talk about that right now”. * Substance-induced mood disorder – less likely as patient’s symptoms of major depressive disorder predates his regular alcohol use * Prolonged grief disorder – less likely as patient meeting criteria for major depressive disorder"
+  ],
+  "SBP": [
+    "Disposition: inpatient psychiatric hospitalization for psychiatric stabilization (including medication management)",
+    "Though the safety plan would likely be made on the inpatient unit, consider some aspects of the patient’s safety plan, including limiting access to lethal means (removing the firearm from the home until depression and suicidal ideation resolve) and utilizing support (primary care clinic, family, friend), including crisis resources, when needed."
+  ],
+  "ICS": [
+    "Greet patient, state name, and state role being clear and concise",
+    "Respect the patient’s personal space and be approachable",
+    "Offer validation and reinforce that the patient is safe",
+    "Appropriate support should be provided to the patient throughout the interview."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

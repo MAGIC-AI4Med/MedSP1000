@@ -1,0 +1,39 @@
+{
+  "case_id": "mededportal_10081",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10081/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "**Obtained a family and social history**",
+    "**Performed review of systems including nutrition, elimination, sleep, behavior, and activities**  **vides usefulre lhe encounter**",
+    "**Assessed the baby’s level of development**",
+    "asked if my baby has any **special needs** (Comm)",
+    "reviewed the **questionnaire** that I completed in the exam room (comm.).",
+    "asked about my **family** situation (Hx).",
+    "asked me whether I am **breast or bottle feeding**, and followed up by asking specifics about feeding (Hx).",
+    "asked about **elimination** (Hx).",
+    "asked about the baby’s **sleep** patterns (Hx).",
+    "asked if the baby has any **behavior** problems (Hx).",
+    "asked about the baby’s **physical activity** and asked about specifics (Hx).",
+    "asked about the baby's **expressions and responses** to others (Hx).",
+    "made a recommendation for **immunizations** and a laboratory test (Hx)."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "**Established a positive atmosphere at the beginning of the interaction**",
+    "**Comfortably situated in the room**",
+    "**Used questions to gather an interval history while building the therapeutic relationship**",
+    "**Summarizes the identified active problems**",
+    "**Provides anticipatory guidance for pertinent active problems**",
+    "**Works through sensitive areas and a supportive, nonjudgmental manner**",
+    "**At closure, expresses appreciation to the mother**",
+    "**listened** to me and paid attention (Comm).",
+    "found a place to sit so that we were **comfortably situated** and able to communicate easily (Comm).",
+    "asked about any **special concerns** that I might have (Hx).",
+    "**discussed selected issues** identified during the interview and review of the questionnaire (Hx).",
+    "**summarized** the issues that were identified during the visit (comm)."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

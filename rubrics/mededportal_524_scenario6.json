@@ -1,0 +1,48 @@
+{
+  "case_id": "mededportal_524",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_524/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Primary assessment (ABCDs)",
+    "Acquisition of vital signs",
+    "Removal of clothing",
+    "Basic airway management (OPA, NPA, $100 \\%$ oxygen administration with mask ventilation)",
+    "Basic circulatory management (abdominal wound dressing, peripheral venous access)",
+    "Advanced airway management (surgical airway, placement confirmation and securement, ventilator management)",
+    "Advanced circulatory support (cardiac monitor, additional venous access)",
+    "Secondary assessment (incl. log-rolling patient)",
+    "Hemorrhagic shock evaluation and management (implementation of specific testing, i.e. hematocrit, and treatment, crystalloid infusion and type-specific blood)",
+    "Continued patient evaluation and respiratory / circulatory support",
+    "Supportive therapies upon improvement of circulatory function (sedation, analgesia, wound cleaning, antibiotic and tetanus vaccine administration, fluid warmer, space blanket)",
+    "Cricothyroidotomy",
+    "Breathing Assessed by Auscultation",
+    "Needle Thoracentesis"
+  ],
+  "MK": [
+    "Recognition of respiratory failure (neck hematoma)",
+    "Recognition of circulatory failure (impaired perfusion)",
+    "Infrascapular thoracoabdominal penetrating military GSW wound recognition",
+    "Hemorrhagic shock recognition (incl. identification of hemorrhage sites)",
+    "Recognize indication for intubation",
+    "Recognize indication for cricothyroidotomy",
+    "Recognized tension pneumothorax"
+  ],
+  "SBP": [
+    "Establishment of team structure with role assignment",
+    "Call for assistance",
+    "Triage to emergency surgery",
+    "Engage members in planning process; identify established tobe used or develop a plan; engage team members in decisionmaking process; alert team to potential biases and errors;report slips,lapses,and mistakes to team;advocate and asserta position or corrective action, invoke the Two-Challenge rulewhenan initial assertion is ignored",
+    "Execute protocol or team-established plan,integrate individualassessments of patient needs,replan patient care in responseto overall caseload of team,prioritize tasks for individualpatients,cross monitoractions of team members,balanceworkload within team,request assistance for task overload,offer assistance for task overload, constructively use periods oflowworkload"
+  ],
+  "ICS": [
+    "Deployment of appropriate communications $^ +$ teamwork behaviors",
+    "Patient information transfer to surgeon for definitive intervention and disposition",
+    "Establish the leader,assemble the team,assign roles andresponsibilities,communicate essential team information,acknowledge contributions of team members to team goals,demonstrate mutual respect in all communication,hold eachotheraccountable for team outcomes,address professionalconcerns directly,resolve conflicts constructively",
+    "Request situation awareness updates,provide situationawareness updates,use ED common terminology in allcommunications,call out critical information during emergentevents,use check backs to verify information transfer,systematically handoff responsibilities during team transitions,offer information to support planning and decision making,communicate decisions and actions to team members,seekinformation for planning and decision making"
+  ],
+  "PBLI": [
+    "Engage in situational learning and teaching with the team,engage in coaching with team members,conduct shift reviewsof teamwork,conduct event reviews of teamwork,includeteamwork considerations in educational forums,reviewteamworkaspartofclinical casereviews"
+  ],
+  "PROF": []
+}

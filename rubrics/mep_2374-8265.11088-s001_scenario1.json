@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.11088-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11088-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a primary survey (A-B-C-D-E) with intervention provided, when appropriate",
+    "Identify hypotension and administer IV fluid bolus",
+    "Identify deteriorating neurologic status after head injury and secure airway",
+    "Perform a secondary survey after primary survey is complete",
+    "Check equipment prior to intubation attempt",
+    "Provide appropriate chest decompression for tension pneumothorax"
+  ],
+  "MK": [
+    "Recognize progressive tachypnea and hemodynamic collapse from tension pneumothorax",
+    "Recognize severe inhalation injury and need for early airway intervention"
+  ],
+  "SBP": [
+    "Divide into teams to assess multiple patients in parallel",
+    "Allocate team members based on patient acuity",
+    "Reallocate human resources when the clinical scenario changes with arrival of a new patient",
+    "Adapt to resource limitations by sharing equipment and monitors, when necessary",
+    "Mobilize resources and communicate to continue to provide care during an unexpected power outage"
+  ],
+  "ICS": [
+    "Assign roles for initial patient assessment and treatment",
+    "Communicate about how to reallocate staff and resources to assess and treat the new arrival",
+    "Assign roles and a perform primary survey (A-B-C-D-E)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

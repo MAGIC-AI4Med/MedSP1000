@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9641",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9641/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform airway assessment—recognize airway compromise and perform intubation.",
+    "Perform appropriate primary and secondary survey. Obtain information from ancillary sources, such as EMS. Recognize smoke inhalation.",
+    "Tachypnea recognized—oxygen and intubation initiated",
+    "Hypotension recognized— fluid resuscitation started",
+    "Smoke inhalation recognized—CO concentration and lactate sent",
+    "CN poisoning recognized—treat with hydroxocobalamin, or if not available, sodium thiosufate. If treating with sodium thiosulfate, consider sodium nitrite and amyl nitrite."
+  ],
+  "MK": [
+    "Recognize that the patient is not responding to initial interventions. Perform an assessment for complications of smoke inhalation (trauma, CO poisoning)."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

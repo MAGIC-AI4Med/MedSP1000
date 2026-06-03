@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-16-10869-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-16-10869-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Formulate a clinical plan involving genetic testing to refine the differential diagnosis."
+  ],
+  "MK": [
+    "Integrate physical exam findings and presenting features to propose a differential diagnosis.",
+    "Analyze a family history and create a pedigree to identify genetic transmission patterns and familial risks."
+  ],
+  "SBP": [
+    "Synthesize the findings as would be presented when seeking a genetics consultation."
+  ],
+  "ICS": [
+    "Translate the clinical findings into patient-centered language to communicate genetic diagnoses, testing options, and patient/family support resources.",
+    "Initiate the partnership between physicians and genetic counselors."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

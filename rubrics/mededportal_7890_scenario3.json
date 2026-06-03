@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_7890",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7890/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Need complete functional history: Does the patient need assistance with basic activities of daily living (bathing, dressing, toileting, continence, ambulation and feeding)? How long has the caregiver been doing these tasks for the patient? Has the patient's function continued to decline, especially recently, so the caregiver is doing more for the patient?",
+    "Need a complete social history including gaining information about the following which are risk factors for mistreatment.\nOlder age\nLack of access to resources\nLow income\nSocial isolation\nLow level of education\nFunctional decline\nSubstance abuse (by older person or caregiver)\nPsychological disorders/Cognitive impairment\nHistory of family violence\nCaregiver burnout and frustration",
+    "Need to ask the following general questions screening for mistreatment.\nDo you feel safe at home?\nHow do you and your daughter get along?\nIs your daughter taking good care of you?\nDo you have frequent disagreements?\nWhat happens when you disagree?\nAre you yelled at?\nHas anyone ever scolded or threatened you?\nAre you afraid of anyone at home?",
+    "Need to look for general clues in the caregiver\nPoor knowledge of patient's medical problems\nExcessive concern about costs\nAttempts to dominate medical interview\nVerbal abuse or hostility\nEvidence of substance abuse\nEvidence of mental health problems\nEvidence of financial dependence on older adult",
+    "Need to look for general clues in the victim\nFearfulness toward caregiver\nFlinching or reluctance to make eye contact\nDiagnosis of dementia with history of disruptive behavior\nDementia: unexplained resistance to, or fear of, physical touch, removing clothes, toileting, bathing\nDepression, anxiety, insomnia"
+  ],
+  "MK": [
+    "Need to recognize that multiple forms of elder mistreatment usually occur in a single victim and explore for them including: physical abuse, physical neglect, psychological abuse, financial exploitation, violation of personal rights."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

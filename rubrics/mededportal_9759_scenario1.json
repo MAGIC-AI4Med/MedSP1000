@@ -1,0 +1,58 @@
+{
+  "case_id": "mededportal_9759",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9759/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The examinee examined your thyroid by feeling from behind and asked you to swallow.",
+    "The examinee listened to your heart in four places on bare skin.",
+    "The examinee listened to the patient's lungs in the front in two places on bare skin (right and left side).",
+    "The examinee listened to your lungs on my back in six places on bare skin (comparing right and left sides).",
+    "The examinee listened to your abdomen with a stethoscope in 4 places on bare skin.",
+    "The examinee palpated your abdomen in 4 places on bare skin.",
+    "DNA PCR OR HIV-1 RNA (viral load) [2 points]",
+    "GC/Chlamydia screening",
+    "TSH",
+    "Urine toxicology",
+    "Discussed safe sex",
+    "Referral to counseling OR SSRI [2 points]"
+  ],
+  "MK": [
+    "Depression (Major depression) [2 points]",
+    "Acute HIV Infection (Viremia) [2 points]",
+    "Hypothyroidism (Metabolic disorder) [2 points]"
+  ],
+  "SBP": [
+    "Discussed resources in the community",
+    "Follow-up appointment"
+  ],
+  "ICS": [
+    "The examinee explained each part of the physical exam before/while performing it.",
+    "The examinee explained the physical exam findings to you.",
+    "The examinee considered your comfort during the physical exam.",
+    "The examinee greeted you warmly, introduced himself/herself, and addressed you by your name.",
+    "The examinee explored your personal worry that you might have an HIV infection.",
+    "The examinee did not interrupt you while you were talking.",
+    "The examinee approached sensitive subject matters, such as your sexual history and orientation, without judgment or bias, and did not preclude the possibility that you identify as LGBT.",
+    "The examinee showed interest in you as a person, and remained friendly and compassionate for the entire encounter.",
+    "The examinee encouraged you to ask questions and always answered them clearly.",
+    "The examinee used plain English and clearly explained any medical jargon.",
+    "The examinee discussed the risks of sexual activity without coming off as patronizing or judgmental.",
+    "The examinee inquired about your home life and social support.",
+    "The examinee provided you with information regarding the possible diagnoses.",
+    "The examinee discussed management options with you.",
+    "I feel confident that the examinee understood everything that I said during the encounter.",
+    "I feel confident that I understood everything that the examinee said during the encounter.",
+    "I did not have to ask the examinee to repeat or rephrase a sentence because I could not understand it, even though I heard it clearly.",
+    "The examinee pronounced words in a manner that was familiar to me and easy to understand.",
+    "The examinee used words in fashion and order consistent with spoken American English."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "The examinee washed his/her hands without prompting.",
+    "The examinee appropriately draped you during the physical exam.",
+    "The examinee treated you with respect and did not talk down to, or patronize, you.",
+    "The examinee assured you of the confidential nature of your conversation.",
+    "The examinee respected your autonomy and allowed you to make your own decisions in management."
+  ]
+}

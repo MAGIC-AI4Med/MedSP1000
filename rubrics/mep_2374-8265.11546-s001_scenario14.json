@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11546-s001",
+  "scenario": "scenario14",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11546-s001/scenario14",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Due to the rapid physiologic changes associated with surgery and anesthesia, some believe it is reasonable to discuss rescinding a pre-existing DNR order to enable resuscitative efforts if needed"
+  ],
+  "SBP": [
+    "A discussion among treatment teams and patient/surrogate is warranted to reach a consensus regarding intraoperative management, one that continues to honor patient autonomy"
+  ],
+  "ICS": [
+    "Sit at eye level.",
+    "Ask if patient wishes for others to be present.",
+    "Introduce the subject and ask for permission to proceed:\n“I’d like to discuss something with you that I discuss with all patients I admit to the hospital. Is that okay?”\n“I’d like to talk with you about possible healthcare decisions in the future. Is that okay?”",
+    "Ask open-ended questions:\n“Can you tell me about your health?” or “What do you understand from what the teams have shared with you about your health?”",
+    "If the patient is open to it, fill in any details that may be missing:\n“Is it okay if I share with you what I know?”",
+    "“What is important to you?”",
+    "Ask what they know or may like to know about code status and explain in simple terms.\n“If a patient’s heart stops beating, we sometimes press firmly on their chest to pump blood through their body, use electricity to shock their heart back into beating, and place a breathing tube in their windpipe.”\n“Unfortunately, this does not always lead to recovery or survival. In fact, only about 1 in 7 people survive CPR and are discharged from the hospital. Some of these may experience complications related to CPR, including permanent neurological and functional impairment.”\nDon’t be afraid to describe resuscitative efforts in the context of their illness! Survival is decreased with advanced illness.\n“Sometimes my patients will say they wouldn’t want these things, which is why I ask.”",
+    "Don’t forget to respond to any emotion you encounter along the way!",
+    "Feel free to make a recommendation with their permission.",
+    "One way to explain it to patients may be: “If something happens to your heart in the surgery, we have the ability to act quickly since we will be closely monitoring all of your vitals. Our goal is always to give you the best possible outcome from your surgery so that you can continue living your life.”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

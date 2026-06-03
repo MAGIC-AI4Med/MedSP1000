@@ -1,0 +1,17 @@
+{
+  "case_id": "mededportal_10121",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10121/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "The resident responsible for admitting Grace has asked you to obtain a focused medical interview with relevant history from Ms. Collins.",
+    "\\*Do not perform a physical exam.\\*"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Your resident has tasked you with initiating the discussion of patient values and medical options, including medical termination, in addition to your history."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

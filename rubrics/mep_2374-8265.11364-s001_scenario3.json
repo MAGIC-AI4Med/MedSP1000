@@ -1,0 +1,39 @@
+{
+  "case_id": "mep_2374-8265.11364-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11364-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Try to gather the history as you would for any other patient. Ask questions and allow the patient to talk.",
+    "Direct the patient to position themselves to facilitate visual inspection.",
+    "labs/imaging: COVID 19 test, influenza test,cbc, tsh  labs/imaging: chest x-ray if worsens",
+    "medications/treatments: Tylenol, motrin, cough meds  education: masks, covering face, cdc.gov  disposition: when to return to work, quarantine protocol, ED precautions"
+  ],
+  "MK": [
+    "Diagnosis 1: COVID 19 related illness  History supporting: Dry cough, fever, recent travel",
+    "2nd or 3rd Dx : Influenza, bacterial pneumonia, mycoplasma  History supporting: No flu shot this year, dry cough  PE supporting: fever, mildly ill appearing, frequent cough during interview"
+  ],
+  "SBP": [
+    "Confirm audio and video function.",
+    "Address any distractions, issues with the environment.",
+    "Introduce yourself and confirm patient identity with two identifiers.",
+    "Ask if interpreter services are needed.",
+    "Document which parts of the exam were observed and which were patient reported.",
+    "**History** - Describe the history you just obtained from this patient. Include only information relevant to this patient's problem(s). Include pertinent positives and negatives. Start with ID, CC, HPI, Major and pertinent minor criteria.",
+    "**Physical Exam Findings** -Describe any positive and negative findings relevant to this patient's problem(s). Be careful to include ONLY those parts of examination you witnessed watching in THIS encounter. Please note the vitals from the document provided before the case entitled \"presenting situation and instructions to the learner.\""
+  ],
+  "ICS": [
+    "Introduce yourself and orient the interpreter",
+    "Position the interpreter behind you OR beside the patient, NOT between you if in person. If using telehealth, make sure all participants are on gallery view.",
+    "Speak directly to the patient",
+    "Speak at an even pace in short segments; pause so the interpreter can interpret",
+    "Avoid asking multiple questions or complicated compound sentences",
+    "Avoid phrases particular to English",
+    "Ask the patient to repeat back their understanding of what has been said (discharge/medication instructions)",
+    "Be patient; Don’t give up.",
+    "Encourage the interpreter to alert you to cultural concepts or misunderstandings",
+    "Inquire if the patient has a caregiver or other family members to assist if needed and ensure appropriate privacy/confidentiality."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

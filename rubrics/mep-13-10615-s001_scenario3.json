@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-13-10615-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10615-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Gender nonconformity does not necessarily equate with transgender identity. These can be part of the same continuum.",
+    "Although gender identity and expression may be fluid during adolescence, older adolescents will likely have a more firm sense of their gender identity than children or younger adolescents. For families with transgender adolescents, the adolescent’s gender identity and gender transition is likely to affect the whole family. Both gender nonconforming and transgender adolescents and their families need support from providers."
+  ],
+  "SBP": [],
+  "ICS": [
+    "We cannot assume that a patient has a transgender identity without knowing how an individual identifies their own gender identity. The best source of information for how a patient identifies their gender in terms of labels and pronouns is the patient themselves."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

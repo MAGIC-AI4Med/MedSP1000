@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.10967-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10967-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Request intravenous access",
+    "Apply monitor and verbalize vital sign abnormalities of hyperthermia, tachycardia, tachypnea, and hypoxia",
+    "Perform a physical exam and verbalize the findings of goiter, agitation, sweating, respiratory distress, rales on pulmonary auscultation",
+    "Ask the patient’s family member what events led up to the current presentation, the patient’s medical and surgical history, allergies, medications, and family history.",
+    "Apply a nonrebreather mask either by asking the RN to do so, or by personally doing so, and start flow rate of at least 10L/min",
+    "Prepare intubation equipment including both direct and/or video assisted options",
+    "Request a chest radiograph, and verbalize the finding of pulmonary edema",
+    "Request an EKG, and verbalize the finding of atrial fibrillation with rapid ventricular response",
+    "Perform POCUS of heart, lungs, and IVC, and verbalize the findings of a hyperdynamic heart, pulmonary edema, and high output heart failure.",
+    "Order labs including, but not limited to, CBC, BMP, BNP, blood gas, TSH and TFTs, and verbalize the finding of an elevated BNP",
+    "Administer medical treatment including propylthiouracil (PTU) 300 mg – 1000 mg PO, propranolol 0.5 – 2mg IV or 20-80mg PO/NG, or esmolol 250 – 500 mcg/kg IV, dexamethasone 2mg IV or hydrocortisone 100mg IV1"
+  ],
+  "MK": [],
+  "SBP": [
+    "Consult/discuss with maternal-fetal medicine the management of thyroid storm in a post-partum patient",
+    "Admit to Intensive Care Unit"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_8251",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8251/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "What Next: Assess the patient, call for help, and begin CPR immediately.",
+    "What next: Perform 5 cycles of CPR using 15 compressions: 2 breaths.",
+    "What next: Resume CPR immediately.",
+    "What next: Now defibrillate. Use 2 J/kg.",
+    "What next: Resume CPR immediately and continue for 5 cycles.",
+    "What next: Resume CPR immediately. Continue for 5 cycles.",
+    "What next: Continue CPR. Do not interrupt the CPR.",
+    "What next: Defibrillate with 4 J/kg.",
+    "What next: Resume CPR immediately. Establish IV or IO access and administer epinephrine 0.01 mg/kg IV or IO as soon as possible without interrupting CPR.",
+    "What next: Continue CPR for 1-2 minutes without interruption.",
+    "What next: Continue CPR.",
+    "What next: Hold CPR and reassess the patient. Observe for stability.",
+    "What next: You successfully resuscitated this patient. This is the end of the simulated scenario. The patient should receive supplemental oxygen, should be monitored closely, and should be promptly evaluated for further cardiac therapy."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10773-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10773-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "| MANAGEMENT OR DIAGNOSTIC PLAN | Assess glucose in office if available, Refer to lab for A1C, basic metabolic panel, thyroid levels, Refer to ophthalmology, Refer for diet/exercise. |"
+  ],
+  "MK": [
+    "| Diagnosis with support from positive and negative history and PE findings | New Onset Diabetes   * Fatigue * Polydipsia/polyuria * Polyphagia * Possible vision changes * no weight change * frequent yeast infections * possible family history * Diet/lifestyle |",
+    "| Differential with support from positive and negative history and PE findings | * Diabetes Insipidus (+fatigue, +polydipsia, + polyuria, however head injury is multiple years past) * Syndrome of Inappropriate Anti-Diuretic Hormone (+ Fatigue, + polyuria, - headaches, - irritability, - confusion) * Diabeteic Ketoacidosis (+Fatigue, +Polydipsia, + polyuria, + blurry vision, - pain, - weakness, - nausea or vomiting, - shortness of breath, - odor on breath) * Pituitary Adenoma (+vision changes, - headaches) * Hyperthyroidism (+ Fatigue, + polyphagia, - fast heart rate, - irritability/hyperactivity) * Urinary Tract Infection (+ polyuria, + pain with sexual intercourse, -blood in urine, - report of feeling like unable to fully empty bladder) |"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

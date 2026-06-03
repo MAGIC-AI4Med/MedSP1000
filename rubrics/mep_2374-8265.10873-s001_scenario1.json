@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.10873-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10873-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Engages in discussion about substance use and issues associated with it."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Greets patient appropriately.",
+    "Speaks in plain language about the problem at hand.",
+    "Acknowledges that the patient’s concerns are valid. Expresses empathy.",
+    "Explains reasoning for requesting drug screen in a clear and empathetic way.",
+    "Allows time for patient questions and answers them directly.",
+    "Gives advice to patient about how to talk to parents about the outcome of this visit."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Reassures patient that this is private health information."
+  ]
+}

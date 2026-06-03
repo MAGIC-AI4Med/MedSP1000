@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_10394",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10394/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Continue IV ampicillin $5 0 ~ \\mathrm { m g / k g 0 6 H }$ . Plan to transition to PO amoxicillin when tolerating oral intake for a 10 day course. Wean supplemental oxygen as tolerated Follow-up pending blood culture Tylenol/motrin for fever control",
+    "moderate dehydration appreciated in ED, $s / { \\mathrm { p } } 2 0 { \\mathrm { m l } } / { \\mathrm { k g } } { \\mathrm { N S } }$ bolus x 2\n\nPOAL, regular diet\n1x MIVF until improved PO intake\nMonitor UOP closely\nFollow daily weights"
+  ],
+  "MK": [
+    "This is most likely to be community-acquired pneumonia given and given his age, the most likely pathogen for this presentation is Streptococcus pneumoniae.",
+    "Other potential etiologies include: Group A Streptococcus, Staphylococcus aureus, and Haemophilus influenzae.",
+    "As this child is younger and not school aged, it is less likely for atypical organisms to be the cause of these symptoms."
+  ],
+  "SBP": [
+    "Will require inpatient care until conditions for discharge met: 1) stable on room air for at least 6 hours prior to discharge, 2) improvement in hydration status, 3) ability to tolerate PO without need for supplemental IVF, 4) able to tolerate oral antibiotics, 5) adequate follow-up arranged, 6) team and family comfortable with plan and discharge."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

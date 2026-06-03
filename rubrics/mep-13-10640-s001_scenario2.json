@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-13-10640-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10640-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "1. Expressed respect for me –used my name; verbally/non-verbally showed interest in me as a person; appeared to have my interests at heart.",
+    "2. Effectively gathered information – collected information in a way that seemed organized; began with several open-ended questions and progressed through discussion using a balanced ratio of open- to closed-ended questions; summarized periodically.",
+    "3. Listened actively – paid attention to both my verbal and non-verbal cues; used facial expressions/body language to express encouragement; avoided interruptions; asked questions to make sure I understood what he/she said.",
+    "4. Provided positive and corrective feedback – gave me specific and helpful feedback on how to improve.",
+    "5. Appropriately explored my perspective – encouraged me to identify everything that I needed to say; encouraged me to bring up my problems.",
+    "6. Stated goals clearly and concisely – made the mutual goals of the session clear in a concise way."
+  ],
+  "PBLI": [
+    "7. Met my needs – worked toward a plan which addressed my learning needs."
+  ],
+  "PROF": []
+}

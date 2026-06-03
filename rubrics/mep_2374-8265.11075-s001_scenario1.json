@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11075-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11075-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Gather appropriate tools\n5% Betadine solution\nLidocaine with Epinephrine\nSyringe with 25 gauge 5/8 needle\nHemostat or needle driver\nIris or suture scissors\nForceps\nTonopen",
+    "Visual acuity\nDocument using Snellen chart",
+    "Prepare surgical sight\nClear away debris saline\nClean skin with Betadine 5% solution",
+    "Check for Globe Rupture\nApply fluorescein stain to eye and observe for Seidel sign\nIf stain ‘runs out’, it indicates globe rupture\nIf stain doesn’t ‘run out’, must rule out posterior globe rupture\nMust still decompress if ruptured globe present with RH",
+    "Numb Cornea\nUse proparacaine eye drops",
+    "Assess IOP\nUse Tonopen to measure Intraorbital Pressure (IOP)\nIf >40mmHg then procedure indicated",
+    "Numb surgical site\nInject local anesthetic for numbing in lateral canthus\nInject from lateral canthus to orbital rim\nDirect needle tip away from globe\nShould be 1-2cc",
+    "Relieve pressure behind eye\nCrush Lateral Canthus with hemostat or needle driver to control bleeding\nShould be done for 1 minute\nCut through all layers of tissue along lateral canthus with iris scissors\nShould be 1-2cm in length laterally\nApply tension on lower lid with forceps to identify lateral canthal tendon\nTendon is just inferior and posterior to lateral canthal fold\nCut through lateral canthal ligament with iris scissors at inferior crus\nCut should be perpendicular to first cut\nYou will feel lower lid give way if done properly\nMeasure intraocular Pressure (IOP) with Tonopen to confirm pressure released\nIf still >40mmHg then decompression is inadequate\nLift upper lid and cut superior crus if pressure still >40mmHg\nShould release the rest of the pressure",
+    "Assess eye function\nMeasure eye response to light and movement\nResponse should be seen within 15 minutes of pressure release\nMeasure visual acuity with Snellen chart"
+  ],
+  "MK": [],
+  "SBP": [
+    "Page Ophthalmology",
+    "Post surgical care\nAdmit patient for observation to ensure full reduction in IOP\nApply eye shield until follow up\nSchedule Ophthalmology follow up for patient"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

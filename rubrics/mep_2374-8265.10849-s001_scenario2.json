@@ -1,0 +1,14 @@
+{
+  "case_id": "mep_2374-8265.10849-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10849-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Expected response from students: order repeat labs, potassium supplement, and communicate this to mother as well as writing note in EHR (or word processing program)."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

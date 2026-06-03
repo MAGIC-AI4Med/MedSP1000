@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_10026",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10026/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the learner formally assess for depression? (using the Beck Depression Inventory or other approach)",
+    "Students are expected to take a focused history, getting the details of the patient’s hospitalization and current symptoms.",
+    "Screening Cardiac History or common cardiac symptoms that should be assessed include the following:\n\n* Chest pain, especially with exertion\n* Palpitations\n* Shortness of breath (dyspnea [at rest or with exertion], orthopnea, or paroxysmal nocturnal dyspnea)\n* Edema",
+    "1. CAD s/p MI with 2 stents. Cont aspirin, clopidogrel, beta-blocker, and statin. Follow-up with cardiology. Strongly encouraged patient to resume cardiac rehab as this will be important to resume previous hobbies and life-style. Reassured patient that he is safe to resume light gardening and fishing but avoid any heavy lifting.",
+    "3. HTN: BP well controlled. Cont metoprolol and will work with cardiology to titrate as needed.",
+    "4. Hyperlipidemia (HLD): check hospital records for most recent LDL. Cont current Lipitor dose for now. Recheck lipid panel in 6-9 mo."
+  ],
+  "MK": [
+    "1. Major Depressive Disorder: Pt with loss of pleasure in activities and Beck’s Depression Inventory consistent with clinical depression. Recommend starting SSRI such as low-dose sertraline. Will likely need to titrate up and will see patient in 2 weeks to assess symptoms. Encouraged patient to talk about feelings and concerns with wife."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Did the learner probe for reasons behind the patient’s non-compliance (elicit the patient’s perspective)?",
+    "We would like students to come up with points to discuss with the patient about their depression and the need to return to cardiac rehab.",
+    "The patient should initially be reluctant to treatment for depression and resuming cardiac rehab, but amenable to these treatment recommendations if the student is able to explain the rationale behind the treatment decisions and reassure the patient that his personal priorities (getting back to gardening and fishing) are safe and serve as motivation to seeking treatment."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

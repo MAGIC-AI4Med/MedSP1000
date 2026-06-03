@@ -1,0 +1,62 @@
+{
+  "case_id": "mep_2374-8265.11216-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11216-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Chief Complaint\n1. Location: vaginal bleeding\n2. Severity: heavy, horrible for quality of life\n3. Onset/Duration: heavy since last baby, but worse 6 months ago, feels like every day, sometimes really heavy (5d/month)\n4. Last menstrual period: hard to tell\n5. Associated symptoms: no vaginal discharge, no urinary symptoms, no diarrhea/constipation\n6. Alleviating factors: Motrin helps on bad days",
+    "Medications: none besides occasional Motrin",
+    "OB History: 3 kids, 2 vaginal, 1 cesarean, 1 abortion",
+    "GYN/Sexual History: distant history of abnormal pap smear, chlamydia as a teen",
+    "Past medical history and Social history: none relevant to case",
+    "ROS: negative",
+    "Vitals/general appearance",
+    "Abdominal Exam",
+    "Pelvic exam – student must request",
+    "Pelvic exam",
+    "bHCG",
+    "Pelvic ultrasound",
+    "Endometrial biopsy",
+    "CBC",
+    "TSH",
+    "Coagulation panel"
+  ],
+  "MK": [
+    "Uterine Polyp",
+    "Uterine leiomyomata",
+    "Endometrial cancer/hyperplasia",
+    "Ovulatory dysfunction",
+    "Adenomyosis"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Student should demonstrate empathy to patient complaint and provide supportive statements when SP discloses impact on quality of life, anxiety regarding potential diagnosis, and sex life with husband.",
+    "Poor: *Does not introduce self *Does not identify you by name *Disinterested greeting",
+    "Adequate: *Introduces self *Identifies you by name *Appropriate greeting",
+    "Excellent: *Introduces self by name and position *Identifies you by name *Warm and engaging greeting",
+    "Poor: *No use of open-ended questions *Multiple interruptions *Scattered and disjointed line of questioning",
+    "Adequate: *Some use of open-ended questions *Few interruptions *Basic flow to line of questioning",
+    "Excellent: *Effective use of multiple open-ended questions *Zero to minimum interruptions *Smooth transitions and natural flow",
+    "Poor: *Uninterested in your explanatory model *Unconcerned with how illness may affect well-being *Resistant to incorporating your viewpoints into decision making",
+    "Adequate: *Acknowledges your explanatory model *Receptive to your concerns over impact of illness on well-being *Incorporates your input into decision making",
+    "Excellent: *Proactively assesses your explanatory model *Explores your concerns over impact of illness on well-being *Proactively solicits your viewpoint in decision making",
+    "Poor: *Uses medical jargon excessively *Thoughts consistently disorganized *Tone of speech conveys indifference or detachment",
+    "Adequate: *Limited use of medical jargon *Most thoughts are well organized *Comfortable tone of speech",
+    "Excellent: *Avoids medical jargon or readily explains it *Thoughts are consistently well organized and easy to understand *Uses warm and accepting tone of speech",
+    "Poor: *Unable to make eye contact *Awkward physical distance, facial expressions, or touching *Conveys disinterest or apathy",
+    "Adequate: *Maintains some eye contact *Appropriate physical distance, facial expressions, or touching *Conveys interest and concern",
+    "Excellent: *Consistent eye contact *Uses physical distance, facial expressions, or touching effectively *Conveys attentiveness and compassion",
+    "Poor: *Ignores or fails to detect emotional cues *Empathetic responses/emotional support absent or forced *Dismissive of pain or anxiety",
+    "Adequate: *Responds to emotional cues *Provides empathetic responses/emotional support *Acknowledges pain or anxiety",
+    "Excellent: *Perceptive of emotional cues and encourages emotional expression *Provides empathetic responses/emotional support with genuineness and sincerity *Attentive to pain or anxiety",
+    "Poor: *No explanation of impression or plan *No inquiry into remaining questions *No cordial closing remarks",
+    "Adequate: *Explains impression and plan *Inquires about remaining questions *Cordial closing remarks",
+    "Excellent: *Thorough discussion of impression and plan *Seeks unanswered questions, verification of understanding, and comfort level *Warm and grateful closing remarks"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Poor: *Judgmental attitude *Makes you feel inferior *Physical exam without regard to pain or modesty",
+    "Adequate: *Non-judgmental attitude *Treats you as equal *Physical exam respectful of pain and modesty",
+    "Excellent: *Accepting attitude *Establishes partnership *Physical exam with great sensitivity to pain and modesty"
+  ]
+}

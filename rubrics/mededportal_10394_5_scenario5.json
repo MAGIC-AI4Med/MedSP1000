@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_10394_5",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10394_5/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "1) Bronchiolitis - Suction prn and before meals. - Intermittent pulse oximetry with vital signs. Consider supplemental O2 for saturations ${ < } 9 0 \\%$ - consider trial of albuterol or racemic epinephrine if work of breathing significantly worsens and does not improve with suctioning",
+    "2) Fever - Tylenol $1 5 \\mathrm { m g } / \\mathrm { k g } \\ : \\mathrm { q } 4 { - } 6$ hours prn",
+    "3) FEN/GI - Well-hydrated on exam and does not require IV fluids at this time. - POAL infant diet with Similac Advance and jarred baby foods."
+  ],
+  "MK": [
+    "Differential diagnosis includes: viral illness, bronchiolitis, pneumonia, reactive airway disease, or foreign body ingestion.",
+    "Despite recent fevers, CXR is reassuring that there is no pneumonia.",
+    "The most likely diagnosis is bronchiolitis given Phyllis’ age and her symptoms."
+  ],
+  "SBP": [
+    "Disposition: Will require inpatient care until conditions for discharge met: 1) weaned to bulb suction $_ { \\textrm { X 2 } }$ with improvement of respiratory status, 2) tolerating PO intake without need for IV fluids, 3) adequate follow up arranged, and 4) family and team with plan and discharge."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

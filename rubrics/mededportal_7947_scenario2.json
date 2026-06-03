@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_7947",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7947/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtains a focused history from the patient, family, EMS or referring health care providers.",
+    "Initiates monitoring as appropriate for each scenario including pulse oximetry, blood pressure, and cardiac monitoring.",
+    "Completes a focused physical exam.",
+    "Assesses patient’s oxygenation status and places patient on supplemental oxygen in response to low oxygen saturation.",
+    "Orders nebulization treatment with a beta agonist in response to wheezing and poor oxygenation.",
+    "Orders a chest radiograph to clarify the nature of the pulmonary pathology."
+  ],
+  "MK": [
+    "Lists findings indicative of respiratory failure (increased/decreased respiratory rate, worsening hypoxia, mottling, bradycardia, thready pulses, altered mental status).",
+    "Describes physical findings consistent with smoke inhalation (e.g. soot in the nose and pharynx, hoarseness, stridor, wheezing, carbonaceous sputum).",
+    "Describes the pertinent history and physical findings which support measuring a carboxyhemglobin level.",
+    "Discusses the controversy regarding hyperbaric oxygen therapy in the treatment of carbon monoxide poisoning."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Actively participates as a team member and is respectful of other team members and their input."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_9558",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9558/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "*How does losing your father at age 2 affect the child when they are 8 years old?* Children want to emulate their parents. Whereas some children envision a life as a teacher or doctor because their parents held those professions, children who have lost a parent to gun violence may feel that that is their fate. It is the role of the pediatrician to encourage the mother to talk to the older child and tell them that she can be whatever she wants. Her life does not have to be the same as her father’s life. The sense that one’s life will end sooner than it should is known as *fatalism*.[10](#_ENREF_10) Urban youth often have very high rates of unrealistic fatalism when compared to youth from less violent neighborhoods. While the pediatrician may initiate these types of conversations, they are best performed by a child therapist with training in grief counseling."
+  ],
+  "SBP": [
+    "*Building a support network*. The resident should be aware of the local resources available to help the mother deal with this recent loss. Know when to consult the social worker (if available) and what community organizations and group therapy options are available.",
+    "*Is child safe?* Are the individuals who murdered the father somehow putting the child at risk? If so then child welfare authorities must be contacted."
+  ],
+  "ICS": [
+    "*Address the mother’s state of well-being.*[*9*](#_ENREF_9)It is important to ask the mother how she is coping with the recent loss. What support networks are in place for her to handle the stress of losing her husband and child’s father? Are their signs of anger and depression? Is this family in any way in danger from the same violence that took away the father? When parents say, *“I’m just fine. I am doing OK,”* You should gently challenge them by saying, *“In my experience, people in your situation often deal with financial stress, depression, and difficulty raising the kids. Are you sure you are not having any of these issues? If so I can offer some resources.”*"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_9015",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9015/scenario6",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Documented code status and other orders regarding treatment / comfort care",
+    "Assured follow-up (how to contact him/her, next communication)"
+  ],
+  "ICS": [
+    "Established rapport (e.g., introductions, eye contact, body positioning)",
+    "Explained the purpose of the meeting",
+    "Asked you, the family members, what your understanding of the patient’s status was",
+    "Explained patient status clearly, fully, without jargon",
+    "Checked for your understanding of information",
+    "Answered our questions clearly, directly",
+    "Talked through confusion, conflicts regarding meaning of “futility”",
+    "Allowed family members to express emotions",
+    "Talked through fears, guilt, anger, anxiety",
+    "Provided words of comfort, arranged for other supports as needed",
+    "Asked about family values, customs, beliefs about end-of-life Asked family members what they thought DNR, DNI, comfort care meant Addressed misconceptions of “heroic measures” Explained shift in medical focus from intervention to comfort care Did none of the above"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Focused on what patient would want",
+    "Clarified surrogate role, responsibilities; other circumstances"
+  ]
+}

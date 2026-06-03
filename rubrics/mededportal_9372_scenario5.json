@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_9372",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9372/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Check airway?",
+    "Evaluate breathing?",
+    "Evaluate circulation?",
+    "Gives intravenous fluid bolus?",
+    "Evaluate surgical wound?",
+    "Should give O2",
+    "Orders ABG",
+    "Orders labs (Hgb and others)",
+    "Orders EKG",
+    "Orders CXR",
+    "Orders CT chest (PE protocol)",
+    "Heparin drip",
+    "Vent orders to match minute volume",
+    "IVF",
+    "Stress ulcer prophylaxis",
+    "Requests updated vital signs",
+    "Performs/requests pulse exam",
+    "Listens for breath sounds",
+    "Places on telemetry",
+    "Monitors BP",
+    "Orders appropriate labs and/or imaging",
+    "Initiates appropriate treatment"
+  ],
+  "MK": [
+    "Correctly identify shock?",
+    "Diagnose PE",
+    "Identifies critical diagnoses (hyperkalemia, shock, hypoxia)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Communicates with other team members",
+    "Delegates tasks/requests help",
+    "Communicates with upper level resident/staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.11002-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11002-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "This physician should elicit more history in regards to the patient’s daily routine and explore his history of risky alcohol use further.",
+    "This should be ruled out before diving into using CBT though sleep hygiene counseling can be started at the same time a sleep study is ordered.",
+    "Sleep hygiene counseling for this particular patient can include: increasing physical activity, modulating the sleep environment (turning off light, noise control), and cutting down on alcohol.",
+    "There is at first a concern for alcohol use disorder but given that it does not cause dysfunction in this patient’s life, alcohol reduction counseling may be advised as alcohol causes poor quality of sleep.",
+    "This patient is also seeking medication for insomnia treatment which would not be advised prior to ruling out obstructive sleep apnea with a sleep study and without trying sleep hygiene."
+  ],
+  "MK": [
+    "In addition, his history of obesity puts him at risk for obstructive sleep apnea."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

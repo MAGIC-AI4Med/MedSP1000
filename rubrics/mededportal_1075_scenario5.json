@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Reinforce the concept that you do need to quit as soon as possible.",
+    "Review *in detail* what you did not do correctly with the patches a few weeks ago and how to now use the patches correctly:\nBased on the amount you smoke you should have started on the highest patch strength, 21mg, not the lowest. You were clearly not getting an adequate amount of nicotine.\nPatches should not be removed to smoke. When you quit you should make a commitment not to smoke at all.\nStrongly recommend that you read the package insert to learn exactly how to use the product correctly.\nYou should use the patches for the full ten-week course recommended by the manufacturer. Using them for this time period significantly increases your chances of staying quit permanently.",
+    "Explain to you that there is no “pill” that will cure you of smoking. Zyban would help, but you still would need to make behavioral changes.",
+    "You identified that I was ready to make a quit attempt",
+    "You gave me useful information about medications to help me (patch, gum, or Zyban)",
+    "You helped me set a quit date",
+    "You discussed getting rid of products so it will be harder to restart (cigarettes, lighters, ash trays)",
+    "You helped me identify things that I can do besides smoking (pretzels, sugarless gum, walking)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Refer you to some type of behavioral counseling as an adjunct to the in-office counseling. Any of the following are acceptable:\nThe PA state quit line\nA local group or individual counselor\nThe behavioral counseling program that comes with the patch you are using.",
+    "You scheduled a follow-up session"
+  ],
+  "ICS": [
+    "Applaud and support your desire to quit.",
+    "Overall, you have definitely helped me get ready to try to quit"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

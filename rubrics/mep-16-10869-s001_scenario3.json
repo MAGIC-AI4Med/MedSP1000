@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-16-10869-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-16-10869-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "What further steps would you take to confirm your diagnosis?",
+    "Can you sketch a pedigree?"
+  ],
+  "MK": [
+    "Based on the presentation described above, what is the likely diagnosis? Which of the findings (physical or social/emotional) are relevant to the differential?",
+    "Do you suspect this condition to be sporadic or familial, and what risks might exist for other members of the family?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Assign one person to play the role of the physician and one to be the mother; role play delivery of the information to the family and lead students to consider the following:\\nWould you have the 11 yo child stay in the room or step out? What information do you share with the child?\\nHow might the family react to this news in terms of the new understanding of the child\\u2019s issues and the late age of diagnosis?\\nHow might the child feel knowing that there is a reason for his differences in learning and speech?\\nHow might they feel about the chance of physical issues not yet diagnosed? mental health issues?\\nDo you think the family will want to know everything at once or not?\\nMight they feel grief, relief, overwhelmed, guilty, empowered?",
+    "What information might be available to help the family adjust to this diagnosis?"
+  ],
+  "PBLI": [
+    "What resources can you use to identify possible genetic conditions?"
+  ],
+  "PROF": []
+}

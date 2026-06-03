@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_9697",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9697/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Check Responsiveness",
+    "Check for a pulse",
+    "Evaluate airway,work of breathing",
+    "Stability assessment: pulse ox, vitals,mental status",
+    "Give Oxygen if hypoxemic",
+    "Place pads on patient, attach leads, turn on defibrillator",
+    "Establish IV access",
+    "Request 12-lead EKG to confirm rhythm",
+    "Atropine 0.5 mg IV every 3-5 min. Max dose of 3 mg",
+    "If Atropine ineffective: Transcutaneous pacing* rate 60-90 OR",
+    "Epinephrine 2 to 10 μg/min ORDopamine 2 to 10 μg/kg/min ORIsoproterenol 2 to 10 mcg/min"
+  ],
+  "MK": [
+    "Identify rhythm on monitor /assess appropriateness forclinical condition"
+  ],
+  "SBP": [
+    "Confirm Code Status",
+    "Get Help/Assign roles",
+    "Call for transvenous pacemaker",
+    "Consult expert"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

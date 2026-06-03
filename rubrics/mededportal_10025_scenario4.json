@@ -1,0 +1,42 @@
+{
+  "case_id": "mededportal_10025",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10025/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Please discuss with the patient the need for taking HBP medication.",
+    "Do not perform any part of the Physical Examination.",
+    "Resident respectfully shares the biomedical perspective that HBP medication is the fastest, safest, and most effective route to health improvement.",
+    "Resident discusses risks associated with taking anti-anxiety medication (causes drowsiness and patient is a bus driver)",
+    "Resident respectfully negotiates the patient's treatment plan addressing misconceptions about the efficacy of herbal supplements and anti-anxiety medication.",
+    "Resident discusses patients concerns and offers reassurance to the patient regarding the safety of BP medication as well as the risks involved with (a) depending on the CAM for treating the BP and (b) taking anti-anxiety medication (e.g., may endanger the patient as a bus driver)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Resident may offer resources (such as a social worker or educationally-appropriate literature) to aid the patient in understanding the risks and benefits of the various treatments being considered as well as the risks associated with HPB/HTN."
+  ],
+  "ICS": [
+    "Builds a Relationship (includes the following): Greets and shows interest in patient as a person Uses words that show care and concern throughout the interview Uses tone, pace, eye contact, and posture that show care and concern",
+    "Opens the Discussion (includes the following): Allows patient to complete opening statement without interruption Asks “Is there anything else?” to elicit full set of concerns Explains and/or negotiates an agenda for the visit",
+    "Gathers Information (includes the following): Begins with patient’s story using open-ended questions (e.g.“tell me about…”) Clarifies details as necessary with more specific or “yes/no” questions Summarizes and gives patient opportunity to correct or add information Transitions effectively to additional questions",
+    "Understands the Patient’s Perspective (includes the following): Asks about life events, circumstances, other people that might affect health Elicits patient’s beliefs, concerns, and expectations about illness and treatment Responds explicitly to patient’s statements about ideas and feelings",
+    "Shares Information (includes the following): Assesses patient’s understanding of problem and desire for more information Explains using words that patient can understand Checks for mutual understanding of diagnostic and/or treatment plans Asks if patient has any questions",
+    "Reaches Agreement (IF new/changed plan) (includes the following): Includes patient in choices and decisions to the extent the patient desires Asks about patient’s ability to follow diagnostic and/or treatment plans . Identifies additional resources as appropriate",
+    "Provides Closure (includes the following): Asks if patient has questions, concerns or other issues Summarizes/asks patient to summarize plans until next visit Clarifies follow-up or contact arrangements Acknowledges patient and closes interview",
+    "…ask open-ended questions to determine why Terry kept refusing blood pressure medications?",
+    "…listen to Terry’s story to be able to address rejection of blood pressure medications?",
+    "…explain the benefits of blood pressure medications in terms that Terry seemed to understand?",
+    "…attend to Terry’s concerns about stress and the insistence on wanting to take only something to calm down?",
+    "Look for: Open body posture Sitting at equal level with patient; no barriers Eye contact Calmness of resident Resident mirrors affect congruent with patient's expressions Resident tracking the patient's behavior",
+    "listen for... Did the resident: Introduce themself to the patient? Use non-coercive language? Use everyday language and no medical jargon? Raise the patient's awareness of the condition? Attend to the patient's fears and concerns? Verify the patient's understanding by asking questions? Discuss areas of concern and reach agreement with the patient?",
+    "Resident respectfully listens to and validates the patient's perspective as well as their goals for this encounter. Resident acknowledges the multiple influences on BP, including stress.",
+    "Resident listens to the patient's rationale for desiring anti-anxiety medication.",
+    "Resident offers alternatives in a respectful and thorough manner.",
+    "Resident demonstrates appropriate counseling skills in this case, such as listening, information-seeking, mirroring a congruent response,and empathy.",
+    "Resident uses communication skills demonstrating sensitivity to patient's family history and education level."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Resident must display compassion, respect, and empathy while addressing the potentially conflictual nature of the two perspectives (resident vs. patient)"
+  ]
+}

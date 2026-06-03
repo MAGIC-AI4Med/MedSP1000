@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "To perform the physical exam maneuvers on a patient instructor exhibiting certain positive findings (Patient instructors are highly trained standardized patients who not only simulate clinical findings but also provide instruction to the students when needed, for example, correcting a poorly or incorrectly executed physical exam maneuver);"
+  ],
+  "MK": [
+    "To anticipate the positive physical findings for each diagnosis in the differential and identify the discriminating findings between the diagnoses;",
+    "To interpret the findings by proposing a most likely diagnosis;"
+  ],
+  "SBP": [
+    "To document the findings associated with their physical exam."
+  ],
+  "ICS": [],
+  "PBLI": [
+    "To correct any physical exam maneuvers, as prompted by the patient instructor if needed, that were incorrectly executed or omitted initially and revise their working diagnosis if needed; and"
+  ],
+  "PROF": []
+}

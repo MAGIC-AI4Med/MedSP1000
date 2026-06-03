@@ -1,0 +1,15 @@
+{
+  "case_id": "mep-14-10737-s001",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10737-s001/scenario9",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "How would you discuss your decision-making with this patient in terms of your diagnostic work-up for her headache?",
+    "How would you describe the therapeutic interventions you plan for this this headache?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

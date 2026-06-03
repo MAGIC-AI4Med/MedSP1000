@@ -1,0 +1,37 @@
+{
+  "case_id": "mep-13-10604-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10604-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Washed hands in front of patient and family",
+    "Either order Percocet for pain relief or consult the attending anesthesiology physician."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Knocked on door; Greeted patient/family in friendly manner; Used names",
+    "Introduced his or her self; Explained role; Wrote name and attending physician\u2019s name on Communication Board",
+    "Actively listened without interrupting; Showed genuine concern",
+    "Addressed cultural/spiritual needs, as applicable",
+    "Addressed cultural / spiritual needs",
+    "Sought information from patient/family",
+    "Asked one question at a time and waited for your response without interrupting",
+    "Invited patient and family to ask questions; Provided answers or \u201cwill follow up\u201d",
+    "Explained anesthesia and risk in understandable language",
+    "Told patient/family what to expect and how long before a service is complete",
+    "Gave information about wait times and explain any delays",
+    "Asked, \u201cHave we addressed all of your questions and concerns?\u201d",
+    "Created opportunity for shared decision making",
+    "Periodically checked patient and family\u2019s understanding of key points",
+    "Included patient/family as part of team; Acknowledged partnership with patient/family",
+    "Used language like \u201cwith\u201d you rather than \u201cto\u201d or \u201cfor\u201d you",
+    "Introduce himself/herself, explain why he/she is there, and put his/her name on the communication board as well as that of the attending anesthesiologist.",
+    "Explain what happens before, during, and after surgery in an understandable manner."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Asked permission from the patient to discuss her medical history in front of the person accompanying the patient",
+    "Recognize Ms. Brown\u2019s body language and reservations about not  receiving blood, if she needs it to save her life, prompting the resident to ask the daughter to leave the room to allow for a one-on-one dialog with Ms. Brown."
+  ]
+}

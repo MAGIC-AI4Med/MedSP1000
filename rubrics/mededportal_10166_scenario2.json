@@ -1,0 +1,17 @@
+{
+  "case_id": "mededportal_10166",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10166/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "The student should take a complete admission history, highlighting Mr. Jones' risk factors for CAD, and the class should determine the extent of an appropriate admission PE. Please provide the students with the likely results of the PE done at this time. Discuss the problem list, the updated Diff Dx, and arrive at an appropriate management plan for Mr. Jones at the time of his admission to the CCU."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Explain to the patient that his procedure went well, an angioplasty with stenting to a nearly occluded left anterior descending artery (LAD). There were no other lesions noted. The student may want to describe the coronary anatomy to the patient.",
+    "The student will answer the patient's questions about discharge (3-5 days), walking (tomorrow) driving (one week), work (two weeks providing follow-up reveals good short term and long term prognosis) and sexual intercourse (ten days)."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

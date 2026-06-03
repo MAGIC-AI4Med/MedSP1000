@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.11072-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11072-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Screening:\n\n* Colonoscopy\n* Hepatitis A and B Vaccines, if not already immune\n* Tetanus booster (Tdap), if not up to date\n* Lipid, diabetes screening",
+    "Counseling\u2014healthy dietary and exercise habits"
+  ],
+  "MK": [],
+  "SBP": [
+    "Legal\u2014MDPOA, living will, legal paperwork regarding care/custody of children (if not already done)"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

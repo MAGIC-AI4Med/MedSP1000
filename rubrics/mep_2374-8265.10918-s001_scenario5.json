@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.10918-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10918-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "What is the pattern of liver injury?\nChooses B (acute hepatitis)",
+    "What is the pattern of liver injury?\nChooses A, C, or D",
+    "Which substance(s) cause this pattern of injury?\nChooses at least 2/3 of amphetamine, “fat burners” and “diet pills”",
+    "Which substance(s) cause this pattern of injury?\nChooses at least 1 correct answer",
+    "Which substance(s) cause this pattern of injury?\nDoes not choose any correct answers",
+    "Which substance(s) are the most likely culprit(s)?\nCorrectly identifies “fat burners” and/or “diet pills”",
+    "Which substance(s) are the most likely culprit(s)?\nChooses amphetamine",
+    "Which substance(s) are the most likely culprit(s)?\nChooses another drug"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,46 @@
+{
+  "case_id": "mededportal_9669",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9669/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain a history from a distraught family member.",
+    "Review the medical record, including the vital signs and respiratory logs, and laboratory evaluations.",
+    "Core temperature > 36°C",
+    "Systolic blood pressure ≥ 100 mm Hg",
+    "No spontaneous respirations",
+    "No pupillary responses to bright light",
+    "No corneal reflexes",
+    "No oculocephalic reflexes",
+    "No oculovestibular reflexes",
+    "No response to noxious stimuli at the temporal-mandibular joint or supraorbital nerve",
+    "No cough response to tracheal suctioning (the nurse already performed this and there was no response)",
+    "No gag reflexes",
+    "No motor response to noxious stimuli in all 4 limbs (spinally mediated reflexes are permissible)"
+  ],
+  "MK": [
+    "Irreversible coma with a known cause",
+    "Brain imaging explains coma",
+    "No CNS depressant drug effect",
+    "No residual paralytics",
+    "No severe electrolyte, acid-base, or endocrine abnormality",
+    "Ideally, the physicians should recognize the patient does not yet meet brain death criteria, because she is breathing over the ventilator.",
+    "No apnea test is indicated because the patient is breathing over the ventilator."
+  ],
+  "SBP": [
+    "Call a code if necessary and appropriate.",
+    "The physicians would respect the family member’s wishes and would not code the patient."
+  ],
+  "ICS": [
+    "Empathy: Unless you have been in the situation, it can be difficult to imagine a family member undergoing a brain death examination. The family member feels a complete loss of control, and is looking to you to provide answers. You may feel you are being attacked or blamed, but realize this is part of a normal grieving process. Tell the family member that you realize this is an extremely difficult situation.",
+    "Introductions: Introduce yourself, and shake hands with the family member. Ask what is his or her relationship with the patient. Afterwards, refer to the patient as “your mother.”",
+    "Comfort: Pull up a chair, and invite the family member to have a seat. This will make the family member more comfortable and give you more room to complete your examination.",
+    "Reassurance: You can’t reassure the family member that everything will be alright. You can, however, reassure the family member that you will conduct a thorough examination and answer all questions to the best of your abilities. This is the hardest thing for medical students, because you want to give hope and offer treatment or a cure. However, at this moment, the family member needs facts and guidance through this process.",
+    "Using lay terminology: Ensure that you use lay terminology. The family member is overwhelmed with grief and may have difficulty comprehending everything that is happening. Avoiding medical jargon can help.",
+    "The physicians should inform the family member that the prognosis is extremely poor."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "The treating physician serves as the patient’s advocate; therefore, does not broach the subject of organ donation."
+  ]
+}

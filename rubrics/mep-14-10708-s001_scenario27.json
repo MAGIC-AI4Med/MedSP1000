@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario27",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario27",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Ask Betty to join you in a quiet environment away from other patients’ families; ask if there is anyone else she wants to join.",
+    "Ask Betty her understanding of the current situation regarding her husband",
+    "Use straightforward language without medical jargon to communicate what happened and that the patient died.",
+    "Offer support and resources for her"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

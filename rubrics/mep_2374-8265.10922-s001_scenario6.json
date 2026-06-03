@@ -1,0 +1,14 @@
+{
+  "case_id": "mep_2374-8265.10922-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10922-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "The mother needs to know:\nFrequency of dosing (1 teaspoon TID)\nImportance of completing the antibiotic course (10 days)\nPossible side effects (diarrhea and/or vomiting in 10-20%)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

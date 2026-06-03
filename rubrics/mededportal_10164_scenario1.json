@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_10164",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10164/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a rapid assessment: CAB, vital signs",
+    "Perform a focused history and examination",
+    "Initiate oxygen therapy",
+    "Start IV Fluids",
+    "Address active vomiting",
+    "Place the patient on cardiac monitor",
+    "Cautious correction of hypokalemia, hypophosphatemia and hyperglycemia",
+    "Gastrointestinal decontamination with activated charcoal once vomiting controlled",
+    "Request appropriate tests: Lab, EKG, Chest x-ray, ABG"
+  ],
+  "MK": [
+    "Develop and discuss differential diagnosis for patient presentation including cocaine/amphetamine use, beta-2 agonist overdose, salicylate overdose, and sepsis",
+    "Identification of the causative agent: Theophylline poisoning"
+  ],
+  "SBP": [
+    "Consultation with Toxicology for treatment plan review",
+    "Referral to Nephrology for consideration of hemodialysis"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_9393",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9393/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "*What is your management plan?*\nconsider head CT\nget cultures/UA\nif UTI present, treat UTI\nIVFs or encourage po hydration\nmonitor closely as could becoming septic\nensure pain is being adequately treated but not over-treated\nhold lisinopril and HCTZ\nconsider alcohol withdrawal\nput on glasses"
+  ],
+  "MK": [
+    "*What is your diagnosis?*delirium",
+    "*Is the patient CAM positive, why or why not?*YES, Acute onset/change from baseline, inattention, disorganized thinking (hallucinations)",
+    "*What are 3 predisposing factors for delirium?*dementia, elderly, poor vision, use of multiple medications, alcohol (ab)use?",
+    "*What are 3 precipitating factors for delirium?*\nfall/trauma, alcohol withdrawal?, infection?, dehydration?, sensory deprivation (not wearing glasses)"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

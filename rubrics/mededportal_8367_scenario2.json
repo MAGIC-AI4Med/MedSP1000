@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_8367",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8367/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "The student checks the patient’s weight and does a neurological exam. He weighs 285 pounds (last visit 295 lbs.)",
+    "The patient came in for an acute problem – is it necessary to inquire about his chronic problem?"
+  ],
+  "MK": [
+    "How has the physical exam changed from his last visit?",
+    "What are your diagnoses now?",
+    "Was it necessary to do a neurological exam?  What changes in the physical examination have you noticed?"
+  ],
+  "SBP": [
+    "If Dr. Baskin did not take care of Mr. Cavanaugh in the hospital, how would he get information about what happened?",
+    "It is very important that the students address the need to remove the gun from the home immediately based on the patient’s apparent state of mind.",
+    "What types of rehabilitation services does this patient need?"
+  ],
+  "ICS": [
+    "Students should also talk about the presence of the wife in the room and the appropriate ways to address her concerns during the interview. (*triadic interview*)",
+    "The student should tell the patient and his wife that he/she is going to present his/her findings to Dr. Baskin.",
+    "How would you answer the patient’s wife?",
+    "How would you respond to Mr. Cavanaugh’s request to help him?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "The student should address the wife’s concerns, but facilitate the discussion in order to help her understand that her husband’s wishes must be followed.  In addition, the student should encourage the patient to discuss his feelings with his wife and family at home so that everyone is on the same page.",
+    "It is important for the students to understand that these conversations should be held when the patient is feeling relatively well and has his full mental capabilities.  All too often end-of-life discussions occur with distraught families in ICU settings when the patient is critically ill."
+  ]
+}

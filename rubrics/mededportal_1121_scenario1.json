@@ -1,0 +1,46 @@
+{
+  "case_id": "mededportal_1121",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1121/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Fever: High grade, continuous with rigors",
+    "Headache: diffuse, throbbing associated with projectile vomiting and photophobia",
+    "No impairment of consciousness or seizures, mild weakness in left upper limb, no numbness",
+    "No skin rash, cough or sputum. No recent travel",
+    "PMH: HTN, no trauma",
+    "V/S: Pulse:80 regular, Temp: 39, BP: 135/90. No signs of meningeal irritations.",
+    "Neurological exam: Conscious but irritable; Cranial nerves: papilledema, 6<sup>th</sup> nerve palsy (left side); Motor system: left upper limb weakness 3/5 with UMNL signs, otherwise normal tone &amp; reflexes, normal sensation in the rest of body",
+    "Other system: unremarkable",
+    "Skin rash: none",
+    "CBC, Biochemistry, Septic screen, urinalysis, brain CT scan, CXR, ECG",
+    "Secure airways",
+    "Keep NPO",
+    "Observe for seizures, neurovital signs",
+    "IV antibiotic, Broad spectrum with:\n3<sup>rd</sup> Generation cephalosphorin\nAminoglycosides\nAnaerobics coverage",
+    "Measures to lower raised ICP with:\nIV mannitol 20% (osmotic diuresis)\nDexamethasone IV every 6 hours\nGood control of BP"
+  ],
+  "MK": [
+    "Fever with headache and signs of increase intracranial pressure.",
+    "Right 6th nerve palsy & right upper limb monoparesis.",
+    "Recent ear surgery.",
+    "HTN.",
+    "Brain Abscess",
+    "Bacterial meningitis",
+    "Acute stroke (CVA)",
+    "Viral encephalitis",
+    "CBC: leukocytosis",
+    "Biochemistry: Glucose 260 mg/dl slightly  urea, normal creatinine and electrolytes",
+    "Brain CT Scan: right sided space occupying lesion with well defined margins and mid line shift.",
+    "CXR: Cardiomegaly",
+    "ECG: LVH"
+  ],
+  "SBP": [
+    "IS LUMBER PUNCTURE INDICATED HERE? Why? No, increased intracranial pressure",
+    "Admit the patient to the hospital",
+    "NEUROSURGICAL Consultation"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

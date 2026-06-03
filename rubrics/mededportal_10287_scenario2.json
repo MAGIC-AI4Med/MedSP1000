@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_10287",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10287/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask patient past medical history questions to fully determine CHADS2-VASc score",
+    "Request electrocardiogram (EKG)",
+    "Initiate medication to control tachycardia immediately"
+  ],
+  "MK": [
+    "Recognize tachycardia amid flurry of other information"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,14 @@
+{
+  "case_id": "mep_2374-8265.10944-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10944-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "It is at least worth checking an EKG (or looking at their most recent EKG) to see what the QTC is before giving them a QTC prolonging agent."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

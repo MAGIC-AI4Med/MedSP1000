@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_10394_5",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10394_5/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "1) ALTE Continuous HR/RR monitors EKG and echo in order to evaluate new murmur in the setting of ALTE event and poor weight gain Consider cardiology consult if echo/EKG abnormal",
+    "2) FEN/GI: well hydrated on examination, patient with low weight gain since birth (only 300g in 3 weeks) POAL, infant diet – Similac Sensitive (goal 3-4oz Q3H) Monitor intake and UOP closely Follow daily weights OT/PT and speech consults for evaluation of infant feeding Reflux precautions in order to improve feeding"
+  ],
+  "MK": [
+    "Differential for ALTE at this time includes: 1) GI – potential reflux given report of frequent spitting up and discomfort with feeds (arching of back) as well as some improvement with formula change, 2) cardiac – given new murmur, difficulty with breastfeeding, and family history of congenital heart disease as well as poor weight gain, 3) infectious – no report of fever or other infectious symptoms and therefore unlikely, 4) neurologic – no report of seizure like activity surrounding event and no family history, 5) metabolic/inborn error of metabolism – newborn screen reported to be normal and no family history, and 6) pulmonary – no appreciable family history and normal newborn screen for CF."
+  ],
+  "SBP": [
+    "Dispo: Conditions for discharge including: 1) 24 hour observation on monitors without any concerns for cardiopulmonary issues, 2) medical evaluation of ALTE completed, 3) adequate follow-up arranged, 4) team and family comfortable with plan and discharge."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

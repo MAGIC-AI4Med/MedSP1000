@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_528",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_528/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain large-bore IV access and give IV fluids (minimum 1L NS or LR)",
+    "Order appropriate labs/blood products— Labs: Type and cross, hemoglobin; blood products: packed red blood cells",
+    "Perform complete primary and secondary survey with full exposure/skin exam and vascular exam",
+    "Manage patient’s pain",
+    "Establish definite airway (can by via any oral intubation technique, iLMA, or cricothyrotomy)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Coordinate final disposition for patient (depends on location of your case, either admit/to OR with surgery or transfer if appropriate)"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11399-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11399-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Which muscles could be affected?\n\nSerratus anterior, pectoralis minor, latissimus dorsi",
+    "What features of the patient’s presentation could be consistent with each of these muscles?\n\nSerratus anterior: unable to raise arm or reach for things with it\n\nPectoralis minor: unable to reach with arm (protraction of scapula)\n\nLatissimus dorsi: unable to reach (\\*extension of arm possibly affected (not specified in HPI which directions of reaching are impaired), although patient’s ability to adduct arm is highly suggestive that this muscle is not affected)",
+    "Which muscles are unlikely to be affected?\n\nPectoralis major, teres minor, subscapularis",
+    "What features of the patient’s presentation suggest that these muscles are not likely to be involved?\n\nPectoralis major: patient can adduct arm and rotate it\n\nTeres minor: patient can rotate arm\n\nSubscapularis: patient can rotate arm",
+    "For each test performed above, identify the muscle(s) being assessed\n\n| **Test** | **Muscle Assessed** |\n| Abduction of arm from 90˚ to overhead | Serratus anterior |\n| Internal (medial) rotation of arm | Pectoralis major, subscapularis, latissimus dorsi |\n| External (lateral) rotation of arm | Teres minor |\n| Protraction of scapula | Serratus anterior, pectoralis minor |\n| Adduction of arm | Latissimus dorsi (major), pectoralis major |\n| Extension of arm | Latissimus dorsi |",
+    "Based off of these results, which muscle is most likely affected?\n\nSerratus anterior",
+    "Damage to which nerve could cause the patient’s symptoms and affect the muscle listed above?\n\nLong thoracic nerve",
+    "Why is this nerve particularly susceptible to damage?\n\nIt runs along the surface of the serratus anterior muscle and passes through the region targeted in the surgery."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

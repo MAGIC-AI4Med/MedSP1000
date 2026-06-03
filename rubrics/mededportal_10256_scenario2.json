@@ -1,0 +1,69 @@
+{
+  "case_id": "mededportal_10256",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10256/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Positions patient correctly",
+    "Washes hands OR uses hand sanitizer",
+    "Puts on gloves",
+    "Separates the labia and buttock cheeks sufficiently AND appears to visually inspect the entire genital region/perineum",
+    "Comments on normal appearance at ≥3 stages of examination",
+    "Expresses intention to lubricate speculum (PLEASE DO NOT LET RESIDENT ACTUALLY USE LUBRICANT, WHICH WILL DAMAGE MODELS)",
+    "Avoids contaminating light source AND other surfaces during and after examining the patient",
+    "Retracts labia minora prior to speculum insertion AND inserts speculum with care",
+    "Locates cervix",
+    "Samples cervical surface AND os with spatula AND cytobrush OR broom (AT THIS POINT, SIGNAL THE RESIDENT TO HAND THE SPECIMENS TO YOU)",
+    "Closes bills of speculum and withdraws carefully",
+    "Expresses intention to lubricate gloved fingers (PLEASE DO NOT LET RESIDENT ACTUALLY USE LUBRICANT, WHICH WILL DAMAGE MODELS)\\*\\*",
+    "Retracts labia minora AND inserts gloved fingers with care\\*\\*",
+    "Verbalizes attempt to assess cervical motion tenderness\\*\\*",
+    "Verbalizes examination of uterine size\\*\\*",
+    "Verbalizes examination of adnexae\\*\\*",
+    "Re-drapes AND helps patient sit at conclusion of the exam",
+    "Halts the exam immediately when the patient displays distress",
+    "Inquires as to the source of the patient’s discomfort",
+    "Modifies speculum position if the patient complains it is uncomfortable",
+    "Utilizes stress reduction and grounding techniques  MUST DO TWO of THREE to receive credit:   * Utilizes ANY relaxation techniques (e.g., asks the patient to take a few deep breaths) * Utilizes ANY mental grounding techniques (e.g., repeatedly orients the patient by telling them what day it is, what time it is, and where they are in the present) * Utilizes ANY physical grounding techniques (e.g., has the patient hold the table, feel their hands, squeeze their fists, etc.)",
+    "Disposes soiled materials appropriately and washes hands after removal of gloves."
+  ],
+  "MK": [],
+  "SBP": [
+    "Encourages the patient to continue behavioral health counseling",
+    "Helps the patient make an immediate self-care plan before leaving the office",
+    "Discusses plan for communicating results of Pap test"
+  ],
+  "ICS": [
+    "Addresses any concerns or questions raised by the patient",
+    "Uses patient’s preferred name and pronouns throughout the history",
+    "Clarifies and uses patient’s preferred anatomical terminology through the history",
+    "Outlines strategies to maximize patient safety, comfort, and control  MUST LIST TWO to receive credit:   * Asks for patient preferences regarding support person/chaperone * Offers the option of self-insertion of the speculum * Offers the option of positioning without use of stirrups (suggested term to use with patients: footrests) * Provides assurance that the patient can stop the exam at any time * Negotiates in advance what will happen if the patient chooses to halt the exam",
+    "Obtains explicit permission to perform the exam prior to proceeding",
+    "Uses patient’s preferred name and pronouns throughout the exam",
+    "Uses patient’s preferred anatomical terminology throughout the exam",
+    "Warns patient prior to exam maneuvers",
+    "Reassures the patient that distress is a natural response given a past history of trauma",
+    "I felt that you discussed options with me.",
+    "I felt you made sure that I understood those options.",
+    "I felt you asked my opinion, allowing me to make my own decision.",
+    "I felt you encouraged me to ask questions.",
+    "I felt you answered my questions, never avoiding them.",
+    "I felt you clearly explained what I needed to know about my problem; how and why it occurred.",
+    "I felt you clearly explained what I should expect next.",
+    "I felt you greeted me warmly upon entering the room.",
+    "I felt you were friendly throughout the encounter. You were never crabby or rude to me.",
+    "I felt that you treated me like we were on the same level.  You never “talked down” to me or treated me like a child.",
+    "I felt you let me tell my story and were careful not to interrupt me while I was speaking.",
+    "I felt you showed interest in me as a “person.” You never acted bored or ignored what I had to say.",
+    "I felt you were patient when I asked questions.",
+    "I felt you were careful to use plain language and not medical jargon when speaking to me.",
+    "Given a choice, I would choose this resident as my personal physician."
+  ],
+  "PBLI": [
+    "I felt the resident displayed a positive attitude during the verbal feedback session."
+  ],
+  "PROF": [
+    "I felt you were telling me everything; being truthful, up front,  and frank; not keeping things from me.",
+    "I felt you approached sensitive/difficult subject matters with sensitivity and without being judgmental."
+  ]
+}

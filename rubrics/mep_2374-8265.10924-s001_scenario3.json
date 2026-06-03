@@ -1,0 +1,31 @@
+{
+  "case_id": "mep_2374-8265.10924-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10924-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for intravenous (IV) access, to have patient placed on monitor, call for nasal cannula",
+    "Ask for vital signs",
+    "Obtain full history including past medical history, allergies and social history",
+    "Intervene appropriately to sepsis",
+    "Address low blood pressure with fluids",
+    "Give patient antipyretic",
+    "Obtain labs: CBC, BMP, blood cultures, lactate.  Consider obtaining a urine analysis and urine culture. Obtain CXR",
+    "Order appropriate antibiotics after considering patient’s allergies (potential antibiotics include fluoroquinolones, macrolides, tetracyclines)"
+  ],
+  "MK": [
+    "Entertain differential diagnoses for chest painThese may include acute coronary syndrome, pulmonary embolism, aortic dissection, cardiac tamponade",
+    "Recognize sepsis as patient is febrile, hypotensive, tachycardic and tachypneic",
+    "Accurately read the CXR as positive for a right lower lobe pneumonia and intervene appropriately"
+  ],
+  "SBP": [
+    "Ask for help",
+    "Call intensive care unit and describe case succinctly"
+  ],
+  "ICS": [
+    "The learner will take lead and assign clear roles",
+    "Provide effective team leadership"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

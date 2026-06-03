@@ -1,0 +1,49 @@
+{
+  "case_id": "mededportal_10209",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10209/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Assesses maternal and fetal status (vitals and heart rate tracing) Yes",
+    "Takes obstetric history Yes",
+    "Conducts physical exam Yes",
+    "Determines status of membranes (intact/ruptured) Yes",
+    "IV fluid bolus Yes",
+    "Administers tocolytics (incorrect) Yes",
+    "Administers antibiotics (correct) Yes",
+    "Administers betamethasone (correct) Yes",
+    "Administers magnesium sulfate for fetal neuroprotection (correct) Yes",
+    "Ultrasound performed: presentation, AFI, placenta, biometry (correct) Yes",
+    "Reevaluates patient with change in symptoms, contraction frequency (correct) Yes",
+    "Review maternal medication allergies (patient is NKDA)",
+    "Pelvic examination including speculum for nitrazine/pool/fern/wet mount, group B strep swab",
+    "Management could include IV hydration, labs (CBC, UA)",
+    "Management should not include digital cervical examination, at least on initial evaluation.",
+    "Evaluation should not include transvaginal cervical length, fetal fibronectin.",
+    "Participant calls for a cesarean section without a follow-up examination (speculum preferred) as patient confirmed to be in active labor."
+  ],
+  "MK": [],
+  "SBP": [
+    "Calls for help Yes a. Extra nursing Yes b. Senior resident/Attending Yes c. Anesthesia Yes d. Pediatrics Yes",
+    "Calls for cesarean section, initiates consent process (correct) Yes"
+  ],
+  "ICS": [
+    "Introduces themselves to patient and family Yes",
+    "Acknowledges nurse/staff in room, asks for SBAR Yes",
+    "Provide a statement explaining what is going on Yes",
+    "Uses understandable language Yes",
+    "Check for patient/family’s understanding Yes",
+    "Reassures the patient Yes",
+    "Use of positive or negative non-verbal responses Yes Pos: Eye contact, physical contact, leaning in Yes Neg: Poor eye contact, moving back, crossing arms Yes",
+    "Express clinical emotion/apologize for change in patient’s expectations Yes",
+    "Explanation of PPROM diagnosis",
+    "Explanation of risks of preterm breech vaginal delivery Yes",
+    "Explanation of proposed medical interventions and their implications Yes",
+    "Discusses neonatal prognosis – risks of prematurity based on gestational age Yes",
+    "Discusses probable clinical course given available data Yes",
+    "Explanation of indication for cesarean delivery Yes",
+    "Initiates discussion/verbal consent regarding procedure for cesarean delivery Yes"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

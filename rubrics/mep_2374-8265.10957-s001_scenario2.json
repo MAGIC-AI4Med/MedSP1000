@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.10957-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10957-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Testing for VZV using PCR or direct fluorescent antibody testing (DFA) of unroofed (or recently ruptured) vesicles; could consider testing for HSV using PCR of specimen obtained from the base of an unroofed skin lesion."
+  ],
+  "MK": [
+    "The diagnosis for this case is shingles from reactivated varicella zoster virus.",
+    "Other conditions in the differential diagnosis for this patient include herpes simplex virus (although the rash from HSV tends to occur near the lips, genitalia, or buttocks rather than the distribution seen in this patient), contact dermatitis (often pruritic and occurs in areas that have come in contact with an inciting substance), dermatitis herpetiformis (often pruritic; a clinical manifestation of gluten sensitivity that can occur in patients with celiac disease that typically affects the extensor surfaces of the extremities, scalp, and buttocks), and phytophotodermatitis (nonpruritic, painful, blistering rash developing after skin exposure to certain plant-derived substances)."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

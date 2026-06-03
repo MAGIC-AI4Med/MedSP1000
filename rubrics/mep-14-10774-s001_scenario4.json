@@ -1,0 +1,30 @@
+{
+  "case_id": "mep-14-10774-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10774-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "The PD (and maybe the CCC) need to know if patterns of behavior are emerging for any one resident - they are uniquely positioned to have this perspective.",
+    "If it is a personal issue (sick family member, etc), I encourage the learner to tell their PD, and offer to support them in any way they would like."
+  ],
+  "ICS": [
+    "S: subjective (how did you feel?) – annoyed, disappointed, angry (“I felt disrespected when…”)",
+    "O: objective - what exactly did they do that made you feel that way?  (focus on specific actions, behaviors, such as “I noticed you interrupted me 5 times during that session”)",
+    "Begin with “I’m on your side.” Emphasize motivation to help them improve. Often, this starts well before the conversation begins and extends to your entire relationship with the resident",
+    "Inquiry is telling the learner your concerns about it and asking for their thoughts.",
+    "Reframe energy. Discuss with learner how they can be more engaged in a productive manner (e.g. give them the opportunity to lead or collaborate in creating a “better” lecture)."
+  ],
+  "PBLI": [
+    "A: assessment - what could be driving their undesired behavior? (“what was the reason for the many interruptions today?”) - you will not know the reason until you ask – many times the true reason for their behavior may surprise you!",
+    "P: plan – make a plan together for improvement going forward (use implementation intentions, described below). Essential to get their input and buy-in on this, as solutions won’t work if they are not on board.",
+    "Co-create a plan for future improvement. Have the learner first suggest ways they think they could improve their behavior. Modify the plan as needed. Learners are more likely to be successful if they came up with the solution.",
+    "Use accountability and implementation intentions.",
+    "Assessment. Clarify if resident truly is at the level perceived (are they covering for deficits?).",
+    "Reframe learning opportunity. Offer learner targeted leadership skills such as how to manage up (e.g. give feedback in an appropriate manner to those more senior) and how to be perceived as a leader as a senior resident."
+  ],
+  "PROF": [
+    "On professionalism and responsibility. Highlight ramifications of behavior (affecting other learner’s learning environment, residents’ morale)."
+  ]
+}

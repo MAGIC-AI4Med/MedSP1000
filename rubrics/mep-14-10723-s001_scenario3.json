@@ -1,0 +1,16 @@
+{
+  "case_id": "mep-14-10723-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10723-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Respond by discussing education for parents on BRUE and CPR resources to caregiver",
+    "Essential Elements of SDM\nDefine/explain the problem\nPresent options\nDiscuss pros/cons (benefits/risks/costs)\nDiscuss patient values/preferences\nDiscuss patient ability/self-efficacy to follow through with plan\nPresent doctor knowledge/recommendations\nCheck/clarify understanding\nMake or explicitly defer decision\nArrange follow-up",
+    "Ideal Elements of SDM\nUnbiased information\nDefine roles (desire for involvement)\nPresent evidence\nMutual agreement"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

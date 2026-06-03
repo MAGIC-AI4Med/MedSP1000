@@ -1,0 +1,35 @@
+{
+  "case_id": "mep_2374-8265.11544-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11544-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Order appropriate diagnostics, including blood cultures, CBC, and echocardiogram.",
+    "Monitor the patient\u2019s response to diagnostic and therapeutic interventions.",
+    "Item 1a: Resident accesses patient vital sign trends",
+    "Item1b: Resident evaluates labs",
+    "Item 1c: Resident evaluates, intake and output trends in the chart (for in-person assessment only)",
+    "Item 1d: Resident evaluates pediatric eCART score____",
+    "Item 2: Airway assessment (may be included in breathing assessment if air movement/breathing described as adequate) ____",
+    "Item 3: Breathing (e.g., Apnea, description of respiratory effort or air movement) ____",
+    "Item 4: Circulation ( e.g., pulses, blood pressure) ____"
+  ],
+  "MK": [
+    "Identify fever, headache, and a new murmur as possible signs of sepsis or endocarditis."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Deliver a structured patient handoff using ABC-SBAR.",
+    "Item 5: Situation (reason for call) ____",
+    "Item 6: Background (e.g., reason for admission) ____",
+    "Item 7: Assessment and/or recommendation ____",
+    "Item 8: Airway assessment included before background, assessment or recommendation ____",
+    "Item 9: Breathing assessment included before background, assessment or recommendation ____",
+    "Item 10: Circulation assessment included before background, assessment or recommendation ____",
+    "Item 11: Situation assessment included before background, assessment or recommendation ____",
+    "Item 12: Information on airway, breathing and circulation within the first 10 seconds of the presentation ____",
+    "Item 13: Presentation completed within 30 seconds ____"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

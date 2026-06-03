@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-13-10590-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10590-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "What options do you have? What do you think is the best course of action?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "If you decide to perform the pericardiocentesis, how should you go about informed consent?",
+    "If you decide not to perform it, how should you negotiate this with the nurse?"
+  ],
+  "PBLI": [
+    "Does the resolution resonate with your personal values? Do you feel at ease, or do you continue to feel troubled even though you believe you did the best thing under the circumstances?"
+  ],
+  "PROF": [
+    "Who will be affected by your decision, and whose interests does your resolution prioritize?",
+    "Should you ever perform a task for which you don’t feel absolutely competent? Where do you think you should draw the line?",
+    "The relevant ethical considerations in this case include:\nNon-maleficence\nBeneficence\nUtilitarian concerns (“Will this produce the best results for everyone concerned?”)\nProfessionalism\nAutonomy (the patient is delirious – would she consent to such treatment if she had a chance to?)"
+  ]
+}

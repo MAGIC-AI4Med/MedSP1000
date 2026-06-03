@@ -1,0 +1,40 @@
+{
+  "case_id": "mededportal_10045",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10045/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Checked for three “red flag” conditions",
+    "Washed hands prior to exam",
+    "Examined the throat using correct technique",
+    "Palpated the neck using correct technique",
+    "asked me when my symptoms started",
+    "asked me if I have been around anyone who has been sick",
+    "asked if I have had a fever",
+    "asked me if I have a cough",
+    "asked me if I have diabetes",
+    "asked me about shortness of breath",
+    "asked if I have ever had rheumatic fever",
+    "asked me if I had any new sexual partners",
+    "asked if I had been taking an adequate fluids",
+    "examined my throat",
+    "felt my neck for lymph nodes"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Establishes a positive atmosphere at the beginning of the interaction",
+    "Uses non-verbal means to enhance communication",
+    "Identifies the problem that the patient wishes to address",
+    "Starts with an open-ended question",
+    "Obtains a sexual history in a supportive, nonjudgmental manner",
+    "Provides closure effectively",
+    "introduced himself / herself",
+    "made comfortable eye contact during the interview",
+    "asked if I have any other problems besides my sore throat",
+    "discussed the problems that he/she identified",
+    "made me feel comfortable (through verbal AND non-verbal cues)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

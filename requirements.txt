@@ -4,6 +4,9 @@ openai==1.109.1
 pyyaml==6.0.2
 tenacity>=8.0
 
+# Dataset download from the Hugging Face Hub (scripts/download_data.py)
+huggingface_hub>=0.23
+
 # Analysis / statistics / figures
 pandas==2.3.0
 numpy==2.2.6

@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_592",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_592/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Patient assessment",
+    "Oxygen administration (non-rebreather mask)",
+    "Cardiac monitor with continuous pulse oximetry",
+    "Additional vascular access (> 18 gauge)",
+    "Inhaled beta-agonist administration (nebulizer)",
+    "Parenteral adrenergic medication administration (SQ epinephrine)",
+    "Steroid medication administration (IV)",
+    "Preparation for airway management - setup endotracheal intubation equipment - check suction - call for respiratory personnel if available - de-nitrogenation / “pre-oxygenation” attempt",
+    "Advanced airway management:- continued bag valve mask ventilation - small-size endotracheal tube intubation - Laryngeal Mask Airway",
+    "Adequate status asthmaticus management requires the following: - inhaled beta-agonist - inhaled anticholinergic - IV steroids - IV magnesium sulfate - iV fluid bolus - chest xray - ventilator management",
+    "Recognize and decompress left chest with needle or tube thoracostomy"
+  ],
+  "MK": [
+    "Considers major differential diagnosis elements of inability to successfully intubate through vocal cords (foreign body, subglottic stenosis, intrinsic or extrinsic compression of trachea)",
+    "Proper consideration of alternate diagnoses and precipitants Avoidance of premature diagnostic closure",
+    "Rapid recognition of disease process with appropriate management actions",
+    "Recognition of critical patient state and need for emergent treatment Awareness of unresolved issues",
+    "Alternative ventilatory strategies and rescue airway devices are considered"
+  ],
+  "SBP": [
+    "Call for assistance (e.g. anesthesia / critical care attending)",
+    "Formal transition of care with report of patient presentation, resuscitative events, and treatment",
+    "Safe medication ordering"
+  ],
+  "ICS": [
+    "Succinct and complete verbal presentation to accepting personnel Respectful interaction with patient and staff",
+    "Manages scenario and leads team members with fluency, automaticity， simultaneity， rapidity and knowledge base"
+  ],
+  "PBLI": [
+    "Analyze own practice for needed improvement in difficult airway management skills",
+    "Simulation exercise to acquire and develop alternative airway management skills",
+    "Simulation exercise to experience and manage complicated and difficult asthma patient presentations",
+    "Web video $^ +$ online references to learn difficult airway skills",
+    "Simulation environment with audiovisual recording to review clinical management skills"
+  ],
+  "PROF": []
+}

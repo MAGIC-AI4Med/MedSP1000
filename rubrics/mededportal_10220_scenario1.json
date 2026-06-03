@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_10220",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10220/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain and assess initial ECG.",
+    "Obtain cardiac injury panel",
+    "Administer oxygen via nasal cannula",
+    "Administer aspirin",
+    "Administer sublingual nitroglycerin",
+    "Administer morphine",
+    "Consider administration of a beta blocker",
+    "Obtain IV access",
+    "Administer IV benzodiazepine.",
+    "Consider administration of IV diphenhydramine.",
+    "Reassess patient, including vital signs and ECGs."
+  ],
+  "MK": [
+    "Consider and evaluate for myocardial infarction.",
+    "Identify synthetic cannabinoid toxicity after considering appropriate differential diagnosis."
+  ],
+  "SBP": [
+    "Consult cardiologist.",
+    "Consult with toxicologist or Poison Control Center.",
+    "Disposition – Admit to CCU."
+  ],
+  "ICS": [
+    "Interact with an agitated patient.",
+    "Interact with the family of the patient."
+  ],
+  "PBLI": [
+    "demonstrated effective practice-based learning, including the self-analysis/critique of their performance during the simulation exercise."
+  ],
+  "PROF": [
+    "displayed professionalism"
+  ]
+}

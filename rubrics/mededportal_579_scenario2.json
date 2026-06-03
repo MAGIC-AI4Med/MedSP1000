@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_579",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_579/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Biomedical bias (best evidence medicine to stop progression of his heart disease) (1) (2) We know stopping smoking will help. We know exercise will help. (3) We know lowering his blood pressure will help."
+  ],
+  "SBP": [
+    "Generate a list of “next steps” the physician would take (1) Where should his care be delivered? (2) What is he willing to do now?",
+    "Potential disparities in health care system that might influence your ability to provide excellent patient care (1) The cost of inpatient care far outweighs outpatient care and is a valuable resource. (2) Access is a problem for him.",
+    "Potential community and/or hospital related resources (1) (2) Case manager contact. Is there any staff he works particularly well with? (3) Might there be VA resources that would help him?"
+  ],
+  "ICS": [
+    "Questions for physician to ask him/herself: (1) Does he truly understand all the risks and potential outcomes. (2) Does he understand that not all serious forms of heart disease have significant chest pain.",
+    "Would it be helpful to let the patient know that the hospital staff is worried about him and they are frustrated that they cannot help him?"
+  ],
+  "PBLI": [
+    "Can you achieve excellence in patient care with this patient?",
+    "Could you achieve excellence in the future?"
+  ],
+  "PROF": [
+    "Potential biases, stereotypes that you and/or physicians with whom you have worked, may have related to this patient (1) This guy just doesn’t want to get better – we can’t help him. (2) He is wasting our time and money. (3) I’ve worked with street people for 10 years and you never see one get better."
+  ]
+}

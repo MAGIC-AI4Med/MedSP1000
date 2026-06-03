@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_8476",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8476/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Recognize acute severe asthma exacerbation, place on monitor, oxygen",
+    "Begin appropriate therapy as above: Continuous Nebs (albuterol, ipatropium) steroids, epinephrine, magnesium",
+    "Obtain portable stat CXR (hyperinflation)",
+    "Obtain ABG",
+    "Intubation with correct RSI observing patient's deteriorating respiratory and neurologic status. Specifically recognizing hypercapnia on arterial blood gas as an indication for RSI.",
+    "Obtain CXR after intubation",
+    "Use the correct ventilator settings post intubation in the case of no RT and no PICU for an extended period of time (Low tidal volumes, high flow, low respiratory rate, and the prevention of iPEEP)",
+    "Post-intubation sedation",
+    "Steroids if not previously given",
+    "Obtain ABG in 30 minutes to confirm improving results"
+  ],
+  "MK": [
+    "Consider alternative diagnosis"
+  ],
+  "SBP": [
+    "Consult PICU (no answer at this time)"
+  ],
+  "ICS": [
+    "Interview parents about previous asthma exacerbations"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

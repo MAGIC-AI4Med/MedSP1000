@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.11511-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11511-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Inquires about patient’s reason for seeking medical care",
+    "Gathers specific sexual history (5 P’s: partners, practices, protection from STIs, past history of STIs, and pregnancy intention) and provides appropriate resources and psychoeducation as necessary",
+    "Assesses for mood disturbances surrounding the menstrual cycle",
+    "Inquires about past, present, and intent for future use of HRT (e.g., testosterone)",
+    "Provides appropriate options for menstrual suppression in line with patient’s goals"
+  ],
+  "MK": [],
+  "SBP": [
+    "Inquires about desire for name and pronouns to be included in patient medical record"
+  ],
+  "ICS": [
+    "Introduces self with name and pronouns",
+    "Inquires about patient’s chosen name and pronouns using affirming language",
+    "Uses inclusive language when building rapport with patient and gathering history",
+    "Uses warm and welcoming body language to promote relaxation and build trust",
+    "Uses gender neutral and/or anatomically correct language when referring to medical concerns and body parts",
+    "Provides patient education about the impact of HRT on the menstrual cycle, if applicable",
+    "Adequately describes when physical exams are necessary and collaboratively decides if an exam is necessary in today’s visit",
+    "Provides opportunity to discuss patient concerns or discomfort with physical exam (or any part of the visit) and addresses concerns with empathy",
+    "Learners will use shared decision making to create a personalized plan of care with the patient"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

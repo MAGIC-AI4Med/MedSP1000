@@ -1,0 +1,47 @@
+{
+  "case_id": "mep_2374-8265.11512-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11512-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Performing the physical examination in a collaborative manner that resists retraumatization",
+    "The patch, shot, ring, or IUD all should improve the bleeding and cramping from many etiologies while remaining discrete and not requiring daily dosing with a pill.",
+    "Discussing the need for pap tests at regular intervals, as well as possible screening and/or prevention of STIs and pregnancy would be important."
+  ],
+  "MK": [
+    "There are many causes of abnormal vaginal bleeding. To approach the diagnosis, it is helpful to narrow down the possibilities by ascertaining a) what portion of the menstrual cycle the patient is in, b) whether the bleeding is occurring in the context of an ovulatory cycle, and c) the pattern of abnormal bleeding.",
+    "Recognizing symptoms and exam findings that may suggest a history of trauma"
+  ],
+  "SBP": [
+    "Asking all patients this information early on (such as at registration) normalizes this practice for all your patients, minimizes feelings of stigma and bias by just asking those questions to patients who “look” like they may have a gender identity that is different from sex assigned at birth, and minimizes the risk of missing patients who have identities different than your assumptions.",
+    "Facilitating connection to TGD-sensitive trauma recovery services"
+  ],
+  "ICS": [
+    "Affirming the patient’s gender throughout the encounter",
+    "Obtaining the history in a patient-led manner",
+    "Asking about trauma in a manner that resists retraumatization",
+    "Responding appropriately to trauma disclosure",
+    "Recognizing and responding effectively when the patient becomes distressed",
+    "Co-developing care plans that are patient empowering and enable mutual respect, safety, and ongoing engagement.",
+    "ask what anatomical terms the pt prefers rather than assuming vagina is the right term, be aware talking about menses, ovaries can be triggering to patient both if history of sexual abuse, and for body dysmorphic people in TGD communities.",
+    "TIC-“Thank you for letting me know, I will not ask about this now. If you want to know the medical reasons I am interested in this history let me know. This is your visit and your body, how else can I help today?”",
+    "Emphasize to the patient that you are asking these questions because they are important to overall health and it is something you ask of everyone.",
+    "Don’t ask invasive questions that are not necessary and, if you think they are necessary, explain to the patient why you are asking them",
+    "Avoid assumptions about gender identity, language, patterns and behaviors by asking open-ended questions",
+    "Speak openly and without judgment about gender, health, sexuality and mental health",
+    "Ask for consent before each step of an exam or procedure. Check-in with your patient as much as possible; place the control in your patient’s hands and tell them very overtly that they are in control",
+    "It is a good idea to ask what terms a patient uses and remember to use those terms throughout the encounter, using the same terms they use for their own anatomy.",
+    "Some measures that can increase Cory’s comfort are: letting them know they can make a follow-up appointment to have the exam and bring a support person, using a chaperone, allowing patients to handle a speculum beforehand, and keeping patients as covered as possible, including letting them know they can keep their shirts on. Let the patient know that you can stop the exam at any time if they ask or raise their hand. When asking patients about their preferences, it is important to ask open-ended questions so the patient can explain beyond yes/no.",
+    "Validating and communicating that you understand the patient’s sexual and/or gender identity is important.",
+    "You can emphasize that the hormones that are in these contraceptive methods can be used for pregnancy prevention but are often used for many different reasons.",
+    "Having a discussion regarding how these hormones may lighten or even take away periods as well as positively affect secondary sex characteristics (e.g., improve acne) may be a welcomed conversation to someone who is gender fluid or nonbinary.",
+    "you could alert them that you see the smoking and alcohol use as part of their health history, ask them if they have anything they would talk about today specifically to those two, and, if not, ask permission to address at another visit."
+  ],
+  "PBLI": [
+    "Educate yourself about health care for sex and gender minorities as a means of minimizing bias and disparate care"
+  ],
+  "PROF": [
+    "Attending to power dynamics throughout the encounter",
+    "Use TIC to be open, aware, and transparent, do not try to be knowledgeable if you are not, be upfront, be open, correct mistakes if they happen in real time."
+  ]
+}

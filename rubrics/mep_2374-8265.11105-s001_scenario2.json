@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.11105-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11105-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Complete androgen insensitivity syndrome",
+    "FSH 2.5 IU/ml, Testosterone 300 ng/dl, prolactin 15 ng/ml, chromosome 46, XY"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Since child is a minor and child will not need surgery, it is appropriate if they want to first learn about the diagnosis and then see a counselor to share the diagnosis with the child."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

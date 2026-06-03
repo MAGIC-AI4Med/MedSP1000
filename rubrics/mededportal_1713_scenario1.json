@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_1713",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1713/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Confirms VS and orders oxygen and fluid resuscitation",
+    "Obtains peripheral access using at least one large bore IV",
+    "Administers pain medication at correct dosing once access obtained (or IM)",
+    "Frequent reassessment of VS during resuscitation",
+    "Orders appropriate lab and x-ray studies",
+    "Rhabdomyolysis is recognized and patient is treated aggressively with IV fluids",
+    "Primary survey in < 1 minute (VS, presence of deformity)",
+    "Obtains patient history",
+    "Neurovascular examination of lower extremity",
+    "Determine and implement immobilization of left leg"
+  ],
+  "MK": [
+    "Recognizes injury and potential for other injuries",
+    "Recognizes need for pain control"
+  ],
+  "SBP": [
+    "Consults orthopedics/trauma as needed"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

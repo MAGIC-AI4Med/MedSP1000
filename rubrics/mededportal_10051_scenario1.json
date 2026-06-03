@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_10051",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10051/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Communicates adequate understanding of available information"
+  ],
+  "SBP": [
+    "Obtains adequate medical information for death certificate"
+  ],
+  "ICS": [
+    "Introductions and demeanor establish a therapeutic connection appropriate to the situation",
+    "Clearly identifies individuals present and asks if others should be present before important information is discussed",
+    "Uses patient’s full name",
+    "Uses appropriate warning statement",
+    "Avoids medical jargon or euphemisms for “died” or “dead",
+    "Demonstrates Empathic communication/behaviors",
+    "Speaks to a lack of suffering; provides compassionate but accurate information without providing assertions that are not known",
+    "Offers family to view body appropriately",
+    "Offers final condolences to family and contact information and asks if there is any other assistance/support they can provide"
+  ],
+  "PBLI": [
+    "Requests feedback on personal performance, and engages staff/colleagues in case-appropriate reflection"
+  ],
+  "PROF": []
+}

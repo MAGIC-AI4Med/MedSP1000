@@ -1,0 +1,57 @@
+{
+  "case_id": "mededportal_10209",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10209/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assesses maternal and fetal status (vitals and heart rate tracing)",
+    "Takes obstetric history",
+    "Conducts physical exam",
+    "Determines status of membranes (intact/ruptured)",
+    "IV fluid bolus (correct)",
+    "Administers tocolytics (incorrect)",
+    "Administers antibiotics (incorrect)",
+    "Administers magnesium for neuroprotection (incorrect)",
+    "Management \u2013 based on gestational age, no need for tocolytics, antibiotics, etc",
+    "Obtaining significant OB history",
+    "Assessment for Membrane Status and Chorioamnionitis",
+    "Management of PTL",
+    "Iwas able to implement the correct management.",
+    "My management was timely."
+  ],
+  "MK": [
+    "Diagnosis \u2013 preterm contractions as opposed to preterm labor",
+    "Prognosis \u2013 low risk of imminent delivery",
+    "Recognition of PTL",
+    "Iwas able to evaluate the situation correctly."
+  ],
+  "SBP": [
+    "Makes a plan for follow-up exam or disposition",
+    "Calls for help (when appropriate)",
+    "Calls for \u201czero-minute\u201d cesarean section (incorrect)",
+    "Iwas able to determine the need for further assistance.",
+    "I properly documented the PTL event."
+  ],
+  "ICS": [
+    "Introduces themselves to patient and family",
+    "Acknowledges nurse/staff in room, asks for SBAR",
+    "Provide a statement explaining what is going on",
+    "Uses understandable language",
+    "Check for patient/family\u2019s understanding",
+    "Reassures the patient",
+    "Use of positive or negative non-verbal responses",
+    "Iacknowledged the nurse when larrived on scene.",
+    "Icommunicated effectively with the delivery staff, using TeamSTEPPS principles and language.",
+    "Icommunicated effectively with the patient.",
+    "Icommunicated effectively with the patient's partner.",
+    "I was honest,accurate,and avoided jargon when communicating with the patient and her partner.",
+    "Directed Messages",
+    "Closed-Loop Communication",
+    "Sharing Knowledge",
+    "Reevaluation/Summarizing"
+  ],
+  "PBLI": [
+    "Recognize Limitations"
+  ],
+  "PROF": []
+}

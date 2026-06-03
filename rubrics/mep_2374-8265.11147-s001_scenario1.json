@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11147-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11147-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Uses COWS to assess severity",
+    "Calculates COWS score: Score:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_"
+  ],
+  "MK": [
+    "Notes that patient is in withdrawal"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Developed Rapport",
+    "Defines limits of confidentiality for adolescent",
+    "Explains diagnosis OUD",
+    "Assesses motivation to receive ongoing treatment",
+    "Explains medication treatment options to adolescent"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

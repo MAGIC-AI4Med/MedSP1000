@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario20",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario20",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Learner: Tell me more (*elicits information in a non-confrontational way, best if asked as an open-ended question*)",
+    "*The learner should explain the purpose of medical trial briefly but does not have to go into many details.*",
+    "*At this point, the learner should attempt to intervene while remaining neutral to the argument.*",
+    "***Circular questions*:** (obtain information) It seems like there may be some tension between you two. Mary, how did Richard respond to your illness? Why do you think he is so concerned or upset about your decision(s)? Richard, how do you think Mary feels when you disagree with what she decides to do with her care?",
+    "**Learner can briefly summarize each person’s views and point out the conflict (summary of concerns/viewpoints)**",
+    "***Strategic questions***: (resolve conflict, make future goals or plans) Richard, what can we do to help you be at peace with Mary’s decision? If Mary shares more of her medical information with you or asks your opinion more, do you think you would be more comfortable knowing you can trust her to make informed decisions?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

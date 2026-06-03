@@ -1,0 +1,51 @@
+{
+  "case_id": "mep_2374-8265.11421-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11421-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Anesthesia (verbalized, pantomimed)",
+    "Ensure that all equipment is present and easily accessible from patient’s bedside.",
+    "Patient should be placed on nasal oxygen and continuous pulse oximetry.",
+    "Position the patient: for anterior axillary line insertion, head of the bed should be elevated 30-60 degrees, and the arm on the procedural side is restrained over the patient’s head.",
+    "Locate and describe the appropriate landmarks outlining the triangle of safety and indicate the site of tube placement verbally.",
+    "Prep a wide sterile field around the site of insertion.",
+    "Lay out kit contents in the order of use to maximize procedural efficiency.",
+    "Load trocar to stiffen the flexible catheter.",
+    "Lubricate the dilator and catheter with sterile saline.",
+    "Choose the appropriate introducer needle length based on pleural depth by ultrasound and confirmed by anesthesia step above.",
+    "Load 2-3 cc saline (or local anesthetic such as lidocaine) in a syringe and aspirate as you advance.",
+    "When fluid (for effusion) or bubbles (for pneumothorax) appear in the syringe, advance ~5mm and ensure pleural fluid aspirates easily; for pneumothorax, inject ~1cc saline/local anesthetic to ensure smooth flow.",
+    "Stabilize hand position against chest wall to prevent needle advance/withdrawal and remove syringe.",
+    "Feed the wire through the needle until there is ~10cm remaining.",
+    "Remove the needle.",
+    "Nick the skin at the needle site by inserting the scalpel alongside the wire to the scalpel’s hub, making a 1cm incision.",
+    "Confirm a skin bridge is not present by moving the wire within the incision and ensuring it moves freely.",
+    "Insert one dilator to the necessary depth to penetrate pleura based on subcutaneous tissue thickness estimated by ultrasound and confirmed by steps above.",
+    "Slide the dilator in and out 2-3 times to ensure it moves freely, then remove.",
+    "Feed catheter (with trocar in place so it is stiff) over wire.",
+    "Advance catheter/trocar and wire as a unit at least as far as estimated pleural depth plus 1-2cm (see dilator insertion depth above).",
+    "At this point the trocar and wire may be held steady while the catheter is advanced to at least the first black line (5 cm proximal to the last sidehole) and deep enough to ensure the last sidehole is intrapleural.",
+    "Remove the trocar and wire together.",
+    "Secure the chest tube at the insertion site with 0 or 1-0 silk by placing a U-stitch around the incision site and wrapping the suture several times around the chest tube before knotting several times. Tube should be fixed sufficiently tightly to prevent accidental removal but not so tight as to impair tube drainage.",
+    "Cover the insertion site with foam tape.",
+    "Connect chest tube to closed drainage system (or flutter valve). Secure connection points with foam tape.",
+    "Clean off patient and secure redundant tubing."
+  ],
+  "MK": [
+    "Discuss indications of the procedure with the attending. Address duration of placement and plans for removal.",
+    "Discussion of relative contraindications to urgent/non-emergent chest tube placement including:\nINR >1.5 (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026252/>)\nPLT <50 (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6142536/>)"
+  ],
+  "SBP": [
+    "Verify patient identity and procedure location during “Time Out.”",
+    "Dispose of sharps properly.",
+    "Document procedure protocol in patient’s chart."
+  ],
+  "ICS": [
+    "Notify nursing staff of the procedure.",
+    "Obtain informed consent.",
+    "Communication with patient and family, attending, nursing staff and provide appropriate sign out to primary medical team."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_10149",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10149/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Check responsiveness",
+    "Check for a pulse <10 sec",
+    "CPR 2 minutes at rate of > 100/min, > 2in deep",
+    "Open airway, give 2 rescue breaths",
+    "Continue respirations at ratio compressions:respirationsof 30:2.",
+    "Give oxygen.",
+    "Attach monitor/defibrillator",
+    "CPR 2 minutes",
+    "Change compressor every 2 minutes",
+    "Direct placement of airway device with minimal interruptions in chest compressions. After intubation,continuous compressions with a ventilation rate of 8-10/min",
+    "Establish IV access",
+    "Epinephrine 1 mg IV push repeat every 3-5 minutes ORVasopressin 40 U IV single dose to replace first orsecond dose Epinephrine",
+    "Pulse/rhythm check<10 sec",
+    "CPR 2 minutes, do not stop for meds",
+    "Pulse/rhythm check <10 sec"
+  ],
+  "MK": [
+    "Check/Identify rhythm on monitor <10 sec",
+    "Search 5H/5T"
+  ],
+  "SBP": [
+    "Call for defibrillator",
+    "Call Code, stop efforts"
+  ],
+  "ICS": [
+    "Get Help/Assign roles"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Confirm Patient Code Status"
+  ]
+}

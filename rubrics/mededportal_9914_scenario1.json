@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_9914",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9914/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Initiating IV, O2 and telemetry.",
+    "Complete history including eliciting history of dental pain",
+    "Performing a complete physical examination including of the neck",
+    "Performing a complete physical examination including palpation of chest",
+    "Administering IVF resuscitation",
+    "Administering broad-spectrum antibiotics",
+    "Initiating vasopressors",
+    "Obtaining a CXR/CT scan"
+  ],
+  "MK": [
+    "Identifying mediastinitis",
+    "Recognizing sepsis and initation of appropriate treatment including antibiotics"
+  ],
+  "SBP": [
+    "Obtaining thoracic and oral surgical consultation"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

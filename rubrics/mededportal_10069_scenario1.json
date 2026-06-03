@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_10069",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10069/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Resident asks correct series of questions, determines that the child has a rash, determines that the rash is petechial, and has the child seen immediately.",
+    "Resident asks correct series of questions, determines that the child has a rash, but then does not recognize that the child needs to been seen immediately.",
+    "Interviewer has to state that the child has a rash (because the resident does not ask), after which resident determines that the child has petechiae and needs to be seen.",
+    "Interviewer has to state that the child has a rash (because the resident does not ask), after which resident still does not determine that the child has petechiae but does realize that the child needs to be seen.",
+    "Resident asks incorrect questions and arrives at incorrect diagnosis and management plan."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

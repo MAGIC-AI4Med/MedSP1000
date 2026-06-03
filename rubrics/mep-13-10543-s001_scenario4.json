@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-13-10543-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10543-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Establish rapport with patient and family",
+    "Discuss the prognosis and lack of further curative options",
+    "Introduce the concept of palliative care and hospice services in a culturally sensitive and respectful manner",
+    "Engage the patient and family in a discussion about their personal and cultural beliefs regarding terminal care and wishes/needs pertaining to the situation of death",
+    "Be prepared to discuss different aspects of therapy"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

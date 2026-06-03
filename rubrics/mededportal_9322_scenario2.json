@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_9322",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9322/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Physician in team must:\nRecognize ventricular fibrillation on monitor\nOrder CPR including ventilations via bag-valve-mask\nOrder defibrillation at appropriate voltage\nOrder epinephrine\nOrder amioderone, lidocaine, or procainamaide\nRepeat defibrillation\nRecognize unresponsive patient after ROSC (return of spontaneous circulation) and proceed with intubation",
+    "Nurses in team must:\nEstablish IV access.\nPut patient on monitor\nCall out vital signs and monitor readings\nAdminister medications\nAdminister defibrillation",
+    "EMTs and other support staff must:\nBegin CPR at appropriate rate and technique\nProceed with ventilation with appropriate technique"
+  ],
+  "MK": [],
+  "SBP": [
+    "Situational Awareness by all members of staff- recognition of progression of care.",
+    "Decision Making- Leaders guide care (defibrillation, intubation) but other members of team are involved (starting IVs without specific orders).",
+    "Transition of leadership from the physician to another team member as the physician turns focus to the family",
+    "Recognition of the patient’s return to an unstable state while the physician is talking to the family, and action by the team members to reinitiate ACLS or, at a minimum, inform the physician of the changed status.",
+    "Flexibility of decision making- ability of all members of the team to change clinical path during resuscitation after family arrives"
+  ],
+  "ICS": [
+    "Establish the team leader",
+    "Clarify roles",
+    "Assign tasks by name",
+    "Call-outs and check backs when orders are ordered and performed",
+    "Create a calm environment",
+    "Acknowledge and validate other’s feelings – the natural reaction is to defend the course of care (“This is what we do when we do not know.”), which does nothing to validate the family’s feelings. Instead we look for a reaction such as, “If this is not what your mother wanted, we can certainly understand why you are so upset.”",
+    "Focus on the problem-not the person",
+    "Present options for proceeding",
+    "Gain agreement on one of the option’s presented"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

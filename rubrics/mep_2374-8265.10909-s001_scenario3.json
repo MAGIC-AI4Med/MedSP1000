@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.10909-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10909-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "A: What increased risks of serious cardiovascular events are transwomen exposed to with the use of hormone therapy?",
+    "Because the events are relatively rare, you need to have a high N, and a long follow-up period, to capture a difference between exposed and unexposed individuals.",
+    "For that reason, the prospective cohort study makes the most sense.",
+    "A: For you: MI, CVA, VTE. For patient: probably the same, though would also want to know what $\\%$ stopped therapy."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Key point: while these risks are stark, they must be weighed against the benefits of treatment. Hormone therapy for many transgender patients is critical to their physical and emotional wellbeing."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Placebo controlled trials of hormones in transgender individuals are likely not ethical."
+  ]
+}

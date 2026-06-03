@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10737-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10737-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "What types of comfort measures would you use to make the process as tolerable as possible?"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "How would you describe performing a lumbar puncture to a typical patient? To a parent?",
+    "Describe the discussion you would have with this patient about what to expect following the procedure."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

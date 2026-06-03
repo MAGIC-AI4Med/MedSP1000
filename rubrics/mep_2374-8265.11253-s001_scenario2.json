@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11253-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11253-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "The physician should not have made assumptions about the patient’s wishes regarding the pregnancy and should have provided a thorough exam and counseling for the patient."
+  ],
+  "MK": [],
+  "SBP": [
+    "Patients without disabilities face inherent privilege in the healthcare system, as their encounters are not circumscribed by the barriers posed by bias, prejudgment, and limited provider training on managing disabilities.",
+    "Patients with disabilities are often not provided proper health exams because providers are not comfortable with examining disabled patients, or do not have the infrastructure or knowledge for doing so. For example, this patient should have received a gynecological exam given her pregnancy status; however, even beyond provider biases, barriers such as clinic set-ups that do not allow patients with disabilities to self-transfer to an exam table, or even access the exam table at all.",
+    "Including healthcare providers with disabilities can improve healthcare in two ways: (1) by decreasing stigma through peer-peer interactions, and (2) using their knowledge from being on “both sides of the curtain” to improve care for patients with disabilities."
+  ],
+  "ICS": [
+    "Patients, regardless of ability, deserve to be included in medical decision-making",
+    "Any of the healthcare providers she interacted with should have reassured Mrs. Jones that her disability is not legal grounds for taking away her child.",
+    "Physicians should recognize patients with disabilities as whole persons. Physicians should not assume a patient’s healthcare or lifestyle preference based on their disability. Additionally, when a patient has a caregiver or partner in the room, the physician should make sure to continue to address the patient and not the accompanying individuals. Talking to a caregiver instead of the patients themselves, dismisses patient autonomy and competency."
+  ],
+  "PBLI": [
+    "Healthcare trainees should be taught the potential complications of disabilities alongside the innovations that support patient goals regardless of a patient’s (dis)abilities.",
+    "Provider training on ableism can assist in deconstructing stigmas and assumptions about patients with disabilities."
+  ],
+  "PROF": [
+    "Disability does not equate to inability---in this case, having SB does not inherently make the patient incapable of being a good parent"
+  ]
+}

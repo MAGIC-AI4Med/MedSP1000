@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_9797",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9797/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Brief reason why the pediatric team is called",
+    "Infant’s gestational age",
+    "Pertinent maternal and fetal risk factors",
+    "Brief reason why the Pediatric team is called",
+    "Gestational age",
+    "Pertinent maternal risk factors (If there are none, it should be stated.)",
+    "Maternal medications, including pertinent over-the-counter drugs",
+    "Time of infant’s birth, or how old the infant is in minutes during hand-off (if applicable)",
+    "Any resuscitative measures done for the infant by the Obstetric team (if applicable)",
+    "Assignment of APGAR scores by the Obstetric team prior to the arrival of Pediatric team (if applicable)",
+    "Baby’s current clinical status",
+    "Resuscitative efforts on the infant",
+    "At the minimum, the 1 and 5 minute APGAR scores should be communicated."
+  ],
+  "SBP": [
+    "Peds team’s communication that they either require additional support, or have sufficient resources to continue resuscitation on their own",
+    "Where the baby will be admitted",
+    "Communicate where the baby will be admitted",
+    "Discuss why special care nursery or NICU care is required (if applicable)"
+  ],
+  "ICS": [
+    "Obstetric team’s acknowledgement or Pediatric team’s announcement of arrival to delivery",
+    "Introduce yourself to the mother and family",
+    "Discuss infant’s current clinical status",
+    "State measures done to help the baby transition",
+    "Offer to answer any questions",
+    "Offer to let the family see, touch, and/or hold the baby"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

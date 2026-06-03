@@ -1,0 +1,45 @@
+{
+  "case_id": "mededportal_9078",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9078/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Student asked me about onset of symptoms and developed a chronologic timeline of my complaints [Hx]",
+    "Student asked me if I had had pain in any other joint and correctly identified all involved joints [Hx]",
+    "Student used questions effectively to characterize my pain [Hx]",
+    "Student asked me what makes the pain better [Hx]",
+    "Student asked me what makes the pain worse [Hx]",
+    "Student asked me about the severity of pain on a scale from 1-10 [Hx]",
+    "Student asked about the impact of the joint pain on my activities, job performance and relationships [Hx]",
+    "Student asked me about fever, OR chills, OR weight loss (Review of Systems) [Hx]",
+    "Student asked me about my sexual activity [Hx]",
+    "Student asked me about previous STDs [Hx]",
+    "Student listened to my lungs under my clothing [PE]",
+    "Student listened to my heart under my clothing [PE]",
+    "Student performed general inspection <strong>and</strong> ROM of my upper extremities (shoulders, elbows, wrists) – <strong>both</strong> arms [PE]",
+    "Student performed general inspection <strong>and</strong> ROM of my lower extremities (hips, knees and ankles) – <strong>both</strong> legs [PE]",
+    "Student asked me to move my right knee actively <strong>AND</strong> completed a passive ROM exam as well [PE]",
+    "Student palpated around the knee cap of my right knee with knee in flexion (as much as my pain allowed to flex the knee) [PE]",
+    "Student asked me when did the two pustules on left palm appear [Hx]"
+  ],
+  "MK": [
+    "Differential diagnosis list logically followed (was supported by) the recorded information",
+    "Immediate diagnostic workup list logically supported the considered differential diagnosis list"
+  ],
+  "SBP": [
+    "Information content was recorded within the appropriate part of the note; i.e. subjective information was recorded in section “History” etc."
+  ],
+  "ICS": [
+    "Student established a positive working relationship (presented him/her-self, eye contact and addressed me as Mr./Ms. Rodilla) [comm.]",
+    "Student explained to me the findings of the examination - that my knee pain, wrist pain and palm pimples are connected and might be related to STD (gonococcal infection; Gonorrhea) [comm.]",
+    "Student explained to me that both partners should be treated [comm.]",
+    "Student explained to me that this disease is transmitted through sexual contact [comm.]",
+    "Student made me feel comfortable [comm.]",
+    "The note was well organized, was written with clarity and without typos"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Information content was recorded correctly; i.e. all facts were correct, examinations not performed were not recorded, etc.",
+    "Student was honest about lack of knowledge and did not attempt to \"make up\" answers [comm.]"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "case_id": "mep-12-10433-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10433-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Place patient on monitor by attaching leads to chest",
+    "Place patient on supplementary oxygen via nasal prongs or facemask",
+    "Perform limited physical examination of patient",
+    "Prepare equipment and insert IV line",
+    "Commence IV fluid infusion using pump",
+    "Administer medications as required",
+    "Roll patient to clean soiling and dispose of soiled material appropriately"
+  ],
+  "MK": [],
+  "SBP": [
+    "All waste – including linens, unused medications, and sealed sharps container(s) – will be placed into red biohazard waste containers.",
+    "Red biohazard waste containers should be lined with 2 red bags.",
+    "½ a container of Premisorb should be poured in the bottom of the inner bag.",
+    "Red biohazard waste containers are considered “full” when they are ¾ full.",
+    "Apply (spray) enough bleach-based disinfectant into the red bag to sufficiently cover the surface of the waste.",
+    "Securely tie the first red bag.",
+    "Securely tie the second red bag.",
+    "Lift the red bag out of the red biohazard waste container and wipe the exterior surface with bleach-based disinfectant (Dispatch wipes).",
+    "Place tied red bag into the 32-gallon Brute Barrel just outside of the Patient Care Room door (by the Doffing Room).",
+    "Transport the full 32-gallon Brute Barrel to the threshold of Room 8/Room 9. ESD staff will process the waste from this point.",
+    "Return to Patient Care Room and re-line the empty red biohazard waste containers with 2 red bags and pour ½ a container of Premisorb into the bottom of the inner bag.",
+    "Make sure that you are wearing shoe covers and put on a third pair of gloves",
+    "Get Premisorb, a trash container, Dispatch wipes, Dispatch spray container, flat mop, and two sets (4 pieces) of yellow laminated sheets",
+    "Sprinkle Premisorb to cover the spill",
+    "Wait approximately 1 minute for solidification",
+    "With one piece in each hand, use the yellow laminated sheets to scrape up the now solidified spill and throw it in the trash container",
+    "Repeat until the area is cleared of body fluid",
+    "Use a second set of yellow laminated sheets if the first set is not strong enough",
+    "Throw the yellow laminated sheets in the trash container – be careful not to step in the contaminated area or extra Premisorb",
+    "Wet the area and extra Premisorb with Dispatch spray",
+    "With the flat mop, wipe the floor in a circular motion to remove the extra Premisorb and to disinfect the area",
+    "Let the area dry",
+    "Bring flat mop to entrance of Doffing Room",
+    "Place flat mop in Brute barrel in Doffing Room",
+    "Disinfect gloves with Dispatch wipes",
+    "Remove the outermost pair of gloves and discard",
+    "If staff cleaning up a spill outside of patient room, remove the shoe covers, disinfect outer gloves with Dispatch wipes, remove, and discard",
+    "Staff will discard flat mop head, disinfect mop handle"
+  ],
+  "ICS": [
+    "Communicate clearly and consistently with colleague and patient",
+    "Notify the Doffing Monitor",
+    "Make sure that staff is prepared"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_9322",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9322/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Initial work up should include IV, cardiac monitor, labs sent off, and an EKG.",
+    "IV fluids, cardiac monitoring, oxygen",
+    "Cardioversion at correct voltage and synchronized",
+    "Ensure adequate sedation with drug that does not cause hypotension.",
+    "Aspirin 325 mg"
+  ],
+  "MK": [
+    "Recognition of atrial fibrillation"
+  ],
+  "SBP": [
+    "Cardiology consultation",
+    "Structured hand-offs using SBAR"
+  ],
+  "ICS": [
+    "Staff members should be focused on not only the initial history, but acknowledging the son’s concerns, explaining the process, and assuring him that cardiology will be involved but the ED staff must initiate her care.",
+    "Staff should also focus on non-verbal communication skills.",
+    "The EKG returns first showing normal sinus without ischemia, and this should be explained to the son.",
+    "Informing patient and family of the plan",
+    "Establish the team leader",
+    "Clarify roles",
+    "Assign tasks by name",
+    "Call-outs and check backs when orders are ordered and performed",
+    "Situational Awareness by all members of staff- recognition of changing patient interaction.",
+    "Decision Making- Leaders guide care but other members of team are involved.",
+    "Flexibility of decision making"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

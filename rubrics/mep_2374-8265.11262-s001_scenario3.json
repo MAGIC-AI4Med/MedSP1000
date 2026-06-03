@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.11262-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11262-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Senior Housing: Not an option given Mr. Collins’ high needs.",
+    "Home-based primary care with home health aides: This is a possible though not ideal option for Mr. Collins.",
+    "PACE: This is not an option for Mr. Collins.",
+    "RCFE (Assisted Living or Adult Group Home): This is a possible though not ideal option for Mr. Collins.",
+    "NH: This would be good/feasible option for Mr. Collins."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

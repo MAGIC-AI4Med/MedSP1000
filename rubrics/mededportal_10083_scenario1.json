@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_10083",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10083/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Care in the NICU/PICU/Academic centres should always be multi-disciplinary and each member of the health care team and family has a valuable voice to be heard",
+    "In life and death situations, additional opinions of colleagues should be sought"
+  ],
+  "ICS": [
+    "Utilize the mnemonic SOBPIE to gain greater understanding of what may be generating this question (steps to be used for each question):\n    - What is the **S**ituation?\n    - Consider **O**pinions around and **O**ptions for the situation\n    - Ensure **B**asic human interactions\n    - Truly get the **P**arents’ story/concerns/needs/goals\n    - Provide truthful and desired **I**nformation\n    - Manage the **E**motions and relational aspects of decision making",
+    "“Everything” does not necessarily mean “Do every single test, investigation and management option available to you as a physician”",
+    "“Everything” does mean “After learning about us parents and our child, interact with us and help us in doing what is in the best interests of our baby and family”",
+    "The positive nature of all care (intensive or palliative) should be communicated",
+    "Recognize the fluctuating nature of emotions and choices during decisions of such magnitude",
+    "An approach involving the parents and using information (rather than one’s values/opinions) is key",
+    "Three (or more) possible rationales behind the question should be considered:\n    1. Parents are overwhelmed by the information/statistics/etc … and need clarification regarding what might make their baby better\n    2. Parents need support in making a very difficult decision and choosing between life and death\n    3. Parents cannot make a choice and believe they need clear direction from the treating team",
+    "Exploration with the family and garnering trust and understanding must be accomplished before any cautious sharing of a physician’s own opinions and values",
+    "Support the transition to palliative care by clarifying the prognosis",
+    "Identify end-of-life goals with the parents",
+    "Develop a treatment plan with the parents",
+    "Ensure clarity at each and every step of the process",
+    "Ensure parents know they are not being abandoned and that the situation is “not their fault”",
+    "Say “We will continue to do what is best for your baby and make sure s/he is always comfortable as we transition to palliative care”; **do NOT say** “… as we withdrawal care” as this suggests abandonment"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Humility is an important trait for physicians to display"
+  ]
+}

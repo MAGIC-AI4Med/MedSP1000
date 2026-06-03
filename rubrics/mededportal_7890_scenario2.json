@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_7890",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7890/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask about sleep and fatigue in the past month",
+    "Ask about any other symptoms (back muscle spasms)",
+    "Ask direct question: Have you had reason to feel unsafe at any time in the last few months?",
+    "How is your relationship with your fiance Wayne?",
+    "How do you and Wayne handle stress and conflicts?",
+    "How does Wayne handle parenting the children?",
+    "At any time has Wayne or anyone else hit, kicked, or frightened you?",
+    "Can you tell me more about the circumstances when you went to a shelter a year ago, or when he has hurt you badly?",
+    "Do you and your children feel safe in the home with Wayne currently?"
+  ],
+  "MK": [
+    "Is Martha's history suspicious for violence? Ask about fading bruises on the outside of both legs (Can you tell me about these bruises?)\nis the explanation of symptoms inconsistent with the evaluation of the bruise?"
+  ],
+  "SBP": [
+    "If she is ready to seek help, make arrangements with the local shelter who will also arrange for her children to meet her at the shelter.",
+    "If she states she would be okay at home, ask if she has a safety plan to protect her children and leave if things felt unsafe such as pack a small bag with simple basics (Drivers license/ID, a few clothes, cash is available, etc.)",
+    "Arrange for follow up of patient within appropriate time period",
+    "Document extent of current injuries through written documentation"
+  ],
+  "ICS": [
+    "Patient must be interviewed without anyone else especially partner present.",
+    "Listen to Martha's story with empathy and compassion (What has happened to you is not okay and you are not to blame, you are not alone and help is available)",
+    "Would you like to know about options for help now (you can tell her about the local shelter, Women's Advocacy Agency)",
+    "Assist the patient with understanding the relationship of violence to her health problems (It is not okay for anyone to be hurt physically or emotionally, you are not to blame, you are not alone, violence towards anyone is a crime and help is available for anyone, living with family violence has a major impact on your health including higher rates of depression, anxiety, sleep and appetite problems, pain etc.)",
+    "Provide the option to contact you/your office if she should need to (If you or your children should ever feel threatened or unsafe physically or emotionally please call me or my office so that we can find the right help for you)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

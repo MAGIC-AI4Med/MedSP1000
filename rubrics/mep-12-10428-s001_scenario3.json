@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-12-10428-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10428-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a focused history and a focused physical exam.",
+    "Describe the encounter with this patient. Include only information (pertinent positives and negatives) relevant to this patent’s problem(s).",
+    "**Diagnostic studies:** EKG, CXR, CBC, BMP, BNP, TSH, free T4"
+  ],
+  "MK": [
+    "**Congestive heart failure**\n\nHistory finding(s) Physical exam finding(s)\n\n*Hypertension history Hypertension*\n\n*Medication non-compliance Peripheral edema*\n\n*Fatigue JVD*\n\n*Weight gain*\n\n*Dyspnea*\n\n*Cocaine abuse history*\n\n*Poor diet*",
+    "**Acute renal failure**\n\nHistory finding(s) Physical exam finding(s)\n\n*Hypertension history Hypertension*\n\n*Medication non-compliance Peripheral edema*\n\n*Fatigue JVD*\n\n*Nausea*\n\n*Weight gain*\n\n*Dyspnea*",
+    "**Hypothyroidism**\n\nHistory finding(s) Physical exam finding(s)\n\n*Hypothyroidism history Peripheral edema*\n\n*Medication non-compliance*\n\n*Fatigue*\n\n*Weight gain*"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

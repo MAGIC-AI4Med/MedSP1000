@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_10394_5",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10394_5/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Left buttock abscess with associated cellulitis Demarcation of area of cellulitis and monitor for clinical improvement",
+    "IV clindamycin 10 mg/kg Q6H. Transition to PO clindamycin $1 0 \\mathrm { m g / k g } \\ : 0 . 8 \\mathsf { H }$ for a total of a 10 day course when tolerating PO intake and improvement noted Packing to be removed prior to discharge Follow up pending blood and wound cultures, adjust antibiotics as indicated",
+    "Mild Dehydration POAL, regular diet 1x MIVF until improved PO intake Monitor UOP closely Zofran PRN for vomiting"
+  ],
+  "MK": [
+    "Abscess is most likely secondary to Staphylococcus aureus or Group A Streptococcus infection, as these are the most common bacteria.",
+    "No evidence for myositis, osteomyelitis, or necrotizing fasciitis at this time."
+  ],
+  "SBP": [
+    "Disposition: Will require inpatient care until conditions for discharge met: 1) clinical improvement in cellulitis appreciated, 2) improvement in hydration status, 3) ability to tolerate PO without need for supplemental IVF, 4) able to tolerate oral antibiotics, 5) adequate follow-up arranged, 6) team and family comfortable with plan and discharge."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

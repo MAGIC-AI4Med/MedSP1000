@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11054-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11054-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Implementing a dynamic action plan for care of the patient",
+    "Placing the patient on nebulized albuterol and atrovent",
+    "Administering steroids to the patient",
+    "Providing bag valve mask respirations when the patient decompensates"
+  ],
+  "MK": [
+    "Forming a differential diagnosis"
+  ],
+  "SBP": [
+    "Identifying and avoiding the magnesium sulfate allergy"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

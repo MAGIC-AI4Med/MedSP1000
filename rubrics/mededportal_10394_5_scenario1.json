@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_10394_5",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10394_5/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Many students will provide very specific details about medication dosage and frequency. Discuss the need to state that infant is on appropriate antibiotic coverage and that antibiotics are currently intravenous.",
+    "Many students will provide a plan for every problem. Discuss that even though there needs to be a written plan for each of the problems, only active problems need to be discussed during the presentation (e.g. fever)."
+  ],
+  "MK": [
+    "Many students will include some aspects of the plan in the assessment (e.g. discuss need for ultrasound).",
+    "Discuss with students that it is important to have a definite statement that these symptoms are from a UTI. Discuss it is acceptable to include a differential diagnosis during the initial H&P presentation but that this differential diagnosis should be succinct and to the point."
+  ],
+  "SBP": [
+    "Many students will either not state the disposition at all or will read this directly from written documentation. Discuss importance of highlighting specific medicallyappropriate discharge goals to set expectations for the family, including an anticipated timeline (e.g. after one dose of oral antibiotic and when drinking well, which we hope will occur tomorrow)."
+  ],
+  "ICS": [
+    "Many students will provide a detailed fever history during their oral presentation. Instruct student to simplify history to persistent fevers at home over several days despite Tylenol administration.",
+    "Many students will provide detailed intake and output history. Instruct student to simply state if intake and output were appropriate or below goals for age.",
+    "Remind students of importance of discussing other pertinent positive and negative symptoms.",
+    "Many students will either not present the ED course at all or present almost verbatim what is written. Explain which aspects are important to include and how to say them in a FCR appropriate way. Quick summary of initial examination (well-appearing, signs of focal infection, etc). Explanation that laboratory examination performed was consistent with a urinary tract infection. Explain that all the details of the labs do not need to be given. Explain that infant was given antibiotics through the IV for the urinary tract infection. Explain importance of stating why the infant was admitted to the hospital.",
+    "Common medical jargon is often used by medical students in this section: febrile, cath urine specimen, urinalysis, leukocyte esterase, nitrite, WBC, CBC, hemoglobin, platelets, IV, ceftriaxone. If students use this jargon, ask the group whether or not they felt it was necessary to use the term for the presentation. If they feel it is necessary, then discuss more FCR appropriate ways to explain them. E.g. Urinalysis with leukocyte esterase, nitrites and WBCs can simply be stated as “the urine sample obtained showed signs that the infant had an infection in the urine.”",
+    "Many students will present a list of symptoms for every system or will present the systems that they did not talk about in the HPI section of the presentation. Explain to students that a full ROS does not need to be presented, though it is important to document on the H&P. All pertinent positive and negatives should have already been mentioned in the HPI.",
+    "Many students will include information from every aspect of the remaining parts of the history (e.g. Birth History, Past Medical History, Past Surgical History, etc). TIP: Ask students what aspect of the history is important in a 7 month old male with a fever and potential UTI. Typical answers discussed: abnormal fetal ultrasounds, circumcision (as patient is male), family history of genitourinary abnormalities, immunization status, sick contacts. Emphasize to students that many times the pertinent aspects of these other history components may be already noted in the HPI portion of the presentation and therefore do not need to be repeated.",
+    "Many students will provide a complete PE. TIP: Ask students what aspects of the PE are pertinent to present in this setting. Typical answers discussed: overall clinical appearance (well-appearing vs illappearing vs toxic), evidence of perfusion to evaluate for shock/sepsis, findings that may suggest focal infection, etc. Emphasize to students that it is important to solicit from attendings and senior residents preferences for providing a focused examination with only pertinent positives and negatives, as some educators will prefer hearing a complete examination from a medical student.",
+    "Many students will give all the labs without avoiding medical jargon TIP: Discuss with students if labs were necessary to obtain. Highlight labs that have been discussed in HPI already. Many will discuss that the most pertinent result would be the gram stain from the urine culture as that was not discussed earlier. Discuss how this can be said in a FCR-appropriate way."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

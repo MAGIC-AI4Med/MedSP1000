@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_9316",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9316/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Team plan (recommendations)"
+  ],
+  "MK": [
+    "Discipline specific results including subjective data (S), objective data (O),assessment (A) and discipline specific plan (P) for Pharmacy",
+    "Discipline specific results including subjective data (S), objective data (O),assessment (A) and discipline specific plan (P) for Nutrition",
+    "Discipline specific results including subjective data (S), objective data (O),assessment (A) and discipline specific plan (P) for Physical Therapy",
+    "Discipline specific results including subjective data (S), objective data (O),assessment (A) and discipline specific plan (P) for Occupational Therapy"
+  ],
+  "SBP": [
+    "Description of team members involved and types of assessments used",
+    "Interdisciplinary Intervention Plan which integrates the separate disciplinereports and identifies the priorities goals and expected interventions"
+  ],
+  "ICS": [
+    "Introduction of team members and description of OSCE assessmentprocess",
+    "Brief report from Occupational Therapy including main findings",
+    "Brief report from Physical Therapy including main findings",
+    "Brief report from Pharmacy including main findings",
+    "Brief report from Nutrition including main findings",
+    "Presentation is integrated and involves all team members",
+    "Presentation is clear, concise,and uses time well",
+    "Patient name, date, description of initial situation including presentingcomplaint",
+    "Quality of writing including grammar, clarity, spelling and professionalappearance"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

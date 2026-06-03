@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.11120-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11120-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Build a relationship (includes the following):\n1. Greets and shows interest in patient and patient's family\n2. Uses words that show care and concern throughout the interview\n3. Uses tone, pace, eye contact, and posture that show care and concern\n4. Response explicitly to patient and family statements about ideas and feelings",
+    "Opens the discussion) includes the following):\n1. Allows patient and family to complete opening statement without interruption\n2. Asks “is there anything else?” to elicit full set of concerns\n3. Explains and/or negotiates and agenda for the visit",
+    "Get others information (includes the following):\n1. Begins with patient and family story using open-ended questions (example “tell me about…”)\n2. Clarifies details as necessary with more specific or “yes/no” questions\n3. Summarizes and gives family opportunity to correct or add information\n4. Transitions effectively to additional questions",
+    "Understands the patient's and family's perspective (includes the following):\n1. Asks about life events, circumstances, other people that might affect health\n2. Elicits patient and family believes, concerns, and expectations about illness and treatment",
+    "Shares information (includes the following):\n1. Assesses patient and family understanding of problem and desire for more information\n2. Explains using words that family can understand\n3. Asks if family has any questions",
+    "Reaches agreement (includes the following):\n1. Includes family in choices and decisions to the extent they desire\n2. Checks for mutual understanding of diagnostic and/or treatment plans\n3. Asks about acceptability of diagnostic and/or treatment plans\n4. Identifies additional resources as appropriate",
+    "Provides closure (includes the following):\n1. Asks if patient and family has questions, concerns, or other issues\n2. Summarizes\n3. Clarifies future time when progress will again be discussed\n4. Provides appropriate contact information if interim questions arise\n5. Acknowledges patient and family, and closes interview",
+    "Demonstrates empathy (includes the following):\n1. Clinician’s demeanor is appropriate to the nature of the conversation\n2. Shows compassion and concern\n3. Identifies/labels/validates patient and family emotional responses\n4. Responds appropriately to patient and family emotional cues",
+    "Communicates accurate information (includes the following):\n1. Accurately conveys the relative seriousness of patient's condition\n2. Took other participating clinician’s input into account\n3. Clearly conveys expected disease course\n4. Clearly presents and explains options for future care\n5. Gives enough clear information to enpower decision making"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

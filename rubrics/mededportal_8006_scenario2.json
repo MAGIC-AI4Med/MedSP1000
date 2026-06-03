@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_8006",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8006/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Hyperventilation with a face-mask",
+    "Place the patient in Reverse Trendelenburg position",
+    "Administer propofol",
+    "Administer muscle relaxant (rocuronium or succinylcholine)",
+    "Attempt direct laryngoscopy",
+    "Place FTLMA, and perform endotracheal intubation via that: this marks the conclusion of the simulation scenario",
+    "Administer mannitol and furosemide",
+    "Administer fentanyl",
+    "Administer hydralizine, sodium nitroprusside, nitroglycerin",
+    "Administer labetalol",
+    "Administer atropine, epinephrine or ephedrine",
+    "Administer nicardipine"
+  ],
+  "MK": [],
+  "SBP": [
+    "Call for help (neurosurgeons and anesthesia providers)"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

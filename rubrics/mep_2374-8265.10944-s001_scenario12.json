@@ -1,0 +1,15 @@
+{
+  "case_id": "mep_2374-8265.10944-s001",
+  "scenario": "scenario12",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10944-s001/scenario12",
+  "rubric_version": "v1",
+  "PC": [
+    "Cross-cover to see patient: No",
+    "Regardless, in response to this page you should increase the prn frequency of morphine that can be administered."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11031-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11031-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask patient and/or patient’s mother about subjective symptoms consistent with influenza, including cough, shortness of breath, fever, myalgias. Students should also complete a review of systems",
+    "Auscultate the patient’s lungs and identify bilateral crackles"
+  ],
+  "MK": [
+    "Recognize that a patient with a new fever on a hospital floor with a known influenza outbreak is likely to have influenza"
+  ],
+  "SBP": [
+    "Understand that influenza is spread by droplets and fomites, and therefore requires both droplet and contact precautions – don gown, gloves, and surgical mask.",
+    "Students should place diagnostic orders (influenza PCR) and infection control orders (contact and droplet precautions); facilitators can prompt if not already done.",
+    "Students should remove gowns, gloves, and masks and perform hand hygiene."
+  ],
+  "ICS": [
+    "Explain to the patient and her mother that they will be testing for influenza (and possibly other respiratory viruses.)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

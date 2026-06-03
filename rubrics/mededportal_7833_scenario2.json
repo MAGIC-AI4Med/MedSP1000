@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_7833",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7833/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain an interim history",
+    "Assess the patient’s knowledge and confidence regarding the care of her chronic illnesses.",
+    "Inquire about barriers to the care of the patient’s illness and problem-solve with the patient to overcome these barriers.",
+    "Inquire about any new concerns that have arisen since the patient’s last visit and check in regarding her ongoing medical issues.",
+    "How confident does she feel about her ability to manage her illnesses?",
+    "What are her goals for managing her illnesses?",
+    "What changes in her behavior does she want to make to meet these goals?",
+    "What barriers, if any, have made it difficult for her to reach these goals?  (note: consider financial barriers, health literacy, lack of time, psychosocial stressors etc)"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Open the interview (greet the patient, make introductions, negotiate an agenda for the follow-up visit with the patient)",
+    "Build a relationship and establish rapport with patient",
+    "Engage in open-ended inquiry, listening, summarizing",
+    "Students will be expected to practice a technique of interviewing today for follow-up patients in which they should elicit the full spectrum of patient concerns at the outset of the interview, followed by a brief collaborative agenda-setting period.",
+    "Explore Mrs Henderson’s culture and how it has impacted her reactions to her chronic illness."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

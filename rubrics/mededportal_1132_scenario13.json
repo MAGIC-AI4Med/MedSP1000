@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_1132",
+  "scenario": "scenario13",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1132/scenario13",
+  "rubric_version": "v1",
+  "PC": [
+    "Take A Focused History From This 50-Year-Old Male With Jaundice.",
+    "After Summarizing Your History, State Key Physical Findings You Want The Facilitator To Provide."
+  ],
+  "MK": [
+    "Make A Summary Statement And Give A Differential Diagnosis."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Close The Encounter With The Patient."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

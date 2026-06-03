@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11082-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11082-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain full set of vital signs",
+    "Ask about patient\u2019s current clinical status and if significant changes from prior",
+    "Determine IV access patient currently has",
+    "Administer more IVF (roughly 30cc/kg) and acetaminophen for fever; if not already recently obtained, make sure patient has blood cultures pending",
+    "Obtain repeat CBC, lactate, renal function",
+    "Consider broadening antibiotics"
+  ],
+  "MK": [],
+  "SBP": [
+    "Documentation: as this patient has hemodynamic instability, necessary to write event note describing patient\u2019s trend in blood pressure, brief assessment (e.g. hypotension likely due to sepsis) and orders placed"
+  ],
+  "ICS": [
+    "Notify nurse that you are concerned that this patient is septic and will come see patient",
+    "Discuss patient with senior resident"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

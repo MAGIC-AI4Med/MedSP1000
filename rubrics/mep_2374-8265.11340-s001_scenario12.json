@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11340-s001",
+  "scenario": "scenario12",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11340-s001/scenario12",
+  "rubric_version": "v1",
+  "PC": [
+    "At this age, most of the CN exam can be completed virtually. Smell is typically deferred but possible if concerned (get coffee grounds, identify with eyes closed). Visual acuity – have them close one eye, what do they see (then the other eye). You can hold a picture up, what do they see? Visual fields – use family member to bring something into the periphery in all four quadrants. Pupils – have them get close to the camera (close their eyes tight, then open, look for response) or have family use flashlight and see if pupils constrict. Fundi limited. Facial expressions. Facial sensation – have them or a family member touch face in dermatomal distributions, does it feel symmetric? Can get an ice cube for cold if necessary. Hearing – intact to voice? Have family finger rub or finger click on each side. Assess speech fluency, guttural sounds, content. Palate – can be difficult to see, have them get close and say ahh – is the uvula midline? Palate elevation? Palate abnormalities? SCM – shoulder shrug. Have them stick their tongue out, observe midline/bulk/deviation/fasciculations. Use light if necessary. Unable to assess fundi adequately via telehealth",
+    "MRI brain and MR venogram",
+    "Acetazolamide and 10% weight loss."
+  ],
+  "MK": [
+    "Increased intracranial pressure. Differential is broad but can include idiopathic intracranial hypertension (IIH), tumor, cerebral venous thrombosis",
+    "6th nerve palsy can be associated with IIH"
+  ],
+  "SBP": [
+    "Bring them in urgently to check fundi, refer to neuro urgently (Call) or refer to ER"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

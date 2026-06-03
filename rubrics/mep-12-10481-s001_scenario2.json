@@ -1,0 +1,29 @@
+{
+  "case_id": "mep-12-10481-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10481-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Rapidly assesses the patient and performs a pelvic examination",
+    "Ensure that the bladder is emptied",
+    "Initiates patient monitoring (vital signs, cardiac monitor)",
+    "Examine for laceration; hematoma; and uterine inversion.",
+    "Begin to apply fundal pressure",
+    "Inserts or orders appropriate intravenous access (\"two large-bore IVs\")",
+    "Initiates appropriate resuscitative techniques:\n1. Intravenous fluids\n2. Orders blood and blood products",
+    "Orders appropriate labs; must include, at least, the following:\n1. Type and cross match\n2. Comprehensive metabolic panel (or basic metabolic with liver enzymes/hepatic panel)\n3. Complete blood count\n4. PT/INR",
+    "Estimates blood lost during a postpartum hemorrhage.",
+    "Considers uterotonic agents to be used for presumed uterine atony:\n1. Oxytocin\n2. Misoprostol\n3. Methergine\n4. Comprehensive metabolic panel (or basic metabolic with liver enzymes/hepatic panel)\n5. Complete blood count\n6. PT/INR"
+  ],
+  "MK": [
+    "Recognizes a postpartum hemorrhage"
+  ],
+  "SBP": [
+    "Contact consultant(s): OB/GYN"
+  ],
+  "ICS": [
+    "Calls for help and assigns team roles"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

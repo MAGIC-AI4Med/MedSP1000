@@ -1,0 +1,50 @@
+{
+  "case_id": "mep-12-10427-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10427-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The patient will be positioned lying on his/her side (or seated at edge of bed)",
+    "Sterile/aseptic techniques will be used (to clean the skin)",
+    "Something for pain control will be used (local numbing medicine)",
+    "The needle will be placed in the spine",
+    "Spinal fluid will be removed",
+    "The needle will be removed",
+    "Possible introduction of infection to spinal fluid resulting in meningitis Very rare",
+    "Possible injury to brain Very rare (especially after normal head CT)",
+    "Possible spinal cord injury Very rare (needle goes below spinal cord)",
+    "Post LP headache Most common risk (occurs in 10% of adults) Treatment is available if occurs",
+    "Antibiotics could be administered, without LP done Disadvantage: Uncertain what is being treated or requires long-term hospital stay",
+    "No intervention is an option Disadvantage: Risk of uncontrolled infection"
+  ],
+  "MK": [
+    "That it is an infection of the covering membrane of the brain",
+    "Symptoms of fever and headache suggest meningitis",
+    "The outcome(s) if untreated (e.g. brain damage including paralysis, mental disability, deafness, blindness or death) 1 for credit",
+    "Appropriate diagnosis for meningitis",
+    "Ability to determine appropriate antibiotic treatment"
+  ],
+  "SBP": [
+    "Asked for my signature on the consent form"
+  ],
+  "ICS": [
+    "Explained the consent form to me point by point",
+    "Addressed me by name",
+    "Introduced him/herself by name and role",
+    "Involved patient when discussing reason for visit (open OR closed ended verification )",
+    "Conducted an organized interview in an organized manner",
+    "Avoided inappropriate language (including slang and unexplained medical jargon",
+    "Maintained appropriate eye contact",
+    "Used effective body language (posture and proximity)",
+    "Elicited or explored patients emotions (emotion-seeking)",
+    "Expressed understanding of pt’s emotions (legitimizing)",
+    "Assessed the patient’s understanding of the information provided",
+    "Asked for additional questions and/or concerns",
+    "Reviewed next step(s)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Avoided false reassurances",
+    "Student’s demeanor was appropriate for the situation"
+  ]
+}

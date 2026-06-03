@@ -1,0 +1,46 @@
+{
+  "case_id": "mededportal_9236",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9236/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Identify that the patient is in distress",
+    "Assess the patient’s condition (verbal history)",
+    "Assess the patient’s physical condition (lung sounds, skin assessment)",
+    "Obtains initial vital signscompletely and accuratelyand recognizes abnormalvalues:HR 120BP 100/60RR 20SpO2 92%Temp 101.4F",
+    "Assess wound verbally orphysically",
+    "Identifies allergies",
+    "Administers oxygencorrectly- via non-rebreatherat 10-12 LPM- via assistedventilation withBVM-in sync with respirations- intubated,ifnecessary",
+    "Orders appropriateantibiotic",
+    "Administers antibioticcorrectly",
+    "Re-assesses patient andvital signs continually",
+    "Provide aggressive fluid management.",
+    "Begin cardiac monitoring"
+  ],
+  "MK": [
+    "Identify the cause of the patient’s current condition"
+  ],
+  "SBP": [
+    "Recognizes need for andactivates additionalassistance early in case",
+    "Intensive care consultation should be requested",
+    "Infectious disease consultation can be considered."
+  ],
+  "ICS": [
+    "Introduces self/team",
+    "Handoff patient care to arriving team",
+    "Communicate effectively with other team members by using SBAR",
+    "Communicate effectively with the patient by using clear, concise language",
+    "Assist responding team to effectively manage the decompensating patient",
+    "Identifies team leaderverbally",
+    "Maintains clearly definedteam member roles- Leader - Chartreview/documentation - Airway - Medication/orderfulfillment",
+    "Uses closed-loop communication all the time",
+    "Communicates Situation toprovider completely andaccurately",
+    "CommunicatesBackground to providercompletely and accurately",
+    "Communicates Assessmentto provider completely andaccurately",
+    "Communicates Recommendations to providercompletely and accurately",
+    "Discusses interventionswith patient",
+    "Advise the patient of the course of treatment"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

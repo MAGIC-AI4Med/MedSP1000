@@ -1,0 +1,37 @@
+{
+  "case_id": "mededportal_10258_1",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10258_1/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Hx: Probed for morehistory, (especially forintake by mouth)",
+    "PE:Probed for more onPE (especially signs ofdehydration)",
+    "Ass: Discussed importanceof assessment fordehydration when ptspresent with vomiting anddiarrhea"
+  ],
+  "MK": [
+    "Generalized from singlecase to patterns/modelsthat can be applied togroups of patients",
+    "Ass: Elicited anassessment: initial one ofcitrullinemia and otherone of acutegastroenteritis"
+  ],
+  "SBP": [
+    "Offered to go back intothe room or to model orobserve at any time",
+    "Plan: Collaborated with the student in identifyingpossible next steps"
+  ],
+  "ICS": [
+    "Actively listened tolearner&#x27;s presentation",
+    "Asked effective questionsto engage learner",
+    "Encouraged learner toexpress concerns andneeds e.g. knowledgegaps",
+    "Paced session appropriately for needs oflearner",
+    "Avoided digressions",
+    "Taught material in well-organized manner",
+    "Gave specific positivefeedback",
+    "Gave specific correctivefeedback"
+  ],
+  "PBLI": [
+    "Used the microskills ofteaching:(Got a commitment,Probed for supporting evidence,Taught general concepts,Corrected mistakes,Gavefeedback)",
+    "Developed a learner-directed learning plan",
+    "Preceptoraddressedinformation s/he didn&#x27;tknow"
+  ],
+  "PROF": [
+    "Expressed respect forlearner&#x27;s experience andemotions"
+  ]
+}

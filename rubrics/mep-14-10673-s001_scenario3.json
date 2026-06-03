@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-14-10673-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10673-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "The diagnosis of clinical depression is based on patient history and exclusion of alternative diagnoses. The evaluation must determine whether the patient meets established criteria for major depression, dysthymia, or a different psychiatric condition. The assessment should also include screening for substance abuse. Depressed mood and anhedonia are cardinal symptoms, and the presence of either is highly sensitive but not specific for major depression. Using a two-item questionnaire, i.e. PHQ-2, which assesses for the presence of depressed mood or anhedonia is a quick way to screen for depression. If either depressed mood or anhedonia is present, further inquiry or employing a second tool to diagnose depression should be pursued, i.e. PHQ-9.",
+    "Mild cognitive impairment is a cognitive state between normal aging and dementia characterized by a decline in cognitive functioning that is greater than what is expected with normal aging but has not resulted in significant functional disability. For most patients, the onset is insidious, and for some, the course may be progressive. 10% to 15% of patients with mild cognitive impairment transition to dementia per year, compared with 1% to 2% per year of the general population. The Montreal Cognitive Assessment is a screening tool that is more sensitive than the Mini\u2013Mental State Examination in the detection of mild cognitive impairment because it has more cognitively challenging tests of memory/recall and executive function. Scoring lower than 26/30 generally suggests cognitive impairment, especially in patients with 16 years of formal education. In clinical practice, a careful history and results of a standard mental examination are often sufficient to make a diagnosis of mild cognitive impairment, and extensive cognitive testing is not routinely required. Occasionally, a formal battery of neuropsychological testing beyond the standard mental examination is needed to distinguish particularly mild cases of cognitive impairment from normal aging.",
+    "Mental health assessments are recommended in all cancer survivors because the risk of depression, adjustment disorder or PTSD symptoms is elevated.",
+    "Would screen for thyroid dysfunction if not assessed within the last year given chest radiation history.\nWould consider TSH to evaluate."
+  ],
+  "MK": [
+    "Metastatic disease is always a concern with a cancer history\nWould consider CT/MRI head to evaluate for metastatic disease."
+  ],
+  "SBP": [
+    "Anastrozole therapy can result in cognitive dysfunction.\nIf clinical suspicion of a drug side effect is high, this should encourage a discussion with the primary oncologist regarding duration of therapy and risks/benefits of continuing prolonged hormone therapy after 5 years."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.10957-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10957-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Exam maneuvers expected for this case include: a neck exam and a neurological exam.",
+    "Diagnostic testing should include a lumbar puncture with routine cerebrospinal fluid (CSF) studies (CSF white blood cell count and differential; CSF gram stain; CSF glucose; CSF protein). Enterovirus and herpes simplex virus PCR testing of the CSF should be performed to look for these viruses (the former, because it is a common cause of meningoencephalitis in the summer months, and the latter, because it is potentially treatable), and empiric treatment with IV acyclovir (for HSV) should be considered. Meningoencephalitis viral PCR panels are available and may be ordered to attempt to identify the etiological agent, though doing so may not alter the patient’s management, as most of these viruses only benefit from supportive care. If West Nile virus in particular is suspected, testing should include serum and/or CSF testing for West Nile IgM for confirmation. If rickettsial disease is suspected, empiric treatment with doxycycline should be initiated, due to the high mortality rate of these conditions (serological testing is not often performed, as it is often falsely negative early in the clinical course of these diseases)."
+  ],
+  "MK": [
+    "The diagnosis in this patient is encephalitis due to West Nile virus (WNV), suggested by the patient’s fever, headache, weakness, altered mental status, time of year (WNV is most common in late summer/early fall), and age > 55 years (advanced age is a risk factor for WNV neuroinvasive disease).",
+    "Other viruses (e.g., enteroviruses, herpes simplex virus, other arboviruses such as St. Louis encephalitis virus, eastern equine virus, western equine virus) and rickettsial infections (e.g., Rocky Mountain Spotted Fever, ehrlichiosis) known to cause meningitis and/or encephalitis, as well as bacteria known to cause meningitis in adults (*Streptococcus pneumoniae* and *Neisseria meningitidis*) are also in the differential diagnosis for this case. Less common viral infections such as rabies and varicella zoster virus can also lead to acute encephalitis."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

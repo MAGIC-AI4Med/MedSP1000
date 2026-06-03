@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_10192",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10192/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform focused history and physical exam based on reported animal bite",
+    "Obtain appropriate labs",
+    "Initiate normal saline fluid resuscitation",
+    "Provide basic wound care and initiate analgesics",
+    "Start timed measurements of the extremity",
+    "Initiate antivenom (CroFab) administration (+/- toxicology consultation)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Admit the patient",
+    "The participant should not admit the patient directly to the floor prior to stabilization. Surgical consult for early incision/excision or possible fasciotomy is contraindicated. Corticosteroids are not indicated for this patient’s systemic inflammatory response. Icing the wound is contraindicated as it does not inactive venom and compounds tissue injury. Ibuprofen agents are contraindicated secondary to antiplatelet effects."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

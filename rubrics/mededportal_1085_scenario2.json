@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_1085",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1085/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Moves directly to cardiovert patient",
+    "Applies leads from LifePak cardioverter (necessary for sync cardioversion)",
+    "Uses SYNC mode for synchronized cardioversion",
+    "Uses proper electrical dose (10-30 joules – may use reference)"
+  ],
+  "MK": [
+    "Recognizes unstable SVT"
+  ],
+  "SBP": [
+    "Resident clears him/herself and others",
+    "Arranges transport to PICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.10966-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10966-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Stat head CT without contrast",
+    "Make sure patient is protecting airway, call upperlevel and neurosurgery"
+  ],
+  "MK": [
+    "Things that could make her altered before fall: medications, sundowning, infection, metabolic, intracranial bleed",
+    "Differential if altered after fall – could include intracranial bleed, although less likely to occur acutely with relatively minor trauma, and may present later"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

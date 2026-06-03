@@ -1,0 +1,24 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario23",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario23",
+  "rubric_version": "v1",
+  "PC": [
+    "Learner: Of course. The most important thing we can do for you is to keep you as comfortable as possible. I promise I will discuss this with the staff and do whatever we can to improve how you feel."
+  ],
+  "MK": [],
+  "SBP": [
+    "Learner: Let’s talk to the team about starting her on something for her pain and spend some time with her."
+  ],
+  "ICS": [
+    "Learner should begin by greeting Mary.",
+    "Learner: I know Mary, it’s OK to be scared, we are all here for you. What are you scared of, can you tell me? Is there anything I can do to help you?",
+    "Learner: I’m afraid not, Mary. I want our focus to be on keeping up with what you need in the here and now.",
+    "Learner; Can you tell me more about why you feel that way?",
+    "Tell me what you and Mary have talked about what her final wishes would be?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Learner should explain about the Principle of Double Effect based on module presentation."
+  ]
+}

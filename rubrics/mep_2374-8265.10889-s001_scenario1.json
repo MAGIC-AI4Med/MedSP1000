@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.10889-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10889-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess and manage the patient’s airway by verifying patency, evaluating the presence and effort of breathing, and initiating appropriate oxygen supplementation as needed (via nasal cannula, facemask, high-flow nasal cannula, CPAP or BiPAP)",
+    "Initiate cardiopulmonary monitoring (if not on monitor already) and correctly identify the presence of sinus tachycardia, tachypnea, persistent hypoxia, and hypotension",
+    "Establish IV access; if peripheral IV cannot be established rapidly ( < 90 seconds) then intraosseous access must be obtained",
+    "Initiate fluid resuscitation in the setting of neonatal shock; appreciate that the patient continues to have persistent tachycardia, tachypnea, and hypoxia despite subsequent fluid resuscitation",
+    "Initiate the correct therapy for a ductal dependent congenital cardiac lesion by starting continuous infusion of prostaglandin E1 (with a dose of 0.025 to 0.05 mcg/kg/min and titrating as needed to a maximum dose of 0.1 mcg/kg/min)",
+    "Anticipate the respiratory consequences (i.e., apnea) of prostaglandin administration by preparing/performing intubation utilizing appropriate technique; recognize that the obtunded or moribund patient may need no sedative medications to accomplish intubation."
+  ],
+  "MK": [
+    "Verbalize a differential diagnosis for neonatal shock including sepsis, ductal dependent lesions, congenital adrenal hyperplasia, and metabolic disorders.",
+    "Identify the neonate with critical coarctation of the aorta by diminished/absent femoral pulses, persistent hypoxia, and discordant blood pressures of the upper and lower extremities"
+  ],
+  "SBP": [
+    "Involve Cardiology and/or Cardiothoracic Surgery in the care of the patient who will need eventual corrective cardiac surgery"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

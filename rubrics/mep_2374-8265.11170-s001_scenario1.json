@@ -1,0 +1,39 @@
+{
+  "case_id": "mep_2374-8265.11170-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11170-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Considers stabilization of c-spine",
+    "Develops a General Impression of Patient",
+    "Assesses Level of Consciousness (AVPU)",
+    "Identifies Chief Complaint",
+    "Assesses Airway and Breathing",
+    "Assesses Circulation",
+    "Vital Signs  HR, RR, SpO2, B/P, Temp",
+    "SAMPLE – Signs and Symptoms, Allergies, Medication, Pertinent Past History, Last Oral Intake, and Events Leading Up To Arrival",
+    "Assesses Onset, Provocation, Quality, Radiation, Severity, Time",
+    "Trauma Assessment as Needed",
+    "Manages Life Threatening Injuries"
+  ],
+  "MK": [
+    "Determines mechanism of injury/nature of illness"
+  ],
+  "SBP": [
+    "Personal Protective Equipment",
+    "Identifies number of patients",
+    "Requests additional help if needed",
+    "Identify potential hazards",
+    "Request assistance from police",
+    "Assess the safety of the scene. EMS providers must be aware of the environment they are entering.",
+    "EMS providers cannot both be “trapped” inside a room. They must keep a path to an exit available.",
+    "If possible, remove the patient from the scene to the hallway or the safety of the ambulance immediately upon arrival.",
+    "If an agitated/aggressive/hostile bystander wants to keep the EMS equipment or the patient, let them. It is more important to evacuate yourself and your partner. The EMS providers first responsibility is to themselves and their partner, then the patient.",
+    "There are ways to call for assistance without alerting the hostile bystander. Panic buttons on the two-way radio or using “code” talk are two methods."
+  ],
+  "ICS": [
+    "De-escalate the hostile individual (if possible)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "mep-12-10516-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10516-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "What further information would you like to obtain to better understand Maggie and her reasons for presenting to the ER at this time?\n\nWhy the ER today? No PCP? What is causing the stress? Why hasn\u2019t she refilled her prescription?",
+    "Patients generally should be in gown, promoting a more thorough and accurate assessment (especially for occult injury)."
+  ],
+  "MK": [
+    "What are Maggie\u2019s problems at this point? (Please list)\n\nHigh blood pressure, stress, no medications, headache, age, why in the ED, obesity, lack of care, fatigue, BMI",
+    "What new problems can you add to Maggie\u2019s problem list?\n\nHomelessness, smoker, no insurance. no social support system, obesity, stress, safety and needs of children, unemployed, no child support",
+    "Based on Maggie\u2019s history, what are some other health problems she might develop? Would you screen for any of these problems? Why or why not?\n\nAlcoholism, diabetes, IPV, obesity, depression, suicidality/homicidal ideation, PTSD, hygene, STD, safety of children, exposure, could be assaulted, low education, depression, mental health?",
+    "What strengths and assets does Maggie exhibit?\n\nResourceful, able to keep focus on her health despite hardships (using the Walmart to check her BP), perseverance, being a dedicated mother, car, Medicaid"
+  ],
+  "SBP": [
+    "What policies exist at this point in her case with regards to treatment?\n\nEmergency Medical Treatment and Labor Act (EMTALA), Health insurance, Drug sample distribution, supply of PCP\u2019s in NM and the U.S., system access, Health Insurance Portability and Accountability Act (HIPAA), Medication waivers. Clinical guidelines, prescriptions, BA/MD shortage.",
+    "When you are caring for a patient such as Maggie, why does it matter where she lives?\n\nSafety, ability to adhere to care plan. Homelessness adds significantly to stress and has numerous potential downstream sequelae. Refrigerate insulin, sanitary places, med storage, child abuse, no resources",
+    "What policies exist at this point in her case with regards to treatment?\n\nHealth insurance, access to care, payment\n\nMandated reporting of SCAN (suspected child abuse and neglect)\n\nMandatory documentation of suspected or documented IPV in the medical record\n\nTime per patient impacts level of care",
+    "What happens if Maggie wants to take action regarding her IPV? What systems might be triggered/involved? How can you help?\n\nChildren: CYFD removal, evaluation of living environment\n\nCriminal laws: assault, battery, battery on a household member, IPV, SA and elder abuse, how do you initiate\n\nCivil laws: order of protection, divorce, custody, how do you initiate\n\nHousing: Shelter, DV shelter, City housing policies, HUD and Landlord Tenant laws\n\nOther: Citizenship, Native American, language barriers, pets, fear, unpredictable, reconciliation, criminal history",
+    "Document all subjective and objective findings related to domestic violence in the medical record.",
+    "Document name of alleged perpetrator in the medical record.",
+    "Provide all identified or suspected domestic violence victims with referral for services (at least a phone number).",
+    "Reporting to law enforcement is NOT mandatory, unless: Victim requests, or Otherwise mandated by law such as in suspected child or elder abuse.",
+    "Use direct quotations when possible Document a diagnosis of domestic abuse as well as provision of services",
+    "In cases of suspected domestic abuse, document your suspicions If the history and physical exam findings don't match, document your concerns Document provision of services"
+  ],
+  "ICS": [
+    "Interviews and exams should be conducted in a private location away from the \u201cear shot\u201d of others."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Documents are confidential. Documents can ONLY be released with patient's written consent or court order."
+  ]
+}

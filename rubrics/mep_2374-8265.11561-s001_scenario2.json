@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11561-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11561-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "You suspect a diagnosis of disorder of gut-brain-interaction."
+  ],
+  "SBP": [],
+  "ICS": [
+    "“Symptoms tend to worsen in stressful situations or when focusing on the pain, such as when someone asks about the pain.”",
+    "“Symptoms can worsen if the child sees that others are also very concerned or anxious in the moment.”",
+    "“The brain and the gut are miscommunicating. Even though the gut is healthy, it is sending signals that are interpreted as pain by the brain, like a miswiring.”",
+    "“There is clearly something wrong.”",
+    "“I see that this is really affecting her daily life. It must be hard to not be able to participate in [school, sport, activity].”",
+    "“This diagnosis can be frustrating for families because there is not a specific test for this condition”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

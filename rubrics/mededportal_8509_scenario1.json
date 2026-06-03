@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_8509",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8509/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "CAB assessment: check carotid pulse, look for respiratory effort",
+    "Request cardiac monitor and pulse ox, check blood pressure",
+    "Attach Ambu bag to oxygen, set at 10-15L",
+    "Open airway using chin lift and initiate single-person BVM (will not work)",
+    "Open airway using jaw thrust and initiate two-person BVM (will not work initially but will work once oral airway are inserted)",
+    "Place oropharyngeal airway (will not work alone but will work in combination with jaw thrust and two-person BVM technique, causing pulse ox to increase and patient to stabilize)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Call for help – learners must request either code team or rapid response team"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

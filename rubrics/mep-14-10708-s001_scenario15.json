@@ -1,0 +1,14 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario15",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario15",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "“We have patient that is hypotensive and has not responded to fluid. I would like you to evaluate him for transfer to the TLC.”"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

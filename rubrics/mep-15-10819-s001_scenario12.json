@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario12",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario12",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Obtaining invitation (I) can be as simple as “I have something potentially upsetting to discuss with you, is now a good time?” For giving knowledge (K): Should start with preparatory statement (warning shot), such as “I have to tell you that an error was made in your chemotherapy dosing.” Lead in narrative such as “Recall you had a lot of fluid in your body when the treatment was first started” should be quickly followed by an explanation of the error that occurred. Explain that this kind of miscalculation happens rarely because of double and triple review but is more likely to occur if there is a dramatic change in weight.",
+    "E – Emotion/empathy – Validate anger on patient’s part about the error.",
+    "S’s – Strategy – Explain that all efforts are being made to address the oversight in her case.",
+    "Survey thoughts/concerns – Address potential delay in treatment may affect cancer control.",
+    "State ongoing partnership (and some strategy and summary): Attempt to re-establish trust – “I know an incident like this can make one lose trust in a doctor and treatment system. I would like to continue to be your doctor and get you back on track. Our head chemotherapy nurse would also like to meet with you and your family as well.”"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "MR – Mindfulness/rehearsal – self-awareness of hesitancy to initiate difficult discussion, anticipate anger, concerns about delay of ongoing therapy."
+  ]
+}

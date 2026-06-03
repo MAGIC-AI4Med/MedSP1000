@@ -1,0 +1,36 @@
+{
+  "case_id": "mep_2374-8265.10924-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10924-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for intravenous (IV) access, to have patient placed on monitor, call for nasal cannula",
+    "Ask for vital signs",
+    "Promptly perform focused History and Physical Exam",
+    "Discover complaints of chest pain and diaphoresis and radiating pain",
+    "Promptly obtain EKG",
+    "Give 325 mg of oral aspirin and consider medications such as nitroglycerin after confirming normal blood pressure",
+    "Order appropriate labs: troponin, CBC, BMP, coagulation panel",
+    "Intervene when patient goes unresponsive",
+    "Feel for pulse and ask for cardiopulmonary resuscitation (CPR) to commence upon discovering no pulse",
+    "Ask for defibrillator and defibrillate patient",
+    "Continue CPR with pulse and rhythm checks every 2 minutes",
+    "Give 1mg of (1:10,000) IV epinephrine every 3-5 minutes",
+    "Once patient has return of spontaneous circulation, stop CPR"
+  ],
+  "MK": [
+    "Recognize ST elevations in leads V2-V6, I and aVL and reciprocal ST depression in leads II, III, aVF",
+    "Look at monitor and correctly diagnose Vfib arrest"
+  ],
+  "SBP": [
+    "Call cardiology",
+    "Describe case succinctly and send patient to catheterization lab"
+  ],
+  "ICS": [
+    "The learner will take lead and assign clear roles",
+    "Ask for help",
+    "Provide effective team leadership"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

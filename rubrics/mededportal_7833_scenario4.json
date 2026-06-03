@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_7833",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7833/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Get information about the following components of her medical history:\nHistory of Present Illness\nInterim History\nHow has the patient been doing since the last visit?\nAny new concerns?\nMedication Review\nSocial History follow-up\nHealth-related Behaviors follow-up",
+    "Continue to explore barriers to the optimal management of her chronic illnesses.",
+    "Has she been able to maintain some of the behavioral changes that she spoke of with the medical student last visit?",
+    "I will need to know when her last pelvic exam and Pap smear were."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Open the interview (greet the patient, make introductions, negotiate an agenda for this follow-up visit with the patient).",
+    "Build a relationship and establish rapport with patient.",
+    "Engage in open-ended inquiry, listening, summarizing.",
+    "Elicit concerns and questions.",
+    "Assess the patient’s understanding of why she needs a pelvic exam and Pap smear.",
+    "Provide appropriate education using patient education techniques.",
+    "Explore Mrs. Henderson’s misunderstandings and resistance to having a pelvic exam.",
+    "The patient has many concerns and questions about the pap smear.  Explore the patient’s concerns.  What are her reservations?  What alternatives would she find acceptable?",
+    "Avoid medical jargon.",
+    "Use techniques learned in lecture and small group.  Practice examples of “ask-teach-ask”, “teach back” or “show me”, and “looking ahead” techniques.",
+    "You must understand everything the student tells you, and the student should ask you to repeat things that s/he says or have you describe it in your own words.",
+    "If the student is pleasant and convinces you to have a Pap smear without using excessive medical jargon, you agree to do it."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

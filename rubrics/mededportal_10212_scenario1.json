@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_10212",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10212/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Being present and focused on you during the meeting?",
+    "Introducing him/herself and inviting you to do the same?",
+    "Setting an agenda collaboratively to include your goals for the meeting?",
+    "Finding out what you know about the patient'sillness and current situation at the start of the meeting?",
+    "Helping you feel at ease (being friendly and warm,treating you with respect)?",
+    "Communicating to you that your concerns were accuratelyunderstood?",
+    "Letting you tell \"your story\" in your own words without interruptions or diversions?",
+    "Really listening to you (paying close attention to what you weresaying, not looking at notes, etc. as you were talking)?",
+    "Asking questions to assess your understanding of what's going on and what decisions need to be made throughout theconversation?",
+    "Showing care and compassion (seeming genuinely concerned,connecting with you, not being indifferent or “detached\")?",
+    "Explaining things clearly(fully answering your questions, explaining clearly, giving you adequate information, not beingvague)?",
+    "Responding to emotion by allowing for silence,pausing aftergiving bad news, naming or validating emotions as they arise?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

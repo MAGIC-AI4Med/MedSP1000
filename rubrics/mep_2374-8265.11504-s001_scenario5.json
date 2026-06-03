@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11504-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11504-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Name  Point out a specific emotion the patient/family member might be feeling.",
+    "Understand  Empathize with/legitimize the emotion without conveying you understand what someone is feeling.",
+    "Respect  Accept their perspective, validate that their reaction is important, and/or give praise.",
+    "Support  Show support: demonstrate partnership or provide opportunities for family engagement.",
+    "Explore  Ask the patient to elaborate on the emotion.",
+    "Use open-ended questions to elicit a description of concerns",
+    "Sit at eye level with family member",
+    "Maintain appropriate eye contact throughout the visit",
+    "Use a reassuring voice (non-abrasive, non-condescending)",
+    "Actively engage family member (e.g. avoids external distractions, pocket reference pauses seem natural, leans forward and uses the family member’s name)",
+    "Listen without interruption, using silence to facilitate responses"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Introduce self, role"
+  ]
+}

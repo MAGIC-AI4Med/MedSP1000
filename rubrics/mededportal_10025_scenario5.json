@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_10025",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10025/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Do not perform any part of the Physical Examination."
+  ],
+  "MK": [],
+  "SBP": [
+    "Reaches Agreement (IF new/changed plan) (includes the following): Includes patient in choices and decisions to the extent the patient desires Asks about patient’s ability to follow diagnostic and/or treatment plans . Identifies additional resources as appropriate"
+  ],
+  "ICS": [
+    "Please elicit the patient’s explanation of why the patient does not want surgery and negotiate with the patient to agree to surgery.",
+    "Builds a Relationship (includes the following): Greets and shows interest in patient as a person Uses words that show care and concern throughout the interview Uses tone, pace, eye contact, and posture that show care and concern",
+    "Opens the Discussion (includes the following): Allows patient to complete opening statement without interruption Asks “Is there anything else?” to elicit full set of concerns Explains and/or negotiates an agenda for the visit",
+    "Gathers Information (includes the following): Begins with patient’s story using open-ended questions (e.g.“tell me about…”) Clarifies details as necessary with more specific or “yes/no” questions Summarizes and gives patient opportunity to correct or add information Transitions effectively to additional questions",
+    "Understands the Patient’s Perspective (includes the following): Asks about life events, circumstances, other people that might affect health Elicits patient’s beliefs, concerns, and expectations about illness and treatment Responds explicitly to patient’s statements about ideas and feelings",
+    "Shares Information (includes the following): Assesses patient’s understanding of problem and desire for more information Explains using words that patient can understand Checks for mutual understanding of diagnostic and/or treatment plans Asks if patient has any questions",
+    "Provides Closure (includes the following): Asks if patient has questions, concerns or other issues Summarizes/asks patient to summarize plans until next visit Clarifies follow-up or contact arrangements Acknowledges patient and closes interview",
+    "ask open-ended questions to determine why Casey does not want surgery?",
+    "listen to Casey’s story to be able to address the patient’s explanatory model for cancer metastasis?",
+    "explain the benefits of performing the gastrectomy in terms Casey seemed to understand?",
+    "attend to Casey’s anxieties about the surgery as a catalyst for “making the cancer spread”?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Resident responds to the patient's need to be reassured and validates the patient's concerns. Resident displays compassion, respect, and empathy."
+  ]
+}

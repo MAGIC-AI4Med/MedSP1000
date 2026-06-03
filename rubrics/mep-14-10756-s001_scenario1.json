@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-14-10756-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10756-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "The management goals for chronic pain should be improvement in function and quality of life."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Rather, patients should be informed honestly and without leading to increased catastrophizing that chronic pain usually lasts for a prolonged period and it is unlikely that it will be completely relieved.",
+    "There are validated scores (e.g. PEG-3, PROMIS, BPI) that can be used to assess these, but it is often more effective to ask patients, “What do you really miss doing that you could do before the pain that you can no longer do? I want you to think about your life with your family and friends, your work, sleeping, your sex life, and your spiritual life.”",
+    "As is the case for other chronic diseases, patients often require our help to set SMART goals for chronic pain management.",
+    "Unrealistic or unachievable goals can be modified, for example: “I think being active with them for several hours in a row might be too much. How about playing with them for 10-15 minutes?”",
+    "It should be explained to the patient that achievement/lack of progress of SMART goals will be the way you will together measure the effects of the treatment modalities.",
+    "The participant playing the role of the physician/provider should attempt to discuss SMART goal setting with the patient regarding her goals for management of her chronic pain."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

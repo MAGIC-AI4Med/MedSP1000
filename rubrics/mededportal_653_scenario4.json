@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_653",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_653/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "A hemoglobin electrophoresis as well as a CBC should be ordered to assess the degree of anemia and the activity of the beta globin genes.",
+    "Of course, a 2 week old infant will not be making much adult hemoglobin yet, so the baby should be started on prophylactic penicillin in case a severe thalassemia genotype exists and the labs should be ordered closer to two months of age (when normal infants are making measurable amounts of Hemoglobin A)."
+  ],
+  "MK": [
+    "This patient likely has sickle cell B+ thalassemia.",
+    "In this condition, the patient has inherited a gene for hemoglobin S from one parent and a gene for beta-thalassemia from the other.",
+    "The severity of the condition is determined to a large extent by the quantity of normal hemoglobin produced by the beta-thalassemia gene. (Beta-thalassemia genes produce normal hemoglobin, but in variably reduced amounts).",
+    "(The parent that is the carrier for the beta thalassemia gene in this case would have only mildly decreased hemoglobin, a low MCV and a high A2 on hemoglobin electrophoresis—this mild anemia paired with a low MCV in Mom is likely the cause of her “iron deficiency anemia” during pregnancy.)",
+    "By age 1, our infant will likely have 10-30% Hgb A in her red cells, with a hemoglobin in the 10-12 range and retic count of 2-5%."
+  ],
+  "SBP": [],
+  "ICS": [
+    "What kind of blood disease does she have? Sickle Cell Beta-Thalassemia, a combination of 2 different genetic problems with producing red blood cells.",
+    "How did she get this disease? She inherited one gene from each parent. Each parent is a carrier for each of these separate diseases.",
+    "What problems will she have? Some babies with this problem have a much milder form of sickle cell disease than if they had two sickle cell genes. A few have a more severe form that is just like sickle cell anemia. We will need to wait until she is a little older to be able to tell you what form her disease is going to take. Until we know, we will need to treat her as if she has sickle cell anemia. She will need to take an antibiotic every day to prevent infection and be seen regularly to follow her health. Also, she needs to see a doctor right away if she has a fever, cough, is unusually fussy, or has other symptoms of illness. Painful episodes can occur with sickle-thalassemia. The sickled red blood cells in sickle-thalassemia, somewhat like those in sickle cell anemia, are rigid and stiff and may sometimes cause \"log jams\" in the small blood vessels in the bones, organs, and other parts of the body. Since oxygen (which is carried by the red blood cells) cannot get past the \"log jams\" into the bones and organs, this can cause pain. These painful episodes occur most commonly in the back, stomach, arms, and legs. They can last for a few hours to as much as a week or more. Occasionally, the pain is accompanied by swelling. Painful episodes can vary in severity of the pain and the duration. There are medicines to help ease the pain and make your child more comfortable. Your child has an increased risk of getting infections, especially pneumonia. The abnormal sickled red blood cells \"clog up\" the lungs and thus increase the risk of infection there. Sometimes children with Sickle Beta Plus Thalassemia have a slightly enlarged spleen, but this usually does not cause any problems.",
+    "Will she need more tests? Yes, she needs more blood tests. These should be performed closer to two months of age or so to be helpful. These tests, along with how she does clinically, will help us give you more information about the severity of her disease.",
+    "Will I pass this along to future babies? You have a 25% chance of future offspring having the same disorder Miki has. You also have a 25% chance of passing along thalassemia trait or sickle cell trait in future pregnancies. And, you have a 25% chance of having a baby with all normal hemoglobin genes."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

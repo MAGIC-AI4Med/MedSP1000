@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_9491",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9491/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask the nurse to underdress the patient, place them on a monitor, and obtain a set of vital signs",
+    "Obtain a history from the parent, including HPI, past, surgical, birth, family, and social histories",
+    "Perform a physical examination",
+    "Ask the nurse to obtain IV access and draw labs",
+    "Obtain an EKG",
+    "Administer a $2 0 \\mathrm { c c } / \\mathrm { k g }$ IV bolus of crystalloid fluid",
+    "Initiate a $2 ~ \\mathrm { g / k g }$ IV infusion of IVIG",
+    "Administer a $2 5 \\mathrm { m g / k g }$ dose of aspirin"
+  ],
+  "MK": [
+    "Review lab work and make a diagnosis of Incomplete Kawasaki Disease"
+  ],
+  "SBP": [
+    "Consult cardiology for an echocardiogram",
+    "Admit the patient to an inpatient pediatric service",
+    "Consult infectious disease"
+  ],
+  "ICS": [
+    "Introduce yourself to the parent",
+    "Explain the leading differential diagnosis and disposition to parent"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

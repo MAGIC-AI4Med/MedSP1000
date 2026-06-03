@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9558",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9558/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "*Adolescent has poor conflict resolution skills*. Have adolescent tell the story of the fight from the very beginning. Determine each moment that led up to the fight where the individual could have walked away. Make the adolescent realize that he/she chose to fight and they can also choose not to fight.[27](#_ENREF_27) For example:\n\n*Doctor*: Tell me how the fight began\n\n*Patient*: I was walking down the street and this guy started looking at me. And so we started fighting\n\n*Doctor*: Wait a minute, so after he looked at you, was it possible for you not to look back?\n\n*Patient*: Maybe, but I didn’t want to be a punk\n\n*Doctor*: So after you looked at him back, what happened?\n\n*Patient*: He got up into my face and then we started fighting\n\n*Doctor*: So when he walked up towards you, could you have said, “I don’t have a problem with you. I don’t want to fight.” Or something like that?\n\n*Patient*: I guess so, but I got so heated that I couldn’t think about it like that\n\n*Doctor*: Is it possible that when you saw him from across the street that you could have stayed on your side. If you had done so maybe the fight could have been avoided\n\n*Patient*: I guess so.",
+    "*Weapons carriage.* This patient carries a knife. Oftentimes adolescents have an unrealistic expectation of what they can do with weapons because of the media. Ask the adolescent what he thinks he would do with a knife if he needed it? If his response is unrealistic it is reasonable to challenge him. Also, determine access to guns. There is a seven-fold increased risk of dying from homicide that comes from adolescent gun carriage.[34](#_ENREF_34), [35](#_ENREF_35)",
+    "Take advantage of the urgent care visit. When adolescents come to the ER or urgent care clinic with fight-related injuries, use this as an opportunity and teachable moment to discuss violence prevention strategies and conflict resolution"
+  ],
+  "MK": [
+    "*Accumulation of Preventable Risk Factors*. Consider this child’s history and the events that could have been prevented had intervention taken place: domestic violence, substance abuse, maternal depression, child abuse, ADHD, bullying, etc. Each of these issues could have been addressed many years ago, but since they were not we now have an adolescent in a nearly impossible situation."
+  ],
+  "SBP": [
+    "*Skips school/Truancy.* Truancy means that the child has unsupervised free time that could be used to engage in violent activities. The mother may need to be reported for neglect.",
+    "*Mother is not concerned.* How does Mom perceive violence? Is she not concerned with her son’s behavior because she views it as a necessary means of protection from the violence in their neighborhood? Was she a victim to violence in the past and is therefore numb to this behavior? Does she suffer from PTSD? Is she depressed? These are all important questions to consider. Clearly this is a case that requires the assistance from a social worker or a community based organization."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

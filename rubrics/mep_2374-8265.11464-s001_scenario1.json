@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.11464-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11464-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "If it is safe for you and medically necessary, shackles can be removed. Shackles are there to address specific situations such as a safety risk or flight risk, however they can also interfere with medical care and are often not comfortable. If I need to, for example, do a walk test to assess a patient's gait, ask the guards to remove the shackles. If concern for a flight or safety risk are low enough, shared decision making between the physician and the officers should lead to shackling that is as least invasive as possible, for example just doing one ankle or removing shackles for certain periods of time. Shackles also have risks for medical complications, such as pressure ulcers and neuropathies.1"
+  ],
+  "MK": [],
+  "SBP": [
+    "It is a common misconception among clinicians that incarcerated status equates to no longer having the right to make one’s own medical decisions. People who are incarcerated have the right to make their own decisions like any other patient, unless they have an advanced directive (insert other legal document names that – e.g., health care proxy/etc). Use the same assessment to determine decision-making capacity as you do with every other patient. If they cannot make medical decisions (=do not have capacity), identify a family member or somebody that they designate as a proxy that follows the chain of decision maker for patients who do not have capacity as it is specific to individual states. In some states, this means it cannot be someone who is also incarcerated (for example, a married couple with both parties incarcerated could not designate the spouse as a medical decision maker in these states but would identify someone who is not incarcerated). The warden should not make medical decisions for patients who are incarcerated because the warden has a potential conflict of interest. There could be a security concern when reaching out to family members to make medical decisions as this reveals that the person who is incarcerated is currently in the hospital. A hospital is not a high security facility. In order to contact the decision maker for a person who is incarcerated go through the warden to then contact family. It can be helpful to get the legal department of the hospital involved and also the ethics department.2",
+    "In general, you are not supposed to share discharge plans with a patient who is incarcerated as this can be a significant safety concern for the correctional officers.",
+    "It is recommended work with the correctional officers in these situations to ensure that follow up recommendations and appointments are communicated with the patient, and to document it in the discharge summary, which a patient can request from the hospital after release from incarceration. The carceral setting is responsible for transporting a patient to medical follow up appointments while they are incarcerated and then the patient is aware to check their medical records after release."
+  ],
+  "ICS": [
+    "The Health Insurance and Privacy Accountability Act (HIPAA) still applies to incarcerated patients; assess that you feel safe in the situation with the patient (they are not encephalopathic or belligerent); can ask the guards to step away as long as they maintain line of sight (stepping to the other side of the room out of ear shot, going to the other side of a door with a glass window etc.). It is best if the officers feel comfortable with where they are in regards to the patient, so the decision is amicable, but ultimately, HIPAA applies. Make sure that this is safe for you as a healthcare provider as the officers are tasked with ensuring safety which is why they need to maintain line of sight"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

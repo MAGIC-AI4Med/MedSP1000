@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_8509",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8509/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "CAB assessment: check carotid pulse, look for respiratory effort",
+    "Request cardiac monitor and pulse ox, check blood pressure",
+    "Provide supplemental oxygen (nonrebreather will take pulse ox up to 98% over one minute, nasal cannula will have no effect)",
+    "Assess level of consciousness and pupils (GCS = 3, anisocoric)",
+    "Check finger stick blood glucose (nurse will report that it is 38)",
+    "Administer D-50 (will cause patient to moan and open eyes, but no speech or commands; repeat FSBG if requested will be 128)",
+    "Reassess level of consciousness and pupils (GCS now 8 – eyes open to pain (2), moans (2), withdraws to pain (4), patient remains anisocoric)"
+  ],
+  "MK": [
+    "Consider naloxone (defined as asking about opiate use, discussing whether it would be appropriate with nurse, etc – NOT required to “order” it, as learners would not be ordering meds at this stage – any discussion of opiates or naloxone will prompt nurse to give a 0.4mg dose “per hospital protocol” – this will have no effect)"
+  ],
+  "SBP": [
+    "Call for help – learners may request either code team or their own resident/attending"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

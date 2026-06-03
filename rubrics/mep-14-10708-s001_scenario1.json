@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Inquire about mental status",
+    "Inquire about infusion rate",
+    "Develop plan for slowing rate of correction: o Discontinue infusion and recheck in 2-4 hours, versus $\\bigcirc$ Switch to D5 (less desirable – switch to $0 . 4 5 \\% \\mathsf { N S }$ )"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Develop plan with nurse regarding when to recheck $+ / -$ come to see patient",
+    "Clear, closed-loop communication must be used when relaying orders to nursing staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

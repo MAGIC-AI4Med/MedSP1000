@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.11013-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11013-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Also note that it is important to address safety (i.e. has anyone ever touched them in a way that made them feel uncomfortable)",
+    "Important to offer PrEP for all patients who are high risk of contracting HIV regardless of their sexual identity",
+    "Gonorrhea/Chlamydia\nUrine testing is recommended annually to test for urethritis (in ALL sexually active patients)\nRectal testing for gonorrhea and chlamydia for patients who have receptive anal intercourse\nPharyngeal testing for gonorrhea (NOT chlamydia) for patients who have receptive oral intercourse",
+    "Syphilis\nAnnually for high risk patients (i.e. men who have sex with men)",
+    "Should obtain Hepatitis B Surface Ag and provide Hepatitis B vaccine at the same visit if vaccination status is unknown",
+    "Note: No routine testing for HPV/anogenital warts/anal cancer (cytology) but ensure all patients (any age) are vaccinated against HPV"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "As future physicians, the important take-away is that providers have the ability to normalize this topic, emphasize its importance, simply ask their patients, and provide a safe/confidential space",
+    "As we just discussed, the strongest predictor of patients disclosing their sexual orientation/identity was discussing sexual health with their provider. It is important to normalize the topic and explain that we ask ALL patients these questions"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

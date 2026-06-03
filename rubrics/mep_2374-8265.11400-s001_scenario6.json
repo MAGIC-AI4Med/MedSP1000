@@ -1,0 +1,48 @@
+{
+  "case_id": "mep_2374-8265.11400-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11400-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "PHQ-9A: Depression",
+    "CSSRS: Suicide Risk Assessment",
+    "GAD-7: Anxiety",
+    "CYBOC: OCD",
+    "CRAFFT: adolescent substance use",
+    "Routine labs: CBC, BMP, TSH, urinalysis, urine pregnancy test, urine drug screen",
+    "Evidence with specific symptoms:\nIron/ferritin\nVitamin B12/folate\nVitamin D",
+    "Due to the severity of this symptoms, he would benefit from starting an SSRI while simultaneously seeking individual psychotherapy for depression.",
+    "Start Zoloft 25mg po daily for MDD",
+    "Labs ordered: CBC, BMP, TSH",
+    "Repeat PHQ-9A prior to follow-up"
+  ],
+  "MK": [
+    "Major Depressive Disorder",
+    "Generalized Anxiety disorder",
+    "Adjustment Disorder",
+    "Trauma-related disorder",
+    "Insomnia",
+    "Substance use disorder",
+    "Bipolar disorder",
+    "Prodromal Psychotic disorder",
+    "Other medical conditions",
+    "0-4 normal/mild, 5-9 mild depression, 10-14 moderate depression, 15+ severe depression.",
+    "Potential medical causes:\nAnemia (Iron deficiency anemia)\nPossible influence from Vitamin D deficiency\nVitamin B12 insufficiency\nDiabetes\nCancer\nAdrenal insufficiency\nHypercortisolism\nHypothyroidism\nMononucleosis\nSystemic lupus erythematosus\nObstructive sleep apnea\nTraumatic brain injury\nStroke\nNeurodegenerative diseases",
+    "Chris is a 15yo boys with symptoms c/w major depressive disorder, single episode, moderate, without psychotic features.",
+    "Considerations for selection:\nPatient’s past meds\nBeneficial and harmful medication reactions\nAdherence Hx\nFamily history of treatment\nMDD with response to a particular medication\nBipolar disorder with SSRI induced mania\nProminent depressive symptoms\nInsomnia\nPoor appetite\nAvolition\nFatigue\nComorbid mental health issues\nADHD\nAnxiety\nBipolar disorder\nEtc.\nComplicated medical conditions"
+  ],
+  "SBP": [
+    "Referral to individual psychotherapy",
+    "Follow-up in 1-2wks via telephone regarding response and tolerance of potential side effects",
+    "No acute safety plan is formally established because he is not endorsing any suicidality or safety concerns, but due to current mood issues and starting SSRI, the black box warning for SI along with directions on how to connect with crisis hotline, EMS/911, or nearest ER if safety concerns develop remains important counseling."
+  ],
+  "ICS": [
+    "Benefits: modulates serotonin in the brain/body, expected to improve mood in approximately 4-6wks at a particular dose.",
+    "Common side effects: including GI, HA, drowsiness or activation, sexual SEs",
+    "Serious adverse effects: including agitation, mania, suicidal thoughts and behaviors.",
+    "Black box warning (<24yo): the potential for increased anxiety, energy, activation, agitation, suicidal ideations and suicidal behaviors, and close monitoring guidelines based on AACAP & FDA recommendations, to ensure the patient’s safety.",
+    "Alternatives: multiple other SSRI’s, atypical antidepressants, individual psychotherapy"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

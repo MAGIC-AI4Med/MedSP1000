@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-13-10596-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10596-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Recommend comfort-focused care, which can include hospice, diuretics, inotropes, other cardiac meds, and opioids."
+  ],
+  "MK": [
+    "Determine prognosis (or phase of illness) and medical options: o Home inotropes? VAD? Transplant? Hospice?"
+  ],
+  "SBP": [
+    "Make recommendations: o Specific advance care planning considerations at this phase: \u25aa Health care proxy identification (which hopefully was addressed long ago) He is at risk of sudden death, so it is worth re-visiting limitation of LSTs, and making a recommendation with cardiologist’s input. Consider DNR recommendation, deactivation of ICD/CRT/VAD if applicable, avoiding re-admission to the hospital if applicable. Financial and emotional affairs: \u201cIn case things don\u2019t go as we both hope, what things should you do now to prepare yourself and your family?\u2019\u2019",
+    "Mobilize community and family supports: palliative care, home care, hospice referral"
+  ],
+  "ICS": [
+    "Assess illness understanding: o Worth re-exploring, possibly reflecting back on prior conversations. If patient is unrealistic, may need to gently share that we\u2019ve now moved into the final stages of illness (deepen awareness)",
+    "Revisit hopes, fears, goals and values: o \u201cWhat is important to you now?\u201d o \u201cHow do you want to spend the time you have left?\u201d"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

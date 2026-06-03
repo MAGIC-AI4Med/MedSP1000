@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_9531",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9531/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Listen to the patient heart and lungs.  Take vital signs.",
+    "If Patient has an arrhythmia they are treated with Electrical Cardio conversion/defibrillation or medication to correct the arrhythmia.",
+    "Oxygen is also given to the patient.",
+    "Thrombolytic therapy: This drug will attempt to break up the clot\nShould not be used for people who have had a recent strokes, blood vessel abnormalities, intra cranial hemorrhage or recent head trauma.",
+    "Auscultate over the heart and listen for signs of heart failure like a 3rd or 4th heart sound.",
+    "Auscultate over the carotids and aorta and listen for bruits.  To make sure no there is no other atherosclerotic disease at these other sites.",
+    "Obtain a urine specimen to check for diabetes mellitus and renal disease\nSince these are associated with accelerated MI",
+    "Obtain a blood specimen and check for lipids, glucose, hematocrit, and Thyroid function\nThis also may accelerate or explain the chest pain",
+    "Obtain a Chest X RAY.  May show cardiac enlargement, ventricular aneurysm,  or other signs of heart failure",
+    "Obtain an ECG.  Can give you indication as to if there has been ischemic heart disease or not.",
+    "Give Aspirin immediately",
+    "IV line for fluids and medications",
+    "Once a full diagnosis of MI has been made one treatment pathway is to complete a percutaneous coronary intervention.\nThis is the process of angioplasty and stenting to open the coronary arteries and allow blood flow back to the heart.",
+    "Medications to prescribe\nAnti Platelet therapy(Aspirin) : A blood thinner that will reduce the chance of blood being blocked in the coronary artery\nNitric Oxide: to treat minor events of chest pain.  Will lead to venodilation and pain reduction.\nBeta Blockers: they reduce myocardial oxygen demand by lowering heart rate and contractility\nCalcium Channel blockers: vasodilator"
+  ],
+  "MK": [
+    "Patients with abnormal ECG may need additional imaging such as arteriography, CT, or ultrasound."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Once treatments have been administered it will be important to counsel the patient on the healthy lifestyle and exercise in order to prevent this occurring again.\nA lipid reducing drug may be prescribed to decrease atherosclerotic plaque",
+    "If patient smokes make sure to counsel on the dangers of smoking and the benefits of quitting."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

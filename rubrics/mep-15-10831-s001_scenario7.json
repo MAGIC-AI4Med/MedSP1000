@@ -1,0 +1,26 @@
+{
+  "case_id": "mep-15-10831-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10831-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Open-ended question",
+    "Setting the agenda in a collaborative manner",
+    "Assessing readiness for change; finding change talk",
+    "Reflective listening",
+    "Determining importance and confidence",
+    "Supporting development of a plan",
+    "Resist the righting reflex",
+    "Understand smoker’s motivation",
+    "Express empathy",
+    "Informing/providing information",
+    "Directing style",
+    "Guiding style",
+    "Following style"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

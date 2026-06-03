@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_9903",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9903/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the fellow comprehensively interview the patient and granddaughter? (e.g. why she lives in a NH and why she is frustrated with meals)",
+    "Did the fellow complete a thorough physical examination? (i.e. gait assessment and skin [pressure ulcers])?",
+    "The fellow was able to develop an appropriate management action plan to improve the functional status of patient (e.g. resume PT/OT)"
+  ],
+  "MK": [
+    "The fellow was able to identify the cause of patient’s malnutrition. (e.g. restricted diet and high-calorie alcohol use)",
+    "The fellow was able to identify poor dentition, sores and alcohol abuse."
+  ],
+  "SBP": [
+    "Fellow appropriately documented the encounter?"
+  ],
+  "ICS": [
+    "Did the SP understand the physician’s questions?",
+    "Did the SP understand the physician’s answers?",
+    "Did the SP feel that she played an active role in decision making?",
+    "The fellow was able to communicate the issues and plan appropriate with patient using shared decision making with patient and family (when appropriate)?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did the physician wash their hands?",
+    "Did the SP feel respected by the physician?",
+    "Did the physician treat the patient well?"
+  ]
+}

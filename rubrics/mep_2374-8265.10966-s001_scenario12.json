@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.10966-s001",
+  "scenario": "scenario12",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10966-s001/scenario12",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask the nurse when the patient last ate (and what he ate); if he just ate a piece of cake that the family brought him, it is a different situation than if he last ate his dinner tray 4 hours ago.",
+    "Also ask if he is having nausea, vomiting or other symptoms.",
+    "Look in the chart to see what his glucoses have been. Check diet to make sure it is diabetic, see what medications he was taking at home and if he has received any insulin since he has been here. Also check to make sure he is not on dextrose containing fluids. Look at BMP to make sure there was no acidosis or evidence of a gap earlier. If having nausea and vomiting, would consider repeating BMP",
+    "He will likely receive some short acting insulin by nighttime sliding scale (less coverage than he would receive for the same glucose premeal). Since he is npo, and only on metformin at home, could just give that coverage and recheck in AM. In general, there is data to support placing inpatients on long acting insulin when we take them off their oral meds, but bedtime when the patient is npo may not be the best time to start this."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

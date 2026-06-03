@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario12",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario12",
+  "rubric_version": "v1",
+  "PC": [
+    "M1Wash hands",
+    "M76: Ausculate abdomen,all 4 quadrants Pyelonephritis: S76: Normal bowelsounds in all 4 quad Appendicitis: S76c: Normal or diminishedbowel sounds in all 4 quad",
+    "M81: Palpate abdomenLUQ Pyelonephritis: S81a: No pain S81b: No palpable mass Appendicitis: S81a: No pain S81b: No palpable mass",
+    "M82:Palpate abdomenRUQ Pyelonephritis: S82a: No painS82b: No palpable mass Appendicitis: S82a: No painS82b: No palpable mass",
+    "M83: Palpate abdomenRLQ (D) Pyelonephritis: S83a: No pain S83b: No palpable mass Appendicitis: S83a: Tenderness over theMcBurney's point S83b: No palpable mass",
+    "M84: Palpate abdomenLLQ Pyelonephritis: S84a: No pain S84b: No palpable mass Appendicitis: S84a: No painS84b: No palpable mass",
+    "M111: Perform kidneypunch bilaterally (D) Pyelonephritis: S111: Costo-vertebralangle tenderness (Sim) Appendicitis: S111:No tenderness",
+    "MA6:Assess for reboundtenderness (D) Pyelonephritis: SA6: No rebound Appendicitis: SA6: Positive",
+    "MA14: Assess for psoas sign (D) Pyelonephritis: SA14: No pain on hipextension Appendicitis: SA14: Pain on extension ofthe hip",
+    "MA33: Perform pelvicexam * Pyelonephritis: SA33: Normal Appendicitis: SA33: Normal",
+    "MA34: Palpate suprapubicarea (D) Pyelonephritis: SA34: Normal or tender(Sim) Appendicitis: SA34: Normal",
+    "MA28: Perform rectalexam (D) Pyelonephritis: SA28: Normal Appendicitis: SA28: Tenderness",
+    "MA35: Percuss abdomen, all 4 quadrants (D) Pyelonephritis: SA35:Normal Appendicitis: SA35: Normal or tympanitic"
+  ],
+  "MK": [
+    "Given the results of your physical exam, which diagnosis is most likely?\n[ ] appendicitis\n[x] pyelonephritis\n[ ] neither because the findings are ambiguous or contradictory\n[ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

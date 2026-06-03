@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11082-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11082-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess patient’s vital signs",
+    "Inquire about mental status and overall clinical status",
+    "Consider examining patient prior to giving pain medication if appears to be clinically worsening",
+    "Once established that patient clinically stable, given elder age, trial lower dose opioids (tramadol or oxycodone) first."
+  ],
+  "MK": [],
+  "SBP": [
+    "Documentation: consider writing brief event note with the patient’s vitals, symptoms and orders placed"
+  ],
+  "ICS": [
+    "Clearly communicate to nurse your plan to reassess patient’s pain later on"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

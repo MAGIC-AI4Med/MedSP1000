@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_10379",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10379/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "1. The fellow screens for depression and suicidal ideation and inquires about coping and the patient’s support system.",
+    "1. The fellow obtains pertinent social history including sexual history, substance use, etc."
+  ],
+  "MK": [
+    "1. The fellow interprets lab results and explain the meaning of these to patient."
+  ],
+  "SBP": [],
+  "ICS": [
+    "1. The fellow exhibits empathy.",
+    "1. The fellow discusses transmission issues.",
+    "1. The fellow discuss the benefits of taking antiretroviral therapy.",
+    "1. The fellow discusses the “all or nothing” approach to meds and risk of resistance.",
+    "1. The fellow discusses the potential side effects of antiretroviral therapy."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.11400-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11400-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Also, it is very reasonable for them to be thinking about speech therapy, occupational therapy, or other medically-based therapies if they haven’t discussed these already.",
+    "Genetic testing is also a recommendation for children diagnosed with autism, particularly testing for Fragile X Syndrome and either exome sequencing or a microarray.",
+    "Consider screening for co-morbidities such as ADHD, learning disability/intellectual disability and other behavioral problems such as feeding difficulties, sleep problems, aggression, elopement, etc."
+  ],
+  "MK": [
+    "Ask residents to discuss what they know about ABA, the PLAY Project, and other autism-specific therapies."
+  ],
+  "SBP": [
+    "We want them to be thinking about educational resources – IEP evaluation when he turns 3 years old, in particular.",
+    "We would want them to be thinking about not only ABA and other therapies, but also school-based services and supports.",
+    "Additionally, we would want them to be able to discuss services and support networks like Autism Speaks."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

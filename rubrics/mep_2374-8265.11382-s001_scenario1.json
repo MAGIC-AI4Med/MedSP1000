@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.11382-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11382-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Did the student use 2 patient identifier when labelling the blood tube?",
+    "Did the student recognize the error?",
+    "Did the student discuss future steps to avoid a similar event?",
+    "Explore whether or not the student knows how to seek help following an error. Share that that they should notify their senior resident and/or attending. Remind the student that there are anonymous reporting structures in place. At Northwell this is Improve North."
+  ],
+  "ICS": [
+    "Indications for the procedure: anemia",
+    "Risks of the procedure: transfusion reaction, low risk of infection (Hepatitis, HIV at minimum; CMV/EBV if fancy)",
+    "Benefits of the procedure: symptomatic relief and prevention of cardiac complications of severe anemia",
+    "Alternatives to the procedure: nothing, more saline, or iron tablets which would not help in short term",
+    "Ensuring patient understanding of above: teach back",
+    "Obtaining patient and witness signatures",
+    "Did the student explore the patient’s understanding of what happened?",
+    "Did the student disclose the error using clear language?",
+    "Did the student discuss steps being taken to manage the event?",
+    "Did the student utilize the micro-skills of empathy during the encounter?",
+    "Please rate the student’s ability to disclose an error using the following entrustability scale: Can only observe someone doing it Can do it if supervisor talks them through it Can do it with supervisor is in room to direct them from time to time Can do it with supervisor available just in case Can do it without supervisor in the room"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Observe if the student demonstrated the following: avoided discussing the error, defensiveness, placed blame on another individual (e.g. the nurse).",
+    "The student must 1) apologize for the medical error and 2) acknowledge responsibility for the error to complete their task correctly."
+  ]
+}

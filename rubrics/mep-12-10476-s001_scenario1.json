@@ -1,0 +1,38 @@
+{
+  "case_id": "mep-12-10476-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10476-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Request additional information such as laboratory studies, vital signs, NPO status, PMHx, and previous anesthetic information.",
+    "Identify further strategies for IV placement including ultra-sound guidance of peripheral line or central line placement, intraosseous access, or lastly a venous cutdown.",
+    "Suggest strategies for pharmacologic assistance such as topical anesthetics (ex. EMLA cream), subcutaneously injected local anesthetics and/or with careful parenteral premedication (i.e. nasal dexmedetomidine, rectal midazolam, or IM ketamine) to successfully place IV/IO access.",
+    "Select for induction, propofol, ketamine, or etomidate as acceptable choices at reduced doses to minimize hypotension along with succinylcholine ideally (+/- atropine) or rocuronium.",
+    "Have airway equipment available in case of difficulty (i.e. Miller and/or Macintosh blades, CMAC, Glidescope, Bougie, LMAs, etc…) and demonstrate a working knowledge of the ASA difficult airway algorithm.",
+    "Treat post-induction with some or all of the following: NS or LR fluid administration, pressors as needed, head down positioning, and/or, adjusting the depth of anesthesia to not exceed 1 MAC of volatile agent (assuming the patient does not move with incision).",
+    "Suggest placing an additional IV +/- placing an arterial line in order to obtain blood for labs (at a minimum critical care Hgb and/or Hct) and for typing and screening the patient. An arterial line should be considered if frequent lab draws may potentially be required, if hemostasis proves difficult for the surgeons, and/or if hemodynamic instability is deemed to need more aggressive beat to beat monitoring than a non-invasive BP cuff can yield.",
+    "Place a gastric suction catheter and empty the stomach contents prior to extubation.",
+    "Extubate the patient once fully awake to ensure patient is able to protect their own airway which will minimize the risk of pulmonary complications",
+    "Perform an airway exam in the emergent setting"
+  ],
+  "MK": [
+    "Recognize the need for a rapid sequence induction and IV/IO placement prior to induction.",
+    "Identify primary versus secondary post-tonsillectomy and adenoidectomy hemorrhage",
+    "Identify expected laboratory abnormalities in an actively bleeding patient",
+    "Analyze laboratory data, patient vital signs, and physical exam to diagnose volume status",
+    "Propose goals of resuscitation including, correcting hypovolemia through administration of normal saline or lactated ringers solution, albumin, and/or the need for blood transfusion",
+    "Identify a patient who is a full stomach and at high risk for pulmonary aspiration and complications",
+    "Identify and be prepared to manage a difficult airway"
+  ],
+  "SBP": [
+    "Prior to induction, begin intravascular volume replacement, request that blood products be available in the operating room (initially O+ until type and screen is complete), and request that the ENT surgeon be readily available in the operating room during induction for possible surgical airway if needed.",
+    "Prior to electrocautery, the learner should decrease the inspired oxygen concentration in order to minimize potential for airway fire."
+  ],
+  "ICS": [
+    "Request appropriate consultation and aid of professional colleagues such as making sure an ENT surgeon is present on induction and communicate with them the plan"
+  ],
+  "PBLI": [
+    "The learner is receptive to and reflects upon feedback provided following the simulation."
+  ],
+  "PROF": []
+}

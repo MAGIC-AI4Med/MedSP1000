@@ -1,0 +1,31 @@
+{
+  "case_id": "mep-12-10478-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10478-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "What is her chief complaint?",
+    "What are the questions you usually ask in past medical history? Family history? Social history?",
+    "What labs would you like to order for Mary and why?",
+    "Which of the following best describes the chief complaint?"
+  ],
+  "MK": [
+    "Develop a list of differential diagnoses based on the given information for Mary.",
+    "What is BMI? What are the ranges for BMI and is Mary’s BMI normal?",
+    "What is the significance of a palpable splenic tip? Is this a normal finding?",
+    "List Mary’s abnormal lab result. How are they relevant to a possible diagnosis?",
+    "What is AST and ALT? What do these lab results tell you about your patient?",
+    "List your top 3 diagnoses for Mary. What would be your proposed treatment for each?",
+    "What is the difference between AST and ALT?",
+    "A patient presents to the clinic with an enlarged splenic tip upon physical examination. Is an enlarged splenic tip a normal finding in an adult? What is the medical term for enlarged spleen?",
+    "Which of the following best explains the importance of a family history when trying to determine a differential diagnosis?",
+    "Which of the following is not included in a CBC?",
+    "Which of the following is true of BMI based off of your research."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [
+    "Is there a correlation between stress and the ability of the immune system to function? (Provide valid research to support your answer)."
+  ],
+  "PROF": []
+}

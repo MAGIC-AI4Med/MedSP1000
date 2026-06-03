@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11386-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11386-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Recognizes abnormal vital signs during initial encounter (PC1)",
+    "Elicits HPI (PC2)",
+    "Elicits past medical history (PC2)",
+    "Elicits past medications (SBP3)",
+    "Elicits allergies to medications (PC5)",
+    "Completes a focused physical exam (PC2)",
+    "Reevaluates the patient following adenosine/intervention (PC6)",
+    "Able to multitask a single patient amidst distractions (PC8)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Sends patient home or to observation for monitoring (PC7)"
+  ],
+  "ICS": [
+    "Establishes rapport with the patient (ICS 1)",
+    "Listens effectively to patients (ICS 1)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Demonstrates a caring nature to patient (PROF 1)"
+  ]
+}

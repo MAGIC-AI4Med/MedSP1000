@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11566-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11566-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Reinforce medication adherence (e.g. set phone reminders for insulin). Refer to nutritionists for portion control strategies. Add strength training 2x/week. Monitor neuropathy (annual foot exams)."
+  ],
+  "MK": [
+    "Type 2 diabetes with early neuropathy is supported by classic symptoms (bilateral foot tingling, fatigue), poor glycemic control (missed insulin, carb struggles), and family history.",
+    "The primary concern is diabetic peripheral neuropathy, supported by bilateral foot tingling and long standing type 2 diabetes. However, the absence of foot ulcers suggests this may be in early stages. Vitamin B12 deficiency, chronic inflammatory demyelinating polyneuropathy, and lumbar radiculopathy are also potential differential."
+  ],
+  "SBP": [],
+  "ICS": [
+    "The learner introduces themselves directly to the patient, confirms the interpreters’ roles, and maintains appropriate eye contact and pacing throughout the visit.",
+    "They communicate in short, clear sentences, pausing for interpretation, and use plain language, drawings, or visual aids to review diabetes management, medication adherence, and neuropathy symptoms.",
+    "Learners employ teach-back methods through the interpreters to confirm understanding and respond empathetically to the patient’s concerns about new medications, risks, and lifestyle challenges.",
+    "Learners should take appropriate pauses between sentences, consciously regulating the pace of conversation to allow adequate time for interpretation and patient processing.",
+    "Students should monitor the patient’s and interpreters’ nonverbal cues to determine whether the pace is comfortable and, if uncertain, may ask the interpreters directly if the pacing is appropriate."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "They demonstrate cultural humility by collaborating with the CDI-ASL team, validating the patient’s experiences, and ensuring comprehension before closing the visit with a clear, jointly developed management plan and appropriate follow-up."
+  ]
+}

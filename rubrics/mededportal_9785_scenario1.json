@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_9785",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9785/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Start resuscitation by addressing the initial steps (Airway-Breathing-Circulation-Disability) from Pediatric Advanced Life Support guidelines",
+    "Lower the external ventricular drain to the floor",
+    "Order a STAT head CT scan",
+    "Provide measures to decrease intracranial hypertension:\nRaise the head of the bed\nAdminister mannitol\n3% normal saline bolus\nAdminister a fluid bolus of normal saline\nHyperventilate the patient with bag-mask ventilation"
+  ],
+  "MK": [
+    "State the patient has increased intracranial pressure physiology",
+    "Recognize that the external ventricular drain is not draining",
+    "Recognize that the external ventricular drain is obstructed"
+  ],
+  "SBP": [
+    "Call for a STAT neurosurgical consultation"
+  ],
+  "ICS": [
+    "Attempt to notify the family/guardian"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

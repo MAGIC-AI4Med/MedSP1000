@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-14-10723-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10723-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "Wait for final identification of organism"
+  ],
+  "MK": [
+    "Consider the clinical indications and potential benefit specific to your patient before ordering a blood culture for fever"
+  ],
+  "SBP": [
+    "There are potential benefits, harms, and direct and indirect cost to every intervention. For blood cultures, a few of the risks and costs include complications of blood draw, peripheral IV placement, contaminants, unnecessary antibiotics, hospital lab charges, and emotional affects on patient."
+  ],
+  "ICS": [
+    "Early conversations with patients and families regarding their values and goals of care strengthen a therapeutic alliance and allows for shared decision-making\\*",
+    "Incorporating patient level factors into decision-making is crucial, especially when standards of care are nonexistent, conflicting, dated, or contrary to existing evidence\\*",
+    "Engage in a discussion about risk estimates of pathogenic bacteremia with parents that would help the team make an informed decision."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

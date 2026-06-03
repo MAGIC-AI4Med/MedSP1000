@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11526-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11526-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Primary and secondary survey",
+    "Recognize, and stabilize ankle injury (evaluate for good pulses/sensation, identify no need to reduce, provide adequate splint, assist in carry to safety if patient is unable to bear weight)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Assess and constantly reassess the scene for safety",
+    "Activate EMS as soon as cell service is available",
+    "Give comprehensive patient sign-out to EMS",
+    "Assess both the scene and the status of the patient to determine the safest manner of evacuating"
+  ],
+  "ICS": [
+    "Assign clear team roles and responsibilities",
+    "Communicate effectively as a team, including using directed, closed-loop communication",
+    "Approach patient in non-threatening way using appropriate communication",
+    "Keep patient updated with medical management in a level of detail appropriate to their level of understanding",
+    "Obtain consent to treat and proceed when possible"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

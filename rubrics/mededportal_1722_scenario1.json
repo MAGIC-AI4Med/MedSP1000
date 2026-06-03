@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_1722",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1722/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Formulate acute and long-term treatment plans.",
+    "Properly position patient to minimize risk of syncope – supine or semi-supine in dental chair.",
+    "Emergency management – discuss airway protection, lower head, raise feet. With delayed recovery, call 911.",
+    "Prevention – provide comfortable environment, encourage patient to eat prior to visit and/or maintain adequate hydration $( O J )$ , minimize stress to patient, conduct thorough pre-procedure assess of patient medical history."
+  ],
+  "MK": [
+    "Recognize and interpret pressure and EKG traces on clinical monitors.",
+    "Define the cardiac rate and rhythm.",
+    "Measure and analyze the cardiac output.",
+    "Describe the common rhythm abnormalities.",
+    "Recognize the effect of pain /fear associated with local anesthesia and its relationship to neurogenic shock.",
+    "List the signs and symptoms of neurogenic shock.",
+    "Determine the risk factors to minimize risks.",
+    "Identify the most critical problem of the patient based on pt’s clinical information, chief complaints, & the student’s own physical assessment and verbalize “WHY”."
+  ],
+  "SBP": [
+    "Verbalize necessary referrals for this patient, assuming more care is needed.",
+    "Delegate tasks to other healthcare members (oral surgeon extraction under sedation)"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

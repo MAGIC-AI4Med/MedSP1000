@@ -1,0 +1,29 @@
+{
+  "case_id": "mep_2374-8265.11417-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11417-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Student offers choices of nicotine replacement and validates difficulty in withdrawing from nicotine. Offer optimism that while it initially will be uncomfortable, treatment will help with symptoms."
+  ],
+  "MK": [],
+  "SBP": [
+    "Student responds that it is hospital policy that a patient may not go outside with this particular line, especially while the medications are running as there could be potential for adverse effects. Additionally, there is a risk of fire with smoking while on oxygen."
+  ],
+  "ICS": [
+    "Student respects personal space (example, distance x2, open body language, modulates volume, establish eye contact)",
+    "You verbally connected with me when you; a. asked me how I’d like to be addressed, b. clarified your role, c. explained that you are here to listen to my concerns, “I may not be able to fix everything, but I can listen and try to help” d. Validated the seriousness of my concerns/situation. (Concern about getting kicked out of housing)",
+    "When you used active listening I felt heard and respected: a. listened closely (physical cues and non- verbal utterances) b. repeated my words back to me c. validated my concerns d. gave me a chance to clarify or correct stated or implied emotions …“Tell me if I have this right”",
+    "You identified my wants, expectations, and feelings. (You validated my concerns about housing/rent and the need for help in taking care of it)",
+    "When you explained concisely using short sentences and simple vocabulary, it gave me time to process and understand the rationale behind needing more info about why you are upset.",
+    "You explored in detail my housing/ financial concerns and my desire to leave the floor to smoke.",
+    "Offer choices and optimism- Offer realistic options or choices, including acts of kindness (food, water, phone, …) You addressed both rent payment ideas (speak with social worker?) and nicotine withdrawal comfort (nicotine replacement options, speak with tobacco treatment team).",
+    "Agree or agree to disagree. a. Find something about the situation/ patients position with which you CAN agree (see article) b. if there is no way to honestly agree with the patient, respectfully agree to disagree"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "You were not provocative physically or verbally. a. demeanor and voice were calm, b. hands visible and unclenched, c. eye contact was direct but not staring or aggressive, d. body language was open and non-confrontational, e. you did not insult or patronize me or my concerns",
+    "Argues with patient",
+    "Set clear limits if the patient’s behavior is causing the clinician to be frightened or disrespected."
+  ]
+}

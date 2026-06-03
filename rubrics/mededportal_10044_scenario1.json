@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_10044",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10044/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Look at the baby."
+  ],
+  "MK": [
+    "Identify the reason for consultation. If possible, clarify the range of possible diagnoses along with the prognosis of the unexpected malformation prior to meeting with parent(s)."
+  ],
+  "SBP": [
+    "Explain the usual care offered in that specific situation. Offer support to parents.\n\"We know that this is very difficult for you. Is there anything you would like me to do that would help you in a more concrete way?\"",
+    "Offer a break time in order to give the parent(s) an opportunity to talk together and/or with other family members or friends and plan a follow-up meeting with them within 24 hours."
+  ],
+  "ICS": [
+    "Find a time and quiet place to make parent(s) comfortable and allow for questions (30-60 minutes).",
+    "Try to have both parents present at the consultation (may need to schedule appointments). Appropriately inquire about the father's/partner's presence/absence (if applicable).",
+    "Welcome to parents & introduce yourself.",
+    "Encourage unknown people to leave the room (i.e. RN, acquaintances).\nAppropriately inquire about the father's/partner's presence/absence (if applicable).",
+    "Be sure that the parents have seen their baby.\nBe sure that the baby is in the room with you.",
+    "Refer to the baby with his/her name.",
+    "Face-to-face interaction with parents.\nMake eye-contact with the parents.\nBe honest and disclose the information by using simple words.\nVerify the level of understanding of the parents.",
+    "Provide the parents the opportunity to decide how they would like to hear the information about their baby.\n\"Do you want to see [Name]/your baby now, or talk first and then see your baby?\"",
+    "After saying something nice and positive about her/their baby (If you did not do it before), your first statement about the malformation(s) should be bold and simple (using non-medical terminology), in short sentences that they are able to assimilate.\n1. \"Unfortunately, I have unexpected news...\"\n2. \"…I think [Name]/your baby has a missing leg.\"\nEmphasize the normal aspects of the child (when applicable) and possible future positive possibilities if you are sure that the deficit is compatible with life. If not, avoid prediction about the child's future. Admit uncertainty while supporting parents.",
+    "Ask before you tell. After the first brief informative phrase, you should continue by verifying the level of understanding of the parents as follows:\n\"With regard to what I have told you so far…”\n1. “Have you previously been informed or do you have personal knowledge of the issues?”\n2. “Is there anything you would like to understand better?”\n3. ”Is there anything you would like to know?\"\n4. \"What is your understanding of what has happened so far?\"",
+    "Observe parent(s)' reactions and listen to the way the individual describes the situation.",
+    "If you can identify them, you can name them:\nI.e. Anger: \"You seem upset by that …\"",
+    "Allow silence and time.\nEvaluate parent(s)' understanding frequently and make readjustments as necessary. Offer time for parents to ask questions as often as possible.\n“I want to be certain that I have clearly explained [Name]’s medical situation. Can you tell me in your words what we’ve discussed?”\n\"After what I've told you, is there anything else you need to know or understand better?\"",
+    "Acknowledge and accept emotions from parents.\n1. \"It is more than understandable that in this moment you have this reaction...\"\n2. \"I can see this is hard for you and that you are upset. I am sorry; I wish the news was better.\"",
+    "Support parent(s)' emotions and feelings and allow them to keep some realistic hope.",
+    "Transition toward discussion about care plan.\n\"The news that I just shared with you is difficult to hear, but I need to discuss with you what can be offered to your baby. Is it okay to discuss this with you now or would you prefer me to come back later?\"",
+    "Ask parent(s) to make a summary of their overall understanding including the care plan options.",
+    "End making positive points about the discussion.\nOffer secure net and encourage parents to keep track of questions for the follow-up encounter."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

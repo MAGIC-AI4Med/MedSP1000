@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.10902-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10902-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Recognizes that the patient does not meet criteria for field TOR"
+  ],
+  "SBP": [
+    "Denies the request for TOR and recommends transport to the hospital"
+  ],
+  "ICS": [
+    "Utilizes the radio correctly",
+    "Asks the prehospital provider for more information about resuscitative efforts"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

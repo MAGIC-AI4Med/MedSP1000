@@ -1,0 +1,14 @@
+{
+  "case_id": "mep_2374-8265.10993-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10993-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Discuss the rules at your institution including new prescriptions, renewing medications and documentation of visits at this point."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

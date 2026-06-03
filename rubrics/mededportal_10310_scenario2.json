@@ -1,0 +1,37 @@
+{
+  "case_id": "mededportal_10310",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10310/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "FEN/GI: No current signs to suggest dehydration, patient’s tachypnea and history of aspiration pneumonia preventing safe enteral hydration/nutrition; will keep NPO and provide maintenance IV fluids until respiratory distress improved; will monitor intake/output and adjust fluids accordingly",
+    "Respiratory: Patient still demonstrating signs of respiratory distress and requiring aggressive bronchodilator therapy and supplemental oxygen; continuous albuterol at 20mg/hr - titrate/wean as appropriate; provide supplemental $\\mathsf { O } _ { 2 }$ via facemask to maintain $S _ { 9 } 0 _ { 2 } > 9 2 \\%$ ; continue course of oral steroids for treatment of status asthmaticus; monitor respiratory status with pulse oximetry, continuous cardiorespiratory monitors and frequent bedside assessments",
+    "Neuro: No current signs of seizure activity but patient known to have lowered seizure threshold in the setting of acute illness; continue home doses of levetiracetam, topiramate and clonazepam; seizure plan for seizure ${ \\ge } 5$ min or $^ { > 2 }$ seizures in 1 hour is to give lorazepam 0.1 $\\mathsf { m g / k g } \\mid \\mathsf { V } _ { i }$ ; will make neurology aware of patient’s admission",
+    "Serial exams to reassess respiratory status",
+    "Wean oxygen as able",
+    "Titrate/wean albuterol as necessary/able",
+    "Monitor vitals",
+    "Follow-up on viral respiratory panel",
+    "Goals:\nInquire about current vital signs and respiratory effort (subcostal retractions are a little worse, $S { \\mathsf { p O } } _ { 2 } 9 6 \\% )$ Inquire about indicators that he isn’t seizing anymore (withdrawing from stimuli, no tonic-clonic movements, making eye contact when his eyes are open) Next step: Go see the patient",
+    "Goals:\nInquire about current vitals- Inform the student “Patient spiked a temp to 38.7. Can I give Tylenol?” $( \\mathsf { S p O } _ { 2 } 9 4 \\%$ on $4 0 \\% \\mathsf { F i O } _ { 2 }$ ) Ask about work of breathing (RR increased to 50, worsening retractions, now grunting) Inform RN that they will order a chest $\\pmb { \\times }$ -ray Next step: Go see the patient"
+  ],
+  "MK": [
+    "Differential diagnosis includes: asthma exacerbation (status asthmaticus), pneumonia (community acquired and/or aspiration), etc…",
+    "(Students should justify the diagnoses included their differential - example: Status asthmaticus consistent with presence of concurrent URI trigger, diffuse symmetric wheezing, lack of chest x-ray findings to suggest alternative diagnosis).",
+    "CV: Tachycardia likely attributable to continuous beta-agonist therapy; blood pressure appropriate for age; continue to monitor closely for signs of hemodynamic compromise",
+    "ID: No history of fever and normal chest x-ray make bacterial infectious process unlikely; likely viral pathogen - will follow-up viral respiratory panel; monitor for fever and/or worsened respiratory status - consider repeat chest x-ray if concerned for developing pneumonia"
+  ],
+  "SBP": [
+    "Dispo: Patient requires inpatient hospitalization while requiring supplemental $\\mathsf { O } _ { 2 }$ and continuous albuterol. Will need PMD follow-up after discharge.",
+    "Update primary specialists (neurology, pulmonary)",
+    "Update PMD about patient status and current admission"
+  ],
+  "ICS": [
+    "Update mother",
+    "I: This patient is somewhat unstable and should be watched closely.",
+    "A: 1. A repeat blood gas is pending. It should be back soon. Please follow-up on it immediately and touch base with PICU fellow as they are awaiting the results as well. 2. Wean $\\mathsf { F i O } _ { 2 }$ as tolerated. 3. If wheezing improves, attempt to wean patient off of continuous albuterol per protocol.",
+    "S: If the blood gas demonstrates respiratory acidosis with ${ \\mathsf { C O } } _ { 2 }$ retention or Jerimiah is having increasing respiratory distress, please follow-up with PICU immediately to help plan for escalation of respiratory support. He may need positive pressure ventilation if he continues to worsen, but, given his reactive airway disease exacerbation, we want to be as least invasive as possible. If he has a seizure $\\geq 5$ minutes or $^ { > 2 }$ seizures in 1 hour, give lorazepam $0 . 1 \\mathrm { m g / k g } \\mathrm { | V | }$ . If the seizure does not break with two doses, give a loading dose of $2 0 \\mathrm { m g / k g / V }$ of fosphenytoin and call neurology for further recommendations."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

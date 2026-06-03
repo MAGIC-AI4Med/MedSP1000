@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.10944-s001",
+  "scenario": "scenario11",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10944-s001/scenario11",
+  "rubric_version": "v1",
+  "PC": [
+    "Cross-cover to see patient: Yes",
+    "It is reasonable to send off an updated complete blood count, though always remember that the hemoglobin level on this takes time to equilibrate and may not reflect recent bleeding.",
+    "If the patient does not have an active type and screen for blood (usually done every 72 hours), now is the time to do that as well.",
+    "If he does not have good IV access (at least 2, eighteen-gauge peripheral IVs), it is also a good time to get new IVs placed.",
+    "If the volume of blood is large, consider transfusing one unit of packed red blood cells immediately, and putting additional units on reserve."
+  ],
+  "MK": [],
+  "SBP": [
+    "This is an emergency, and requires prompt attention at the patient's bedside as well as prompt notification of your senior resident.",
+    "In this case, we should be getting an updated set of vital signs, and, depending on the severity, getting additional help from the GI consult team and, if severe, consideration of transfer to the ICU."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

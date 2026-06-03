@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-14-10706-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10706-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Desired Action: Recognize worsening hypoxemia due to agitation and begin manual calming maneuvers If not performed: Continued decline in sPO2 and RR with increase in HR leading to development of inadequate systemic perfusion, acidosis and circulatory shock.",
+    "Desired Action: Maximize pulmonary vein saturations by delivering 100% FiO2. If not performed: Continued decline in sPO2 and BPs leading to development of inadequate systemic perfusion, acidosis and circulatory shock.",
+    "Desired Action: Support cardiac output with initial volume resuscitation but pharmacologic support may be necessary. If not performed: Continued decline in BPs can lead to development of inadequate systemic perfusion, acidosis, circulatory shock and eventual cardiac arrest."
+  ],
+  "MK": [
+    "Desired Action: Recognize that the severe hypoxemia is out of proportion to expected degree of cyanosis for this heart defect and is a change from patient’s baseline. Order CXR to confirm no lung pathology and that the hypoxemia is due to Hypercyanotic spell."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Desired action: Assign team roles upon arrival at the bedside and use closed communication. If not performed, tasks will not be delegated and carried out and delay in vital information and action will occur."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

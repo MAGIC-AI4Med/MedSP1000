@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.10873-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10873-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Acknowledges uncertainty in when to intervene."
+  ],
+  "SBP": [
+    "Offers to talk to team about when transfusion is absolutely necessary."
+  ],
+  "ICS": [
+    "Greets parent appropriately.",
+    "Speaks in plain language about the problem at hand.",
+    "Acknowledges the parent’s concerns. Expresses empathy and openness to hearing parent’s wishes.",
+    "Explains to parent reasons for wanting to give transfusion and why other options aren’t available.",
+    "Allows time for parent questions and answers them directly.",
+    "Openly discusses strategies that take parent concerns into account and discusses anticipated outcomes with the parent."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

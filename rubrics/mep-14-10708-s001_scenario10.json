@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario10",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask about any changes on telemetry",
+    "Inquire about patient symptoms/status"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Attempt to educate the nurse regarding this degree of hyperkalemia in a patient with CKD"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

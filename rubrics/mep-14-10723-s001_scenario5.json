@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-14-10723-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10723-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Simple nonpurulent SSTs can most effectively be cared for on an outpatient basis, without indication for further imaging or lab work.",
+    "Beta-lactam antibiotics are effective first line treatment for simple cellulitis, which are more typically streptococcal. The widespread of use of clindamycin for empiric MRSA coverage may be associated with increasing rates of clindamycin resistance in MSSA."
+  ],
+  "MK": [
+    "This case describes a simple cellulitis, defined as a diffuse, superficial, slowly spreading infection of the skin and subcutaneous tissue in the absence of purulence. It can also be considered mild in the absence of severe systemic signs (fever, toxic appearance, hypotension). Findings that may indicate special circumstances include: clinical factors suggestive of deeper infection (e.g. myositis, osteomyelitis, necrotizing fasciitis), orbital cellulitis, cellulitis associated with a burn, surgical wound or instrumentation, animal bite, or dental infection, and underlying patient co-morbidities such as primary or acquired immune deficiency.2"
+  ],
+  "SBP": [
+    "Ultimately, the highest value choice for antibiotic will be one that considers antimicrobial stewardship in providing the most narrow coverage while decreasing risk for evolving resistance, and minimizing potential toxicity and side effects."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

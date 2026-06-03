@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_9145",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9145/scenario10",
+  "rubric_version": "v1",
+  "PC": [
+    "Appropriate management of Bradycardia arrest"
+  ],
+  "MK": [
+    "Considering options (acts on a broad ddx)",
+    "Correctly identifies problem, makes correct critical decisions",
+    "Considers differential diagnosis of mental status change: including ICP increase, alcohol withdrawal syndrome, and perhaps COPD exacerbation w. CO2 retention, or medication side effect.",
+    "Considers options of ICP monitoring or therapy such as mannitol"
+  ],
+  "SBP": [
+    "Planning and preparation (tasks chosen w/ regard to urgency)",
+    "Flexibility/responding to change (can reshufle priorities whennew information presented)",
+    "Uses system/personnel appropriately to direct medical care",
+    "Recognize urgency to proceed with CT scan of brain and increase level of care."
+  ],
+  "ICS": [
+    "Selecting and communicating option (articulates commandsclearly/concisely;provides foran alternative plan)",
+    "Implementing and reviewing decisions (summarizes thoughts)",
+    "Setting and maintaining standards (identifies self, role)",
+    "Supporting others (assigns roles to others)",
+    "Exchanging information (thinks aloud)",
+    "Establishing a shared understanding (invites others&#x27; input)",
+    "Coordinating team activities (shows closed-loop comm..)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

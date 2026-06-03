@@ -1,0 +1,33 @@
+{
+  "case_id": "mep-15-10834-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10834-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Conduct an initial physical exam (focused).",
+    "Request and review patient admission documents, diagnoses, prior treatment, and medications.",
+    "May request supplemental Oxygen,",
+    "May request subsequent vital signs checks.",
+    "May request pain management (e.g., Tylenol, Tylenol with a narcotic PO or medication by IV).",
+    "Learners should consider obtaining a portable chest x-ray or performing a bedside ultrasound (E-FAST) to diagnose the pneumothorax.",
+    "May request additional vascular access and start fluid resuscitation.",
+    "Learners may perform a needle and/or tube thoracostomy to treat the pneumothorax which can be performed using a hybrid simulation strategy where a simulated chest model (e.g., TraumaMan) will be positioned at the bedside to allow the participant to continue to interact with the patient while performing the procedure."
+  ],
+  "MK": [
+    "Review/analyze initial set of vital signs.",
+    "What are the most important things you need to do to get the correct leading diagnosis?",
+    "Write a complete problem list.",
+    "Pneumothorax progressing to tension pneumothorax: (See Appendix L for supporting evidence)",
+    "Rib Fracture * Hemothorax * Pulmonary Contusion * Pulmonary Embolism * Syncope related to cardiac arrhythmia (e.g., a fib, Vtach) * Hypovolemia (e.g., dehydration, sepsis) * Anaphylaxis * Stroke/CVA * Pneumothorax * Cardiac Contusion * Splenic or liver laceration/hematoma   (See Appendix L for supporting evidence)"
+  ],
+  "SBP": [
+    "May request moving crash cart into the room along with continuous 3 - lead ECG monitoring.",
+    "May choose to call rapid response or senior resident."
+  ],
+  "ICS": [
+    "Communicate with the patient (introduction, diagnostic questions).",
+    "Give handoff report to the arriving RRT team member."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

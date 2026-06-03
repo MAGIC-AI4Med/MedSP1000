@@ -1,0 +1,36 @@
+{
+  "case_id": "mep_2374-8265.11214-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11214-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "C, A, Bs should be quickly assessed",
+    "Place patient on full cardiac monitor",
+    "Administer oxygen",
+    "Request IV access",
+    "Obtain labs including venous blood gas, CBC, blood culture",
+    "Trial bronchodilator therapy and consider IM Epinephrine",
+    "Prepare intubation equipment",
+    "Obtain chest radiograph",
+    "Intubate",
+    "Consider broad-spectrum antibiotics such as ceftriaxone"
+  ],
+  "MK": [
+    "Recognize vital sign abnormalities of tachypnea, hypoxia and tachycardia",
+    "Identify potential need for advanced respiratory support and potential difficult airway",
+    "Learners verbalize their interpretation of labs, CXR and EKG"
+  ],
+  "SBP": [
+    "Identify patient as a Person Under Investigation (PUI) and don appropriate PPE",
+    "Limit personnel in the room when treating with aerosolizing treatments or procedures",
+    "If necessary, move patient to a negative pressure room or room with a HEPA filter",
+    "Call for respiratory therapy and consider calling PICU or anesthesia for support",
+    "Stabilize and transfer to PICU"
+  ],
+  "ICS": [
+    "Verbalize infection exposure concerns to prompt healthcare team members to also don appropriate PPE",
+    "Effectively communicate concerns for respiratory failure with healthcare team"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

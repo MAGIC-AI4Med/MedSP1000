@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9330",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9330/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess patient's airway, breathing and circulation and address issues as necessary with reevaluation as indicated (1) Airway: intact, intubation not required (2) Breathing: Albuterol should be used given history of asthma with wheezing (3) Circulation: absent pedal pulse on deformed ankle requires prompt reduction and reassessment for return of perfusion",
+    "Conduct brief history and physical exam",
+    "Students enter room, recognize patient is in distress, recognize potential for crush injury and obtain initial set of vitals",
+    "Patient is given O2, placed on monitor with sinus tachycardia being recognized, and started on IVF (rate of 1 L/hr.)"
+  ],
+  "MK": [
+    "Correctly diagnose and properly treat underlying conditions (1) Recognize sinus tachycardia and treat with isotonic IVF (2) Recognize significant crush injury with risk for hyperkalemia and begin prophylactic treatment with sodium bicarbonate (3) Proper use of immobilization (rigid c-collar, temporary extremity splint, backboard)"
+  ],
+  "SBP": [
+    "Patient is properly immobilized and placed on backboard for transfer"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

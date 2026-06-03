@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario22",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario22",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for a fresh set of vitals",
+    "Ask about time course of dyspnea",
+    "Inquire about IV fluid resuscitation",
+    "Agree to assess the patient urgently",
+    "Verbal order for stat CXR $+ / .$ - ECG; supplemental oxygen"
+  ],
+  "MK": [
+    "Tell nurse you believe this could be due to heart failure"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Clear, closed-loop communication when relaying orders to nursing staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

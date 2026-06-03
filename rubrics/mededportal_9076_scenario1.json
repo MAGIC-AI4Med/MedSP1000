@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_9076",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9076/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Intern reviews sign-out and recognizes that the patient is admitted for pneumonia.",
+    "Intern interviews Patient and learns that this shortness of breath came on suddenly and she has never had it before.",
+    "Intern conducts brief physical exam and auscultates an irregular rhythm as well as rales in the right lung base.",
+    "Intern re-assesses patient as heart rate rises to 150 beats er minute, and the monitor alarms.",
+    "Intern orders an EKG and chest xray, STAT BMP",
+    "Intern begins an IV beta blocker (Metoprolol 5mg IV) or calcium channel blocker (Diltiazem 15mg IV).",
+    "Intern determines next management steps as patient stabilizes.",
+    "Intern provides medications that may produce harm (eg Albuterol) or doses that are deleterious (“Metoprolol 50mg IV now”)."
+  ],
+  "MK": [
+    "Determine level of stability",
+    "Intern recognizes atrial fibrillation on the EKG and right lower lobe infiltrate on the chest x-ray.",
+    "Intern may mis-interpret the shortness of breath as COPD exacerbation.",
+    "Intern mis-reads the EKG as ‘Normal’.",
+    "Intern mis-reads the chest x-ray as “Normal”, “CHF”, “PE”.",
+    "Intern fails to properly assess patient as stable and attempts cardioversion, intubation etc."
+  ],
+  "SBP": [
+    "Intern calls senior resident for help."
+  ],
+  "ICS": [
+    "Give appropriate orders to the Nurse",
+    "Intern interviews the Nurse and is provided with current vitals and re-assuring documentation from prior notes in the chart."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

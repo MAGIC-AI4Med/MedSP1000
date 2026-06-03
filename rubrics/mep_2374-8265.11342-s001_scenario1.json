@@ -1,0 +1,44 @@
+{
+  "case_id": "mep_2374-8265.11342-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11342-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Mental health concerns (stress and depression) need to be addressed and prioritized.",
+    "In this case, there is evidence of metabolic dysfunction, with elevated blood pressure, elevated cholesterol, and hepatic steatosis. These are clear parameters that can be treated and followed over time, and a large part of that treatment includes lifestyle factors in addition to medical management."
+  ],
+  "MK": [
+    "Ms. Williams has several factors that may have contributed to weight gain:\nHealth-related behaviors (alcohol intake, recent 2 months of smoking cessation)\nMental health concerns (history of depression, potential high stress levels – financial insecurity, HITS of 7, experiencing stigma of HIV)\nFood insecurity, transportation\nInadequate sleep\nPhysical factors (fatigue)\nMedical factors (started on treatment for HIV at a relatively low CD4 count, which can lead to weight gain with suppressed viral load; irregular periods suggesting possible peri-menopausal state)\nMedications (Antiretroviral therapy- dolutegravir has been associated with weight gain in excess of what is expected from suppressed viral load)",
+    "The myth that anyone can control their weight with diet and exercise alone fails to consider the other medical and social factors that influence body weight. It also assumes that the weight itself is the essential clinical problem.",
+    "Medical conditions, such as hypothyroidism, possible peri-menopausal state, and depression can lead to low energy and decreased physical activity. In addition, the reset of metabolism after weight gain can make it more difficult to lose weight even with relatively severe calorie restriction. Patients may meet plateaus in weight loss due to feedback physiologic systems that maintain body homeostasis and inhibition of leptin, a protein cytokine secreted and stored in fat cells that modulates hunger.",
+    "Furthermore, not everyone has equitable access to the tools for a sustainable health-related behaviors, particularly those who live with disabilities or with a physical infrastructure that makes health-related activities inaccessible, and health-promoting foods inaccessible, more expensive, less advertised, and less appealing than the alternatives.",
+    "However, as discussed, BMI is very limited in its utility as a screening tool at the level of the individual for metabolic illnesses and as a tool in research and leads to an inappropriately intense focus on weight and weight loss.",
+    "The myth that people with higher weight lack motivation and self-control is based on this false underlying belief and highlights intense amount of bias around weight in our society.",
+    "Research shows that healthcare providers have the pre-conceived impression that patients with higher weight lack motivation and self-control, perceiving them as lazy.",
+    "In this case, from obtaining a full history, we can see that the patient made significant health-related changes by adopting new behaviors. She does not lack motivation, but rather, deserves support and attention to her medical problems, medications, social factors, and improved patient-provider communication/trust.",
+    "Furthermore, it is important to emphasize that elevated BMI does not automatically mean that behavior change is needed.",
+    "Weight is not a behavior.",
+    "Given the diversity of body types, people with elevated BMI may have active lifestyles, eat health-promoting foods, be physically fit, and be at low risk for metabolic or other complications."
+  ],
+  "SBP": [
+    "This can have profound effects on the way that patients are treated in the healthcare setting, leading to dismissal of their concerns, less effort to work with patients on behavior change, and negative attitudes and comments about weight."
+  ],
+  "ICS": [
+    "Listen actively",
+    "Communicate in a nonjudgmental fashion",
+    "Do not be afraid to respectfully challenge each other by asking questions, but refrain from personal attacks",
+    "Use “I” statements—speak from your own experience",
+    "It is important to recognize that she has already been motivated to make changes to be healthier and to provide positive reinforcement for this.",
+    "It is important to note that sometimes simply allowing the patient to express their perspective, to listen to it and to express your understanding, can be therapeutic in and of itself."
+  ],
+  "PBLI": [
+    "There is no one “right” answer",
+    "The goal is not to agree; it is to gain a deeper understanding"
+  ],
+  "PROF": [
+    "Maintain confidentiality",
+    "Reveal only what you feel comfortable revealing about yourself",
+    "Weight bias is among the most prevalent and pervasive types of bias in our society.",
+    "Stigmatizing or shaming patients, particularly in a healthcare setting, more frequently leads to resignation, hopelessness and avoidance, rather than motivation."
+  ]
+}

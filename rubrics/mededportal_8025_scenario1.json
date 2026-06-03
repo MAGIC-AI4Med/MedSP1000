@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_8025",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8025/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "ABC’s including rate control by cardioversion",
+    "Fluids",
+    "Broad spectrum antibiotics",
+    "Insert NGT (Nasogastric tube)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Consult surgery early"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

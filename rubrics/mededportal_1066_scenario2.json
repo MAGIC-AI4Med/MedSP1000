@@ -1,0 +1,39 @@
+{
+  "case_id": "mededportal_1066",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1066/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "LIFESTYLES:Physicianasks or talks about the following: Home:Family Education:School Friends Activities Alcohol:beer&hard liquor Drugs: cigarettes Marijuana Street drugs Diet:weight/diet/eating habits Sex:Boy friend/girlfriend Sexual activity Safe sex/contraception Self: body image self esteem Moods/depression/suicide"
+  ],
+  "MK": [],
+  "SBP": [
+    "Talked about what to do next（plan&follow up)"
+  ],
+  "ICS": [
+    "Student use of open ended questions",
+    "Student skill at explaining rational for various questions",
+    "Student use of transitional statements as they ask about different topics",
+    "Student use of proper language and avoidance of jargon (not talking over the adolescent)",
+    "Greeted me.",
+    "Introduced self.",
+    "Discussed confidentiality.",
+    "Goodbody language.",
+    "Encouraged me to speak byasking questions other than oneswithayes/no answer.",
+    "Encouraged parent to speak(leave out ifno parent present).",
+    "Listened,and did not judge me.",
+    "Established relationship withme by appropriate choice ofwords.",
+    "Separated me& parent.",
+    "(leave out ifnopatent present) Discussed confidentiality.",
+    "Gave me a chance to talk about things other than what Icame in to discuss.",
+    "Reflected on my feelings or concerns,(example:You seem...）",
+    "Summary，recapped issues",
+    "Asked if therewereany questions"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Student maintenance of a non-judgmental interview style",
+    "Student avoidance of paternalistic style of interview",
+    "Kept the confidentiality"
+  ]
+}

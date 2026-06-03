@@ -1,0 +1,25 @@
+{
+  "case_id": "mep-12-10444-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10444-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Clarifies Patient Response  (summarizes, checks for accuracy)",
+    "Elicits all concerns  (provides support, identifies hidden concerns)",
+    "Respects Patient  (shows concern, acknowledges patient emotions)",
+    "Verbal Skills  (pauses, avoids jargon)",
+    "Non-verbal Skills  (eye contact, body position, conveys interest)",
+    "Explain that your illness is directly related to smoking?",
+    "Advise you that quitting smoking can prevent worsening of the illness?",
+    "Warn you of short-term risks (cost, bad smell, cough)?",
+    "Warn you of long-term risks (heart disease, cancer, worsening lung disease)?",
+    "Explain causes and impact of COPD?",
+    "Advise that quitting is one of the most effective ways to prevent progression of COPD/other smoking related disease?",
+    "Address psychosocial concerns?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

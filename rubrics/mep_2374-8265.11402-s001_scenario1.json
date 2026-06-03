@@ -1,0 +1,33 @@
+{
+  "case_id": "mep_2374-8265.11402-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11402-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the doctor explore the patient’s living situation including housing security and its impact on Ms. Ford’s health? (Where does the patient live and what is her daily routine? Is the patient domiciled or at risk for homelessness?)",
+    "Did the doctor explore the family’s economic situation and its impact on Ms. Ford’s health? (Can the patient afford the entresto, are there economic barriers to obtaining medication and medical supplies?)",
+    "Did the doctor explore Ms. Ford’s diet? (How are meals prepared? How often does she eat? Is she following a low sodium diet?)",
+    "Did the doctor explore issues of health information fluency? (Does the patient understand her medical condition? Does she understand the prescribed medications including expected effects, most common side effects and how to take them?)",
+    "Explain medications and effects",
+    "Ensure that patient is taught dressing changes correctly and ask how/where will she be able to change the sternal wound dressings"
+  ],
+  "MK": [
+    "Recurrent ischemia, occlusion of bypass graft, non-adherence to medication or medication regimen, dietary indiscretions, environmental causes (housing issues), issues with health information fluency, socioeconomic causes (employment, insurance)",
+    "Economic: can the patient afford the new medication entresto; are there any economic barriers to the patient medication and medical supplies",
+    "Environment: What is the patient’s living situation and daily routine",
+    "Health information fluency: Does the patient understand her medical condition? Does she understand the medications rx’d, expected effects and most common side effects?",
+    "Food: how are meals prepared, how often does the patient eat; is she following a low Na diet",
+    "Community and Social Context/Housing Security: is the patient domiciled or at risk for homelessness"
+  ],
+  "SBP": [
+    "Check insurance and affordability of medications as part of your discharge plan"
+  ],
+  "ICS": [
+    "Did the doctor express empathy to the patient? (Consider reflection, legitimation, and exploration)",
+    "Did the doctor express partnership and/or support?",
+    "Did the doctor use open-ended questions?",
+    "Check patient’s Health Information Fluency: Discuss the Teach Back Method"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11434-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11434-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "How does newborn toxicology testing results change the inform / impact clinical management of Li’s care?"
+  ],
+  "MK": [
+    "If Li’s toxicology testing is positive, does this change your plan of care? What if Li’s toxicology testing is negative?",
+    "Limitations\nWhat information is a toxicology test unable to tell you in this case?\nWhat factors might influence the accuracy or interpretation of the toxicology testing result?"
+  ],
+  "SBP": [
+    "Risks\nFrom the family’s perspective?\nFrom the clinician’s perspective?\nFrom an institutional perspective?\nFrom a population health perspective?"
+  ],
+  "ICS": [
+    "Alternatives\nWhat information can screening questionnaires or conversations provide? What information can\u2019t be ascertained through this approach?",
+    "What is the role of informed parental permission or parental assent?",
+    "How can clinicians facilitate a conversation that conveys respect?",
+    "How can clinicians facilitate transparency?"
+  ],
+  "PBLI": [
+    "What cognitive biases may complicate decision-making in this case? (Slide 36)"
+  ],
+  "PROF": [
+    "What ethical framework fits well with this case in your opinion?"
+  ]
+}

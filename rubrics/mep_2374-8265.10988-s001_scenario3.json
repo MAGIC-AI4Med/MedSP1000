@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.10988-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10988-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "The most likely diagnosis is Giardia, given the intermittent diarrhea, greasy stools, poor weight gain, and the stool ova and parasite results. Other differentials include strongyloidiasis, schistosomiasis, or other infections. Management of Giardia includes metronidazole, tinidazole, or nitazoxanide. Obtain a detailed diet history. Consider asking the mother to keep a diet and symptom journal over a specific period of time (3 days, 2 weeks, etc). Clarify if mother is breastfeeding or bottle feeding or both. If the mother is bottle feeding with formula, ask the mother if she is mixing formula as directed or is overdiluting it.",
+    "Some biological risk factors that Jean-Louis faces include preterm birth, lack of access to clean water and good sanitation, and limited nutrition while in Haiti. Psychosocial risk factors include the family's experiences post-earthquake and limited resources to care for Jean-Louis. Consider the role of maternal health and maternal mental health.",
+    "Ongoing risk factors include past trauma, cultural adjustments, and the family's financial resources. Consider potential postpartum depression in case. Consider the infant and mother as part of an interdependent dyad."
+  ],
+  "SBP": [
+    "Jean Louis's immediate and extended family may serve as a protective resource as he grows in a new country. The family may be able to access resources from the resettlement center or other community centers/community-based organizations.",
+    "Referrals to Social Work may be helpful for the family as they adjust to life, navigate health care, and are linked to services in the United States."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

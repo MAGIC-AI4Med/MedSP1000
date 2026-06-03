@@ -1,0 +1,58 @@
+{
+  "case_id": "mededportal_9943",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9943/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Provide supplemental oxygen (ideally via nonrebreather)",
+    "Obtain intraosseous access (if IV access is attempted, instructors should say that the veins blow each time)",
+    "Administer 60cc/kg normal saline (ideally over 15 minutes; may simulate time lapse)",
+    "Draw key labs (i.e., venous blood gas, lactate, complete blood count, blood cultures, serum electrolytes, liver function tests, type and screen, coagulation studies,)",
+    "Broaden antibiotic coverage - change to Vancomycin plus Nafcillin for a critically ill patient with skin and soft tissue infection",
+    "Insert Foley catheter",
+    "Cooling interventions: undress patient, turn down heat in room",
+    "verbalize need for or initiate pressors, +/- transfusion.",
+    "Assesses airway",
+    "Assesses breathing (auscultates)",
+    "Performs general airway maneuvers-positions patient",
+    "Provides any oxygen support",
+    "Provides optimal level of oxygen support(high-flow oxygen; nonrebreather)",
+    "Assesses blood pressure (asks/looks forreading)",
+    "Palpates central pulses",
+    "Assesses (asks for) capillary refill",
+    "Demonstrates proper technique forobtaining IV access (preps site and flush,appropriate gauge needle, securing of IVto site)",
+    "Demonstrates proper technique for intra-osseous needle placement",
+    "InitiatesIV fluidsappropriately",
+    "Selects isotonic fluid minimum 40-60 cc/kg",
+    "Selects an appropriate rate for fluidadministration (manual syringecompression or pressure bags if large-bore IV or IO)",
+    "Elicits critical information about patientand situation (attends to age, incitingevent, signs/symptoms provided); solicitsadditional basic information such as pastmedical history and medications.",
+    "Performs/directs pertinent physical exam",
+    "Ensures cardiorespiratory and oxygensaturation monitors placed within oneminute",
+    "Directs team member or attempts IVaccess",
+    "Directs team member or attempts IOaccess",
+    "Directs team member for Foley catheterplacement",
+    "Orders appropriate laboratory testing(i.e., venous blood gas,lactate,completeblood count, blood and urine cultures,serum electrolytes,liver function tests,type and screen, coagulation studies, +/-left upper extremity ultrasound, x-rayand/or computed tomography scan ormagnetic resonance imaging)",
+    "Asks for lab results",
+    "Appropriately broadens antibioticcoverage",
+    "Recognizes the need for (verbalizes) orinitiates vasopressors",
+    "Performs task in appropriate sequence/prioritizes well"
+  ],
+  "MK": [],
+  "SBP": [
+    "Call for backup (i.e., pediatric intensive care unit, rapid response or equivalent)",
+    "Call Surgical consult (concern for possible necrotizing fasciitis)"
+  ],
+  "ICS": [
+    "Assumes leadership of code",
+    "Assigns roles",
+    "Utilizes personnel effectively",
+    "Communicates effectively with team",
+    "Intermittently summarizes/maintainsglobal view"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Has professional attitude towards patient",
+    "Has professional atitude towards teammembers",
+    "Assumes adequate responsibility when innon-leader roles (airway, circulation)"
+  ]
+}

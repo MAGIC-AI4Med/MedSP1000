@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11157-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11157-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "*Correct answer:* YES, give basal insulin now, and use the same dose.",
+    "*Correct answer:* “Nora”: No rapid-acting insulin now, because she has hypoglycemia.",
+    "Treatment options for hypoglycemia in patients with T1D are:\n\n* Oral rapid-acting carbohydrates (preferred for conscious individuals)\n* IV dextrose (D10% – 2.5 ml/kg)\n* IV/IM glucagon",
+    "*Correct answer:* “Nora”: repeat blood glucose in 15 min.",
+    "Treat with 15gm of carbs and recheck in 15 min. Repeat cycle until BG > 70.",
+    "Principles of sick day management in patients with T1D:\n\n1. Frequent BG and ketone check every 3-4 hrs.\n2. Do NOT stop basal insulin.\n3. Monitor and maintain hydration.\n4. Treat the underlying cause of acute illness."
+  ],
+  "MK": [
+    "*Correct answer:* “Nora”: Expected blood glucose to be normal/low AND ketosis present."
+  ],
+  "SBP": [
+    "*Correct answer:* “Nora”: Discharge home with appropriate sick day management counseling."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

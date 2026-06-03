@@ -1,0 +1,56 @@
+{
+  "case_id": "mededportal_9021",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9021/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "What has the patient used in the past(successes, failures and experiences with thosemethods)Consider for resident level competency",
+    "What has the patient heard/learned aboutmethods",
+    "Determine reason(s) for any pastdiscontinuations (consider for resident level)",
+    "Takes a focused medical/obgyn history，including breastfeeding for women who haverecentlydelivered++",
+    "Determines plans for and preferred timing offuture pregnancies",
+    "Determines patient's desire for/tolerance ofamenorrhea and/or irregular bleeding, eitherthrough direct questioning or eliciting responsetomenstrual side effects",
+    "Accurately explains efficacy,benefits andclinically important risks of method(s) mostappropriate for this patient (see LARC RBETable)",
+    "Prepares patient for common “side effects\"and difficulties (unscheduled bleeding,amenorrhea) (see LARC RBE table)",
+    "Explains when it becomes effective (24 hrs)",
+    "asked about my prior use of contraception",
+    "asked about how unplanned pregnancyoccurred",
+    "asked about my desire for and timing offuture pregnancy",
+    "asked about my preferences forcontraception at this time",
+    "asked about my menses",
+    "asked about my desire for/tolerance ofamenorrhea",
+    "the effectives/success/failure rates*",
+    "explained common side effects**",
+    "explained risks+",
+    "explained how to start it++"
+  ],
+  "MK": [
+    "Appropriately applies WHO/CDC MECand/or other evidence to contraceptive decision-making",
+    "Answers patient questions correctly"
+  ],
+  "SBP": [
+    "Determines patient's ability to pay for andobtain method on an ongoing basis (residentlevel)",
+    "Closes interview with clear plan for follow-upwith patient (method that day if she decides forit)",
+    "asked about/determined my ability to affordthe method"
+  ],
+  "ICS": [
+    "Greets patient",
+    "Establishes patient comfort with Englishlanguage,if applicable",
+    "Empathically responds at key points",
+    "Communicates non-judgmentally",
+    "Maintains eye contact and relaxed bodylanguage",
+    "Determines the patient's understanding ofreproductive anatomy terms before using theminexplanations (LHL)",
+    "Uses plain language throughout (includinguse of numerators and denominators oradjectives [\"very low”or “better than the pill”instead of percentages, unless numeracy literacydetermined is sufficient] (LHL)",
+    "Uses drawings and models when available-Consider for resident level competency",
+    "Asks patient for questions*",
+    "introduced him/herself",
+    "confirmed that I speak English",
+    "asked how I felt about the miscarriage",
+    "answered my questions about the method",
+    "communicated without medical jargon",
+    "communicated verbally and non-verballyempathyand support",
+    "respectfully closed the encounter"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

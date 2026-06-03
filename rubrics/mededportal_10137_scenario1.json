@@ -1,0 +1,47 @@
+{
+  "case_id": "mededportal_10137",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10137/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtained the medication list",
+    "Checked for prior antibiotics",
+    "Checked review of systems",
+    "Perform an oral examination",
+    "Performed an abdominal exam",
+    "asked me how long I have been having diarrhea [Hx]",
+    "asked me how quickly the diarrhea appeared [Hx]",
+    "asked if I have any trouble controlling my bowel movements [Hx]",
+    "asked me how many bowel movements I have in a day [Hx]",
+    "asked me if the diarrhea wakes me at night [Hx]",
+    "asked about blood in the stools [Hx]",
+    "asked me about oily stools [Hx]",
+    "asked me about fever [Hx]",
+    "asked me if I have abdominal pain (and if so it’s location) [Hx]",
+    "asked me about prior medical illnesses and surgery [Hx]",
+    "asked me to list the medications I take [Hx]",
+    "examined my mouth [PE]",
+    "listened to my lungs applying the stethoscope directly to my skin[PE]",
+    "listened to my heart applying the stethoscope directly to my skin [PE]",
+    "palpated my abdomen using light and then  deep palpation [PE]"
+  ],
+  "MK": [
+    "Effectively discriminated between ACUTE and CHRONIC diarrhea",
+    "If chronic, discriminated between watery, inflammatory and fatty diarrhea"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Opened the visit effectively, establishing a positive working relationship",
+    "Began with an open-ended question.",
+    "Provided closure",
+    "listened and paid attention to me [comm.]",
+    "summarized what he/she had found [comm.]",
+    "provided information about the working diagnosis [comm.]",
+    "provided information about recommended tests [comm.]"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Remembered to wash hands",
+    "washed his/her hands - or used when sanitizer - prior to examination [PE]"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_9119",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9119/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Institute interventions in the acutely hypoxic patient including: o Application of supplemental oxygen o Mask ventilation o Intubation (understand the necessity and the basic steps) o Mechanical ventilation"
+  ],
+  "MK": [
+    "Distinguish between hyperventilation and tachypnea.",
+    "State basic ventilator settings (minute ventilation $\\mathbf { \\Psi } = \\mathsf { V } _ { \\intercal } \\times \\mathsf { R R } )$ )."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Students are reminded always to talk to the patient in a reassuring manner even if uncertain whether the patient is aware of what is going on."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

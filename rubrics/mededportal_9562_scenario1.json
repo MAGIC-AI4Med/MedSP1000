@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_9562",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9562/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Elicit appropriate history (key question: any history of choking/gagging/coughing spell in the past few weeks?).",
+    "Perform pertinent physical exam (key skill: listen for stridor or asymmetric breath sounds).",
+    "Correctly and efficiently assemble bronchoscope (within 2 minutes is appropriate, with selection of appropriate optical tool for removal).",
+    "Successfully perform direct laryngoscopy (protect maxilla, apply topical lidocaine to prevent laryngospasm)",
+    "Recognize and appropriately respond to laryngospasm (communicate with team, stop surgical stimulation, apply positive pressure ventilation, consider pharmacologic treatment with propofol or short-acting paralytic, topicalize true vocal cords if this has not already been done to prevent recurrence with further manipulation).",
+    "Appropriately manage desaturation (removal of optical apparatus to allow full diameter of ventilating bronchoscope for gas exchange).",
+    "Successfully retrieve foreign body from trachea"
+  ],
+  "MK": [
+    "Order and appropriately interpret radiographic studies (inspiratory/expiratory films, lateral decubitus films, or airway fluoroscopy)."
+  ],
+  "SBP": [
+    "Return patient to anesthesia for recovery"
+  ],
+  "ICS": [
+    "Discuss appropriate anesthetic management plan with anesthesia before going to the operating room (inhalant induction under spontaneous ventilation)."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

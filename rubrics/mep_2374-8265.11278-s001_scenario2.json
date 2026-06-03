@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11278-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11278-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain labs including VBG and troponin",
+    "Obtain an EKG",
+    "Obtain a bedside echocardiogram",
+    "Give IV fluids",
+    "Place patient on supplemental oxygen",
+    "Administer tPA",
+    "Start an appropriate pressor (epinephrine, norepinephrine, dopamine; not phenylephrine)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Call Pulmonary Embolism Response Team consult",
+    "Go through tPA checklist prior to giving tPA",
+    "Admit to ICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

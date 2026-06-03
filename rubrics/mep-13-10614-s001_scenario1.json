@@ -1,0 +1,39 @@
+{
+  "case_id": "mep-13-10614-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10614-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Recognition and treatment of PEA (PC, MK, PL)",
+    "Recognize and treat hyperkalemia (PC, MK, PL)",
+    "Are chest compressions appropriate?",
+    "Is minute ventilation appropriate?"
+  ],
+  "MK": [
+    "Are all the information sources analyzed?\nHistory and physical\nPatient status\nDrug infusions\nNurse’s understanding"
+  ],
+  "SBP": [
+    "Recognition and intervention if ACLS is not being appropriately delivered—mutual performance monitoring (PC, C, P, MK, PL)",
+    "The collective team appreciates the decompensation of the patient and the need to escalate care—shared mental modeling (PC, C, P, PL)"
+  ],
+  "ICS": [
+    "Leader emerges during the event—team leadership (PC, C, P, PL)",
+    "Leader defines clearly defined roles for all participants—team leadership (PC, C, P, PL)",
+    "Team speaks to each other using closed—loop communication (PC, C, P, PL)",
+    "New information is shared with team leader and team leader shares information with rest of team—shared mental model (PC, C, P, PL)",
+    "The nurse is being appropriately taken care of during decompensation—mutual performance monitoring (C, P)",
+    "Identify the leader prior to entering patient room",
+    "Identify who they are to the nurse and their collective role",
+    "Requests information, supplies, procedures to an individual",
+    "#A request is confirmed by recipient",
+    "#A sender confirms receipt of request",
+    "Do the individual team members share the unique information from entry paragraphs with the team/leader?",
+    "Do the team members “think aloud”?\nChanging status of the patient\nDrug infusions"
+  ],
+  "PBLI": [
+    "Does the team debrief on the critical event?"
+  ],
+  "PROF": [
+    "The nurse is being appropriately taken care of as a second victim (C, P)"
+  ]
+}

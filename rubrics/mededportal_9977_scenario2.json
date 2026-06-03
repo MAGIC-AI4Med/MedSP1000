@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_9977",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9977/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a history.",
+    "IF the student asks why you are wearing sunglasses.",
+    "IF the learner asks about how you got the bruise under your (left) eye.",
+    "IF the learner asks “Do you have any other injuries that you would like me to evaluate today?”"
+  ],
+  "MK": [],
+  "SBP": [
+    "Assess patient safety.",
+    "Provide patient with support and resources as needed.",
+    "IF the learner asks “Do you feel safe going home from here”? “Are you and children safe where you are currently living?”"
+  ],
+  "ICS": [
+    "Discuss results of urinalysis with patient.",
+    "A Framing Question the student may ask: “Because violence is so common in the patients I see, I ask all my patients this question” or “This pattern of injury is often caused by another person, did someone hurt you?”",
+    "Only take off your sunglasses if student asks in a respectful (compassionate) way.",
+    "IF the learner asks “Has your partner ever hit you or physically hurt you in the past?”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

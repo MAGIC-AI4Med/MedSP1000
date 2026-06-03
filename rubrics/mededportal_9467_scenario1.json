@@ -1,0 +1,36 @@
+{
+  "case_id": "mededportal_9467",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9467/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Duration to critical actions- Resuscitation to be completed within 20-25 minutes of starting scenario",
+    "Perform rapid physical exam",
+    "Maintain cervical spine immobilization",
+    "Cardiac monitor, pulse oximeter, establish 2 large bore intravenous lines (IVs)",
+    "Recognize hypotension and treat with IV fluids",
+    "Perform finger stick blood sugar (FSBS) in response to altered mental status",
+    "Remove wet clothing",
+    "Obtain core temperature with rectal probe",
+    "Initiate active rewarming measures (may include forced warm air blankets, warm IV fluids, warm humidified oxygen, warm bladder or gastric lavage, cardiopulmonary bypass, or dialysis)",
+    "Demonstrate airway management (endotracheal intubation with appropriate technique and pharmacologic therapy) if patient decompensates",
+    "Perform appropriate ACLS- antiarrhythmics and repeat defibrillation should be deferred until patient is above 30C",
+    "Failure to place cardiac monitor, pulse oximeter, establish IV access",
+    "Employs only passive rewarming",
+    "Hypotension not treated",
+    "Significant delay in active rewarming measures"
+  ],
+  "MK": [
+    "ACLS orders are inappropriate"
+  ],
+  "SBP": [
+    "Admit patient to critical care unit after consultation with trauma surgeon"
+  ],
+  "ICS": [
+    "Obtain history from emergency medical services (EMS) personnel",
+    "Discuss care with family members",
+    "Ignoring offers of assistance and failed intubation or airway management."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

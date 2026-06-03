@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-12-10518-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10518-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The medical student should then inquire about where the patient obtains the needles and syringes and if she uses anyone else’s or shares hers with other people."
+  ],
+  "MK": [],
+  "SBP": [
+    "The student should ask the patient whether she wants to have the estrogen be formally prescribed—either by the current health care team or making a referral to someone who does transgender care.",
+    "The student should discuss the electronic health record system which currently recognizes the non-preferred legal name and then discuss how to meet the patient’s needs to avoid mis-gendering and mis-naming."
+  ],
+  "ICS": [
+    "The ideal behavior is the student asks the patient what name/pronoun she prefers."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.10906-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10906-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "*Is he back to his baseline?*",
+    "*How do you think his respiratory status is?*",
+    "*How is his energy level?*",
+    "*What medications has Eli been on since discharge?*",
+    "*How has it been giving him the albuterol? Is he tolerating the mask?*",
+    "*Is he tolerating the steroid? Have you noticed any side effects of the medications?*",
+    "*Have you been able to pinpoint any triggers for Eli’s wheezing?*",
+    "*Do you have pets? If so where do they spend most of their time? Do they sleep with Eli?*",
+    "*Do you have carpets or wood floors? Do you use pillow or mattress covers?*",
+    "*Does anyone smoke at home?*",
+    "*Know Eli’s triggers*",
+    "*Anticipate situations where Eli may be exposed to triggers eg. If going to a birthday party where there are animals, may be appropriate to take an antihistamine/leukotriene receptor antagonist as well as limit exposure to the pets.*",
+    "*Recommend environmental mitigation such as mattress and pillow covers, stress the importance of limiting pets in the bedroom.*"
+  ],
+  "MK": [
+    "*Mild Persistent based on night cough, minor limitations in physical activity and several reports of wheezing*"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

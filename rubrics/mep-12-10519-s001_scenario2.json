@@ -1,0 +1,47 @@
+{
+  "case_id": "mep-12-10519-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10519-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "*Collects a medication history (e.g. prescription, OTC, herbals) documenting medication name, dose, frequency, and reason for therapy",
+    "*Assess for suspected or documented drug allergies/sensitivities",
+    "Assess patient understanding of their medication dosages, frequencies, and route of administration",
+    "Assess for any social/behavior factors that may influence medication use",
+    "Did not assess patient\u2019s understanding of their medications"
+  ],
+  "MK": [],
+  "SBP": [
+    "*Verify the patient\u2019s current pharmacy/pharmacies used to fill prescription drugs",
+    "*Close the interview by offering to report discrepancies to the physician and obtain permission to clarify med list through other sources (e.g. pharmacy, caregiver). Arrange for follow-up if needed."
+  ],
+  "ICS": [
+    "*Introduces self as student from the College of Pharmacy",
+    "Clarifies the purpose and structure of the interview",
+    "Verifies patient name and correct pronunciation and demographic data",
+    "Explains how patient will benefit from the interview",
+    "Uses a balance of open-and closed-ended questions to assess patient\u2019s actual use of medications",
+    "Summarize information gathered from the patient for accuracy and completeness",
+    "Strong introduction with confidence, good eye-contact",
+    "Spoke clearly and in a tone and volume understandable by the patient",
+    "Appropriate non-verbal communication skills exhibited (e.g. seated facing the patient, displays few distracting mannerisms)",
+    "Uses majority of open-ended questions to assess medication history",
+    "Uses majority of open-ended questions to assess patient\u2019s understanding of their medications",
+    "Implements interview in an organized fashion",
+    "Responds to patient concerns and questions throughout interview",
+    "Invites feedback to ensure patient understanding",
+    "Weak introduction with low confidence, no eye-contact",
+    "Mumbled or did not speak in a volume understandable by the patient",
+    "Displayed distracting mannerisms and poor non-verbal communication",
+    "Used majority of closed-ended questions throughout interview",
+    "Interview did not flow in a logical, organized fashion. Discussion of medications was difficult to follow.",
+    "Did not respond to patient concerns or questions throughout interview",
+    "Did not allow for patient feedback on education or instruction"
+  ],
+  "PBLI": [
+    "Mastery  Completes all skills with asterisk (*) noted. Completes all steps in the interview with demonstration of interview skills above the level required for this assessment. Demonstrates several behaviors that elicited positive feedback.",
+    "Competency  Completes all skills with asterisk (*) noted. Completes most steps in the interview. Demonstrates some behaviors that elicited positive feedback with some areas noted for improvement",
+    "Deficiency  Did not complete all skills with an asterisk (*) noted. Did not complete several steps in the assessment. Demonstrated behaviors that were inappropriate or distracting during the interview with several areas noted for improvement"
+  ],
+  "PROF": []
+}

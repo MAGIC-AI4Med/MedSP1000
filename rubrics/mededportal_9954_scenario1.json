@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_9954",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9954/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Use medical record and/or parent to obtain more history",
+    "Place patient on a monitor",
+    "Perform brief, problem focused physical exam",
+    "Administer oxygen",
+    "Administer appropriate epinephrine dose, from Emergency Drug Box if pharmacy not present",
+    "Isotonic fluid bolus",
+    "Prepare second epinephrine dose for rebound symptoms",
+    "Order steroids to prevent late phase response"
+  ],
+  "MK": [],
+  "SBP": [
+    "Activation of Medical Emergency Team or Code Team",
+    "Transfer patient to a higher level of care for closer monitoring"
+  ],
+  "ICS": [
+    "Designate team leader and assign roles to other team members",
+    "Introduces self, team",
+    "Seeks parent's concerns early on",
+    "Elicits history from parent, nurse, chart",
+    "Explains steps in evaluation/management to parent",
+    "Checks parent for understanding/asks if anything that was said was unclear."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

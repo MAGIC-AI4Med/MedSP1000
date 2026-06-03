@@ -1,0 +1,34 @@
+{
+  "case_id": "mep_2374-8265.11147-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11147-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess for pt. for feelings of chills/flushing (SCORE =1: subjective reports of chills)",
+    "Assess whether patient is experiencing Nausea/vomiting/diarrhea (SCORE=1 for subjective report of stomach pain)",
+    "Assess whether patient is experiencing feelings of anxiety/irritability (pt. will state I need to smoke a cigarette and also respond yes: SCORE=1)",
+    "Assess whether the patient is experiencing pain: (pt. will state my legs hurt 4/10 on pain scale, “its aching in my leg bones”.",
+    "Assess resting pulse rate after patient is sitting or lying for a t least 1 minute (pulse=92 SCORE=2)",
+    "Assess pupil size (normal for room lighting; SCORE=0)",
+    "Assess for tremor by asking patient to show outstretched hands (mild tremor can be felt, (SCORE=1)",
+    "Assess arms for piloerection (no piloerection SCORE=0)",
+    "Assess patient for runny nose/tearing (none SCORE=0)",
+    "Identify restlessness in patient (pt. will exhibit mild difficulty sitting still; SCORE=1)",
+    "Observe patient for yawning- (no yawning SCORE=0)"
+  ],
+  "MK": [
+    "Notes that patient is in withdrawal",
+    "Calculates COWS score: Score:_________________________________________________",
+    "To complete the COWS, the physician must demonstrate ability to identify that patient is in mild withdrawal (TOTAL SCORE =7)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Developed Rapport",
+    "Defines limits of confidentiality for adolescent",
+    "Explains diagnosis OUD",
+    "Assesses motivation to receive ongoing treatment",
+    "Explains medication treatment options to adolescent"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

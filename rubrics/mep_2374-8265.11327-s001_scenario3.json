@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11327-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11327-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Student asks a detailed and appropriate social history to understand the patient’s socioeconomic situation (For example: Asking about housing, insurance, primary care usage, etc.)",
+    "Student asks a detailed and appropriate history to understand the patient’s drug use (For example: Last use, method of use, safety precautions including Naloxone and clean needles, etc.)",
+    "Student obtains verbal consent before physical touch",
+    "Student provides anticipatory guidance, introduces exam steps, and explains reasoning for exam maneuvers"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Student introduces themselves and their role",
+    "Student communicates with patient at same physical level",
+    "Student offers patient the choice to opt out of questions at any time",
+    "Student provides anticipatory guidance by introducing questions and explaining why they are asking",
+    "Student addresses the staff member who uses stigmatizing language about the patient by checking in with the patient",
+    "Student addresses the staff member who uses stigmatizing language about patient by bringing it up to the staff member"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Student does not come between the door and the patient",
+    "Student uses person-centered language, avoiding stigmatizing words (i.e. “addict”) when discussing patient",
+    "Student remains within eyesight of the patient throughout encounter"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_8480",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8480/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Offer to arrange subsequent meetings."
+  ],
+  "ICS": [
+    "Introduce self.",
+    "Introduce reasons for the meeting.",
+    "Use language and terminology that is appropriate for the patient.",
+    "Find out what the patient already knows and is experiencing.",
+    "Describe the facts of the adverse event and its outcome known at the time.",
+    "Describe the steps that were and will be taken in the care of the patient.",
+    "Provide time to express feelings.",
+    "Provide time for questions.",
+    "Clarify whether the information is understood.",
+    "Summarize discussion of the facts.",
+    "Using active listening skills to help understand the patient’s experiences and needs.",
+    "Conveying this also with body language/eye contact.",
+    "Sit at eye level/do not dominate.",
+    "Avoid physical barriers.",
+    "Speak at a comfortably slow rate.",
+    "Touch hand/forearm."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Avoid speculation or blame.",
+    "Express regret.",
+    "Adopting an open, forthright and sincere approach."
+  ]
+}

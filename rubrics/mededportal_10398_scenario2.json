@@ -1,0 +1,41 @@
+{
+  "case_id": "mededportal_10398",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10398/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Resident described the current medical condition.",
+    "Resident discussed prognosis.",
+    "Resident described treatment options.",
+    "Resident made a recommendation, if appropriate."
+  ],
+  "SBP": [
+    "Resident explained the next steps."
+  ],
+  "ICS": [
+    "Resident greeted the family member and introduced him or herself.",
+    "Resident asked or used family member name and/or relationship",
+    "Resident gave an advance warning of bad news (warning shot).",
+    "Resident responded appropriately to emotional response of family member.",
+    "Resident allowed the family member to digest the information; used silence.",
+    "Resident offered an opportunity for the family member to ask questions.",
+    "Resident used plain language, no medical jargon.",
+    "Resident allowed family to describe goals.",
+    "Resident displayed appropriate listening behaviors (i.e., no interrupting, checking watch, focusing on notes).",
+    "Resident avoided talking down to family member.",
+    "Resident sat down and maintained an open posture.",
+    "Resident displayed appropriate facial expressions.",
+    "Resident expressed empathy through word, expression, or touch.",
+    "Resident expressed understanding (i.e., rephrased answer, nod)",
+    "The resident should make an attempt to make you comfortable. For example, they may ask you if you wish to have anyone present in the room during the encounter (a nurse, a friend, a family member). They may ask you to sit down or may connect with you (maintain eye contact) by leaning towards you or with a soft touch to shoulder.",
+    "The resident should ask you, “What were you told about…or what do you know about your mother’s condition?”",
+    "If medical terminology is used by resident, it should promptly be followed by a simple non-technical explanation."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Resident appeared interested, did not seem bored.",
+    "Resident presented him or herself in a professional manner.",
+    "The resident should be open and honest it they are unable to provide answers to some of your questions."
+  ]
+}

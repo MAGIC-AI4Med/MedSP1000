@@ -1,0 +1,47 @@
+{
+  "case_id": "mededportal_579",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_579/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain pregnancy and blood tests.",
+    "Obtain an endocervical culture for gonorrhea and Chlamydia",
+    "Obtain a pelvic ultrasound"
+  ],
+  "MK": [],
+  "SBP": [
+    "Who, beside the patient, is affected by this illness?",
+    "What community resources might be useful in management?",
+    "Does the illness have public health or community implications?",
+    "Evaluate for hospitalization",
+    "Use universal precautions",
+    "Unable to provide medication for Ms. Peterson and she cannot afford it.",
+    "Unable to ensure a clinical follow up within 72 hours of starting antibiotics."
+  ],
+  "ICS": [
+    "What emotions might the patient’s family experience: sorrow, anger, abandonment, frustration, guilt?",
+    "Contact Ms. Peterson’s boyfriend.",
+    "Contact the staff that have been working closely with Ms. Peterson and her boyfriend and encourage them to participate in Harm Reduction treatment programs.",
+    "Is it possible to talk with Ms. Peterson’s family?",
+    "Have I appropriately involved the patient and family in resource use decisions?",
+    "Is Ms. Peterson aware that STI’s are associated with sexual activities, even if condoms are used or only if oral sex is performed?\n\ni Suggest regular visits for pelvic exams and STI screening. ii Provide resources on where to obtain these services for free… so that patient’s choice is not between getting high and health care.",
+    "Is Ms. Peterson aware of all the risks associated with IV drug use?16 i. Delicate phrasing is required if you want to help Ms. Peterson reduce her health risks. The use of “should”, as in “you should not share needles and syringes with others because of your risk of HIV and Hep C infections” will likely be better received if it were phrased instead as, “are you aware of the risk of HIV and Hep C infection associated with sharing needles and syringes?”",
+    "Needles and Syringes. Provide resources for needle exchange programs. o Is Ms. Peterson aware of the risks associated with sharing the needle AND syringe?",
+    "Cookers and Spoons. The containers used to dissolve (cook) the drug present risk of infection if shared with others or are not clean.",
+    "Filters. Filters(cottons) are used to draw the solution from the cooker into the syringe. Clean $100 \\%$ cotton from a Q-tip or cotton ball is the safest. Ask Mrs. Peterson if she:\n\no Is aware that cigarette filters contain small amounts of glass and if the filter has been smoked that the chemicals from the smoke may be harmful if injected.\n\no Is aware that infectious agents can be transmitted if the filter is shared or saved for later use.\n\no Has ever experienced “cotton fever” (very common). When the filters are saved for later use, bacteria and fungi may grow in them. Cotton fever is an infection characterized by fever, sweating, chills and other flu-like symptoms. It may resolve or require medical attention. Ms. Peterson may be asked if she gets cotton fever often.",
+    "Sterile Practices:\n\no $_ \\mathrm { H _ { 2 } O }$ source used to mix the drug may not be sterile.\n\nProvide Ms. Peterson with resources on how to obtain sterile $\\mathrm { H } _ { 2 } \\mathrm { O }$ or at least cleaner $\\mathrm { H } _ { 2 } \\mathrm { O }$ (e.g. purchase it in a drug store, boil it for $1 0 \\mathrm { m i n }$ , etc.) Ask Ms. Peterson if she is aware of the risk of infection from the use standing $_ \\mathrm { H _ { 2 } O }$ (e.g. a puddle) or sharing her $_ \\mathrm { H _ { 2 } O }$ source, which can transmit viruses.\n\no Use alcohol pads prior to injection to minimize risk infection.\n\no Use Band-AID to minimize risk of infection.",
+    "Drug Source/Purity. Heroin varies in its purity resulting in varying degrees of potency. This offers a high risk of over dosing. Ms. Peterson may be asked if she is aware of how to handle a situation in which someone has overdosed. It is advisable to use heroin in the presence of others that may be trusted in the event an OD does occur."
+  ],
+  "PBLI": [
+    "Ms. Peterson as responsible for her own behavior. a. Ms. Peterson is doing this to herself, why should I care and try to help her? b. Ms. Peterson is stupid for using drugs, especially IV drugs, and for having so many sexual partners. c. Ms. Peterson is killing herself anyway by being a prostitute and injecting drugs. d. She probably doesn’t care if she loses an arm from improper IV injection technique, so why should I even counsel her on how to perform the IV injection correctly?",
+    "Ethical: It’s ethically wrong to educate someone on how to use drugs properly to reduce the harm – I would be supporting the use of drugs.",
+    "Addiction/Futility: Ms. Peterson is not going to get off drugs, treatment is pointless.",
+    "ED is not the location for Patient Counseling/ED Bias a. There is not a lot of time for counseling patients on Harm Reduction in the ED. b. ED receives very little reimbursement, if anything, for prevention counseling.",
+    "How does that this patient’s response make you, as her physician feel?\n\nA. Are you ok? Frustrated? Joyful? Angry? Disgusted? B. Can you achieve excellence in patient care with this patient?"
+  ],
+  "PROF": [
+    "What are your responsibilities as a physician to Ms. Peterson, as a worker in the sex industry, if any at all?",
+    "What if Ms. Peterson doesn’t want to stop using drugs?",
+    "What is your responsibility as a physician to Ms. Peterson?"
+  ]
+}

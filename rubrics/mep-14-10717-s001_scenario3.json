@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-14-10717-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10717-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Finally, we discussed the importance of circling back when time allows to discuss safe patient handoff and changeover and its implication for patient safety."
+  ],
+  "ICS": [
+    "The teaching resident often did a poor job of acknowledging that the medical student was overwhelmed. Additionally, they did not reassure the medical student that they should indeed feel overwhelmed and that it is too much for a medical student to handle thus reassuring the student. Without the acknowledgement and support, the medical student starts to feel incompetent and that they should be able to handle everything.",
+    "The teaching resident\u2019s natural tendency was to take control of the situation. \u201cWhy don\u2019t you let me take care of all of this while you start with a new patient?\u201d There are two problems to this option. First, the medical student does not learn anything. Second, again this often makes the medical student feel as though the resident does not trust them.",
+    "Occasionally, the teaching resident would get lost in the details of the \u201csick\u201d abdominal pain case and start doing too much teaching about differentials, workups, mesenteric ischemia, etc. If this happens discuss the option of teaching by role modeling in these instances. Take the student with the resident to solve these problems. Then circle back later to do some teaching about the cases when there is more time."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

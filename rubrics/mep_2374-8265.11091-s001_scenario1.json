@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11091-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11091-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Remove the cap and shake the inhaler vigorously.",
+    "If you have not used the inhaler in a while, you may need to prime it.",
+    "Hold the inhaler 1 to 2 inches (2.5 to 5 centimeters) in front of your mouth.",
+    "Start breathing in slowly through your mouth, then press down once on the inhaler.",
+    "Continue breathing in slowly and deeply.",
+    "If you can, hold your breath as you slowly count to 10, attaining deep penetration into your lungs.",
+    "If you are using inhaled, quick-relief medicine (beta-agonists), delay taking your next puff by 1 minute. No wait time is necessary for other medicines.",
+    "After using your inhaler, flush out your mouth with water to reduce side effects from your medicine."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "The provider should incorporate teach back, effective questioning and avoiding jargon in the explanation."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

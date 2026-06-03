@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_721",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_721/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Need to prepare for difficult airway management",
+    "IV fluids-O2-monitor",
+    "Directed history and physical",
+    "Prepare for difficult airway",
+    "Antipyretics (PR tylenol)",
+    "IV Antibiotics, recognize PCN allergy",
+    "Films:MPEG video,CT neck. Labs: CBC，Chem-7, blood cultures"
+  ],
+  "MK": [
+    "Deep space infection of the head and neck",
+    "Pathophysiology of dental abscess, Ludwig's Angina,and deep space infection",
+    "Appropriate spectrum of antibiotic coverage"
+  ],
+  "SBP": [
+    "Definitive consultation (oral, ENT)",
+    "Admit to hospital",
+    "ENT and/or anesthesia consultation",
+    "Importance of surgical consultation"
+  ],
+  "ICS": [
+    "Appropriate direction and mobilization of staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

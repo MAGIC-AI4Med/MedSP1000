@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.10873-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10873-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Discusses what actions will now be taken to address dietary needs going forward."
+  ],
+  "MK": [],
+  "SBP": [
+    "Explains previous team’s decision to follow hospital policy to parent.",
+    "Reassures parent that you will follow up with nutritionist and other team members.",
+    "Offers to document new plan in medical record to assist with ongoing medical care."
+  ],
+  "ICS": [
+    "Greets parent appropriately.",
+    "Speaks in plain language about the problem at hand.",
+    "Acknowledges that the parent’s concerns are valid. Expresses empathy and regret about the missed dose.",
+    "Allows time for parent questions and answers them directly."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

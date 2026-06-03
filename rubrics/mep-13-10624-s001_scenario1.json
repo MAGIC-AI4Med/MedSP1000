@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-13-10624-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10624-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Review circumstances of distressing event",
+    "What was it like taking care of this patient? What was the most distressing aspect of caring for this patient? What was the most satisfying aspect of caring for this patient?",
+    "What thoughts or feelings are you experiencing since the distressing event?",
+    "How do you take care of yourself so you can continue to provide care for other patients and families? What will you do to support yourself as you process this situation? Review available resources",
+    "Acknowledge care provided Acknowledge emotional reactions Thank participants for openness Refer to specific resources, if needed Ask how you can tangibly help"
+  ],
+  "PBLI": [
+    "What lessons did you learn from caring for this patient? What will you remember most about this patient/family/case?"
+  ],
+  "PROF": []
+}

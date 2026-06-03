@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.11390-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11390-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess airway and breathing.",
+    "Assess circulation and administer blood products to stabilize hemorrhagic hypovolemic shock.",
+    "Identify all wounds, obtain plain x-ray with use of radio-opaque markers highlighting bullet wounds to identify injury path(s).",
+    "Bedside provider: Apply monitors then obtain estimated weight via length-based dosing tape.",
+    "Bedside provider: Remove clothes, establish IV.",
+    "Utilize log roll as part of Exposure in penetrating trauma to identify all wounds.",
+    "Perform secondary survey per ATLS guidelines after stabilization of primary.",
+    "Don't intubate unless absolutely necessary (defer to Operating Room)"
+  ],
+  "MK": [
+    "Team Lead: \"This is hypovolemic hemorrhagic shock, likely from intraabdominal hemorrhage, please initiate 10 ml/kg of plasma (or pRBCs), what is the weight?\"",
+    "Team lead reviews x-ray and notes no bullets."
+  ],
+  "SBP": [
+    "Activate Level I Trauma Code, request blood to bedside, assign roles and plan initial actions after arrival.",
+    "Disposition - Get to the Operating Room as fast as possible. Minutes matter."
+  ],
+  "ICS": [
+    "Team Lead/Recorder: Request and listen to report from EMS.",
+    "Mental model of clinical summary, interventions, and next steps after each intervention.",
+    "Summarize disposition and hand-off to trauma surgery team.",
+    "Closed-loop communication between team members and team lead."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

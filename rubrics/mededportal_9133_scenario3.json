@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_9133",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9133/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Deliberate reassurance about approach mom is taking (you're doing a great job, etc.)",
+    "Direct questions about impact of Liam's illness How are you doing? What problems has Liam's illness caused? \"How is Liam's illness affecting your home life?\" “How is your husband dealing w/all of this?\"",
+    "Further probing/clarifying questions about impact of illness,e.g.\"what happens when he is stressed?\" OR direct questions about FEARS/WORRIES",
+    "Further probing, clarifyingquestions about anger,drinkingORDeliberate domestic violencescreening questions, e.g.■  Do you feel safe athome/in yourrelationship? Have you ever been/areyou afraid of yourhusband?Has your husband (oranother partner) everthreatened you? Hurtyou? Forced you to haveunwanted sex?",
+    "General\"aspects\"of\"interpersonal\"communication: Noticing\"and\"responding\"to\"non<verbal\"signals,\"body\"language,\"tone\"of\"voice Trusting\"instincts\"and\"gut\"reactions\"– following\"leads\"– delving\"deeper\"when\"a\" patient’s\"responses\"or\"behavior\"seem\"surprising,\"inappropriate,\"unusual Being\"willing\"to\"comment\"on\"patient’s\"affect\"(“You\"seem\"upset,\"worried,\"angry,\" uncomfortable…\")\"as\"a\"way\"to\"open\"the\"discussion"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

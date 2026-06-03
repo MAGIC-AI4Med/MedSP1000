@@ -1,0 +1,40 @@
+{
+  "case_id": "mep_2374-8265.11336-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11336-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Confirms need for cervical block + vasopressin",
+    "Learner prepares syringe with 20cc 1% nesacaine + 5U vasopressin.",
+    "Learner places sterile speculum and visualizes the cervix.",
+    "Learner preps the cervix with betadine",
+    "Learner administers 3-5cc at the 12 o’clock position of the cervix.",
+    "Learner places tenaculum at 12 o’clock position of the cervix.",
+    "Learner completes paracervical block with remaining 15-17cc at the 5 and 7 o’clock positions.",
+    "Learner evacuates amniotic fluid with 16mm canula.",
+    "Learner evacuates pregnancy using Bierer forceps",
+    "Learner does final pass with suction canula to ensure completion",
+    "Learner reports uterus feels empty due to ‘gritty’ sensation.",
+    "Evaluate uterine bleeding on physical exam and ultrasound",
+    "Perform uterine massage",
+    "Administer uterotonics, recognizing contraindications",
+    "Place Foley, Cook, or Bakri balloon"
+  ],
+  "MK": [
+    "Demonstrate knowledge of complete differential diagnosis for hemorrhage"
+  ],
+  "SBP": [
+    "Surgical pause, including appropriate antibiotic coverage",
+    "Identify development of brisk bleeding",
+    "Request appropriate labs to be drawn",
+    "Demonstrates/communicates need for fluid resuscitation/blood products to anesthesia & staff",
+    "Call to coordinate patient transfer to Interventional Radiology for Uterine Artery Embolization",
+    "Call for open laparotomy kit to perform uterine procedures such as hypogastric artery ligation, B-Lynch suture placement, or hysterectomy."
+  ],
+  "ICS": [
+    "Check with anesthesia to confirm appropriate level of sedation before starting",
+    "Communicate complication to anesthesia and nursing"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

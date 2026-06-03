@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario11",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario11",
+  "rubric_version": "v1",
+  "PC": [
+    "M1Wash hands",
+    "M76: Auscultateabdomen, all 4 quadrants\nAlcoholic hepatitis\nS76: Normal bowel sounds in all 4 quadrants\nCholangitis - cholecystitis\nS76:Normal bowelsounds in all 4 quadrantsor decreased with ileus",
+    "M78: Percuss liver span(D)\nAlcoholic hepatitis\nS78: Enlarged liver span\nCholangitis - cholecystitis\nS76: Normal liver span",
+    "MA35: Percuss abdomen,all 4 quadrants (D)\nAlcoholic hepatitis\nSA35:Normal\nCholangitis - cholecystitis\nSA35: Tenderness (Sim)",
+    "M79: Palpate liver edge(D)\nAlcoholic hepatitis\nS79: Firm, non-tenderedge\nCholangitis - cholecystitis\nS79: Not palpable",
+    "M80: Palpate spleen (D)\nAlcoholic hepatitis\nS80: Possiblesplenomegaly\nCholangitis - cholecystitis\nS80: No splenomegaly",
+    "M81: Palpate abdomenLUQ\nAlcoholic hepatitis\nS81: No pain, no palpablemass\nCholangitis - cholecystitis\nS81: No pain, no palpablemass",
+    "M82: Palpate abdomenRUQ (D)\nAlcoholic hepatitis\nS82: No pain, no palpablemass\nCholangitis - cholecystitis\nS82: Tender to palpationwith positive Murphy's sign(Sim)",
+    "M83: Palpate abdomenRLQ\nAlcoholic hepatitis\nS83: No pain, no palpablemass\nCholangitis - cholecystitis\nS83: No pain, no palpablemass",
+    "M84:Palpate abdomenLLQ\nAlcoholic hepatitis\nS84: No pain, no palpablemass\nCholangitis - cholecystitis\nS84: No pain, no palpablemass"
+  ],
+  "MK": [
+    "Given the results of your physical exam, which diagnosis is most likely?\n[ ] Alcoholic hepatitis\n[x] Cholangitis / Cholecystitis\n[ ] neither because the findings are ambiguous or contradictory\n[ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

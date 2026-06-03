@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario18",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario18",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "**Learner should recognize that his questions about the family/risk of cancer are about his personal risk of cancer.**",
+    "**Learner:**\n\nLet me reassure you that there is little concern your mother having cancer will increase your risk of having cancer. A small number of women with ovarian cancer develop the cancer have inherited a gene mutation that predisposes them to ovarian cancer, but your mother had testing for the mutation and she doesn’t have it. Furthermore, there is no history in your family of cancer other than in your mother. The best way to reduce your risk for cancer at this time is by not smoking and living a healthy lifestyle.”"
+  ],
+  "SBP": [],
+  "ICS": [
+    "**Learner:** (assess for depression, anxiety which would impact information delivery): Before we talk, Tom, I hear a lot about you from your mother. I want to ask you, how are things going with you overall? How are you doing in school? What kind of activities are you doing?",
+    "**Learner (P of SPIKES, assess perception)** “Tom, what has your mother told you about this question?",
+    "**Learner:** Well Tom,there is a definite chance that your mother’s cancer may come back, despite our treatment.”(The learner should take some time and pause to let Tom process what he/she is saying; also, Mary should hold Tom’s hand as he listens)",
+    "**Learner:** Do you worry a lot about your mother’s cancer coming back?”",
+    "**Learner may struggle now with how much more to proceed so can ask:**\n\n**Learner: “**Tom, just so you should know**,** If the cancer were to come back, I can treat it again. (should not address mortality, Tom is thinking about it but would be too much and too difficult information)\n\nYour mother and I do understand your worry, it is normal in this situation (validation).\n\nIf things change with your mother’s condition, I will be glad to sit down with you and go over everything.”\n\nAnything else on your mind?”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.11262-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11262-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Home-based primary care with home health aide: Home-based primary care is not an option for Mr. Davis as he doesn’t qualify for home based care (e.g., he is ambulatory, brings himself into clinic, isn’t endorsing hardship from clinic visits). He might qualify, though, for a home-visit safety check to evaluate if he has home health aide needs for IADL assistance (e.g., housekeeping, laundry, medication management). He could also pay privately for assistance with IADLs.",
+    "PACE: This is not an option for Mr. Davis. He does not have skilled needs that would warrant NH level care.",
+    "NH: This is not an option for Mr. Davis. He does not have skilled needs that would warrant NH level care.",
+    "Senior Housing: This is a possible option for Mr. Davis, though might be an unnecessary transition (would likely need to shortly after be placed into RCFE) with minimal benefit.",
+    "RCFE (Assisted Living or Adult Group Home): This would be a good/feasible option for Mr. Davis."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

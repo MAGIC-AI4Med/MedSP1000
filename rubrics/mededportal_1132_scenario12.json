@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_1132",
+  "scenario": "scenario12",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1132/scenario12",
+  "rubric_version": "v1",
+  "PC": [
+    "Take a focused history from this 25-year-old female with right lower quadrant pain.",
+    "After summarizing your history, state key physical findings you want the facilitator to provide."
+  ],
+  "MK": [
+    "Make a summary statement and give a differential diagnosis."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Close the encounter with the patient."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

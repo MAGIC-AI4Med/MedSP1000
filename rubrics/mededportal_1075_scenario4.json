@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "*Student should offer to develop a quitting plan with you.* You should discuss the following elements:\n\nReview prior quit attempts to pinpoint problem areas (using the patch wrong, continuing to smoke a few per day, and not changing behaviors)\n\nHelp you set a specific quit date\n\nEncourage you to get rid of all your smoking materials (cigarettes, lighters, ash trays, etc)\n\nTell others about your attempt to quit\n\nReinforce motivations (chest pain, reflux)\n\nDiscuss behavioral coping strategies (chew gum, pretzel sticks)\n\nReview medication use\n\nSchedule follow-up",
+    "Reinforce the concept that you do need to quit as soon as possible.",
+    "Review *in detail* what you did not do correctly with the patches a few weeks ago and how to now use the patches correctly:\n\nBased on the amount you smoke, you should have started on the highest patch strength, 21 mg, not the lowest. You were clearly not getting an adequate amount of nicotine.\n\nPatches should not be removed to smoke. When you quit you should make a commitment not to smoke at all.\n\nStrongly recommend that you read the package insert to learn exactly how to use the product correctly.\n\nYou should use the patches for the full ten-week course recommended by the manufacturer. Using them for this time period significantly increases your chances of staying quit permanently.",
+    "*Advise you to get rid of* <u>*all*</u> *your cigarettes when you quit.* If cigarettes are available you will probably smoke them.",
+    "Explain to you that there is no “pill” that will cure you of smoking. Zyban would help, but you still would need to make behavioral changes.",
+    "Emphasize that you should be doing some type of behavioral changes as well as using the patch."
+  ],
+  "MK": [
+    "You identified that I was ready to make a quit attempt"
+  ],
+  "SBP": [
+    "Refer you to some type of behavioral counseling as an adjunct to the\n\nin-office counseling. Any of the following are acceptable:\n\nThe PA state quit line\n\nA local group or individual counselor\n\nThe behavioral counseling program that comes with the patch you are using.",
+    "Student should schedule some type of follow up with you."
+  ],
+  "ICS": [
+    "Applaud and support your desire to quit."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

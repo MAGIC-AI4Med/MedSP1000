@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.10902-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10902-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "The learner should take the hint about a new medication as important and ask about the patient\u2019s medications."
+  ],
+  "MK": [
+    "Ensures the patient has decision-making capacity"
+  ],
+  "SBP": [
+    "Learner grants permission to refuse"
+  ],
+  "ICS": [
+    "Utilizes the radio correctly",
+    "The learner should recognize the risk of recurrent hypoglycemia and instruct the prehospital provider to ensure that the patient is:\naware of that risk\nunderstands that his blood sugar could drop again and be potentially fatal without medical treatment\nunderstands that transport to the hospital is recommended."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

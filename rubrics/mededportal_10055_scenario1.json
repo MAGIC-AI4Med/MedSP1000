@@ -1,0 +1,51 @@
+{
+  "case_id": "mededportal_10055",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10055/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Meeting occurrence documented",
+    "Participants listed",
+    "Incident factually described",
+    "Treatment plans related to event described",
+    "Family/patient understanding of event described",
+    "Specific follow up communication plan described",
+    "Other error of documentation (specify below)",
+    "Evidence that “huddle” took place with care team",
+    "Tells patient/family member who will provide ongoing care and who will provide follow up"
+  ],
+  "ICS": [
+    "Uses language at a level understood by patient/family",
+    "Responds to patient/family member needs",
+    "Checked on patient/family understanding of the information clinician provided",
+    "Shows respect",
+    "Tailors conversation to what patient/family understands",
+    "Overall impression of general communication skills",
+    "Asks patient/family member if he/she may talk to them about what has happened",
+    "Uses open-ended questions to determine how the patient/family member perceive the situation",
+    "Warns that he/she is about to give “bad” news",
+    "Explores patient/family expectations",
+    "Overall impression of assessing perceptions early in conversation",
+    "Provides honest explanation of events as known",
+    "Clearly states how event affects patient and the specific actions taken to care for the patient",
+    "Express contributing factors as best understood currently",
+    "Checks patient/family member understanding of event",
+    "Clarifies explanation based on patient/family questions/responses",
+    "Overall impression of honest explanation of facts",
+    "Offers support",
+    "Allows for silence",
+    "Closes with sincere expression of support, empathy and concern",
+    "Overall impression of empathy"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Attribution/blame of others",
+    "Conjecture or speculation",
+    "Appropriately takes responsibility for event",
+    "Avoids speculation",
+    "Expresses clear and honest communication of regret that the event occurred",
+    "Assures patient/family incident is taken seriously"
+  ]
+}

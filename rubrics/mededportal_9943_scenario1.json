@@ -1,0 +1,58 @@
+{
+  "case_id": "mededportal_9943",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9943/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Administer additional three nebulizers of combined albuterol and ipratroprium (instructor may simulate time lapse without change in patient's status)",
+    "IV placement",
+    "May obtain venous blood gas and serum electrolytes",
+    "Administer 20 cc/kg normal saline bolus",
+    "Administer 40 mg/kg IV magnesium sulfate",
+    "If not previously performed, do not allow patient to eat or drink (nil per os, NPO) and administer IV methylprednisone",
+    "Order chest x-ray",
+    "Initiate continuous albuterol (suggested dose 0.5mg/kg/hr; maximum total 20mg/hr) and titrate to heart rate",
+    "Assessesairway",
+    "Assesses breathing (auscultates)",
+    "positions patient",
+    "Provides any oxygen support (can bethrough nebulizer)",
+    "Provides optimal level of oxygen support(can be through nebulizer)",
+    "Selects correct mask size for nebulizertreatments",
+    "Assesses blood pressure (asks/ looks forreading)",
+    "Palpates central pulses",
+    "Assesses (asks for) capillary refill",
+    "Demonstrates proper technique for IVplacement (preps site and flush, appropriate gauge needle, securing of IV to site)",
+    "Initiates IVfluidsappropriately",
+    "Elicits critical information about patient andsituation (attends to age, inciting event,signs/symptoms provided); solicitsadditional basic information such as pastmedical history and medications",
+    "Performs/directs pertinent physical exam",
+    "Ensures cardiorespiratory and oxygensaturation monitors placed within oneminute",
+    "Directs team member or attempts IV access",
+    "Orders appropriate laboratory testing (i.e.,venous blood gas +/- electrolytes) andimaging (chest x-ray) - not required",
+    "Asks for lab/imaging results (if performed)",
+    "Appropriately orders medications inalgorithm for status asthmaticus"
+  ],
+  "MK": [
+    "Recognizes need for additional albuterolnebulizers",
+    "Verbalizes the need to progress towardsnon-invasive ventilation and/or endotrachealintubation"
+  ],
+  "SBP": [
+    "Intern calls for backup from supervising resident",
+    "Consult or notify pediatric intensive care unit (PICU)",
+    "Recognize the need for non-invasive ventilation and call respiratory therapy",
+    "Alert Attending and initiate PICU transfer",
+    "Performs task in appropriatesequence/prioritizes well"
+  ],
+  "ICS": [
+    "Assumes leadership of situation",
+    "Assigns roles",
+    "Utilizes personnel effectively",
+    "Communicates effectively with team",
+    "Intermittently summarizes/maintains globalview"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Has professional attitude towards patient",
+    "Has professional atitude towards teammembers",
+    "Assumes adequate responsibility when innon-leader roles (airway, circulation)"
+  ]
+}

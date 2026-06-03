@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11292-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11292-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Provides accurate information to refute common immunization concerns in a confident manner.",
+    "Accurately addresses potential side effects of vaccine",
+    "Accurately discusses risks or sequelae of the vaccine-preventable disease."
+  ],
+  "SBP": [
+    "Provides or suggests additional resources for the parent",
+    "Makes concrete plans/arranges follow up to either receive the vaccine or continue discussion e.g., “let’s make an appointment again next week to talk about this”"
+  ],
+  "ICS": [
+    "Uses best practice presumptive approach (e.g., “Your child is due to receive XX vaccines today”)",
+    "Uses non-judgmental and non-confrontational verbal language throughout",
+    "Uses non-judgmental and non-confrontational body language throughout AND sits down for the conversation",
+    "Good eye contact",
+    "Asks open-ended questions to elicit parental concerns.",
+    "Expresses empathy AND corroborates parental concerns; appears genuine",
+    "Explains own background and ability to respond to immunization questions."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

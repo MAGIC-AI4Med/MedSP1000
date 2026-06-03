@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-12-10428-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10428-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Conduct a phone interview with the patient, taking a focused medical history.",
+    "Diagnostic studies: Pelvic examination, pregnancy test, urinalysis, cervical cultures"
+  ],
+  "MK": [
+    "Pelvic inflammatory disease\nHistory finding(s) Physical exam finding(s)\nAcute, low abdominal/pelvic pain\nVaginal discharge\nDysuria\nUnprotected intercourse\nNew sexual partner",
+    "Abnormal pregnancy (ectopic or otherwise)\nHistory finding(s) Physical exam finding(s)\nAcute, low abdominal/pelvic pain\nIrregular menses\nUnprotected intercourse\nInconsistent medication compliance",
+    "Urinary tract infection\nHistory finding(s) Physical exam finding(s)\nAcute, low abdominal/pelvic pain\nDysuria",
+    "Other potential diagnoses: ovarian cyst, pelvic tumor"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

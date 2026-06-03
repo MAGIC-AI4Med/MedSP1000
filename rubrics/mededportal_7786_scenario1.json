@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_7786",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7786/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asks about:\nChest pain\nShortness of breath\nSyncope",
+    "Physical Examination\nCardiac\nPulmonary\nAuscultates blood pressure Blood pressure:\nPalpates pulse\nPulse rate:",
+    "Tasks\nRequests electrocardiogram\nApplies supplemental oxygen (PRN)\nRequests intravenous access",
+    "What are the patient’s vital signs? HR 34 bpm, RR 16, BP 84/42 mmHg, and $S a O _ { 2 }$ $9 7 \\%$ on room air",
+    "What is the initial treatment of complete heart block?"
+  ],
+  "MK": [
+    "Why did this patient pass out?",
+    "What is the definition of the term mean arterial blood pressure and how can it be estimated?",
+    "What are the determinants of the mean arterial blood pressure?",
+    "What are the determinants of cardiac output?",
+    "What is the definition of stroke volume?",
+    "How will this patient’s heart rate affect his stroke volume?",
+    "What effect does this patient’s heart rate have on his cardiac output?",
+    "What are the determinants of cerebral blood flow?",
+    "What are the determinants of cerebral perfusion pressure?",
+    "What mechanism is responsible for attempting to restore blood pressure when this patient was on the bus?",
+    "Why is the patient’s skin cool and clammy?",
+    "Will activation of the baroreceptor reflex increase the ventricular rate?",
+    "What is the definition of bradycardia? $H R < 6 0$ bpm",
+    "Why is this patient bradycardic?",
+    "Can you identify P waves, QRS complexes, and T waves on the electrocardiogram? (can use either Appendix A or B)",
+    "Is each P wave associated with a QRS complex? (can use Appendix A or B)",
+    "What is the atrial rate (frequency of P waves)? Appendix A – Atrial rate \\~90bpm. Appendix B – Atrial rate \\~90bpm.",
+    "What is the ventricular rate (frequency of QRS complexes)? Appendix A – Ventricular rate \\~30bpm. Appendix B – Ventricular rate \\~50bpm.",
+    "Where are the 2 independent pacemakers located that are responsible for this rhythm disturbance? (Appendix A)",
+    "When palpating the patient’s pulse, does the HR correlate with the atrial or ventricular rate on the electrocardiogram?",
+    "In what chamber(s) of the heart is a permanent pacemaker lead placed?",
+    "What is a demand pacemaker?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "History Proper use of open ended questions"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

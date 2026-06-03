@@ -1,0 +1,16 @@
+{
+  "case_id": "mededportal_9119",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9119/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Student evaluates patient BEFORE ordering sedation."
+  ],
+  "MK": [
+    "Hyperventilation is ruled out after ABG analysis or assessment of the capnogram (CO2 is high, not low)."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

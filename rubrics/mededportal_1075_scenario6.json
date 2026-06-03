@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "The student should advise you to pick a specific quit day and stop altogether on that day, using a smoking cessation medication and making behavioral changes.",
+    "The best method is one that the patient will use, so if the gum makes sense to you, they should encourage you to use it.",
+    "Student should offer to develop an individualized quitting plan with you. You should discuss the following elements:\n\nReview prior quit attempts to pinpoint problem areas\n\nSet a specific quit date\n\nReinforce motivations\n\nStrategize about how to break down barriers\n\nDiscuss behavioral coping strategies\n\nReview medication use\n\nSchedule follow-up",
+    "Concrete behavioral suggestions as to how you could deal with urges in the evening and while golfing. If no specific suggestions are made, the student should make reference to where you can get this information.",
+    "You discussed getting rid of products so it will be harder to restart (cigarettes, lighters, ash trays)",
+    "You helped me choose some friends that I can tell about my quit so that I have people to help me"
+  ],
+  "MK": [
+    "In general, tapering is not a good way to quit smoking. Just as in your case, most people cannot get below a certain number before they begin to escalate again.",
+    "In order to quit successfully, a smoker must break the physical addiction as well as the behavioral connections that trigger urges. The best way to do that is to stop completely on a specific day.",
+    "Then the quitter should combine a smoking cessation medication with a behavior modification program. Research shows that this is the best way to quit smoking.",
+    "Quitting at any age is beneficial.",
+    "There is no proof that smoking just a few cigarettes a day is safe. The only safe number of cigarettes is zero!"
+  ],
+  "SBP": [
+    "If you discuss the cost of cessation medications, the student should advise you that the short-term cost of any of the products far outweighs the long-term costs of continued smoking. The average smoker in PA spends about $2,000 a year on cigarettes. The average cost of a course of medication is $200 or less."
+  ],
+  "ICS": [
+    "You identified that I was ready to make a quit attempt",
+    "Overall, you have definitely made me ready to try to quit"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

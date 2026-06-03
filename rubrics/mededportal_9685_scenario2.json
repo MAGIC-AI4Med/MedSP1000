@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_9685",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9685/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Students should ask for a more detailed history and a more detailed exam which can be provided from the above information and from examining the high fidelity simulator if available.",
+    "Based on the above history and physical the appropriate action would be to administer oxygen via nasal cannula or facemask, give nebulized racemic epinephrine and give steroids",
+    "Ideal management is nebulized racemic epinephrine and decadon. If these steps are not followed, oxygen saturation will decrease, the respiratory rate will increase and the child will eventually go into respiratory failure and require BVM."
+  ],
+  "MK": [
+    "The discussion of case management should include the initial differential diagnosis based on the history. This should include croup, foreign body obstruction, epiglottis, retropharyngeal or peritonsilar abscess and anaphylaxis."
+  ],
+  "SBP": [
+    "Inappropriate actions at this point would be a chest xray or lateral neck xray as they would both delay acute care and initial management. If the patient were not to respond to racemic epinephrine and steroids, they would be appropriate steps, looking for a foreign body or epiglottitis."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,46 @@
+{
+  "case_id": "mededportal_1148",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1148/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Student explained that tests could be done to help determine cause",
+    "Student explained treatment choices",
+    "Student encouraged induction within 24 hours of fetal death"
+  ],
+  "MK": [
+    "Student explained that this could not have been prevented.",
+    "Student explained that identifying a cause could help with management of future pregnancies.",
+    "Student explained that having a fetal death does not mean that a successful pregnancy can not occur in the future"
+  ],
+  "SBP": [
+    "The medical student offered to provide a medical interpreter for this encounter.",
+    "Student offered to use other professional resources to help with grieving process",
+    "Student advised me  to schedule a follow up visit",
+    "The medical student will need to identify and address those conflicts by eventually insisting on having a professional interpreter there."
+  ],
+  "ICS": [
+    "The medical student introduced him or herself to me.",
+    "The medical student addressed me (interpreter) by name during the encounter.",
+    "The medical student listened to the translated patient’s responses without unnecessary interruption.",
+    "The medical student asked clarifying questions when the patient’s responses as reported by me that were ambiguous, incomplete or unexpected",
+    "The medical student asked one question at a time of the patient.",
+    "The medical student summarized the visit at the end, using me to translate for the patient",
+    "The medical student acknowledged my own grief over the diagnosis while remaining focused on and attending to my partner during this encounter.",
+    "The medical student utilized my understanding of our cultural background to respond to cultural issues surrounding this case.",
+    "Student informed me that baby had died.",
+    "Student expressed sorrow and compassion.",
+    "Student helped to alleviate guilt.",
+    "Student encouraged viewing of baby and holding baby after delivery",
+    "Student showed direct eye contact with me during the encounter",
+    "Student spoke directly to me when asking questions",
+    "Student directly addressed the issues translated that were of concern to me.",
+    "Student asked questions in a sensitive manner, acknowledging me as a patient.",
+    "Student communicated directly with me (and not the interpreter) most of the time with appropriate eye contact and body language",
+    "Student showed sensitivity to my lack of English fluency and preference for speaking Spanish."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "The medical student thanked me for my assistance in the encounter."
+  ]
+}

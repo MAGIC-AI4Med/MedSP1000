@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10944-s001",
+  "scenario": "scenario17",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10944-s001/scenario17",
+  "rubric_version": "v1",
+  "PC": [
+    "Cross-cover to see patient:No",
+    "Generally, you should obtain an EKG in this case to look for problems related to hypokalemia, including U waves, ST sagging, and T wave depression.",
+    "You should start supplementation of both magnesium and potassium.",
+    "Generally, IV formulations are preferred; the aim should be to get magnesium above 2.",
+    "You should also put the patient on telemetry for these severe electrolyte disturbances."
+  ],
+  "MK": [
+    "These values are low for both potassium and magnesium, and put the patient at risk for cardiac events."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

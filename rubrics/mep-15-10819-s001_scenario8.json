@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "Start by inquiring as to how she did with treatment.",
+    "Have you been feeling down, depressed or hopeless in the last month?",
+    "Have you been bothered by little interest or pleasure in doing things?",
+    "At this point, learner should continue screening for depression with PHQ-9."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

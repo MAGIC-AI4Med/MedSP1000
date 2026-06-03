@@ -1,0 +1,44 @@
+{
+  "case_id": "mededportal_772",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_772/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Preoxygenation",
+    "Pretreatment (appropriate dose &amp; agent)",
+    "Induction (appropriate dose &amp; agent)",
+    "Paralysis (appropriate dose &amp; agent)",
+    "BMV Technique",
+    "Intubation/Crich Technique",
+    "Post-intubation (Vent, sedation,ABG)",
+    "Benzodiazepines (dose &amp; route)",
+    "Phenytoin/Fosphenytoin",
+    "Propofol",
+    "Barbiturates",
+    "Pyridoxine (dose &amp; route)",
+    "Charcoal",
+    "Obtain tylenol and salicylate levels",
+    "History&amp;Physical",
+    "Intravenous access",
+    "Monitoring",
+    "Recognition of change in patientstatus",
+    "Diagnostic Imaging (CT head,chestXray)"
+  ],
+  "MK": [
+    "Recognize status epilepticus $[ 3 ^ { r d }$ year medical student (MS3), $\\boldsymbol { 4 } ^ { t h }$ year medical student (MS4), resident, fellow, CME]",
+    "Recognize INH overdose [resident, fellow, CME]"
+  ],
+  "SBP": [
+    "Appropriate consultation.",
+    "Timely bedside EEG (after intubation)",
+    "Task Completion &amp; Follow up",
+    "Adequate disposition and follow up [MS3, MS4, resident, fellow, CME]"
+  ],
+  "ICS": [
+    "Task assignment and distribution(assigns appropriate task to appropriate levelpractitioner)",
+    "Communication (appropriate verbal andlistening skills with nursing,EMS,consultants,&amp; team members)",
+    "Patient &amp; Family Communication(appropriate education/explanation of patientillness and care)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

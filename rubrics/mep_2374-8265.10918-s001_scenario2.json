@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.10918-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10918-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Bilirubin >2.5, with ALT and alk phos <2 times the upper limit of normal (levels may be higher at the very onset)",
+    "Notes predominantly bilirubin elevation, may mention mild elevation in other tests, without describing specific levels.",
+    "Incorrect description of enzyme elevations",
+    "Describes several weeks to months of cholestasis, with most eventually resolving",
+    "Answer is partially correct or just states \u201cprolonged\u201d",
+    "Incorrect description of the clinical course",
+    "Lists peliosis hepatis (or chronic vascular injury), induction of hepatic tumors, mild acute hepatitis, may mention vanishing bile duct syndrome or nodular regenerative hyperplasia",
+    "Lists at least one correct association",
+    "No correct problems listed that are caused by anabolic steroids"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Recommends avoiding all non-prescription supplements. May mention fat-soluble vitamin supplementation",
+    "Recommends immediately stopping anabolic steroids",
+    "Does not recommend immediately stopping anabolic steroids"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

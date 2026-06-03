@@ -1,0 +1,45 @@
+{
+  "case_id": "mededportal_1711",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1711/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "You tried to insert the endotracheal tube in an unanesthetized patient.",
+    "You administered enough intravenous agent to heavily sedate the patient.",
+    "You tried to insert a laryngeal mask airway in a lightly sedated patient.",
+    "You tried to insert the endotracheal tube in a lightly sedated patient.",
+    "You paralyzed a lightly sedated patient.",
+    "You should not have allowed the surgeon to make an incision in a lightly sedated patient.",
+    "You administered enough intravenous agent to lightly anesthetize the patient.",
+    "You tried to insert a laryngeal mask airway in a sedated patient.",
+    "You tried to insert the endotracheal tube in a sedated patient.",
+    "You should not have allowed the surgeon to make an incision in a sedated patient.",
+    "You decreased the anesthetic depth.",
+    "You successfully placed the endotracheal tube.",
+    "You should not have allowed the surgeon to make an incision in a lightly anesthetized patient.",
+    "You deepened the level of anesthesia.",
+    "You allowed the patient to become severely hypoxic.",
+    "The airway is secured with an endotracheal tube.",
+    "You should have placed an endotracheal tube in this unstable patient.",
+    "You need to administer epinephrine and fluids faster.",
+    "You administered a bolus of intravenous fluid appropriately.",
+    "You administered an appropriate bolus of epinephrine.",
+    "You administered an excessive dose of epinephrine.",
+    "You need to administer intravenous fluids faster.",
+    "You administered a second bolus of intravenous fluid appropriately.",
+    "You administered a second bolus of epinephrine appropriately.",
+    "You administered diphenhydramine and albuterol appropriately.",
+    "You defibrillated for pulseless v tach appropriately."
+  ],
+  "MK": [
+    "Recheck the blood pressure before treating tachycardia.",
+    "Examine the patient and make the diagnosis.",
+    "You should place an endotracheal tube due to the meal four hours ago."
+  ],
+  "SBP": [],
+  "ICS": [
+    "You instructed the surgeon to make the incision at the appropriate time."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

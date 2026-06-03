@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.11105-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11105-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Baby is likely a 46XX with salt wasting or simple 21 hydroxylase CAH.",
+    "Often, these babies do not develop electrolyte abnormalities until 2-3 weeks of life when they may present with hyponatremia, hyperkalemia, hypoglycemia, and acidosis."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Emphasize principles of respect for patient and family's privacy and confidentiality, uncertainty about the diagnosis and gender assignment, and need for additional testing to inform the discussion on gender assignment, surgery and timing thereof."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

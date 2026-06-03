@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-14-10723-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10723-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "I&D is first line treatment for simple abscess.",
+    "Antibiotic therapy is reserved for severe, extensive or rapidly progressing abscess with or without cellulitis.",
+    "In non-purulent cellulitis or indeterminate SSTI, ultrasound if available may be done to exclude drainable abscess.",
+    "Decolonization to be considered if recurrent SSTI with patient or in household members despite optimal wound therapy, appropriate personal, and environmental hygiene.",
+    "Oral antimicrobials are for active infections and not for decolonization."
+  ],
+  "MK": [
+    "That with the family history of likely CA-MRSA that recurrence is possible"
+  ],
+  "SBP": [],
+  "ICS": [
+    "That eradication of the organism is difficult but that some strategies with body hygiene and decontamination may be helpful."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

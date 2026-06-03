@@ -1,0 +1,17 @@
+{
+  "case_id": "mededportal_9133",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9133/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "What do you call the problem?What do you think has caused theproblem?Why do you think it started when itdid？How does the illness work?",
+    "What treatment do you think the babyshould have?",
+    "Direct questions about the ojo de venadoand its significance:What&#x27;s this? Tell me about the baby&#x27;s bracelet Does it have a particular meaning?",
+    "Essential\"to\"ask\"about\"the\"meaning,\"context,\" importance\"of\"the\"bracelet\"or\"other\"practices\"before\"making\"recommendations.\""
+  ],
+  "PBLI": [],
+  "PROF": []
+}

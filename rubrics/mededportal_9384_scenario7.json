@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_9384",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9384/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Selected appropriate intervention(s) in a timely manner (Patient Care)"
+  ],
+  "MK": [
+    "Identified problem (Medical Knowledge)",
+    "Recognize the indications for therapeutic hypothermia in a post-cardiac arrest patient",
+    "The fellow needs to explain to the members of the team what signs on physical exam in combination with the history support the notion of the patient not making a meaningful recovery from his anoxic brain injury. These include the lack of corneal reflex, lack of papillary light reflex and failure to show any meaningful response 72 hours after the arrest."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Worked well with the team (Communication, Professionalism)",
+    "The fellow needs to explain the situation in terms a lay person can understand and guide the proxy through the process of working towards setting limits of care, changing the focus to one of comfort and ensuring the patient does not suffer."
+  ],
+  "PBLI": [
+    "Evaluated and acknowledged their own performance and feedback (PBLI)"
+  ],
+  "PROF": []
+}

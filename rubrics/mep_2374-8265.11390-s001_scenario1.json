@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11390-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11390-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform primary survey. Items that are often missed:\na. Maintain c-spine immobilization during airway assessment.\nb. Initiate fluid resuscitation (blood or crystalloid).\nc. Use modified Glasgow Coma Score (GCS) for non-verbal child.\nd. Consider mannitol or hypertonic saline.\ne. Obtain vital signs including temperature.",
+    "Perform secondary survey from head to extremities and back."
+  ],
+  "MK": [
+    "Express differential diagnosis including abusive blunt trauma with mismatch of injury pattern and history provided."
+  ],
+  "SBP": [
+    "Activate trauma alert and neurosurgery call."
+  ],
+  "ICS": [
+    "During preparation phase assign roles and prepare equipment."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_9393",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9393/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "*What is your management plan?*\nControl his blood pressure\nTreat hypoglycemia\nEvaluate for retention (bladder scan, catheter)\nConsider fecal impaction\nHold sedating medications (gabapentin, reglan, phenergan, percocet, Tylenol PM)\nPut in hearing aids"
+  ],
+  "MK": [
+    "*What is your diagnosis?*Delirium",
+    "*Is the patient CAM positive, why or why not?*YES, Acute onset/change from baseline, inattention, altered level of consciousness",
+    "*What are 3 predisposing factors for delirium?*hearing impairment, depression, multiple medications, several of which are anticholinergic and/or centrally-acting",
+    "*What are 3 precipitating factors for delirium?*\nurinary retention, anticholinergic medication (Tylenol PM), constipation, possible CO2 retention, hypoglycemia, sensory deprivation (not wearing hearing aids)"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

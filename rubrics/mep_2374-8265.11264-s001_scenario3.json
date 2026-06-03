@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.11264-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11264-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Mobility Assessment/Fall Checklist\nDid the clinician ask about:\nDizziness?\nChest pain?\nVision issues?\nDoes the patient remember the fall?\nAny loss of consciousness?\nAssistive device use?\nLighting?\nThrow rugs/cords? Other tripping hazards?",
+    "ADL (Activities of Daily Living)\nBathing and showering\nBowel and bladder management\nDressing\nEating\nFeeding\nFunctional mobility\nPersonal device care\nPersonal hygiene and grooming\nSexual activity\nSleep and rest\nToilet hygiene",
+    "I-ADL (Instrumental Activities of Daily Living)\nCare of others (including selecting and supervising caregivers)\nCare of pets\nChild rearing\nCommunication device use\nCommunity mobility\nFinancial management\nHealth management and maintenance\nHome establishment and management\nMeal preparation and cleanup\nSafety procedures"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [
+    "After the conclusion of the role play, ask the clinician:\nHow did that go?\nWhat did you do effectively?\nWhat did you find challenging?"
+  ],
+  "PROF": []
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11027-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11027-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Dietary recommendations for hypertension according to 2013 AHA guidelines for lifestyle management to reduce cardiovascular risk: DASH diet plus sodium restriction (Grade A, LOE A).",
+    "DASH diet is rich in vegetables and fruits and whole grains, and includes moderate intake of low-fat dairy foods, poultry, fish, and nuts, with reduced intake of fats, sugars, and red meat.\nFor a 2000 calorie diet: 4-5 daily servings of vegetables and fruit each, 2-3 daily servings of low-fat dairy; 6-8 daily servings of whole grains, 6 or less daily servings of meat/poultry/fish, 4-5 weekly servings of nuts/seeds/legumes, 2-3 daily servings of fats and oils, 0 added sugars.",
+    "General tips when counseling about DASH diet\nAdd a serving of vegetables to lunch and another at dinner. Can use frozen produce in place of fresh produce.\nReplace dessert with a bowl of fruit.\nReplace snacks, like chips, with a handful of nuts or seeds.\nMake meat a small part of the meal or use beans/legumes instead.\nReplace refined grains with whole grain alternatives.",
+    "Lower sodium intake. The typical American diet includes 3400 mg/day or more of sodium. AHA recommends consuming no more than 2400mg/day. Further reduction to 1500mg/day can yield greater reduction in BP. However, even reducing intake by at least 1000 mg/day will still lower BP. (Grade B, LOE: B).",
+    "General tips to help lower sodium\nUse other spices to flavor foods\nCook at home more often than you eat out\nCut back on pizza, processed meats, refined breads, instant/packaged foods and frozen dinners\nRinse canned beans to remove sodium"
+  ],
+  "MK": [
+    "Weight loss is the most effective lifestyle intervention in hypertensive patients who are overweight or obese. 5 kg weight loss can lead to up to a 10mm Hg drop in SBP. 10kg weight loss can lead to up to 20mm Hg drop in SBP.",
+    "DASH diet reduces BP by 10/5. The Mediterranean diet reduces BP by 7/3.",
+    "Limiting ETOH use (2 drinks/day for men and 1 drink/day for women) decreases SBP by 2-4mm Hg.",
+    "Regular physical activity (150 minutes/week of moderate intensity exercise or 75 minutes/week of high intensity exercise) decreases SBP by 4-9 mm Hg.",
+    "Reducing sodium intake to achieve 24h urine Na excretion of 1500mg/day decreases BP by 7/3.",
+    "Reduction of sodium intake and the DASH diet both significantly lowered blood pressure, with greater effects in combination than alone. Compared to the control diet with high sodium levels, the DASH diet with low sodium led to a mean systolic blood pressure 7 mmHg lower in participants without hypertension, and 11.5mmHg lower in participants with hypertension.",
+    "The DASH diet is similar to previous diets discussed, but also is rich in nutrients that lower blood pressure: potassium, magnesium, calcium, protein, and fiber.",
+    "Over 75% of the sodium in the US diet comes from food processing, only 10% is added at the table or in cooking12.",
+    "The top 3 foods in the US responsible for the most dietary salt intake are bread, processed meats, and pizza."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

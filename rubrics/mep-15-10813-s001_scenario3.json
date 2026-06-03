@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-15-10813-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10813-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Requests additional history (e.g., prior Emergency Department course and exam, results of head imaging, and therapies administered prior to arrival).",
+    "Performs or delegates focused neurologic exam (mental status, cranial nerve exam, gross motor function of extremities, and reflexes).",
+    "Proceeds with intubation for airway control.",
+    "Performs interventions to acutely decrease intracranial pressure (e.g. head of bed elevation and hyperosmolar therapy)."
+  ],
+  "MK": [
+    "Identifies acute coma and signs of impending herniation."
+  ],
+  "SBP": [
+    "Requests emergent neurosurgery consultation."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

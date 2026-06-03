@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-15-10818-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10818-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Based on this information, ZH would likely be a good PrEP candidate. Further testing will be required to determine kidney function and overall health, as well as confirming HIV-negative status using a blood antigen test.",
+    "Recurrent STD diagnoses are a major red flag that the patient’s present sexual protection efforts are not working, or are nonexistent. It would be beneficial to ask ZH what they mean by “safe sex,” as this is another term that can mean different things for different people. Partners of varying gender identities is not inherently a risk factor, but this does indicate ZH has multiple partners, which is a risk factor."
+  ],
+  "SBP": [
+    "It would be beneficial to determine if there is an underlying cause to the sexual risk taking behaviors ZH is exhibiting. The patient may benefit from the services of a mental health professional. ZH may also benefit from navigation services for accessing PrEP if it is determined they are a candidate for consultation about PrEP, including insurance support and co-pay assistance. Most Medicaid policies generally cover PrEP, however the copays can vary by carrier."
+  ],
+  "ICS": [
+    "ZH should be counseled about sexual risk reduction, including condom use, lubricant, PrEP, and the importance of routine testing for STD/STIs while sexually active with multiple partners. If possible, ZH should be provided with condoms and lubricant at appointments, if the facility can provide these."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

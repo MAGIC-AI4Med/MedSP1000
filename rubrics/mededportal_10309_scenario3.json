@@ -1,0 +1,14 @@
+{
+  "case_id": "mededportal_10309",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10309/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Optimal Management Path: early recognition of alteration in vital signs; verbalization of problem, 100% oxygen, focused physical examination; hemodynamic support as required; verbalization of differential diagnosis; appropriate leadership and communication skills demonstrated."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

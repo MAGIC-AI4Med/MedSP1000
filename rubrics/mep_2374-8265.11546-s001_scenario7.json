@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11546-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11546-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "“There’s something I’d like to talk with you about – it’s something I ask all of my patients when they are first admitted to the hospital, no matter how healthy they are.”",
+    "“It’s about something called code status, which provides direction to the medical teams about what patients may or may not want done should their heart stop beating or should they stop breathing.”",
+    "“What have you heard about this term?”",
+    "“I can understand how this would be confusing and I don’t think it’s likely to happen. Some of my patients have strong opinions on this topic and I ask because it’s important I honor their wishes.”",
+    "“I can imagine this is hard to talk about.”",
+    "“If a patient’s heart stops beating, we sometimes press firmly on their chest to pump blood through their body, use electricity to shock their heart back into beating, and place a breathing tube in their windpipe.”",
+    "“Unfortunately, this does not always lead to recovery or survival like we see on TV. In fact, only about 1 in 7 people survives CPR and is discharged from the hospital.”",
+    "“Sometimes my patients will say they wouldn’t want these things, which is why I ask.”",
+    "“What are your thoughts?”",
+    "“In the unlikely event that you were to stop breathing or your heart stop beating, you would like for our teams to perform CPR and place a breathing tube. I’ll be sure these preferences are reflected in the chart. In the future, should things change, we can always discuss again.”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

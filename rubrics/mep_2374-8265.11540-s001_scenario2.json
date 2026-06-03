@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11540-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11540-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Ability to obtain a thorough and relevant history",
+    "Ability to perform appropriate physical exam given patient’s complaints and within constraints of video encounter"
+  ],
+  "MK": [],
+  "SBP": [
+    "When triaging patients, use the 3-step approach introduced in this module:\n1. What is my differential diagnosis for the patient’s presenting concern? Given the differential diagnosis, are there any safety issues that would require an in-person or face to face visit?\n2. How would an in-person physical exam change my evaluation of this patient?\n3. What visit types (telephone, video, or in-person) are accessible to this patient?",
+    "Ability to explain next to steps to obtain labs or complete referrals",
+    "Communication of plan for follow-up appointment"
+  ],
+  "ICS": [
+    "Use of effective verbal communication skills",
+    "Use of effective non-verbal communication skills",
+    "Ability to overcome communication “stuck points”",
+    "Effective time management during visit",
+    "Setting of agenda for visit",
+    "Use of effective communication strategies to counsel on the plan (ex. teach back, avoid jargon)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

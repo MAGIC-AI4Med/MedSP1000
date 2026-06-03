@@ -1,0 +1,48 @@
+{
+  "case_id": "mep_2374-8265.11421-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11421-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Ensure all equipment is present and easily accessible from patient’s bedside:\nSterile gloves (some settings require additional sterile garb)\nThoracentesis kit\nAdditional items if kit does not contain, or per operator preference: Chlorhexidine, local anesthetic/lidocaine, larger sterile drape, or additional sterile towels\nUltrasound machine with sector array transducer",
+    "Patient seated with feet supported, arms resting on tray table, leaning forward only slightly to avoid fluid pooling anteriorly. Bed height adjusted so operator can sit or stand comfortably",
+    "Locate and describe external landmarks: midscapular line, above the 8th or 9th rib",
+    "Ultrasound confirmation: \\* Take note of ultrasound transducer angle",
+    "Confirm adequate fluid to avoid lung and diaphragm; mark site by indentation not ink",
+    "Estimate subcutaneous thickness = anticipated insertion distance to fluid aspiration",
+    "Consider addition of color doppler to avoid large vessels at the insertion site",
+    "Confirm sliding lung at the apex of the thorax",
+    "Don mask and sterile gloves",
+    "Chlorhexidine scrub over a wide area around insertion site",
+    "Secure sterile drape +/- additional towels per operator preference",
+    "Open thoracentesis tray and lay out equipment on sterile field or bedside table within easy reach during the procedure",
+    "Create a skin wheal at the insertion site with local anesthetic (we use 1% lidocaine) using a 25G or 22G needle",
+    "Using a 22G or 19G needle, infiltrate local anesthetic along the anticipated catheter track over the top of the rib. Maintain the angle of the ultrasound transducer above, and use a stepwise approach (advance while aspirating – confirm no blood – inject)",
+    "When pleural fluid is reached, note needle depth. Withdraw slightly to the point at which fluid is no longer aspirated, and deliver additional 1cc to optimize pleural anesthesia",
+    "Incise the skin at the insertion site using the scalpel in the kit. 5mm is usually adequate",
+    "Insert the over-the-needle catheter and syringe in the thoracentesis kit into the small incision made in the skin. An additional 2-3cc of lidocaine allows for just-in-time anesthesia if needed",
+    "Advance along the anesthetized track, aspirating as the catheter and needle are advanced together. If using a spring-loaded needle tip, note the color change in the needle hub when passing through soft tissue (usually red as shown below)",
+    "Once pleural space is reached, fluid will aspirate into the syringe and color indicator will change to green or clear. Advance the catheter and needle together an additional 1cm to ensure the catheter has entered the pleural space",
+    "Hold the needle still and advance the catheter to its fullest extent into the pleural cavity (advancing only the catheter, not the needle)",
+    "Once the catheter is fully inserted, remove the needle. Ensure stopcock is closed to the patient",
+    "For diagnostic procedures, use a syringe to aspirate enough pleural fluid to send all required studies. For therapeutic thoracentesis or cytology, attach drainage tubing and bag and collect fluid using “pumping” action with syringe and stopcock. Maximum 1500 cc, or until the patient develops significant discomfort",
+    "Place bandage or gauze and tape over procedure site",
+    "If present pre-procedure, confirm sliding lung sign is still present at lung apex"
+  ],
+  "MK": [
+    "Discuss indications, contraindications, coagulation labs, and ultrasound findings",
+    "Discussion of relative contraindications to urgent/non-emergent chest tube placement including:\n1. INR >1.5 (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6026252/>)\n2. PLT >50 (<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6142536/>)"
+  ],
+  "SBP": [
+    "Verify patient identity and procedure location during “Time Out”",
+    "Place sharps in appropriate containers",
+    "Document procedure in the chart and provide appropriate signout to primary medical team"
+  ],
+  "ICS": [
+    "Notify nursing staff of the procedure",
+    "Obtain informed consent",
+    "When drainage is complete, ask the patient to hum to avoid a breath in that could entrain air and cause pneumothorax, then quickly remove the catheter"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

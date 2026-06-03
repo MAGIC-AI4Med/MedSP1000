@@ -1,0 +1,43 @@
+{
+  "case_id": "mep-13-10652-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10652-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Provides own gown and gloves to scrub nurse",
+    "Help move patient to operative table/remove stretcher",
+    "Place Sequential Compressive Devices (SCD) on patient legs",
+    "Assist with preparation of surgical site",
+    "Assist in applying any dressings (gauze, tape)",
+    "Assist in cleaning patient (washing off betadine/blood)",
+    "Removing drapes (without extubating the patient)",
+    "Removing SCDs/unhooking SCDs",
+    "Getting warm blankets/new gown if necessary",
+    "Unhook or transfer monitoring systems\u00a0while protecting tubes and lines",
+    "Transfer/Positioning 1: In charge of getting the patient from pre-op holding to the OR and getting the patient on the OR table. Leads effort to pad all bony prominences. Directs colleagues in placement of monitors, SCDs, warming blanket, and electrocautery grounding pad with permission of anesthesia provider.",
+    "Students gown and glove",
+    "Students prep and drape the patient"
+  ],
+  "MK": [
+    "Knows patient\u2019s Name, diagnosis and procedure"
+  ],
+  "SBP": [
+    "Introduce/verify patient, verify that operative site was initialed correctly, move to OR from holding",
+    "Participate in Time Out",
+    "Observe instrument count",
+    "Bringing in bed when directed by anesthesia",
+    "Assisting with transfer patient to cart and transferring to post anesthesia care unit",
+    "Gather case pertinent information from anesthesia during quiet moment (estimated blood loss, fluids given, urine output, etc.)",
+    "Pre-op and Patient Marking: Assure correct patient is identified, consents are signed, questions are answered, and contact info for the family is complete.",
+    "Sign-in/Time-out: Assures all persons present in OR participate in the sign-in and the time-out. Assure time-out is done correctly and there are no discrepancies.",
+    "Instrument Count: Assure a completed and correct instrument and sponge count with the circulating RN and attending surgeon.",
+    "Transfer/Positioning 2: Assure all relevant monitors are disconnected, drapes are removed, and dressings are intact prior to movement. Directs colleagues in moving patient from the OR table to the cart. Assists anesthesia provider in bringing patient to PACU and gathering relevant information.",
+    "Students should acknowledge an instrument count should take place. When this does happen, a sponge will be missing and students must maintain sterility and assist in reconciliation of the instrument count."
+  ],
+  "ICS": [
+    "Introduces self to OR staff, provides ID",
+    "Participate in sign-in procedure with clear, loud voice (all)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

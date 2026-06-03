@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11088-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11088-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Initiate management of sepsis including administration of IV fluids and antibiotics",
+    "Proceed with rapid sequence induction using agents to avoid worsened hypotension",
+    "Prepare norepinephrine infusion to treat septic shock",
+    "Identify and correct esophageal intubation"
+  ],
+  "MK": [
+    "Recognize delayed presentation of bowel perforation",
+    "Accurately diagnose septic shock"
+  ],
+  "SBP": [
+    "Call for anesthesiologist assistance for patient management"
+  ],
+  "ICS": [
+    "Communicate effectively with operative team regarding patient acuity and discuss options for postoperative management",
+    "Recognize student’s level of experience and closely supervise intubation and patient management in a safe and respectful manner"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

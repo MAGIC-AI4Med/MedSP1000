@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.11478-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11478-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Applies counseling interventions appropriately"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Answers all questions thoroughly",
+    "Uses empathetic and respectful language"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

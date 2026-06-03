@@ -14,7 +14,37 @@
 This repository is the official implementation of
 [**MedSP1000**](https://arxiv.org/abs/XXXX.XXXXX).
 
-> 🚧 **Work in progress.** The full code release is on its way — we will complete it within one week (by **June 9, 2026**). Thanks for your patience!
+
+---
+
+## Quick Start
+
+```bash
+# 1. Environment
+conda create -n medsp1000 python=3.10 && conda activate medsp1000
+pip install -r requirements.txt
+
+# 2. Credentials — placeholders are expanded from the environment at load time,
+#    so no secret is ever written into the repo.
+cp configs/config.example.yaml configs/config.yaml
+export OPENAI_BASE_URL="https://api.openai.com/v1"   # or your gateway
+export OPENAI_API_KEY="sk-..."
+
+# 3. Data — downloads scenario materials into data/MedSP1000/ and builds the
+#    run manifest. The frozen ACGME rubrics already ship in this repo (rubrics/).
+python scripts/download_data.py
+#    behind a firewall: HF_ENDPOINT=https://hf-mirror.com python scripts/download_data.py
+
+# 4. Run — closed-loop encounters, scored against the frozen rubric.
+bash scripts/run_simulate_cases.sh \
+    --examinee-model gpt-5.5 \
+    --sp-env-eval-model gpt-5.5 \
+    -j 4
+```
+
+Each scenario writes `final_evaluation_frozen_rubric.json` (per-item true/false over
+the six ACGME competencies) under `runs/`. See [`docs/RUNNING.md`](docs/RUNNING.md)
+for the full walkthrough, provider table, smoke tests, and test-time-compute options.
 
 ---
 
@@ -87,8 +117,10 @@ care. The strongest general model leads the strongest medically specialized mode
 ```
 paper-release/
 ├── src/        # core simulation + evaluation code (clinician / patient / environment / evaluator agents)
-├── configs/    # model & pipeline configuration files
-├── scripts/    # data-processing, run, and analysis entry points
+├── configs/    # config.example.yaml (+ rubric-extraction prompt)
+├── scripts/    # download, run, and analysis entry points
+├── rubrics/    # frozen ACGME rubrics, one <case>_<scenarioN>.json per scenario
+├── data/       # downloaded scenario materials (gitignored; populated by download_data.py)
 ├── docs/       # extended documentation
 └── assets/     # figures
 ```
@@ -101,9 +133,21 @@ conda activate medsp1000
 pip install -r requirements.txt
 ```
 
-> 📋 *Set provider credentials via environment variables (e.g. `OPENAI_API_KEY`,
-> `DEEPSEEK_API_KEY`, `MEDGEMMA_BASE_URL` for local vLLM). List any non-pip
-> dependencies (model weights, cluster setup) here.*
+**Configure credentials.** Copy the example config and provide your keys via
+environment variables — the engine expands `${VAR}` / `${VAR:-default}`
+placeholders at load time, so no secret is ever written into the repo:
+
+```bash
+cp configs/config.example.yaml configs/config.yaml
+export OPENAI_BASE_URL="https://api.openai.com/v1"   # or your gateway
+export OPENAI_API_KEY="sk-..."
+# optional, only for the providers you use:
+#   DEEPSEEK_API_KEY, QWEN_API_KEY, BAICHUAN_API_KEY,
+#   MEDGEMMA_BASE_URL (local vLLM), HTTP_PROXY
+```
+
+`configs/config.yaml` is gitignored. The frozen ACGME rubrics used for scoring
+ship in this repo under `rubrics/` (one `<case>_<scenario>.json` per scenario).
 
 ## Data
 
@@ -112,35 +156,69 @@ MedSP1000 is derived from MedEdPORTAL teaching materials and released on the
 
 **👉 [huggingface.co/datasets/byrLLCC/MedSP1000](https://huggingface.co/datasets/byrLLCC/MedSP1000)**
 
-```python
-from datasets import load_dataset
-
-ds = load_dataset("byrLLCC/MedSP1000")
-```
-
-> 📋 *Describe the expected directory layout (each scenario holds materials for the
-> four role agents) and how the local manifest maps to the released data.*
+Download the scenario materials into `data/MedSP1000/` and build the run manifest
+in one step:
 
 ```data
+python scripts/download_data.py
+# behind a firewall: HF_ENDPOINT=https://hf-mirror.com python scripts/download_data.py
+```
+
+This fetches the dataset and regenerates `scenario_directories_full.json` (the
+list of scenarios the runner consumes). To rebuild the manifest by itself:
+
+```bash
 python scripts/generate_scenario_directories_json.py --pretty
+```
+
+**Quick subset (100 scenarios).** Don't want to run the full 1,638-scenario
+benchmark? `subset.json` ships a 100-scenario, quality-controlled subset — every
+scenario validated for rubric quality and simulation soundness. Expand it into a
+manifest and run that instead:
+
+```bash
+python scripts/generate_scenario_directories_json.py --subset subset.json --pretty
+```
+
+**Layout.** Each scenario holds one folder per role agent; the frozen rubric for
+that scenario lives in `rubrics/` in this repo (not in the dataset):
+
+```
+data/MedSP1000/<case_id>/<scenarioN>/
+  examinee/               # materials visible to the clinician agent
+  sp_actor/               # patient (standardized-patient) script
+  environment_controller/ # labs / imaging / environment state
+  evaluator/              # source scoring materials
+rubrics/<case_id>_<scenarioN>.json   # frozen ACGME rubric used for scoring
 ```
 
 ## Running the Benchmark
 
 ```eval
 bash scripts/run_simulate_cases.sh \
-    --case-file scenario_directories_full.json \
     --examinee-model <CLINICIAN_MODEL> \
     --sp-env-eval-model <JUDGE_MODEL> \
     -j <CONCURRENCY>
 ```
 
-Each run produces per-turn transcripts, agent logs, and a
-`final_evaluation_frozen_rubric.json` scored over the six ACGME competencies. Runs
-are idempotent and resumable via status markers.
+Defaults: case list `scenario_directories_full.json` (repo root), config
+`configs/config.yaml`, logs under `runs/logs/`. Each scenario produces per-turn
+transcripts, agent logs, and a `final_evaluation_frozen_rubric.json` scored over
+the six ACGME competencies. Runs are idempotent and resumable: a status marker is
+written per completed scenario, and re-running skips it.
 
-> 📋 *Document each flag and the optional test-time-compute strategies
-> (`--examinee-tts {off|single|bon|medagents}`).*
+Key flags (see `--help` for the full list):
+
+| Flag | Purpose |
+| ---- | ------- |
+| `--examinee-model NAME` | Clinician (model under test). |
+| `--sp-env-eval-model NAME` | Sets the SP, environment, and evaluator models together (must match for status markers). |
+| `-j, --jobs N` | Concurrent scenarios. |
+| `-c, --case-file PATH` | Alternate scenario manifest. |
+| `--examinee-tts {off,single,bon,medagents}` | Test-time-compute strategy for the examinee. `off` (default) leaves the path untouched; non-`off` runs land in an isolated status subdir so prior results are never overwritten. |
+| `--tts-n / --tts-experts / --tts-consensus-rounds / --tts-selector` | Tune `bon` / `medagents`. |
+| `--dry-run` | Print the commands without calling any model. |
+
 
 ## Citation
 

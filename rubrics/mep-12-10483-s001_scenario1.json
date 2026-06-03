@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-12-10483-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10483-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Auscultate lungs",
+    "Check the BP",
+    "Order a chest radiograph and an ECG (12-lead)",
+    "Apply a non-rebreather face mask",
+    "Order BiPaP",
+    "Administer nitroglycerin (SL followed by intravenous – optimal 1st line agent)",
+    "Administer ace inhibitor (intravenous) – 2nd line agent",
+    "Administer furosemide (intravenous) – 3rd line agent"
+  ],
+  "MK": [],
+  "SBP": [
+    "The students should verbally provide a transfer of care report to the ICU staff physician."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10382",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10382/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "% point for Vit D supplementation",
+    "% point for asking about mom’s diet w/out prompting",
+    "% point for B12 supplementation",
+    "% point for wanting to observe latch w/out prompting",
+    "1 point for description of correct latch (at least 4 elements)",
+    "1 point for management strategies of sore nipples (at least 4)",
+    "1 point for management of engorgement"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

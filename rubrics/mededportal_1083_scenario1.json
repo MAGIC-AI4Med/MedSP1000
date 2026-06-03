@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_1083",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1083/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtains sufficient history (a majority of: recent hx,admissions,PICU admissions, medicine usage,asthma triggers)Recognizes wheezing,asks for albuterol nebulizationwith or without ipratropium (Atrovent@)Asks for subcutaneous/IM epinephrine at correct dose(0.25 - 0.3 ml of 1:1000 = 0.01 mg/kg)Asks for IV methylprednisolone (50 mg-2 mg/kg)",
+    "When prompted with change in symptoms,recognizesworsening conditionAsks for second nebulization or continuous nebulizerx 1 hourObtains ABG if not done beforeAsks fora Terbutaline drip to bedsideCalls for help - PICU/Anesthesia/etc",
+    "Recognizes need to intubate for airway controlwithout promptingIntubation:Gathers necessary equipment (ET Tube,laryngoscope,bag/mask - if not done at step above)Suction at bedsideChooses proper blade size and type (Miller or Mac 2)Chooses proper endotracheal tube size (5.0-5.5uncuffed endotracheal tube)Raises bed to appropriate height/positions patientOrders RSI Drugs:Atropine (0.3-0.5 mg)Any sedation choiceKetamine (1-2 mg/kg = 25-50 mg IV) -best choice(also give credit for above)Paralytic (Any choice OK)",
+    "Has assistant apply cricoid pressure (if not done,patient will vomit during intubation)Endotracheal tube passed using correct technique(credit for holding blade in correct hand,correct bodyposition - no penalty for “breaking teeth\")Confirms endotracheal tube position: (Residentwill be asked to explain his/her method(s) forconfirming proper tube placement-if not offeredspontaneously)Auscultates chestAuscultate over stomachAssesses for chest riseAsks for ETCO2 checkOrders confirmatory CXRSecures ET Tube (unprompted)Places nasogastric tube (ok if prompted by“stomach isdistended comment\")",
+    "Upon being told of worsening respiratory status,rechecks patientRechecks oxygen connectionsRecognizes tension pneumothoraxDescribes decompression of chest correctly (needle orAngiocath inserted in 2\"d intracostal space in mid-clavicular line - must mention location correctly)"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

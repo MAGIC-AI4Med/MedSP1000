@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_10121",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10121/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "The medical student is asked to inform Victoria of the delay and to obtain a relevant medical history.",
+    "Should the student attempt conversation in regard to smoking habits and willingness to quit, Victoria is not interested in quitting at the present time."
+  ],
+  "MK": [],
+  "SBP": [
+    "Importantly, if the student grants Victoria’s request to leave, the standardized patient should exit the room and the encounter is over. However, if the student astutely responds that she is not allowed to leave, Victoria will then request permission to smoke in her hospital room. This, too, the student should deny."
+  ],
+  "ICS": [
+    "The student should inform Victoria of the delay, to which she will respond that if she is not going to be seen immediately, she should at least be allowed to go outside to smoke while she waits.",
+    "If the student validates the patient’s frustration or apologizes for the delay, Victoria is more amenable to the student’s medical interview.",
+    "However, if the student does not make any attempt at establishing rapport with the patient or neglects to demonstrate empathic communication, Victoria escalates and may threaten to leave the hospital."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

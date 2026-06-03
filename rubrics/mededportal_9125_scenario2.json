@@ -1,0 +1,17 @@
+{
+  "case_id": "mededportal_9125",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9125/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Checking for a pulse in ventricular tachycardia",
+    "Check patient, check for a pulse, perform cardioversion/defibrillation if indicated",
+    "Recognizing arrhythmia within 15 seconds of onset, checking patient with 10 seconds of recognizing arrhythmia, assessing stability within 30 seconds of recognizing arrhythmia, performing cardioversion/fibrillation with one minute of arrhythmia onset",
+    "Assess responsiveness and stability in a patient with ventricular tachycardia, perform synchronized cardioversion, recognized ventricular fibrillation, perform defibrillation, recognize asystole, and reassess including checking patient and checking leads, perform chest compressions, recognize PEA, administer inotropes, reassess patient after resumption of spontaneous circulation."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

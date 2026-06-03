@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-13-10591-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10591-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Utilize the shock evaluation matrix to complete a focused history and physical exam.",
+    "Provide supplemental oxygen with a non-rebreather mask at a flow rate of >12L/min.",
+    "Describe or perform a left-sided needle thoracostomy."
+  ],
+  "MK": [
+    "Identify clinical findings consistent with tension pneumothorax, including dyspnea, hypotension and tachycardia, distended neck veins, tracheal deviation, and decreased breath sounds on the left.",
+    "Determine that the patient is in obstructive shock."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Assign roles to each team member before entering the patient room, ensuring that someone assumes the role of scribe and another serves as team leader."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

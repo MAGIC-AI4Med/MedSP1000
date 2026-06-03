@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "You identified that I recently quit tobacco, but I am having trouble staying quit",
+    "You helped me decrease barriers to staying in maintenance (nicotine is not the only factor in my weight gain—increase activity, modify dietary)",
+    "You discussed medications that might help (Zyban or the gum)",
+    "You have unrealistic expectations vis-à-vis weight gain after quitting. Saying that a five-pound weight gain is unacceptable is unreasonable considering many individuals naturally fluctuate three or four pounds in an average day.",
+    "You would have to gain over one hundred pounds for it to have the same negative effect on your body as smoking does.",
+    "The average weight gain as a direct result of quitting is five to seven pounds. Anything over and above that is due to behavior and has nothing to do with lack of nicotine in the body or not smoking.",
+    "If smoking actually kept people thin, every smoker would weigh about 100 lbs.",
+    "He or she should review current nicotine replacement therapy use and ask if there are any problems/issues with the product you are using."
+  ],
+  "MK": [],
+  "SBP": [
+    "You scheduled a follow-up session"
+  ],
+  "ICS": [
+    "You gave me support and encouragement for having quit for three weeks",
+    "Overall, you have definitely made me feel more confident maintaining the quit"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

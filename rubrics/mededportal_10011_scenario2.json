@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_10011",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10011/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a rapid assessment: CAB, vital signs",
+    "Perform a focused history & examination",
+    "Initiate treatment:\nOxygen\nIV Fluids\nPlace patient on cardiac monitor\nBedside glucose testing\nAdministration of calcium; consideration of additional therapies\nReferral to critical care and Cardiology",
+    "Request appropriate tests\nLab tests , Chest x-ray and EKG: See Appendix F-H"
+  ],
+  "MK": [
+    "Develop and discuss differential diagnosis for patient presentation such as digoxin, beta blocker, clonidine or opioid toxicity as well as heart block",
+    "Identification of the causative agent: Calcium channel blocker overdose"
+  ],
+  "SBP": [
+    "Contact inpatient Toxicology or a Poison Control Center to seek expert advice"
+  ],
+  "ICS": [
+    "Perform organized and focused hand-off to the Critical Care Service"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

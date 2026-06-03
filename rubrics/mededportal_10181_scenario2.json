@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_10181",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10181/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Check ABCs.",
+    "Request ECG, IV, O2, monitor.",
+    "Ask appropriate questions (directed history-taking):\nHistory of chest pain.\nOnset, provoking/alleviating factors, quality, radiation, severity, time course.\nCardiac risk factors (hypertension, diabetes, dyslipidemia, smoking, illicit drug use, Family history).\nBleeding risk factors (GIB, anemia).\nPrevious cardiac workup.\nRecent ASA/nitro/illicit/Sildenafil use.",
+    "Perform a physical examination (ask specific questions re: findings).",
+    "Order appropriate labs:\nECG and Chest X-ray (CXR) – ask student to interpret.\nCBC, basic metabolic panel, cardiac enzymes, coagulation studies.",
+    "Start appropriate treatment:\nRecognize **not** to give nitroglycerin (NTG) due to inferior MI\nAspirin\nMorphine\n+/- Heparin or plavix",
+    "Recheck ABCs.",
+    "Re-order ECG – ask student to interpret.",
+    "Check if stable/unstable:\nStable: Observe, continue MI work-up-our patient is NOT stable.\nUnstable: Start ACLS:",
+    "Medical Therapy will NOT improve bradycardia:\natropine (0.5mg)\ndopamine (2-10mcg/kg/min infusion)\nepinephrine (2-10mcg/min)",
+    "Transcutaneous Pacing is required to improve heart rate and symptoms\nIncrease voltage until “capture”\nCall cardiology for tranvenous pacemaker placement (for more definitive care)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Consult cardiology to discuss need for cardiac catheterization."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

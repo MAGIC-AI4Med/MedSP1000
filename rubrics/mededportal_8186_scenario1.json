@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_8186",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8186/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask about other medications in the home?",
+    "Ask about where medications are kept in the home?",
+    "Ask about difficulties with opening medication bottles?",
+    "Offer counseling on safe medication storage practices?"
+  ],
+  "MK": [
+    "By the end of the case, the team should have identified that the caregiver has hearing loss."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Introduced himself/herself to the grandparent?",
+    "Remained at eye level with historian?",
+    "Maintained eye contact?",
+    "Allow historian to finish their opening statement withoutinterruption?",
+    "Move the chair to sit across from historian while talking?",
+    "Turn off the TV?",
+    "Speak slowly in a clear voice?",
+    "Offered encouraging, supportive or empathetic comments? Forexample,if the grandmother feels that this is her fault, reassure thegrandmother that the team knows she did not wish her grandson harmand reassure her that the team will work with her to try to preventfuture incidents.",
+    "Demonstrated attentive listening by maintaining eye contact,occasionally nodding or saying short phrases such as “yes, or OK&quot;,andrecapping at the end of the discussion?",
+    "Addressed the hearing limitation in a caring manner",
+    "Asked the caregiver to repeat back any instructions or teachings?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Treated historian with respect? Used Mrs./Ms.?"
+  ]
+}

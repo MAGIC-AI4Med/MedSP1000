@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9027",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9027/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Administer Appropriate Broad Spectrum Antimicrobials",
+    "Obtain Blood Type and Rh",
+    "Student: check pregnancy test in reproductive aged female with low abdominal pain",
+    "Student: order urinalysis in patient with undifferentiated low abdominal pain and fever",
+    "Student: consider diagnostic imaging in patient with undifferentiated low abdominal pain, fever and abdominal tenderness"
+  ],
+  "MK": [
+    "Identify Septic Abortion/Infectious cause of patient's symptoms",
+    "Failure to check a pregnancy test/failure to recognize that patient is pregnant",
+    "Failure to identify gynecologic etiology of low abdominal pain"
+  ],
+  "SBP": [
+    "Consult Gynecology",
+    "Failure to consult gynecologic specialist",
+    "Student: recognize need for and attempt to obtain specialty consultation (surgery vs.gynecology)"
+  ],
+  "ICS": [
+    "Demonstrate Effective Communication Skills with Patient and Parents",
+    "Student: attempt to obtain history from patient alone (in setting of obstructive/overbearing parents)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

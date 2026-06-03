@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_9558",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9558/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Overweight. Help the mother to find a local recreation center or other safe place for child to exercise. Should also consider “exergaming” (see below).",
+    "Video games. Residents should inquire about the content rating of the video games. Many children are playing rated “M” (mature) or “T” (Adolescent) games with too much violence. You should encourage the mother to purchase rated “E” (Everyone) games. Also, they should consider exergaming devices such as the Wii or the Kinect instead of traditional gaming consoles as they offer the added benefit of expending calories.",
+    "ADHD therapy needs to be maximized so that symptoms do not preclude good academic achievement. Also, ADHD is a cause of impulsiveness that can make one more susceptible to fighting.",
+    "Bullying. School’s that promote a culture of transparency with regards to bullying have less bullying. Bullies behave in such a manner because they believe that their actions are anonymous. If bullies knew that there were repercussions for their behavior they might not engage in them. Encourage child to not keep bullying a secret, but to tell parents or teachers. Teach the child to be strong and firm when faced with a bully. Have him/her practice saying something like, “I don’t want to fight you. I’m not happy with what you said, but I will not fight.” Then walk away. Practicing in front of a mirror will give child confidence and will discourage acting out of impulse."
+  ],
+  "MK": [
+    "Decreased self-esteem. This child should consider being evaluated by a mental health professional as this low self-esteem may be a manifestation of depression. Depressed children have higher rates of violent injury as adolescents.",
+    "Poor grades. These poor grades may be related to a learning disability, thus an evaluation and possibly an IEP should be in place.",
+    "Does not fight back when bullied. This child clearly has good conflict resolution skills however he cannot keep the bullying a secret."
+  ],
+  "SBP": [
+    "Child stays indoors or at home all day. Is kept safe from his violent neighborhood. While physically safe, it interferes with his ability to develop social skills. This child needs to engage in safe social activities, such as afterschool programming that is supervised by a responsible adult."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario29",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario29",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Consult general surgery on neutropenic fever patient with acute abdomen."
+  ],
+  "ICS": [
+    "Student should make question and urgency of consult clear in first few sentences.",
+    "Student should state what they are concerned about “The patient has an acute abdomen on exam and I am concerned about perforation or acute bowel obstruction in a patient with neutropenic fever”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

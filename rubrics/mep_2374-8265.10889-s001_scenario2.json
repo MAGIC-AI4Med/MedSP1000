@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.10889-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10889-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess and manage the patient\u2019s airway by verifying patency, evaluating the presence and effort of breathing, and initiating appropriate oxygen supplementation as needed (via nasal cannula, facemask, high-flow nasal cannula, CPAP or BiPAP)",
+    "Establish IV access; if peripheral IV cannot be established rapidly then intraosseous access must be obtained",
+    "Assess patient for the presence of a pulse when there is an acute clinical change (patient will stop moaning)",
+    "Recognize the presence of pulseless ventricular tachycardia and employ PALS Pediatric Cardiac Arrest Algorithm by immediately beginning high quality CPR with synchronous BVM ventilation",
+    "Administer initial shock energy for defibrillation at 2J/kg and resume high quality CPR immediately after shock delivery",
+    "After 2 minutes with no change or improvement, administer second round of shock energy for defibrillation at 4J/kg and resume high quality CPR immediately after shock delivery",
+    "After second shock administer Epinephrine (1:10,000) 0.01mg/kg IV",
+    "Repeat defibrillation at >4J/kg (maximum of 10J/kg) every 2 minutes; repeat administration of Epinephrine every 3-5 minutes"
+  ],
+  "MK": [
+    "Connect patient to cardiopulmonary monitor (if not on monitor already) and correctly identify the presence of ventricular tachycardia (patient will initially be moaning and will have a pulse)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Anticipate the progression of ventricular tachycardia with a pulse to ventricular tachycardia without a pulse (i.e., request for defibrillator, assignment of CPR roles/responsibilities)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

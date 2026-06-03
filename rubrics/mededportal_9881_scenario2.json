@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9881",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9881/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Relevant\u00ad patient history",
+    "Relevant physical examination with vitals",
+    "Based on the above history and physical, the appropriate action would be to administer oxygen via face mask or nasal cannula. The team must be specific as to what oxygen delivery system they will use and how it will be set up. Using an invasive method of oxygenation such as an LMA or BVM would be inappropriate at this point.",
+    "The patient should be placed on a continuous cardiopulmonary monitor.",
+    "An IV should be placed and if unable to obtain access, an IO may be placed",
+    "Given the stridor at rest, the patient should be given IV steroids and racemic nebulized epinephrine. The residents should give the route and the dose.",
+    "The patient should be maintained on monitoring",
+    "Appropriate actions at this time would be to give O2 via facemask or non rebreather and to give another dose of racemic epinephrine.",
+    "At this point the only appropriate action is to initiate bag mask ventilation.",
+    "It would be appropriate if someone collected the equipment necessary for intubation.",
+    "It would be inappropriate at this time for the interns to use any form of oxygen support other than BVM or intubation or to give any medications."
+  ],
+  "MK": [],
+  "SBP": [
+    "Inappropriate actions at this point would be a repeat chest xray or lateral neck xray, or any lab work, as they would both delay acute care and initial management."
+  ],
+  "ICS": [
+    "A team leader should be declared and all team members should be given roles.",
+    "They should assign roles, including airway, circulation, monitors and labs."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

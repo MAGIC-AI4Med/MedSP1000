@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9601",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9601/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Elicit a history substantiating dementia from the patient and daughter"
+  ],
+  "MK": [
+    "Recognize delirium using the CAM criteria and tool",
+    "Determine decision-making capacity based on the 3 primary requirements for medical decision making (take in information, apply it to self, express a choice)"
+  ],
+  "SBP": [
+    "Identify the decision-maker in the patient’s care (POAHC—daughter) to obtain consent for the cardiac catheterization procedure"
+  ],
+  "ICS": [
+    "Discuss and obtain informed consent to proceed with a cardiac catheterization."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

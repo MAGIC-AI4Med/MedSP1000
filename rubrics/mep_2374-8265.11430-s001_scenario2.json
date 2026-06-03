@@ -1,0 +1,37 @@
+{
+  "case_id": "mep_2374-8265.11430-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11430-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Asks for vital signs",
+    "Asks for events leading up to RRT",
+    "Asks for current medication list",
+    "Asks for past medical history",
+    "Asks for recent labs",
+    "Perform focused physical exam.",
+    "Obtain diagnostic studies including (but not limited to) CBC, BMP/CMP, lactate, blood and/or urine cultures, troponin, PT/INR, CXR, ECG.",
+    "Treat hypotension with IVF",
+    "obtain right sided ECG.",
+    "Lower head of bed",
+    "Order ASA and heparin ggt.",
+    "Apply oxygen delivery device.",
+    "If simulation goes to state 4: call code blue and start chest compressions."
+  ],
+  "MK": [
+    "Correctly interprets the ECG.",
+    "Articulates a differential diagnosis including STEMI.",
+    "Recognize possible right ventricular STEMI"
+  ],
+  "SBP": [
+    "Activate cath lab",
+    "Call Cardiology",
+    "Discuss the need for MICU/CCU evaluation for transfer."
+  ],
+  "ICS": [
+    "Identify self upon entering the room and assign roles.",
+    "Stands at foot of bed"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_10069",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10069/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Resident explains diagnosis in an understandable and thoughtful manner. Resident does not use confusing medical terminology. Resident is familiar with and is able to discuss the presentation, possible sequelae, and treatment of HSP.",
+    "Resident explains diagnosis in an understandable and thoughtful manner. Resident does not use confusing medical terminology. However, resident is not completely familiar with presentation, possible sequelae, and treatment of HSP.",
+    "Resident explains diagnosis in an understandable and thoughtful manner but occasionally uses confusing medical terminology. Resident is familiar with and is able to discuss the possible sequelae, and treatment of HSP.",
+    "Resident explains diagnosis in an understandable and thoughtful manner but occasionally uses confusing medical terminology. Also, resident is not completely familiar with the possible sequelae, and treatment of HSP.",
+    "Resident does not explain the diagnosis in an understandable or thoughtful manner."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

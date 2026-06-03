@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11359-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11359-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Offers to call medical interpreter.",
+    "Actions to avoid:\nOffer to interpret without adequate training\nUse online automated translation tool\nAgree to use Patient\u2019s child as interpreter",
+    "Successfully call for Interpreter."
+  ],
+  "ICS": [
+    "Recognizes language discordance between Attending and Patient",
+    "Uses TeamSTEPPS\u00ae communication tools\nC-U-S\nDESC-ribe\nTwo Challenge Rule",
+    "Support other members of the team in communication attempts."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "States own character\u2019s language abilities (found in Character description)\nNone\nInformal (family speaks same language, character speaks/understands some)\nSelf-identified \u2018fluency\u2019 (lived and worked in language-concordant country)",
+    "Recognize the Attending is exhibiting a lapse in professional behavior."
+  ]
+}

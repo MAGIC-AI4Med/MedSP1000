@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_9665",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9665/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Learner may assess patient, including brief assessment of airway, cardiovascular, pulmonary, and neurologic systems.",
+    "Confirms NPO status",
+    "Confirms allergies",
+    "Confirms medication list",
+    "Confirms history",
+    "Reviews labs and radiology images",
+    "Auscultation of the heart",
+    "Auscultation of the lungs",
+    "(optional) Places arterial line",
+    "(optional) Places central line",
+    "Learner may decide to place central line prior to induction and/or proceed with emergent GA.",
+    "Learner may choose GA with RSI with etomidate as induction agent.",
+    "Learner may choose GA with RSI with propofol as induction agent.",
+    "Learner may choose GA with RSI with fentanyl & ketamine as induction agent.",
+    "Induces general anesthesia",
+    "Secures the airway",
+    "Treats hypotension",
+    "Learner may attempt cardioversion to regain sinus rhythm.",
+    "Learner may increase FiO2."
+  ],
+  "MK": [
+    "Recognizes hypotension",
+    "Recognizes change in EKG",
+    "Learner may identify precipitating events: hypovolemia, onset of junctional rhythm with loss of atrial kick."
+  ],
+  "SBP": [
+    "Calls for help and institutes advanced cardiac life support (ACLS)",
+    "Learner may call for TEE probe.",
+    "Learner may request crash cart brought into the OR and paddles placed on patient."
+  ],
+  "ICS": [
+    "Alerts surgical team about cardiovascular changes",
+    "Learner may instruct surgeons to stop surgery until patient becomes more stable."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

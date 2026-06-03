@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_7786",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7786/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Asks about:\nChest pain\nShortness of breath\nSyncope",
+    "Physical Examination\nCardiac\nPulmonary\nAuscultates blood pressure Blood pressure:\nPalpates pulse\nPulse rate:",
+    "Tasks\nRequests electrocardiogram\nApplies supplemental oxygen (PRN)\nRequests intravenous access",
+    "What are the patient’s vital signs?\n\nHR 184 bpm, RR 26, BP 82/40 mmHg, SaO2 92% (increase to 97% with supplemental oxygen)",
+    "How would you treat this patient?\n\nOur patient is unstable and requires immediate electrical synchronized cardioversion. The patient is hypotensive, is experiencing chest pain, shortness of breath and has evidence of pulmonary edema on physical examination – rales and distended neck veins."
+  ],
+  "MK": [
+    "Why did this patient pass out?\n\nThe patient developed VT which resulted in a marked increase in ventricular rate which lead to a decrease in CO ( CO = HR X stroke volume - SV) which in turn lead to a precipitous drop in MAP ( MAP = CO X systemic vascular resistance - SVR). The above series of events resulted in a decrease in cerebral perfusion.",
+    "What is the definition of the term mean arterial blood pressure and how can it be estimated?\n\nThe MAP is defined as the average pressure in the arteries during the cardiac cycle.",
+    "What are the determinants of the mean arterial blood pressure?\n\nThe determinants of MAP are CO and SVR, ( MAP = CO X SVR ) .",
+    "What are the determinants of cardiac output?\n\nThe determinants of CO are HR and SV, ( CO = HR × SV ) ).",
+    "What is the definition of stroke volume?\n\nSV represents the volume of blood that is pumped from the heart with each heart beat (from the ventricles).",
+    "How will this patient’s heart rate affect stroke volume?\n\nBecause the ventricular rate is very fast, the SV will decrease.",
+    "What effect does this patient’s heart rate have on cardiac output?\n\nThe CO is reduced due to the very fast ventricular rate and lack of a properly timed or coordinated atrial and ventricular contraction.",
+    "What are the determinants of cerebral blood flow?\n\nThe determinants of CBF are cerebral perfusion pressure (CPP) and cerebral vascular resistance (CVR), CBF = CPP / CVR.",
+    "What are the determinants of cerebral perfusion pressure?\n\nThe determinants of CPP are MAP and the intracranial pressure (ICP), CPP = MAP – ICP.",
+    "What mechanism is responsible for attempting to restore blood pressure when this patient was at the bank?\n\nThe mechanism is the baroreceptor reflex.",
+    "Why is the patient’s skin cool and clammy?\n\nCutaneous vasoconstriction decreases cutaneous blood flow, reduces heat delivery to the skin which makes the skin cool.",
+    "What is the definition of tachycardia? HR > 100 bpm",
+    "Can you identify P waves, QRS complexes, and T waves on the electrocardiogram? (can use Appendix A, B and C)\n\nIn Appendix A and B, P waves are not visualized, however QRS complexes, and T waves are identified.",
+    "Where in the cardiac conduction does the QRS complex originate from? (Appendix A, B and C)\n\nIn Appendix A, the QRS complex originates from a focus in the ventricular myocardium (purkinje system).",
+    "Can you explain why the QRS complex is wide (>120ms in duration)?\n\nIn this case, the dominant pacemaker of the heart originates from somewhere in the ventricular myocardium / purkinje system outside of the normal conduction pathways.",
+    "What is synchronized cardioversion and how does it differ from asynchronous defibrillation?\n\nCardioversion refers to the passage of a direct electrical current through the myocardium during a particular point in the cardiac cycle.",
+    "How does cardioversion or defibrillation work?\n\nCardioversion or defibrillation is accomplished by passage of a direct electrical current through the myocardium."
+  ],
+  "SBP": [],
+  "ICS": [
+    "History Proper use of open ended questions"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

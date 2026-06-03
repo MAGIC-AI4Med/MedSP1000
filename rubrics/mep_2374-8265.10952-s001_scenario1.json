@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10952-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10952-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask Emily how/why she thinks that her mother discovered her cutting after so many years of doing so in private",
+    "More inquiry about the “scary” chat room to determine if she has actually participated",
+    "Any history of alcohol or drug use"
+  ],
+  "MK": [],
+  "SBP": [
+    "Explain to Emily that conducting out of state regular sessions via a video conference call requires that the psychiatrist be licensed to practice medicine in that state"
+  ],
+  "ICS": [
+    "Ask to speak with Emily alone to express the concerns and explore what deferring would mean to her"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

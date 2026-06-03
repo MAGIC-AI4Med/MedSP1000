@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.10875-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10875-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Sexual history should address sexual behavior, sexual orientation identity and gender identity."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "To start, you could ask\n“Do you have a partner?” or “Are you in a relationship?” instead of asking “Are you married?”\nNext you could ask, “Have you had female partners, male partners, or both?”\nAlternatively, you could start by asking “Are you sexually active?” and then ask, “When you have had sex, what are the genders of your partners?” If patients are confused by this question, you could ask “Do you have sex with men, women, or both?”",
+    "At the end of the sexual history you could ask “Do you have any concerns or questions about your sexuality, sexual orientation, or sexual health?”",
+    "Finally, you should also ask whether patients identify as transgender or have gender-related concerns. For instance, you could say “Since many people are affected by gender issues, I ask patients if they have any concerns about this. If this topic is not relevant to you, tell me and I will move on.”",
+    "The therapist should not have asked a question that assumed heterosexuality.",
+    "As healthcare providers, we should try to use open-ended questions that are gender-affirming and free from heterosexist bias.",
+    "Do not assume that all patients use traditional labels. Several people prefer more inclusive or amorphous labels, or do not like to use labels at all.",
+    "Do not assume sexual orientation based on appearance, sexual behavior or partner’s gender.",
+    "Do not assume sexual behavior or orientation has not changed since the last visit.",
+    "Finally, do not assume transgender patients are gay, bisexual or lesbian.",
+    "Communication with LGBT patients in a manner that is sensitive is not difficult if you listen to how your patients describe themselves and their partners, and then follow their lead.",
+    "If in doubt on how to refer to your patient’s sexual identity or partner, ask the patient what terms they prefer.",
+    "Again, if you are unsure if your patients would be comfortable with you using this language, ask the patient.",
+    "If you do make a mistake and/or the patient seems offended, apologizeand ask the patient what they prefer."
+  ],
+  "PBLI": [
+    "We might need to modify questions that we routinely ask to achieve neutrality and remove bias."
+  ],
+  "PROF": []
+}

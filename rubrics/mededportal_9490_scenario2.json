@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_9490",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9490/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "If the resident attends to the patient’s emotion, this case should end with resident and patient agreeing that the patient will proceed with surgery but if complications arise, his code status will be DNR/DNI, no escalation of care. Resident and patient should discuss:\nPatient’s prognosis from cancer: weeks-months\nPatient’s medical power of attorney\nPatient’s values: Continue to be able to live independently to visit with friends and maintain current quality of life. If he is not able to be independent, discontinue aggressive medical interventions.\nGoal of surgery: prolong life at current level of functional status\nCode status: DNR/DNI",
+    "Made a plan for follow-up"
+  ],
+  "ICS": [
+    "Demonstrated non-verbal empathy",
+    "Demonstrated verbal empathy*",
+    "Assessed the patient’s understanding",
+    "Used open ended questions",
+    "Fired a “warning shot”",
+    "Stated prognosis",
+    "Attempted to elicit patient’s treatment goals",
+    "Discussed treatment options",
+    "Made a clear recommendation",
+    "Was easily understood",
+    "Avoided medical jargon",
+    "Listened attentively",
+    "Invited questions",
+    "Suggested a plan",
+    "Concluded with a review of what had been decided",
+    "Interrupted",
+    "Made recommendation before eliciting patient’s preferences"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

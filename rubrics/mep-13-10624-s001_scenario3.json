@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-13-10624-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10624-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "| **Factual Information** | **Review circumstances of distressing event** |",
+    "| **Emotional Connection** | **What was it like taking care of this patient?**  **What was the most distressing aspect of caring for this patient?**  **What was the most satisfying aspect of caring for this patient?** |",
+    "| **Grief Responses** | **What thoughts or feelings are you experiencing since the distressing event?** |",
+    "| **Conclusion** | **Acknowledge care provided**  **Acknowledge emotional reactions**  **Thank participants for openness**  **Refer to specific resources, if needed**  **Ask how you can tangibly help** |"
+  ],
+  "PBLI": [
+    "| **Strategies for Coping with Grief** | **How do you take care of yourself so you can continue to provide care for other patients and families?**  **What will you do to support yourself as you process this situation?**  **Review available resources** |",
+    "| **Lessons Learned** | **What lessons did you learn from caring for this patient?**  **What will you remember most about this patient/family/case?** |",
+    "What parts of John’s story affect you most?\nWhat part of his story is most difficult?\nWhat aspect of his story is satisfying?",
+    "How would you feel since you, his primary resident, were not in the hospital when John passed away?",
+    "How could you begin to process Jared’s death?\nWould you consider attending John’s funeral?\nHow else could you begin the grieving process if you didn’t have a chance to say goodbye?"
+  ],
+  "PROF": []
+}

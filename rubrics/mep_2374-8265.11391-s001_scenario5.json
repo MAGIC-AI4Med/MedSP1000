@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.11391-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11391-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask anyone with symptoms of trauma",
+    "“This may be contributing to why we are having such a hard time managing your symptoms.”",
+    "Discuss the management of symptoms with the knowledge about their trauma because now you can provide effective interventions."
+  ],
+  "MK": [
+    "Whether the patient discloses the abuse or not, there is still a cause for concern because her asthma is poorly controlled due to her mother not making sure that she has her proper medications, so you could consider this a medical neglect issue.",
+    "This could also be considered supervisory neglect by the mother."
+  ],
+  "SBP": [
+    "2-1-1 List/include SDOH Resources",
+    "Discuss any reporting requirements with a trauma-informed perspective",
+    "If the patient tells you about the sex abuse, then this would trigger a mandatory report to CPS or law enforcement and would require an emergency intervention by CPS.",
+    "State that given that they are a minor, you are required by law to report this to the authorities.",
+    "ALWAYS assess the safety of yourself, your staff, and your patient.",
+    "Get security involved prior to talking to the parent if you think it might turn into an unsafe situation.",
+    "If you feel there is imminent danger, then call law enforcement/hospital security/campus police.",
+    "If you have any suspicion or concern for abuse, neglect, or exploitation (because this is a minor) you should report to CPS or law enforcement as mandated."
+  ],
+  "ICS": [
+    "I am sorry this happened to you.",
+    "I believe you and I can help.",
+    "When the parent returns to the room, you should inform them about your concerns and that you must report this to the authorities."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,44 @@
+{
+  "case_id": "mededportal_10020",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10020/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asks for child to be placed on a monitor",
+    "Quickly assesses ABC",
+    "Recognize a sick child",
+    "Perform a comprehensive neurologic exam",
+    "Naloxone",
+    "20 cc/kg of Normal Saline",
+    "IV Labs",
+    "Fluid bolus",
+    "Accucheck",
+    "Complete Blood Count",
+    "Electrolyte panel",
+    "VBG",
+    "Liver panel",
+    "Lactate",
+    "**Optional**: Ammonia and thyroid functions",
+    "**CT of the head** without contrast",
+    "**LP with high opening pressure**",
+    "Fellow/Resident manages seizure: ABCs and ativan .1mg/kg IV"
+  ],
+  "MK": [],
+  "SBP": [
+    "Delegates responsibilities to team members"
+  ],
+  "ICS": [
+    "Listens carefully to the nurse/tech",
+    "Introduces self to the parents",
+    "Introduces the team",
+    "Listens to Caregiver (mom, grandma and/or dad)",
+    "Asks for more information",
+    "Synthesizes the data and reports back to the team",
+    "Fellow/Resident does not have a conversation with the family or tries to just provide reassurance but does not address the problem.",
+    "Fellow/Resident has ongoing dialogue with family regarding condition and care of the patient.",
+    "Fellow/Resident answers questions while caring for child",
+    "Fellow/Resident answers question but neglects to take care of child"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

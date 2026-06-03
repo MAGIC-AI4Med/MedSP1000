@@ -1,0 +1,49 @@
+{
+  "case_id": "mededportal_579",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_579/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Generate a list of “next steps” the physician would take Evaluate patient’s previous history Evaluate patient for acute MI"
+  ],
+  "MK": [
+    "Questions for physician to ask him/herself: (1) Has this patient be adequately evaluated previously (2) What treatment has he received (3) Why is he failing treatment",
+    "Biomedical bias\n\n(1) Review best evidence a. Diuretics are adequate and cheap treatment of HTN   \n(2) Discuss"
+  ],
+  "SBP": [
+    "Who is your most important support person, and how is he or she involved caring for this illness?",
+    "Are you now a client of any community agencies that could help today?",
+    "Tell me about family or friends that could help us at this time.",
+    "Who, beside the patient, is affected by this illness?",
+    "What are the patient’s personal and family resources that should be used?",
+    "What community resources might be useful in management?",
+    "Does the illness have public health or community implications?",
+    "Potential disparities in health care system that might influence your ability to provide excellent patient care\n\n(1) Adequate follow-up is a problem for patients with and without insurance (2) Patients without insurance and unable to pay up front for follow-up have the most difficulty finding adequate follow-up",
+    "Potential community and/or hospital related resources\n\n(1) Variable depending on patient’s financial status/resources.   \n(2) At this point, risk counseling is an option, but as patient only uses ED for his health care, the ED is a challenging setting for risk counseling.   \n(3) KEY: See if can determine reason why patient does NOT follow-up with primary care physician."
+  ],
+  "ICS": [
+    "What do you think has caused your problem?",
+    "Why do you think it started when it did?",
+    "What do you think your sickness does to you? How does it work?",
+    "How severe is your sickness? Will it have a short or long course?",
+    "What kind of treatment do you think you should receive?",
+    "What are the most important results you hope to receive from this treatment?",
+    "What are the chief problems your sickness has caused for you?",
+    "What do you fear most about your sickness?",
+    "How is your spouse (or children, parents, partner, etc.) affected by this illness?",
+    "What are you hearing from others about your illness?",
+    "Tell me what has changed in your relationships since the illness began.",
+    "How would things be different at home if you were well?",
+    "Is there some special way you deal with problems—reading about them, meditation, pastoral counseling—and how can we put this to work now?",
+    "What emotions might the patient’s family be experiencing: sorrow, anger, abandonment, frustration, guilt?",
+    "Have I, as physician, spoken with key people in my patient’s life?",
+    "Have I appropriately involved the patient and family in resource use decisions?"
+  ],
+  "PBLI": [
+    "By engaging in the care of this patient’s illness, what—if any—might be the effect on me and my family?",
+    "How does that this patient’s response make you, as his physician feel?\n\nA. Are you ok? Frustrated? Joyful? Angry? B. Can you achieve excellence in patient care with this patient?"
+  ],
+  "PROF": [
+    "Potential biases, stereotypes that you and/or physicians with whom you have worked, may have related to this patient (1) This patient does not truly care about his health (2) He will not do anything that I recommend (3) He spends/wastes his money on material things but not on his health (4) He could easily get the help that he needs if he would just make an effort"
+  ]
+}

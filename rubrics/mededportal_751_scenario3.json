@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_751",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_751/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Gathered a pregnancy history addressing\n\nIllnesses (DM, HTN/PIH, infections) in the mother",
+    "Gathered a birth history & newborn hospital stay visit (3 of the following):\n\nType of birth\n\nGestational age\n\nComplications – with birth or in hospital stay (oxygen, jaundice, infections, etc)",
+    "Gathered a newborn feeding history (at least 3 of the following):\n\nHow often?\n\nHow long?\n\nIs milk in? or Engorgement?\n\nLatching on – not painful?\n\nSwallowing with feeding?",
+    "Gathered a voiding & stooling pattern history\n\nStooling: how often, what color/consistency, change in pattern\n\nVoiding: how often",
+    "Asked about depression in the mother"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Introduced self & explained role",
+    "Started with an open-ended question",
+    "Used focused questions to gather further history",
+    "Gave patient time to fully answer",
+    "Directly responded to parent’s anxiety",
+    "Checked information for understanding with the mother",
+    "Completed the interview with a transition statement"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

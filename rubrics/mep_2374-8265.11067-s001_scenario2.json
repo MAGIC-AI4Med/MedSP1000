@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.11067-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11067-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "At the end of this case, the facilitator should ensure that the student has instructed the parent to either take the child to the nearest ED or to call 9-1-1.",
+    "After the completion of the session, the students were asked to document their phone encounter as they would in a medical record."
+  ],
+  "ICS": [
+    "The student should confirm parental understanding."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

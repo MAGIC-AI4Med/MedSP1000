@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_10227",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10227/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Performs focused history and exam based on reported ingestion",
+    "Starts resuscitation with IVF",
+    "Performs intubation secondary to declining mental status",
+    "Initiates sodium bicarbonate for QRS widening"
+  ],
+  "MK": [
+    "Obtain ECG and recognizes Na-channel blockade/QRS widening",
+    "Considers/discusses utility of activated charcoal"
+  ],
+  "SBP": [
+    "Appropriate disposition to ICU",
+    "Discuss case with consultants (critical care for admission, poison center for management recommendations)"
+  ],
+  "ICS": [
+    "Communication present between team members",
+    "Appropriate division of tasks"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

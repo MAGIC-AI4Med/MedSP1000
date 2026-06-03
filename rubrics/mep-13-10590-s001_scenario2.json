@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-13-10590-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10590-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Would you resolve the dilemma differently if faced with a similar case in the U.S.? Why or why not?",
+    "To what degree do you have an obligation to develop or discuss a safety plan with the woman about whether or not the information on HIV status should be shared?"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": [
+    "Which ethical concerns do you think are the main source of the conflict? How would you go about reconciling the competing ethical concerns?",
+    "Who will be affected by your decision, and whose interests does your resolution prioritize?",
+    "Do you think you should always push for treatment in such cases, regardless of the social consequences this might have for the patient? Please explain your thought process.",
+    "Appropriate responses would include some of the following relevant ethical principles and concepts:\n\n* Non-maleficence\n* Beneficence\n* Utilitarian concerns (trying to figure out which action will yield better consequences for the woman and her baby)\n* Conflicting professional obligations (the duty to provide treatment vs. the duty to help create the best state of affairs for the patient)"
+  ]
+}

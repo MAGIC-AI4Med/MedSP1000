@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_10157",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10157/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Did the teacher obtain a commitment from the learner (i.e. teacher asks question that requires learner to provide a proposed assessment/diagnosis/treatment)?",
+    "Did the teacher explore the student’s rationale for their answers?",
+    "Did the teacher correct mistakes?",
+    "Did the teacher reinforce or give positive feedback for things done well?",
+    "Was the teacher able to teach a general principle? (versus specific facts)",
+    "Did the teacher make good eye contact with the learner?",
+    "Did the teacher use hand gestures while speaking?",
+    "Did the teacher listen, as well as talk?",
+    "Did the teacher use good facial expression and show lots of energy in the discussion?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

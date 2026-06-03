@@ -1,0 +1,33 @@
+{
+  "case_id": "mep-12-10509-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10509-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "HPV is now vaccine preventable but there are still low rates of completion of HPV vaccination.",
+    "HIV prevention is complex and involves:\nEducation, Behavioral interventions\nPrEP (Pre-Exposure Prohylaxis), PEP (Post-Exposure Prophylaxis)\nTreatment as Prevention\nTreating those that are HIV infected can significantly reduce transmission to other.\nBarrier Methods (Condoms)"
+  ],
+  "MK": [
+    "Biopsy shows squamous cell carcinoma of the rectum, stage IV.",
+    "This patient is on a more complex anti-retroviral regimen (not the standard 3 drugs) due to long standing HIV infection for someone who was diagnosed during the early development of HIV treatment with development of resistance.",
+    "From a medical standpoint, his HIV is well controlled and not the cause of his immediate medical concerns. Persons infected with HIV, however, are at greater risk for other non-AIDS related diseases due to issues related to marginalization, access to care, immune dysfunction, chronic inflammation and other risk behaviors that can accompany HIV acquisition.",
+    "No vaccine currently for HIV."
+  ],
+  "SBP": [
+    "The current health system is set-up to provide excellent acute care for his malignancy but is limited in its ability to address prevention, screening, and chronic care needs.",
+    "Need for integration of care involving social work, care management, nutrition, physical therapy, etc. to address current needs.",
+    "This is an opportunity to talk about:\nHealth Inequities: avoidable inequalities in health between groups of people within countries and between countries that arise from inequalities within and between societies), and\nHealth Disparities: differences in health outcomes across subgroups of the population often linked to social, economic, or environmental disadvantages (e.g., less access to good jobs, unsafe neighborhoods, lack of affordable transportation options, etc.)",
+    "Elderly LGBT individuals face additional barriers to health because of isolation and a lack of social services and culturally competent providers. (Healthy People 2020)",
+    "“LGBT older adults had higher risk of disability, poor mental health, smoking, and excessive drinking than did heterosexuals. Lesbians and bisexual women had higher risk of cardiovascular disease and obesity, and gay and bisexual men had higher risk of poor physical health and living alone than did heterosexuals. Lesbians reported a higher rate of excessive drinking than did bisexual women; bisexual men reported a higher rate of diabetes and a lower rate of being tested for HIV than did gay men.” (Fredricksen-Goldsen, et al.Am J Public Health. 2013)",
+    "CDC HIV Fast Facts:\nAfrican Americans are the racial/ethnic group most affected by HIV.\nThe rate of new HIV infection in African Americans is 8 times that of whites based on population size.\nGay and bisexual men account for most new infections among African Americans; young gay and bisexual men aged 13 to 24 are the most affected of this group.",
+    "50,000 new HIV infections each year in US.",
+    "Gay black men at highest risk of new HIV infections.",
+    "Cascade of Care where only 30% of patient in the US with HIV have a suppressed viral load despite effective and available meds.",
+    "Students should generate a list of resources at the local, state, and national levels that are needed to effectively address HIV care and prevention?"
+  ],
+  "ICS": [
+    "Patient in this case expressed hesitation to discuss certain medical issues with medical providers, which can lead to a delay in diagnosis and can highlight barriers to care for marginalized populations."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

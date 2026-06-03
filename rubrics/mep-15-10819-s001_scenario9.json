@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "Planning/problem-solving: For right now, you could try some lubricants to help with the discomfort the next time. I think the best way to go now is for both of you to see a sex therapist, especially one who specializes in cancer patients. There is a lot that can be done in this situation to re-establish the physical closeness you had before."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Learner should use open ended question, ideally with lead-in comment: “There’s a lot going on with you right now; I was wondering how things are going with Peter.”",
+    "Learner should echo “but…” or ask for more information.",
+    "The learner should ask what “this” is.",
+    "Validation: Your sense of loss is understandable/valid/normal.",
+    "Reflection: A lot of issues are having an impact on your sexual relationship. You are fatigued and have the hair loss. Because of the hair loss you feel unattractive. When your ovaries were taken out you lost more estrogen, which is the reason you are having more flashes and you can get vaginal dryness also which causes discomfort.",
+    "Reassurance: Remember that when you complete treatment your hair will grow back, and the fatigue will resolve. Remember how good shape you were in, so you should come back to yourself pretty soon."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

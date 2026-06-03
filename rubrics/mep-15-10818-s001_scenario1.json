@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-15-10818-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10818-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "AS should receive an HIV screening to ensure he is HIV-negative. Along with this test, he should also have an STD/STI screening panel. AS should also have a kidney function test to ensure his kidneys are functioning well-enough to safely take PrEP.",
+    "There is more information needed here as well. AS should be asked what he means by ‘monogamous.’ Different people have different definitions for this term, and it may involve additional partners with the consent of both AS and his partner, or a similar arrangement. AS should also be asked to give further information about his use of protection with his partner or any other sexual encounters."
+  ],
+  "MK": [
+    "From the information provided in this case, it sounds like AS may qualify for PrEP. We cannot make a definitive determination yet.",
+    "Importantly, if a patient asks about PrEP and feels they are at risk for HIV, they should be considered a PrEP candidate."
+  ],
+  "SBP": [
+    "The high medication copay mentioned in this case makes AS a good candidate for the Gilead® copay assistance program, which is administered nationally. He would likely qualify for state-level assistance programs as well given that he is a student."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import time
 from pathlib import Path
 from typing import Any, Iterable
@@ -12,6 +13,28 @@ from .console import ConsoleLogger, preview_text
 
 
 DEFAULT_CONFIG_PATH = Path(__file__).resolve().with_name("config.yaml")
+
+# 匹配 ${VAR} 与 ${VAR:-default} 两种形式（与 bash 同义）。
+_ENV_VAR_PATTERN = re.compile(r"\$\{([A-Za-z_][A-Za-z0-9_]*)(?::-([^}]*))?\}")
+
+
+def _expand_env(value: Any) -> Any:
+    """递归把 config 字符串里的 ${VAR} / ${VAR:-default} 替换成环境变量值。
+
+    这样仓库里的 config 只需写占位符，真实密钥通过环境变量注入，绝不进版本库。
+    未设置且无默认值的变量替换为空字符串（让下游的 None/空判断照常生效）。
+    """
+    if isinstance(value, str):
+        def _sub(match: "re.Match[str]") -> str:
+            var_name, default = match.group(1), match.group(2)
+            return os.environ.get(var_name, default if default is not None else "")
+
+        return _ENV_VAR_PATTERN.sub(_sub, value)
+    if isinstance(value, dict):
+        return {key: _expand_env(item) for key, item in value.items()}
+    if isinstance(value, list):
+        return [_expand_env(item) for item in value]
+    return value
 
 
 def _resolve_config_path(config_path: str | None = None) -> Path:
@@ -37,7 +60,7 @@ def _resolve_config_path(config_path: str | None = None) -> Path:
 def load_config(config_path: str | None = None) -> dict[str, Any]:
     path = _resolve_config_path(config_path)
     with path.open("r", encoding="utf-8") as file_obj:
-        return yaml.safe_load(file_obj) or {}
+        return _expand_env(yaml.safe_load(file_obj) or {})
 
 
 def _extract_content(content: Any) -> str:

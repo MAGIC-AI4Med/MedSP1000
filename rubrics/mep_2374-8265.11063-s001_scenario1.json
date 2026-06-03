@@ -1,0 +1,42 @@
+{
+  "case_id": "mep_2374-8265.11063-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11063-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "1. Elicit elements of the History of chief complaint 2. Onset- *2 weeks ago* 3. Location- *tightness across the whole front of the chest* 4. Duration – *2 weeks*   Chronology- *worsening*   1. Character*- can’t get air fully into her lungs* 2. Aggravating factors*- Being outdoors, gardening* 3. Relieving factors- *Staying indoors, using inhaler* 4. Severity- *Tightness in chest ranges between 5-7/10 when it occurs*   h) Associated Symptoms – *Dry cough, wheezing*",
+    "4. Medications-*Hydrochlorothiazide, Albuterol*",
+    "5. Allergies- *Cats, sensitive to air pollution*",
+    "6. Past Medical History   1. Medical illnesses-*High blood pressure, asthma* 2. Hospitalizations-*for pneumonia in her 30’s* 3. Surgeries- *none*",
+    "7. Family History- Parents, siblings, grandparents   1. *Mother, died of stroke age 77, Father, Died of heart disease age 75, sister has asthma, brother has high blood pressure*",
+    "8. Social History   1. Tobacco - *smoked 1ppd for 20 year. Stopped 28yrs ago* 2. Alcohol *– 1-2 glasses wine occasionally on the weekend* 3. illicit drugs – none 4. diet and exercise – *eats healthy, walks regularly* 5. occupation – *retired office manager* 6. hobbies - *gardening* 7. relationship status/support system -*widowed, 2 sons*",
+    "9. Relevant review of Systems  General- *fatigue*  ENT- *Burning sensation in throat when outside*  Cardiovascular- *no symptoms*  Respiratory*- Dry cough, wheezing*",
+    "10. Inquiries about environmental risks-*proximity to wildfire*",
+    "1. Student palpated radial pulse",
+    "1. Students checked hands for clubbing and cyanosis",
+    "1. Student checked for JVD",
+    "1. Student palpated PMI",
+    "1. Student auscultated mitral, tricuspid, aortic & pulmonary valves on skin",
+    "1. Student auscultated posterior chest wall in at least 6 areas (upper, mid, and lower zone) on skin",
+    "1. Student checked for chest excursion",
+    "1. Student percussed the posterior chest wall in total of 8-10 spots",
+    "1. Student examined the oral cavity and nasopharynx",
+    "1. Student checked for lower extremity edema",
+    "Immediate Care\n\n* Immediate treatment with short acting beta agonist (SABA)\n* Administer first dose of corticosteroids\n* Monitor peak flow and clinical status to determine disposition\n* Consider CXR to evaluate for signs of pneumonia or infectious process\n* Assess patient’s mental health in the context of anxiety over progression of her disease, isolation, dependence on others and financial limitations",
+    "Upon discharge\n\n* Add short course of oral steroids\n* Add inhaled steroid\n* Review inhaler technique to confirm correct use"
+  ],
+  "MK": [
+    "Asthma exacerbation due to air pollution related to wildfire- known history of intermittent asthma, and sensitivity to environmental smoke. No chest pain, no recent tobacco use, no fever or chills, and nonproductive cough. Symptoms are worse when outdoors and exposed to smoke from wildfires which have been more intense and longer lasting than in the past. Higher amounts of particulate in the atmosphere and sustained smoke in air are provoking her symptoms. She gets some relief with avoiding outside air and the use of an albuterol inhaler. Physical exam reveals wheezing and diminished peak flow from baseline.",
+    "* Bronchitis: remote history of tobacco but no fever or significant sputum production.\n* COPD: remote history of tobacco but no significant sputum production. Baseline spirometry not consistent with COPD (FEV1 >80%, FEV1/FVC ratio > 70%).\n* Pneumonia: no fever, chills, improves indoors and with inhaler, no significant sputum production"
+  ],
+  "SBP": [],
+  "ICS": [
+    "1. Elicit patient’s perspective about the illness   Personal context (i.e. how the condition has affected your life)-  *Unable to garden or go outdoors or going through inhalers*  Emotional context (i.e. how the condition makes you feel  *Worried about inability to garden or visit with friends/ family or cannot afford to relocate*",
+    "Patient Education\n\n* Educate on use of peak flow meter and determine an Asthma Action Plan\n* Discuss avoidance of exertion and reduction of outdoor activity such as gardening on poor air quality days\n* Recognize that these environmental events which have been in existence are now more intense and will be a recurrent problem\n* Monitor daily Air Quality Index, outdoor avoidance if >100\n* Direct patient to an inexpensive mask that will filter pollen and particulates. Need N-95 non-medical grade masks which are available at hardware and home improvement stores or high-quality filters for home HVAC which can filter damaging fine particles Need to assure fit.\n* Advise patient that although environmental conditions are more severe, they are seasonal, so outdoor activity restrictions are time bound. Ongoing monitoring of air quality will be required.\n* Recognize emotional distress provoked by wildfire and climate conditions and provide a referral for social work and community services to address medication needs, grocery delivery and emotional support through behavioral health providers or support groups\n* Provide contact for the national Disaster Distress Helpline, which provides counseling for people experiencing emotional distress related to human caused or natural disasters."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "1. Student washed hands or used sanitizer",
+    "1. Student used proper draping throughout the examination"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_id": "mep_2374-8265.11368-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11368-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Cigarette smoking",
+    "Migraine with aura",
+    "History of blood clots (DVT/PE)",
+    "BONUS: Hypertension",
+    "BONUS: Ischemic heart disease",
+    "BONUS: Current breast cancer",
+    "BONUS: less than 6 weeks postpartum (*e.g.*, assessed whether patient had any previous pregnancies)",
+    "Asked when last menstrual period began",
+    "Asked about patient's typical menstrual cycles (*e.g.*, regularity, heaviness, pain)",
+    "BONUS: Assessed satisfaction with current menstrual cycles",
+    "Asked about prior use of any methods",
+    "BONUS: Asked about satisfaction with prior methods",
+    "Assessed partners and practices",
+    "Assessed consistency of barrier method use",
+    "Asked about history of STIs",
+    "BONUS: Assessed knowledge about STI risk",
+    "BONUS: Assessed condom use self-efficacy",
+    "BONUS: Assessed satisfaction with sex life",
+    "BONUS: Screened for reproductive coercion",
+    "Assessed patient’s confidence and ability to use method correctly and consistently (*e.g.*, explored potential barriers to use)"
+  ],
+  "MK": [
+    "The student should recognize that combined hormonal contraceptive methods are contraindicated due to the history of migraine with aura."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Letting me say what mattered to me about my birth control method",
+    "Taking my preferences about my birth control seriously",
+    "Giving me enough information to make the best decision about my birth control method",
+    "Mirrored language",
+    "Communicated without medical jargon",
+    "Identified patient's reproductive goals (*e.g.*, desire for and timing of future pregnancy)",
+    "Explored patient’s preferences for features of contraceptive methods (*e.g.*, desire for/tolerance of amenorrhea; acceptance of hormones)",
+    "Communicated method effectiveness and/or pregnancy risk clearly",
+    "Suggested additional methods in line with patient’s values",
+    "Checked understanding",
+    "Addressed concerns and/or misconceptions respectfully",
+    "Summarized plan for next steps in line with patient's goals"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Respecting me as a person",
+    "Approached sensitive subject matters without judgment"
+  ]
+}

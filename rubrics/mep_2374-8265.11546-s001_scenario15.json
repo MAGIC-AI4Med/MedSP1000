@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11546-s001",
+  "scenario": "scenario15",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11546-s001/scenario15",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "With more acute clinical declines, particularly when you suspect that death is imminent and code status discussions are urgent, it’s okay to provide a recommendation based on what you believe is medically appropriate for the patient. You may have accumulated information regarding who the patient is during their stay, which can help to inform these recommendations."
+  ],
+  "ICS": [
+    "Sit at eye level.",
+    "Introduce the subject and ask for permission to proceed:\n“I’d like to discuss something with you that I discuss with all patients I admit to the hospital. Is that okay?”\n“I’d like to talk with you about possible healthcare decisions in the future. Is that okay?”",
+    "“First, I like to be sure we’re on the same page.”",
+    "Ask open-ended questions:\n“Can you tell me about your health?” or “What do you understand from what the teams have shared with you about your health?”",
+    "If the patient is open to it, fill in any details that may be missing:\n“Is it okay if I share with you what I know?”",
+    "Introduce the topic and provide a basic definition.\n“I want to talk to you about something called code status. This provides directions to your medical team about what we should or shouldn’t do if you were to unexpectedly become very ill and your heart stopped beating.”",
+    "Ask what they know or may like to know about code status and explain in simple terms.\n“If a patient’s heart stops beating, we sometimes press firmly on their chest to pump blood through their body, use electricity to shock their heart back into beating, and place a breathing tube in their windpipe.”\n“Unfortunately, this does not always lead to recovery or survival. In fact, only about 1 in 7 people survive CPR and are discharged from the hospital. Some of these may experience complications related to CPR, including permanent neurological and functional impairment.”\nDon’t be afraid to describe resuscitative efforts in the context of their illness! Survival is decreased with advanced illness.\n“Sometimes my patients will say they wouldn’t want these things, which is why I ask.”",
+    "Don’t forget to respond to any emotion you encounter along the way!",
+    "Emotions can sometimes be masked as cognitive questions—respond with an empathic statement; don’t fall into the trap of trying to answer the question!",
+    "It is important to acknowledge the emotional response in a patient/family member during these discussions and recognize when the conversation may need to be tabled for another time. For example, it is completely acceptable to say “thank you for taking the time to discuss this difficult topic with me. For now, we will keep the code status as “xxxx,” but we can always revisit this discussion at a different time or if circumstances change.”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

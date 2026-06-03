@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_9128",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9128/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "History of the Labouring Obstetrical Patient\nGTPAL\nGestational age\nDegree of prenatal care (e.g., IPS, MSSS, ultrasounds, last medical appointment)\nInfection status (e.g., GBS, HIV)\nMedical conditions associated with pregnancy (e.g., gestational diabetes, pre-eclampsia)\nFetal well-being (e.g., fetal movement)\nCurrent vaginal bleeding or leaking fluid from vagina\nOnset and frequency of contractions (if present)\nPast medical history\nCurrent medications\nAllergies\nDistance from home to hospital",
+    "Physical Exam of the Labouring Obstetrical Patient\nVitals\nSpeculum exam for presence of fluid\nCervical assessment:\nDilation Effacement Fetal station Consistency . Position\nAssessment of fetal well-being\nFetal tracing",
+    "Management of Shoulder Dystocia*\nMcRobert’s maneuver (may be done in conjunction with suprapubic pressure)\nFlexion of maternal legs against abdomen\nSuprapubic pressure\nWood’s/corkscrew maneuver Apply pressure to scapula of posterior shoulder to try to rotate it into the anterior position\nInsert hand into vagina, grasp posterior arm and move it across the chest (results in delivery of posterior shoulder and displacement of anterior shoulder from behind pubic symphysis) May result in fractured humerus\nFracture of one or both clavicles\nZavanelli maneuver Push fetal head back into vagina and prepare for c/s (may require uterine relaxant)\n*Note these are listed in the order that they should be attempted",
+    "From start to finish, the steps of a spontaneous vaginal delivery are reviewed, from the time you arrive in the room.\nPut on gloves\nSet-up tray\n$+ / -$ support perineum\nControl the head\nWatch for restitution\nCheck for cord\nDeliver anterior shoulder\nDeliver posterior shoulder\nBaby onto bed or onto mom\nClamp and cut cord\nCord samples\nPlace green towel on mom\nSupport uterus and apply gentle traction on cord\nDeliver placenta\nAdminister oxytocin (or with anterior shoulder)\nCheck placenta\nCheck lacerations\nRepair lacerations $( + / -$ local anesthetic)\nCheck uterine fundus one last time\nClean up",
+    "Finally, time permitting, the basic steps to neonatal resuscitation could be discussed, demonstrated, and practiced by the students.\nWarm Dry Suction\nFree-flow oxygen\nCPAP/ Positive pressure ventilation prn\nIntubate prn"
+  ],
+  "MK": [
+    "What is the definition of labour and how does it differ from “false labour”?",
+    "List 3 ways in which ruptured membranes can be confirmed.",
+    "What is the next step in the evaluation of the patient to decide on whether she should be admitted to a case room?",
+    "Noelle’s nurse comments that her BP is 130/90. Is this pre-eclampsia or anxiety?",
+    "Name 2 blood tests you would order for a patient with suspected pre-eclampsia.",
+    "List 3 methods of pain control in labour.",
+    "What are 2 ways in which labour can be induced and/or augmented?",
+    "List 3 features of a normal fetal heart rate tracing.",
+    "Noelle is fully dilated. When should she start pushing?",
+    "What are 3 prerequisites for an assisted vaginal delivery?",
+    "List 3 indications for cesarean section."
+  ],
+  "SBP": [
+    "Students should arrive at the decision that the patient should be admitted."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

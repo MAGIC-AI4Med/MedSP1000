@@ -1,0 +1,33 @@
+{
+  "case_id": "mep_2374-8265.11444-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11444-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Check that the core body temperature is greater than or equal to 35° C (95°F)",
+    "Confirm absence of spontaneous or induced cerebral motor response to painful stimulation within the cranial nerve distribution.",
+    "Confirm decerebrate and decorticate responses or seizures are absent.",
+    "Confirm absence of pupillary response to a bright light in both eyes.",
+    "Confirm the absence of corneal reflexes and spontaneous eye movements.",
+    "Confirm absence of eye movements in response to vestibular stimulation by cold caloric testing.",
+    "Confirm absence of eye movements in response to oculocephalic reflex testing.",
+    "Check absence of gag reflex in response to stimulation of posterior pharynx.",
+    "Check absence of cough reflex in response to deep bronchial suctioning.",
+    "Confirm absence of spontaneous respiration at pCO2 greater than or equal to 60 mmHg and an increase in pCO2 of greater than or equal to 20mmHg above pre-apnea test level. Evident respiratory acidosis at the completion of the apnea test."
+  ],
+  "MK": [],
+  "SBP": [
+    "Explain the relationship between the clinical team and the organ procurement organization (OPO), (i.e., the OPO is not involved with death determination."
+  ],
+  "ICS": [
+    "Use the term “death” instead of “brain death.”",
+    "Assess the spouse’s understanding of the patient’s diagnosis and prognosis",
+    "Avoid using language that suggests the patient is alive, (e.g., describing a brain-dead patient on life support).",
+    "Omit medical jargon)",
+    "Emphasize that recovery is impossible.",
+    "Provide emotional support to the spouse.",
+    "Give the spouse opportunities to ask questions."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

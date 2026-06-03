@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_1085",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1085/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Begins with ABC’s (must demonstrate or state that they are evaluating the airway/breathing and circulation)",
+    "Obtains sufficient history (Majority of: injury history including head injury, helmet use, +/- LOC, current complaints, medical/cardiac hx)",
+    "Place on monitors (cardiorespiratory and pulse oximetry)",
+    "Asks for IV access to be obtained",
+    "Asks for pain medication (morphine, etc)",
+    "Conducts exam for other signs of trauma",
+    "Asks for 12-lead EKG",
+    "Assesses injured leg for pulse/bleeding",
+    "Asks for 20 cc/kg IV fluid bolus",
+    "Prepares equipment (Bag/Mask, defibrillator to bedside, EKG on during cardioversion)",
+    "Considers vagal maneuvers",
+    "Gives repeated doses of adenosine (0.1, 0.2 mg/kg) until rhythm returns to sinus (any adenosine use gets credit)"
+  ],
+  "MK": [
+    "Recognizes tachycardia",
+    "Recognizes rhythm is SVT"
+  ],
+  "SBP": [
+    "Calls cardiology consult (w/o prompting and before adenosine is given)",
+    "Disposition to telemetry"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

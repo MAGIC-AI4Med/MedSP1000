@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_10173",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10173/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Appropriate treatment of hypothermia",
+    "Appropriate treatment of a neonate withhypothermia i.e. sepsis",
+    "IV steroids given",
+    "Blood glucose checked upon arrivaland when pt deteriorates",
+    "Did the care improve the patient'scondition?",
+    "Not treating fluid resistant hypotension with vasopressor agents",
+    "Failure to give atropine when intubating the patient"
+  ],
+  "MK": [
+    "Recognition of other causes ofhypothermia - adrenal insufficiency",
+    "Correct interpretation of labs/radiographic studies, intubating whenappropriate"
+  ],
+  "SBP": [
+    "PICU is consulted as well as endocrine",
+    "Pt is taken to the PICU"
+  ],
+  "ICS": [
+    "Formation of a team"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

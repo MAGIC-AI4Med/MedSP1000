@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_9664",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9664/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Each discipline learner will interview and assess the oral-systemic health care needs of the patient in accordance to discipline standards."
+  ],
+  "MK": [
+    "Describe the bidirectional relationship of oral disease and type-2-diabetes.",
+    "Discuss (individual and team) systemic disease management strategies to mitigate oral disease.",
+    "Discuss (individual and team) oral disease management strategies to mitigate systemic disease."
+  ],
+  "SBP": [
+    "The goal of the visit is for each healthcare discipline to assess the oral-systemic manifestations and formulate an interprofessional treatment plan.",
+    "Discuss their individual and team role in assessment of oral disease."
+  ],
+  "ICS": [
+    "Each discipline team member will introduce him/her self as well as indentify the discipline they represent to the patient.",
+    "Discuss the team dynamics in development of an interprofessional care plan."
+  ],
+  "PBLI": [
+    "Each health care professional learner is asked to reflect and provide examples of the team development steps that emerge during the encounter.",
+    "Reflect on their individual role to assess bidirectional relationship."
+  ],
+  "PROF": []
+}

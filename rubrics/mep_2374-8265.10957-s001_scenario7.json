@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.10957-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10957-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Diagnostics: A lateral neck radiograph is indicated to evaluate the upper airway, specifically to look for radiographic findings to suggest one of the above entities (esp. croup, bacterial tracheitis, retropharyngeal abscess, and aspirated foreign body). If the radiograph is nondiagnostic, direct inspection of the airway by an otolaryngologist may be needed, especially if the patient is hypoxic. Viral testing is typically not helpful in guiding the treatment plan unless it is influenza season, in which case influenza rapid antigen testing or PCR testing is indicated, as this condition is treatable. Other situations in which testing may impact the treatment plan and be warranted include nonvaccinated or undervaccinated patients (in which measles and pertussis are special considerations) or patients recently exposed to someone infected with measles or pertussis. A nasopharyngeal swab to test for respiratory viruses using a PCR panel is sometimes undertaken in these cases, especially if presentation of disease is not entirely typical of viral croup.",
+    "Management: if croup is suspected and the patient has inspiratory stridor at rest, inhaled racemic epinephrine treatments should be administered for relief of acute airway obstruction. Systemic steroids (dexamethasone) are also indicated, for sustained anti-inflammatory effects."
+  ],
+  "MK": [
+    "The diagnosis for this case is acute viral laryngotracheitis (croup) due to one of the parainfluenza viruses (1, 2, or 3); this diagnosis is suggested by the harsh, barky cough and inspiratory stridor, preceded by several days of viral upper respiratory tract symptoms. Other viruses that can cause croup include influenza virus, respiratory syncytial virus, adenovirus, human coronavirus, rhinoviruses, human metapneumovirus, and measles virus (where endemic).",
+    "Bacterial infections of the upper airway that can cause a similar clinical presentation include acute bacterial tracheitis, the most common etiologies of which are *Staphylococcus aureus, Streptococcus pyogenes*, and *Streptococcus pneumoniae*; epiglottitis (such patients typically lack the barky cough, and they tend to drool, maintain a sniffing posture with a tripod stance, and are very ill appearing); and deep neck abscesses impinging on the upper airway (e.g., retropharyngeal abscesses—such patients tend to have cervical lymphadenopathy and decreased neck range of motion; and peritonsillar abscesses, which are typically evident on oropharyngeal exam). Another consideration in young patients with cough is pertussis, especially if patient is not immunized. An important noninfectious condition in the differential diagnosis for this case is foreign body aspiration, which is a common cause of acute stridor in children of this age group."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

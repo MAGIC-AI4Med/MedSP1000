@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-12-10444-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10444-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Clarifies Patient Response  (summarizes, checks for accuracy)",
+    "Elicits all concerns  (provides support, identifies hidden concerns)",
+    "Respects Patient  (shows concern, acknowledges patient emotions)",
+    "Verbal Skills  (pauses, avoids jargon)",
+    "Non-verbal Skills  (eye contact, body position, conveys interest)",
+    "Explain that high A1c indicates diabetes is poorly controlled and describe treatment options?",
+    "Explore patient's specific concerns about insulin?",
+    "Attempt to engage patient in making decision re: insulin?",
+    "Respond to your concerns about insulin?",
+    "Give you reasons for specifically wanting to start insulin (more likely to successfully bring your A1c down)?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

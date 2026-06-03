@@ -1,0 +1,37 @@
+{
+  "case_id": "mededportal_9218",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9218/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Are you sexually active?",
+    "Do you have sex with men, women, or both?",
+    "When was your last sexual contact?",
+    "What type of contact did you have? Any question about the type of sex?",
+    "Did you use condoms or other barrier methods of protection? Did you have unprotected sex? Question about birth control?",
+    "Did you notice any sores or rashes on your partner(s)?",
+    "Have you ever had or been tested for any sexually transmitted disease?",
+    "Would you like to be tested today?"
+  ],
+  "MK": [
+    "Cervical CA risk factors?\n\nNumber of sexual partners:",
+    "Cervical CA risk factors?\n\nUnprotected sex?",
+    "Cervical CA risk factors?\n\nImmunosuppression?",
+    "Cervical CA risk factors?\n\nAge first coitus?",
+    "Cervical CA risk factors?\n\nh/o STD ?",
+    "Cervical CA risk factors?\n\nCigarette smoking?",
+    "Which of the following counseling options was most pertinent to Ms Bonder’s care?",
+    "Based on her sexual history, which of the following safe-sex practices should Ms. Bonder be counseled for? Check all that apply?",
+    "Assume that today’s Pap is normal. How often should Ann get a Pap smear?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "The student told me that I should use barriers methods (due to STDs being sexually transmitted)",
+    "When introduced by me or the student, the student either told me I was out of the age range for Guardasil or said they would check with their attending to\nfind out.",
+    "Did you ever feel uncomfortable during the course of the encounter?",
+    "Did the student ever appear uncomfortable during the course of the encounter?",
+    "Of the options below, which would be the best choice to reassure Ann that she is unlikely to suffer the effects of cervical cancer that her mom has endured?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

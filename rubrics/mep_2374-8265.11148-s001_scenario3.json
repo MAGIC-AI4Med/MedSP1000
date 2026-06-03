@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11148-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11148-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Elicit open-ended history about CC / HPI",
+    "Elicit 5 P’s: \\_\\_ Partners, \\_\\_\\_ Practices, \\_\\_ Past history of STI testing & diagnoses,\n   \\_\\_\\_ Protection from STI, \\_\\_\\_ Pregnancy Plans",
+    "[FYI] the PROVIDER should offer the following tests:\n\n**HIV serology** – HIV negative with >1 partner since the last STI check\n**RPR**– diagnostic testing to rule out secondary syphilis Pityriasis rosea\n**Urethral, Vaginal, or Cervical and Oropharyngeal Chlamydia / Gonorrhea** – Receptive vaginal sex (urethral or vaginal, or endocervical) and receptive oral sex (oropharyngeal)."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Elicit and use inclusive and patient preferred language",
+    "Normalize asking sensitive questions",
+    "Establish confidentiality",
+    "Recognize non-verbal clues"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Maintain professionalism, open-mindedness, non-judgmental tone, respect"
+  ]
+}

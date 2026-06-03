@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.10909-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10909-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "What research question could help address the issue posed by the above case? Is there benefit to prescribing Tamsulosin or another medical expulsive agent to help improve the chance of stone passage?",
+    "What type of study would you conduct to answer that question? Why? RCT. Minimizes bias. Important to emphasize: generalizability is dependent on the study population, and in this case, there was a diverse group of participants.",
+    "What outcomes would be important to you? How about to the patient? Passage of stone, need for surgery/procedures, time to return to work. For patient: pain, time to return to work, need for surgery/procedures.",
+    "Key points to emphasize: 1) These findings are consistent with another recent trial (Pickard et al 2015), 2) $3 / 4 s$ of the study group had stones less than $4 \\mathrm { m m }$ in size, so it’s unclear if there’s significant benefit for the $4 { \\cdot } 9 \\mathrm { m m }$ crowd, 3) a recent study from China showed significant benefit with Tamsulosin for patients with $5 { - } 9 \\mathrm { m m }$ stones. So while there’s emerging data that suggest a1-blockers for small stones $\\left( < 5 \\mathrm { m m } \\right)$ is probably unnecessary, there could still be benefit for patients with larger stones."
+  ],
+  "SBP": [
+    "A: We need to make sure they have not developed urosepsis (a clinical dx) or obstruction (a dx made with CT or US). If the stone is ${ > } 1 0 \\mathrm { m m }$ , it warrants Urological consultation."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

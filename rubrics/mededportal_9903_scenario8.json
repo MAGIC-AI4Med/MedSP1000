@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_9903",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9903/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the fellow comprehensively examine the patient? (e.g. assess for delirium using CAM or other tool?)",
+    "The fellow created an appropriate treatment plan to treat an acute condition.",
+    "The fellow was able to outline measures that could also be taken to assure comfort care."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Did the physician introduce him/herself to the patient and her son?",
+    "Did the patient’s son feel respected by the physician?",
+    "Was the patient’s son able to express his mother’s wishes to the physician?",
+    "Did the patient’s son understand questions asked by the physician?",
+    "Did the patient’s son understand answers given by the physician?",
+    "Did the patient’s son feel that he was an active part of the decision making?",
+    "Did the fellow comprehensively interview the patient’s son?",
+    "The fellow was able to obtain the patient’s wishes through the patient’s son.",
+    "The fellow was able to address the patient’s son’s concerns.",
+    "The fellow was able to explain the patient’s status and expected prognosis to the patient’s son?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

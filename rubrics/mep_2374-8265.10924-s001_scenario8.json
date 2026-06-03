@@ -1,0 +1,44 @@
+{
+  "case_id": "mep_2374-8265.10924-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10924-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain intravenous (IV) access, place on monitor, apply oxygen, and obtain vital signs",
+    "Collect adjuncts and difficult airway equipment (Naso-pharyngeal airway (NPA), oral-pharyngeal airway (OPA), stylet, bougie, scalpel/cricothyrotomy kit)",
+    "Attempt to pre-oxygenate with non-rebreather or nasal cannula at high flow rate",
+    "Suction out airway secretions",
+    "Provide bag-valve-mask (BVM) ventilations",
+    "Achieve mask seal with minimal leak",
+    "Avoid compressing airway, lift face into mask",
+    "Provide measured administration of breaths (over 1 second)",
+    "Avoid hyper (>20 breaths/min) or hypo (<12 breaths/min) ventilation",
+    "Use adjuncts as necessary (NPA, OPA) to assist in pre-oxygenation",
+    "Assemble equipment, at minimum: BVM attached to O2, suction, laryngoscope (confirmed functional), endotracheal tube (size 7.0-8.0, confirmed intact balloon), stethoscope",
+    "Recognize and utilize an acceptable sedative at correct dose for RSI:Eg Etomidate, 0.2-0.4mg/kg IV, Ketamine, 1-2mg/kg IV, or Propofol 1-3mg/kg IV",
+    "Perform endotracheal intubation, and verbalize confirmation with multiple methods (eg direct visualization, fog in tube, absent epigastric sounds, bilateral chest rise, bilateral breath sounds) If difficulty, utilize bougie for placement of tube",
+    "Avoid dental trauma by minimizing contact with teeth and avoiding using teeth as fulcrum for laryngoscope tilting",
+    "Ensure (if cuffed tube) that cuff is inflated to appropriate level (5-10ml)",
+    "Ensure tube not displaced",
+    "Do not release ETT until securely fixed with tape or securement device",
+    "Secure at appropriate initial depth (e.g. ETT size x 3)",
+    "Discuss appropriate post-intubation care",
+    "Provide appropriate post-intubation sedationE.g. benzodiazepine or propofol drips, plus fentanyl drip",
+    "Obtain and interpret STAT post-procedural CXR to confirm tube position",
+    "Order arterial blood gas"
+  ],
+  "MK": [
+    "Promptly recognize critical illness",
+    "Recognize need for intubation",
+    "Verbalize failure to protect airway, and respiratory failure",
+    "Recognize need for backups for possible difficult intubation"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Verbalize acuity, and recruit multiple healthcare workers to assist",
+    "Verbalize if anticipated difficult airway",
+    "Promptly lead team in successful intubation"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

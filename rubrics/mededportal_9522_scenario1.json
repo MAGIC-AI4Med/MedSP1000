@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_9522",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9522/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Immediately performs primary survey on arrival",
+    "Obtains full set of vital signs including rectal temperature",
+    "Performs a focused history and physical (focused neurological exam with Glasgow Coma Scale (GCS))",
+    "Provides initial AMS workup/intervention (Dextrose, O2, Naloxone, Thiamine)",
+    "Intubates patient with rapid sequence intubation (RSI) upon recognition of airway compromise",
+    "Appropriately addresses unstable vitals (warmed fluids for hypotension and hypothermia, may try atropine for bradycardia but should not attempt pacing due to hypothermia)",
+    "Obtains appropriate laboratory studies for patient with altered mental status and unstable vitals (Complete blood count (CBC), comprehensive metabolic panel (CMP), troponin, coagulation studies (PT/INR), lactate, type and screen, urinalysis (UA), thyroid stimulating hormone (TSH), urine drug screen (UDS), acetaminophen (APAP), Aspirin (ASA), ethanol (EtOH))",
+    "Obtains other studies as indicated (chest x-ray (CXR), computed tomography (CT) head, electrocardiogram (ECG))",
+    "Appropriately warms patient",
+    "Reassesses patient following interventions",
+    "Gathers essential and accurate informationfrom patient/EMS (history of illness,initial vitalsigns in the field, symptoms, severity,duration).",
+    "Sequences critical actions in patient care:vital signs,ABCs, primary survey, intubation,establishes IV/IO x2,AMPLE history, fluidresuscitation,orders and interprets radiographs.",
+    "Reevaluates patient after fluid bolus and re-warming and if vital signs start to deteriorate afterinitial stabilization."
+  ],
+  "MK": [
+    "Describes indications/contraindications foreach therapy.",
+    "Describes an appropriate differential, plan, anddisposition.",
+    "Explains the pathologic basis formanagement."
+  ],
+  "SBP": [
+    "Arrange for definitive care in the Intensive Care Unit (ICU)",
+    "Can handle distractions while maintainingpatient care priorities.",
+    "Carries out appropriate admission plan."
+  ],
+  "ICS": [
+    "Instructs team to initiate key actions (Intravenous access (IV), Oxygen (O2), Monitor, etc)",
+    "Introduces self and efficiently establishesrespectful and effective communication withpatient/EMS.",
+    "Communicates clearly, concisely,andprofessionally with staff regarding interventions,radiology, lab orders,and consults."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

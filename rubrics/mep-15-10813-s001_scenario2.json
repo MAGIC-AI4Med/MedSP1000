@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-15-10813-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10813-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Requests additional history (e.g., prior hospital course and exam).",
+    "Requests fingerstick glucose.",
+    "Requests treatment with benzodiazepines.",
+    "Applies supplemental oxygen initially via non-rebreather or bag-valve-mask.",
+    "Decides to intubate patient."
+  ],
+  "MK": [
+    "Identifies alcohol withdrawal.",
+    "Discusses alternative pharmacologic agents for refractory seizures."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

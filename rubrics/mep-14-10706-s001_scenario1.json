@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-14-10706-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10706-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Desired Action: Pulse oximetry probe switched from lower extremity to the right hand to document the pre-ductal saturations (the MOST deoxygenated blood would be circulating to the brain and estimated by this).",
+    "Desired action: Promote intracirculatory mixing by calling for a BAS , giving volume boluses and ensuring adequate delivery of PGE to aid with bidirectional shunting via PDA.",
+    "Desired action: Increase mixed venous oxygenation by sedation and paralysis to decrease oxygen demand and maximize oxygen delivery.",
+    "Desired Action: Maximize pulmonary vein saturations by delivering 100% FiO2 and intubation.",
+    "Desired action: Support cardiac output with initial volume resuscitation but inotropic support may be necessary."
+  ],
+  "MK": [
+    "Desired Action: Recognize that the severe hypoxemia is out of proportion to expected degree of cyanosis for this heart defect. Order CXR to confirm no lung pathology and that the hypoxemia is due to inadequate intracirculatory mixing. Order ECHO to confirm a patent ductus arteriosus (PDA) and poor atrial level mixing via a restrictive atrial communication."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Desired action: Assign team roles upon arrival at the bedside and use closed communication."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,42 @@
+{
+  "case_id": "mededportal_9967",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9967/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Recognize a child in respiratory or cardiovascular distress.",
+    "Perform focused physical exam.",
+    "Take pertinent, focused history.",
+    "Perform initial management.",
+    "Observe and respond to patient’s response to therapies.",
+    "Recognizes urgency",
+    "Identifies patient history",
+    "ABC’s",
+    "Auscultate lungs",
+    "Auscultate heart",
+    "Apply oxygen",
+    "Complete physical assessment",
+    "Administer bronchodilator",
+    "Administer steroid",
+    "Establish IV access"
+  ],
+  "MK": [
+    "Identifies/Interprets vital signs",
+    "Discuss differential diagnosis"
+  ],
+  "SBP": [
+    "Determine admission status.",
+    "Call for help"
+  ],
+  "ICS": [
+    "Communicates effectively with staff and family",
+    "Updates staff and family on plans and progress",
+    "Assigned roles to team members",
+    "Communicated differential with team",
+    "Thinking out loud as a team"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Wash hands"
+  ]
+}

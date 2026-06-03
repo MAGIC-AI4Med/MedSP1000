@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_8221",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8221/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain social history of daily alcohol use until recently quit.",
+    "Correct electrolyte abnormalities, give MVI and thiamine.",
+    "Appropriate airway protection and management.",
+    "Treatment with appropriate doses of benzodiazepines.",
+    "If intubated, maintain sedation with propofol or benzodiazepine drip."
+  ],
+  "MK": [],
+  "SBP": [
+    "Admission to Intensive Care Unit."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

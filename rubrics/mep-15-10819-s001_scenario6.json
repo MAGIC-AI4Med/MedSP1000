@@ -1,0 +1,37 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "While you are on treatment I will be monitoring you very closely and be adjusting things as we go to make sure that you get through this treatment successfully."
+  ],
+  "MK": [
+    "In addition to surgery, chemotherapy is required to put your cancer into a complete remission and some people in complete remission are cured. It is important that you keep this goal of cure in mind.",
+    "The person in your church was in a different position than you. Her cancer had spread and the spread of her cancer itself may have caused her to have many of the symptoms that she had.",
+    "Even in that situation where cancer has spread, studies have shown that patients who are on chemotherapy actually feel better than patients who were not because the chemotherapy is controlling the cancer."
+  ],
+  "SBP": [
+    "I could also have a patient who went through treatment like yours and is doing well speak to you."
+  ],
+  "ICS": [
+    "Your task is to establish a close relationship with Mary by using her illness narrative surrounding her initial diagnosis. After introducing yourself, ask her to tell the story from the beginning.",
+    "Learner should recognize and reflect your intuition it was cancer.",
+    "Learner needs to reflect feeling of lack of a pre-existing doctor-patient relationship, new diagnosis, advanced disease at diagnosis.",
+    "The focus is on Mary’s illness narrative to date. Learner should not go on to discuss perspective for visit but should revisit Mary’s narrative with her from the beginning, exploring and empathizing with:\nTrauma of abrupt change from excellent health to illness;\nSelf -blame regarding ignoring symptoms;\nTrauma of lack of relationship with doctor giving bad news;\nStress of being told she has stage III cancer;\nWorry about not having entire tumor removed.",
+    "Learner should start with “What are you here for today?” or something similar.",
+    "If learner reflects: You might need chemotherapy? Why do you say that? You seem skeptical about that.",
+    "If learner assesses for denial: Didn’t Dr. Taylor tell you she couldn’t get all the cancer out?",
+    "Iflearner asks your understanding of chemo**:** You seem concerned about chemotherapy; why is that? What is your understanding of chemotherapy?",
+    "Hopefully, learner will explore your perspective regarding chemotherapy:\nLearner: Tell me why you are concerned about chemotherapy.",
+    "Reflect and explore your perception: “You’re concerned about chemotherapy given that woman’s experience. Not only was she very affected by the treatment but she got progressively worse; you’re thinking that the chemotherapy also contributed to her deterioration at the end?”",
+    "Align with your perception by validating it: “That woman’s illness, her deterioration, and role of chemotherapy in it made a very powerful impression on you. And now you need chemotherapy, so you are thinking back to that person and worrying that the same thing will happen to you.”",
+    "Recall the fact that you were in excellent health prior to being diagnosed and start to re-orient perception: “I think you are also worried about whether you will be able to recover from treatment in order to assume your active life – is that right?”",
+    "Given all that, it is true that chemotherapy medicines have side effects and some of them are significant, some even more so than hair loss. There is a way of reducing hair loss from chemotherapy that we could discuss. There are other side effects that we need to discuss in more detail and we can do that on a visit in the future.",
+    "With regards to the ability to your recovery from chemotherapy and going back to your active lifestyle, I can say with a very high level of confidence that you will be back to your previous lifestyle soon after you complete your treatment, with some physical conditioning and motivation. Your health prior to treatment may be helpful in keeping you in good shape throughout and after treatment.",
+    "Remember, you have many people who love you on your side and I know their support will also help you while you are on treatment.",
+    "Did I address all your concerns regarding chemotherapy or are there others?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

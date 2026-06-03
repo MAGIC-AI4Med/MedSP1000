@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9145",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9145/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Uses system/personnel appropriately to direct medical care"
+  ],
+  "MK": [
+    "Considering options (acts on a broad ddx)",
+    "Correctly identifies problem, makes correct critical decisions"
+  ],
+  "SBP": [
+    "Planning and preparation (tasks chosen w/ regard to urgency)",
+    "Flexibility/responding to change (can reshufle priorities whennew information presented)"
+  ],
+  "ICS": [
+    "Leader thinks aloud",
+    "Selecting and communicating option (articulates commandsclearly/concisely;provides foran alternative plan)",
+    "Implementing and reviewing decisions (summarizes thoughts)",
+    "Setting and maintaining standards (identifies self, role)",
+    "Supporting others (assigns roles to others)",
+    "Exchanging information (thinks aloud)",
+    "Establishing a shared understanding (invites others&#x27; input)",
+    "Coordinating team activities (shows closed-loop comm..)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

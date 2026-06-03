@@ -1,0 +1,34 @@
+{
+  "case_id": "mededportal_579",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_579/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Generate a list of “next steps” the physician would take"
+  ],
+  "MK": [
+    "Biomedical bias (best evidence medicine to take the AZT) (1) Review best evidence (see below) (2) Discuss a. Could AZT potentially harm the mother?"
+  ],
+  "SBP": [
+    "What are the patient’s personal and family resources that should be used?",
+    "What community resources might be useful in management?",
+    "Does the illness have public health or community implications?",
+    "Potential disparities in health care system that might influence your ability to provide excellent patient care (e.g., affordability of HIV medications, access to care)",
+    "Potential community and/or hospital related resources (1) CHW (2) Her Church Leaders (3) HIV Center in Milwaukee"
+  ],
+  "ICS": [
+    "Who, beside the patient, is affected by this illness?",
+    "What emotions might the patient’s family be experiencing: sorrow, anger, abandonment, frustration, guilt?",
+    "Have I, as physician, spoken with key people in my patient’s life?",
+    "Have I appropriately involved the patient and family in resource use decisions?"
+  ],
+  "PBLI": [
+    "Are you ok? Frustrated? Joyful? Angry?",
+    "Can you achieve excellence in patient care with this patient?",
+    "Potential biases, stereotypes that you and/or physicians with whom you have worked, may have related to this patient (1) Women with multiple kids from multiple dads (2) Faith as medicine – god’s will (3) HIV – lifestyle, SES, (4) Role of MD in protecting unborn (5) Gender, ethic, racial?"
+  ],
+  "PROF": [
+    "By engaging in the care of this patient’s illness, what—if any—might be the effect on me and my family?",
+    "Questions for physician to ask him/herself: (1) Confirm that patient has made an informed decision based on evidence (2) (3) (4) Is patient fully informed? What are implications of treating her or her baby against her wishes? What if patient chooses a different physician and conceals her HIV status?"
+  ]
+}

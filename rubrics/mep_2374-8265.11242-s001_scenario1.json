@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11242-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11242-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Recommend to them the specific medication you think is best for treating the patient’s shingles (be prepared to explain its mechanism of action).",
+    "Given these side effects, determine which lab test(s) you should obtain (if any) before prescribing this drug to this patient.",
+    "Valacyclovir or famciclovir should be recommended for treating this patient’s shingles.",
+    "The student should respond by saying, yes, they recommend ordering a blood test called a “basic metabolic panel” (or they might recommend obtaining a “creatinine level,” which is one of the tests included in basic metabolic panels; creatinine measures a patient’s basic kidney function)."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Tell the patient about the treatment options for shingles.",
+    "Provide instructions for how the patient should take this medication (i.e., for how many days, route of administration—oral, intravenous, etc.).",
+    "Provide information on important side effects that may occur with this medication.",
+    "Answer the patient’s questions about this medication, to the best of your ability. Be prepared to explain things such as how it works (i.e., its mechanism of action).",
+    "Also be sure to briefly review the other antivirals used for other herpes infections (i.e., HSV, CMV).",
+    "The student should explain that the medicine interferes with viral DNA replication.",
+    "The student should explain that this medication is not a pain-killer type of medication, but that it should help by reducing the severity and duration of the pain as the patient’s infection heals.",
+    "The student should tell you that this medicine can cause kidney problems (for example, kidney stones or injury to the kidneys/kidney function). For this reason, the student should recommend to you to stay well hydrated while you’re taking this medication."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

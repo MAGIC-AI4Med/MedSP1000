@@ -1,0 +1,40 @@
+{
+  "case_id": "mededportal_3162",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_3162/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Finds out all complaints"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Greeting",
+    "Introduction . . . gives name and clarifies role",
+    "Appropriate use of eye contact",
+    "Demonstrates interest and respect",
+    "Uses patient name appropriately.",
+    "Appears comfortable",
+    "Expresses interest in the person as well as the illness",
+    "Facilitates patient’s responses verbally and non-verbally (uses encouragement, silence, repetition, paraphrasing, interpretation)",
+    "Demonstrates appropriate non-verbal behavior",
+    "Deals sensitively with embarrassing and disturbing topics and physical pain",
+    "Legitimizes ideas and feelings",
+    "Uses reflective listening",
+    "Expresses support and partnership",
+    "Encourages patient to tell his own story",
+    "Does not interrupt the opening statement",
+    "Begins with open-ended questions, moves to closed",
+    "Listens attentively, allows patient to complete statements without interruption and leaves space for patient to think before answering or go on after pausing",
+    "Elicits the story and meaning as well as biomedical facts.",
+    "Uses concise, easily understood questions and comments, not jargon",
+    "Anticipates and forecasts the ending",
+    "Summarizes follow up/next steps",
+    "Elicits and answers questions",
+    "Expresses hope"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Is not judgmental"
+  ]
+}

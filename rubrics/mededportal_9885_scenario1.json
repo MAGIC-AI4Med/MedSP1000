@@ -1,0 +1,47 @@
+{
+  "case_id": "mededportal_9885",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9885/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtained history and physical exam adequate for successful management",
+    "Ordered sufficient ancillary testing to arrive at proper diagnosis",
+    "Initiated treatments and interventions in a timely manner",
+    "Safely provided the needed care",
+    "Pain management",
+    "Repeat left lower extremity ultrasound",
+    "Initiate anticoagulation",
+    "D-dimer",
+    "VQ scanning",
+    "Cardiac monitor",
+    "Continuous pulse oximetry",
+    "Did not successfully manage the case, or may have done potentially harmful intervention.",
+    "Patient care provided was accurate and safe, minor flaws in care provided.",
+    "Patient care provided exceeded expectations, well rounded and complete."
+  ],
+  "MK": [
+    "Interpretation of data was correct",
+    "Did not have the medical knowledge to adequately manage the case (did not have complaint driven DDx, did not know appropriate testing, did not know interventions, did not perform procedures safely).",
+    "Medical knowledge sufficient to successfully manage the case, but some elements needed improvement.",
+    "Excelled in all areas, exceeded expectations."
+  ],
+  "SBP": [
+    "Review previous hospital records",
+    "Discuss with internist for admission",
+    "Failed to utilize needed resources such as nursing, consultants, social workers, respiratory therapy, Poison Control, etc.",
+    "Utilized resources adequately to safely and successfully manage the case.",
+    "Exceeded expectations, used all resources skillfully."
+  ],
+  "ICS": [
+    "Discuss results",
+    "Discuss treatment options",
+    "Marked difficulty in communicating with the patient or family, impeded care, unable to explain plan or rationale for interventions, did not engage or involve patient, jargon that confused).",
+    "Communicated with patient and family effective enough to successfully complete case, but some elements needed improvement.",
+    "Polished interpersonal skills, and excellent clarity, appeared caring."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did not act in professional manner during the case (introduce self, address patient and family respectfully, responds to questions).",
+    "Professionalism met expectations, but some elements need improvement. Excelled in all areas, exceeded expectations."
+  ]
+}

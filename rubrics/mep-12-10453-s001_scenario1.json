@@ -1,0 +1,67 @@
+{
+  "case_id": "mep-12-10453-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10453-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked when the rash started",
+    "Asked about location of rash",
+    "Asked if I had tried using anything to treat the rash",
+    "Asked if I had tried anything for my fever",
+    "Asked if I had muscle or joint aches",
+    "Asked if I had any difficulty swallowing or breathing",
+    "Asked if I had any sores in my mouth",
+    "Asked if I and/or family have any known allergies",
+    "Asked if I am taking any Rx medications",
+    "Asked if I take any OTC medications",
+    "Asked if I take any dietary supplements",
+    "Asked when I started taking antibiotic",
+    "Asked if I still have urinary symptoms",
+    "Asked if I am breast-feeding",
+    "Asked about my brother’s allergy/”sensitivity” to medications",
+    "Asked to view my rash",
+    "Examined my eyes, nose, mouth for signs of allergy/ulcers",
+    "Examined cervical lymph nodes",
+    "Palpated my abdomen",
+    "Listened to my heart to the right and left of my upper sternum/breast bone and at the lower left of my sternum/breast bone",
+    "Listened to my lungs on the left and right of my chest and on the upper left, lower left, upper right, and lower right on the back.",
+    "Changed antibiotic to a beta-lactam (e.g. amoxicillin plus clavulanic acid, cephalosporin)",
+    "Suggests acetaminophen for pain/fever",
+    "Develops appropriate therapeutic choice for UTI treatment",
+    "Develops appropriate therapeutic choice for rash treatment (watchful waiting or detailed explanation for proper selection/use of topical corticosteroid or oral antihistamine)",
+    "Develops appropriate therapeutic choice for fever/myalgias (can take acetaminophen)"
+  ],
+  "MK": [
+    "Sulfa allergy",
+    "Included at least 3 positives or negatives for this diagnosis",
+    "Recognizes this is an inappropriate antibiotic for newborn in breast-feeding mom when baby has potential to be G6PD deficiency",
+    "Recognizes the most appropriate choice of antibiotic in this particular situation is likely to be a beta-lactam.",
+    "Recognizes potential issues associated with other medications:  Steroids in breast-feeding mom (e.g. topical use should be limited to small areas where skin-to-skin contact is unlikely; water-miscible formulations should be used; should not be used on/near nipples).  If an antihistamine is used, a non-sedating option (e.g. loratadine) appears to be the best option for maintaining milk supply."
+  ],
+  "SBP": [
+    "Told me to be sure to let doctors/pharmacies know that I have a sulfa allergy",
+    "Directed me to pediatrician to evaluate baby due to possible hyperbilirubinemia and/or hemolysis if glucose-6-phosphate-dehydrogenase deficient",
+    "Documented chief complaint (rash)",
+    "Documented itching",
+    "Documented new mom",
+    "Documented breast-feeding",
+    "Documented ethnicity",
+    "Documented general appearance of patient (rash, tired)",
+    "Documented vital signs (Temp, BP, HR, RR)",
+    "Documented PULM/CARDIO exam",
+    "Referral of baby to pediatrician for evaluation due to recognition of potential glucose-6-phosphate dehydrogenase deficiency problems"
+  ],
+  "ICS": [
+    "Told me what s/he believed the problem was",
+    "Asked me if I was planning to continue to breast-feed",
+    "Considered me/my opinion (e.g. demonstrated empathy) in treatment plan when finding another antibiotic (e.g. considered whether I was going to breast-feed or not)",
+    "Provided expectations regarding symptom resolution (e.g. rash will resolve in 3 to 5 days without treatment once antibiotic is stopped) or provided information regarding over-the-counter use of medications. If topical corticosteroid suggested, be sure that mother knows to avoid skin-to-skin contact with baby, avoid nipples, use a water miscible formulation. If an antihistamine is recommended, suggest loratadine as it appears to have least effects on milk supply.",
+    "Provided information about what to do if symptoms worsen or fail to resolve (If rash or fever continue > 5 days, hypotension, dyspnea, blistering, desquamation or mucous membrane involvement should immediately contact physician)",
+    "Asked me if I had any questions or further concerns",
+    "Addressed any concerns or questions that I had"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Student was respectful when speaking about another healthcare provider who prescribed an inappropriate medication for a breast-feeding mother"
+  ]
+}

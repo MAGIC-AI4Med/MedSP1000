@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_9926",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9926/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Brief patient assessment",
+    "Review of past medical history and intra-operative record",
+    "Prepare supplies for intubation",
+    "Alternate method for oxygen administration (i.e.- face mask, non-rebreather mask)",
+    "Begin mask ventilation (utilize oral/nasal airways as appropriate)",
+    "Prepare patient for intubation",
+    "Open surgical incision",
+    "Intubate patient (direct laryngoscopy)",
+    "Begin cardiopulmonary resuscitation (CPR): chest compressions, defibrillation, medications",
+    "Obtain labs",
+    "Place a 2nd IV",
+    "Place an intra-arterial catheter",
+    "Order blood products"
+  ],
+  "MK": [
+    "Consider differential diagnosis for acute respiratory insufficiency",
+    "Discuss results of arterial blood gas (ABG)"
+  ],
+  "SBP": [
+    "Call for assistance",
+    "Notify surgical service",
+    "Ask for respiratory therapist (RT) assistance (if available)",
+    "Prepare patient for return to operating room"
+  ],
+  "ICS": [
+    "Discussion with recovery room nurse regarding events leading up to current state",
+    "Communicate with nurse the plan for re-intubation",
+    "Notify family"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

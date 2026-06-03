@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_10140",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10140/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for vitals",
+    "Ask for urine output",
+    "Ask for pulse ox",
+    "Ask about pain",
+    "Ask about EBL",
+    "Ask for Current IV fluids",
+    "Ask if she is distended",
+    "Fluid Bolus (LR or NS) 500-1000 cc",
+    "Increase IVF to 125-150 cc/hour",
+    "Order stat CBCP",
+    "State will come see patient",
+    "Low fluid bolus (less than 500cc)",
+    "Transfuse blood",
+    "Order heating pad to shoulder"
+  ],
+  "MK": [],
+  "SBP": [
+    "Tell nurse to call anesthesia"
+  ],
+  "ICS": [
+    "poor communication, disorganized throughout the case",
+    "asked some questions well, scattered throughout the rest of the case",
+    "somewhat organized, asked questions well",
+    "was able to effectively communicate throughout most of the call",
+    "effective communicates in an organized fashion throughout the case",
+    "poor teamwork demonstrated throughout the case",
+    "rarely addressed nurse as partner in the case",
+    "occasionally treated nurse as partner in the case",
+    "treated nurse as partner throughout most of the case",
+    "treated nurse as partner throughout the case, respectful of information gathered"
+  ],
+  "PBLI": [
+    "NOT COMPETENT: not able/not competent to perform this task",
+    "COMPETENT: no prompts/able to assess and manage patient easily"
+  ],
+  "PROF": []
+}

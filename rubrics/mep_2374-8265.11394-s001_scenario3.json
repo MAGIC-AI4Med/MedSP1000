@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.11394-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11394-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "When possible, clearly addressed how recurrences will be prevented*",
+    "Discussed details for further reporting/follow-up",
+    "Provided contact information for follow-up questions"
+  ],
+  "ICS": [
+    "Verbalized an empathetic statement during discussion of events",
+    "Made appropriate eye contact and maintained focus during interaction",
+    "Exhibited positive, open body language in interaction with patient/family",
+    "Did not interrupt patient/family during interaction",
+    "Inquired about patient/family’s current emotions regarding the event",
+    "Summarized interaction",
+    "Used patient’s words/phrasing during summation of conversation",
+    "Clearly stated why the error occurred",
+    "Discussed the results/implications of the error",
+    "Used the phrase “I am sorry” during disclosure"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Explicitly stated that an error occurred",
+    "Accepted responsibility on behalf of physician/hospital*"
+  ]
+}

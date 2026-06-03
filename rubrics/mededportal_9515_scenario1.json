@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_9515",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9515/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Sterile technique maintained throughout procedure",
+    "Patient was maintained in a safe and appropriate position during the procedure",
+    "Student performed appropriate weight-based calculations for medications for pediatric/infant patient",
+    "Student accurately performed weight-based calculation of fluid requirements for pediatric/infant patient",
+    "Student performed accurate admixture of medications"
+  ],
+  "MK": [
+    "Student contributed to the discussion of empiric antibiotics for the treatment of this patient",
+    "Student stated correct principles of IV and fluid management in a pediatric/infant patient"
+  ],
+  "SBP": [
+    "Student is able to verbalize roles of all members of the team",
+    "“Time Out” procedure completed prior to initiation of procedure",
+    "Specimen collection was completed with appropriate labeling of CSF",
+    "Student appropriately wrote and reviewed orders following template",
+    "Student performed a double check verification of dosage calculations",
+    "The “rights” of medication administration were correctly utilized – patient, medication, dosage, time, route"
+  ],
+  "ICS": [
+    "Student/team established rapport by listening attentively",
+    "Student/team explained clearly without medical jargon the issues and condition",
+    "Student/team asked specific questions to confirm your understanding of the situation",
+    "Student/team used statements of understanding and support to acknowledge your concerns",
+    "Student/team understood the reason for your visit and allowed you to voice concerns adequately",
+    "Student actively contributed to in group communication",
+    "Student utilized ISBAR communication tool accurately and completely when appropriate",
+    "Student allowed input from other members of the IP team",
+    "Student provided insights into patient condition to team",
+    "Informed consent obtained or process adequately explained to faculty"
+  ],
+  "PBLI": [
+    "Student demonstrated appropriate use of medication reference appropriate for a pediatric/infant patient"
+  ],
+  "PROF": [
+    "Student/team was concerned and respectful"
+  ]
+}

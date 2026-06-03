@@ -1,0 +1,40 @@
+{
+  "case_id": "mededportal_10400",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10400/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Learner counsels parent on what to do if child gets ill or there is an outbreak in the community given that he is unvaccinated"
+  ],
+  "MK": [
+    "Learner is aware of common immunization concerns",
+    "Learner is able to provide information to refute common immunization concerns",
+    "Learner addresses known side effects of vaccines",
+    "Learner discusses risks of vaccine preventable diseases"
+  ],
+  "SBP": [
+    "Learner provides additional resources for parent",
+    "Learner makes no plan to re-address issue at future visits"
+  ],
+  "ICS": [
+    "Learner opens conversation in a non-judgmental and encouraging manner (ie, “your child is due for vaccines and I want to talk about them with you”)",
+    "Learner sits down",
+    "Learner makes eye contact",
+    "Learner uses nonverbal cues appropriately",
+    "Learner used open ended questions to identify parental concerns",
+    "Learner explains their own background and ability respond to immunization questions",
+    "Learner restates parental concerns and address them independently",
+    "Learner shares a combination of science and anecdotal information about the importance of vaccines",
+    "Learner articulates that he/she is available to answer questions in the future and will continue to discuss",
+    "Learner opens conversation in a judgmental and negative manner (ie “I hear you don’t want to vaccinate”)",
+    "Learner makes assumptions about parental concerns (ie “you don’t have to worry about autism”)",
+    "Learner only says that vaccines are “required for school” and “everyone knows they are safe”"
+  ],
+  "PBLI": [
+    "Learner identifies strengths and deficiencies",
+    "Learner is unaware of common immunization concerns and seems confused by parent’s questions, fails to offer to research further if needed."
+  ],
+  "PROF": [
+    "Learner uses threat (“you will be dismissed from this practice”) to convince parent"
+  ]
+}

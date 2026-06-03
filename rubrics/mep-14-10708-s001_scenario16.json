@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario16",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario16",
+  "rubric_version": "v1",
+  "PC": [
+    "Agree to evaluate patient urgently.",
+    "Acknowledge the desire for restraints, but communicate that you will not do so without evaluating the patient. Do NOT give lorazepam.",
+    "Ask for fresh set of vitals – acknowledge fever.",
+    "Verbal orders for urinalysis, clinical concern for CAUTI."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Clear, closed-loop communication when relaying orders to nursing staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

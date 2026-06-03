@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11139-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11139-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a full neurologic exam",
+    "Obtain key labs: arterial blood gas, lactate, CBC, type and screen and coagulation studies",
+    "Recognize need for transfusion, simple vs exchange",
+    "Obtain a CT head without contrast",
+    "Reassess patient, recognize obtundation and need for intubation for airway control"
+  ],
+  "MK": [
+    "Describe an appropriate differential diagnosis for altered mental status",
+    "Diagnose hemorrhagic stroke",
+    "Discuss role of reversal agents for anti-coagulation"
+  ],
+  "SBP": [
+    "Describe need for an ICU, hematology, neurology and neurosurgery consult"
+  ],
+  "ICS": [
+    "Demonstrate team work and communication skills by: Appointing a team leader Team leader assigns clear roles and tasks to available team members Team utilizes closed-loop communication as appropriate Team leader articulates a clear differential diagnosis Team communicates in an open and respectful manner"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

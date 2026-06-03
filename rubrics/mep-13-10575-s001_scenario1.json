@@ -1,0 +1,36 @@
+{
+  "case_id": "mep-13-10575-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10575-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "After addressing parents questions or concerns, key knowledgepoints should be communicated to parents as they arise inconversation including: Individual differences in intellectual functioning and thatthis cannot be predicted at birth Specific positive attributes such as warm and caring personalities with an openness to displaying affectionMedical issues in first year of life (ex. congenital heartdefects,gastrointestinal atresia, transientmyeloproliferative disorders)Breakdown of screening their child will receive early on and a rationale for why it will be done",
+    "Defer conversations about conditions that may affect childrenwith T21 later in life, unless they specifically ask for.Ex. AML,ALL, celiac disease, seizures, obesity, Alzheimer,and depression* If parents inquire,or if it feels appropriate, highlight howchildren with T21 can live productively and well within today's society"
+  ],
+  "SBP": [
+    "Provide parents with information regarding local support groups and community initiatives* Supply parents with a handout containing information relatedto T21 and,if not available, provide a list of up-to-date electronicor print resources* Support parents by saying that they are not alone and you cancome back for further clarifications or answering questions asneeded.",
+    "Conclude the conversation on a positive note* Plan a follow-up with them within the next 24 hours*Encourage parents to keep track of any questions that arise andreassure them that you will address them when you return"
+  ],
+  "ICS": [
+    "Greet the parent(s) and introduce yourself* Inquire about father's/partner's presence or absence(if applicable)",
+    "Choose a setting that is quiet to minimize disruptions(remember to turn your phone and/or pager to vibrate)* Encourage unknown or additional people to leave the room(i.e. RN, acquaintances)",
+    "Be sure that the parent(s) have seen their baby and that s/he is in the room with you* Refer to the baby by his/her name and look at him/her asappropriate",
+    "Sit down so that you are on the same level as the parentsthroughout the discussion* Make eye-contact with the parents and maintain a calm butconfident demeanour",
+    "After congratulating parents on the birth of their baby,if youhave not already done so, you should deliver a “warning sign\"1. “I've been asked to see you because the OB team has someconcerns about your baby's [ex. overall lower musculartone]..\"* Clarify whether parents have noticed anything “unusual\" or\"unexpected\" about their baby and,if so,what they observed 2.“While examining [name of baby/your baby],I noticed some features that make me think of Down syndrome [ex.flat nasal bridge, up slanting eyes]...",
+    "Clarify how parents understand T21 so that you may build off their existing knowledge base 1. “What have you heard about Down syndrome?” 2． “Have you ever had any personal experience with someone who has Down syndrome?\"",
+    "Pay attention to the language they use so that you may match the complexity of your explanations to their own understanding",
+    "Ask parents what they would like to hear about and address this issue if they have a preference so that you may focus on answering their concerns and questions 1.“Is there anything you would like to discuss?” 2.“What are your questions?” 3.“Is there anything Ican explain more clearly?” 4.“What would you like to understand better”",
+    "Be honest but sensitive when disclosing that you suspect their child may have T21 and provide specific rationales as to why Ex.“Some of the physical features [insert specific features] we see in your baby are commonly seen in babies affected by Down syndrome or Trisomy 21\"",
+    "Define T21 using simple and practical terms Ex.“Down Syndrome is a genetic condition that occurs when someone is born with an extra chromosome.",
+    "Use a slower pace while delivering the news and observe verbal as well as non-verbal cues *Identify cues using general \"gentle\" descriptions “I recognize this may be unexpected...\"“I can understand if this comes as a shock...\" 2. “I appreciate that this news may be startling...”",
+    "Acknowledge parents' emotions and help them to processtheir own reactions to the newsEXPLORE: “How does that make you feel?\" VALIDATE: “It's natural to feel overwhelmed.\"EMPATHIZE:“I can see that this is difficult for you ...I'm here to help however I can.\" * This is not a single step and should be performed asappropriate throughout the conversation",
+    "Allow for silence and time without exuding a sense ofunease* If you feel the dialogue has broken down or that parents are too overwhelmed to continue, offer to return later",
+    "Re-evaluate parents' understanding to see if salient points havebeen communicated successfullyEx.“We've covered a lot today. I want to make sure things were explained clearly. Please help me see if I left anythingout.”10",
+    "Reiterate the specific steps in medical management will betaken in the next few days* Match the level of detail you provide about upcominginvestigations and treatments to the readiness of the parents"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Avoid offering personal experiences and opinions that are not solicited as these may not reflect how parents actually feel"
+  ]
+}

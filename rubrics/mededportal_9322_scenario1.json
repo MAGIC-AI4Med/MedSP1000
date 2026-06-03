@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_9322",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9322/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Appropriate HPI\nQuality of pain\nRadiation\nAssociated symptoms",
+    "Assessment of risk factors for coronary artery disease",
+    "Aspirin given"
+  ],
+  "MK": [
+    "Interpretation of EKG",
+    "Interpretation of labs"
+  ],
+  "SBP": [
+    "Disposition\nAdmission for “rule out” myocardial infarction (MI).\nDischarge home after normal labs with close primary care or cardiology follow up after emergency department “rule out” MI."
+  ],
+  "ICS": [
+    "Intentional introduction\nSmile and introduction, calling the patient by name.\nPersonal identification and role on the team\nMake a specific introduction the patient’s guests, asking their name and relation to the patient.",
+    "Expression of Empathy (recognize cues)",
+    "Present the plan\nMake recommendations, not mandates\nOutline the proposal and why\nSummarize the plan\nGain agreement with the plan\nAsk questions that that seek the patient’s approval\n“Does that sound OK with you?”\n“Shall we go ahead?”",
+    "Close the encounter\n“Do you have any concerns that we have not addressed?”\n“Is there anything we can do to make you more comfortable right now? ”",
+    "Structured hand-offs using SBAR (when nurse updates physician at patient bedside)\nSituation- start with the punch line\nBackground- backfill the story\nAssessment- your assessment of the problem\nRecommendation-Recommend the next step"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

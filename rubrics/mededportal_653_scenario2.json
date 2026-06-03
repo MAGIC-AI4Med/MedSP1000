@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_653",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_653/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "What defect does this patient have in hemoglobin production?",
+    "Is there more than one problem?",
+    "What is the significance of Hb A2?",
+    "What is an MCV? Why is her MCV low?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "What is the meaning of the abnormal test my baby had? (it means she has a trait for sickle cell anemia.)",
+    "What is sickle cell anemia? A genetic problem with producing red blood cells that can cause many lifelong problems. Your baby does not have this disease, but she is a carrier for the gene.)",
+    "Will she have any medical problems as a result of this? (Probably not. It is important for her to avoid dehydration, extreme cold and vigorous exercise at high altitude. A small number of patients with sickle cell trait have developed medical problems under these conditions, and we don\u2019t know enough yet to predict who will have problems under these conditions, so we counsel avoidance in all patients with sickle cell trait. )",
+    "Does she need any more tests? (Some debate exists about this. The practicing hematologists here would recommend retesting her to make completely sure that she has no thalassemia trait, even though it is very unlikely.)",
+    "Could I have another baby with this problem or with worse problems? Yes, it could be possible to have an infant with true sickle cell disease or sickle cell/thalassemia which is a combination of 2 blood disorders. Many African Americans are silent carriers for these disorders, so it would be wise to test for them prior to another pregnancy. Mariah herself also needs to pursue genetic counseling prior to procreating, to prevent the same outcome."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

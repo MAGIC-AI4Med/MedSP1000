@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.10926-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10926-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Use hypothesis-driven data gathering to identify key or distinguishing features of a patient’s clinical presentation in a time-limited encounter.",
+    "Appropriate evaluation in this case would include ordering a complete blood count, complete metabolic panel, and stool culture. The next step would include performing a colonoscopy."
+  ],
+  "MK": [
+    "What is the correct diagnosis?\n   1. Enterotoxigenic E. coli\n   2. Ischemic colitis\n   3. Crohn’s disease\n   4. **Ulcerative colitis**",
+    "Which of the following features of the history was most important in identifying the correct cause of this patient’s bloody diarrhea?\n   1. Travel history\n   2. **Duration of symptoms**\n   3. Fecal urgency\n   4. Associated abdominal cramping",
+    "Which of the following features of the physical examination was most important in making the correct diagnosis?\n   1. Pale conjunctivae\n   2. **LLQ abdominal tenderness**\n   3. Lack of rebound tenderness\n   4. Rectal examination",
+    "Which of the following lab tests would be most important in making the correct diagnosis?\n   1. CRP (C-reactive protein)\n   2. Rectal swab for Chlamydia trachomatis/Neisseria gonorrhea DNA\n   3. **Gastrointestinal Pathogen Panel**\n   4. FIT test (fecal immunochemical test for occult blood)",
+    "Which of the following imaging studies would be most useful in making the correct diagnosis?\n   1. CT colonography (Virtual Colonoscopy)\n   2. **Colonoscopy**\n   3. CT of the abdomen/pelvis\n   4. MR of the abdomen/pelvis"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

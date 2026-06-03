@@ -1,0 +1,25 @@
+{
+  "case_id": "mep-13-10631-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10631-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a focused history and physical",
+    "Recognize that the patient has a positive alcohol screen- consider completing further alcohol dependency screening- refer and treat patient as needed"
+  ],
+  "MK": [
+    "Recognize that the adapted Patient Health Questionnaire, PHQ2 is negative for depression",
+    "Recognize patient is on more than three medications but that she has other factors which may be more pressing causes of weight loss."
+  ],
+  "SBP": [
+    "Review the CGWEP Weight Loss Screening Tool",
+    "Recognize patient may have social isolation- consider consult to social work and/or community resources",
+    "Recognize that patient has multiple concerns for food insecurity- consider completing the Household Food Insecurity Access Scale- refer as needed",
+    "Learner(s) should refer patient for further examination with a dentist."
+  ],
+  "ICS": [
+    "Discuss differential diagnosis with patient and caregiver and next steps in work up and treatment"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

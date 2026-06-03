@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "M1Wash hands",
+    "M21: Test visual acuitybilaterally，separately",
+    "M22:Testvisual fieldsbilaterally (D)",
+    "M26: Observe pupilaryresponses bilaterally",
+    "M27: Inspect lid, cornea&amp;_conjunctiva bilaterally(D)",
+    "M30: Performophthalmoscopic exambilaterallyD)"
+  ],
+  "MK": [
+    "[x] diabetic retinopathy"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

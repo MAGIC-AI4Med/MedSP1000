@@ -1,0 +1,17 @@
+{
+  "case_id": "mededportal_10046",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10046/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "The student must remain focused on obtaining vital information including performing a suicide risk assessment in a patient who has fast and pressured speech and has flight or ideas.",
+    "The student is to take a history from this patient only**.**"
+  ],
+  "MK": [],
+  "SBP": [
+    "The student will likely offer to bring the attending physician in for management suggestions. The student may offer to admit voluntarily to psychiatric hospital for medication management or call wife and ask her to supervise the patient closely and bring him for appointment next day after labs are done and medication is started. The student may state that the attending physician will prescribe something for sleep."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

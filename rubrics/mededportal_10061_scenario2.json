@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_10061",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10061/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Telemetry monitoring",
+    "Rapid patient history",
+    "Rapid physical examination",
+    "Supplemental $\\mathrm { O } _ { 2 }$",
+    "IV access",
+    "Obtain labs, imaging (CXR), ECG Obtain STAT trans-thoracic echocardiogram for evaluation of right heart strain",
+    "Initiation of anticoagulation Identification of need for lysis and ICU transfer",
+    "Administration of beta blockade or other nodal agent to treat sinus tachycardia",
+    "Administration of too much IV fluids leading to right ventricular overload and worsening hypotension"
+  ],
+  "MK": [
+    "Failure to notice right heart strain pattern and $S _ { \\mathrm { I } } ,$ ， $\\mathrm { Q } _ { \\mathrm { I I I } }$ , $\\mathrm { T _ { I I I } }$ pattern on ECG",
+    "Failure to consider anticoagulation and lytic therapy"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

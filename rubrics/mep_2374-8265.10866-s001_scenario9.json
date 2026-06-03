@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10866-s001",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10866-s001/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "*Go assess the patient immediately. Review recent medications and orders on the way to see the patient as well as pertinent information like EF (if known) and ask for a full set of vitals as soon as you get there. When you get in the room, confirm IV access and examine the patient with emphasis on the findings delineated above.*",
+    "*Data have shown that resuscitating with 30cc/kg over the first 3 hours is appropriate for patients with distributive shock, like this patient has.*3 *Assuming the patient is 75 kg, he should receive at least 2.25 L of fluid upfront for resuscitation (including what was administered in the ED).*"
+  ],
+  "MK": [
+    "*Most likely from sepsis, which is a form of distributive shock.*",
+    "*Norepinephrine is considered first line in septic shock. It has a rapid onset of action, high potency, and short half-life.*",
+    "*There are several second line agents for septic shock. Vasopressin is most often added as a second agent at a fixed dose of 0.04 units/min. The thought is that some patients with hyperkinetic distributive shock may develop a vasopressin deficiency. The VASST trial in 2008 showed that the addition of vasopressin was safe but did not show any mortality benefit.*4 *Epinephrine is also considered a second line agent but can be associated with increased risk of arrhythmias.*3",
+    "*There has been controversy about the addition of corticosteroids. Because data are mixed, steroids are often added when fluids and pressors do not restore hemodynamic stability (i.e., as a last resort).*"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

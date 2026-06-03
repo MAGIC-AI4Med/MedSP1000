@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_9903",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9903/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the fellow comprehensively interview the patient?",
+    "Determine if Mr. J. knows of anyone who could and would serve as his DPOA-HC"
+  ],
+  "MK": [],
+  "SBP": [
+    "Inform Mr. J. that you will not be directly involved in hospital care and answer any questions that might arise from the discussion",
+    "Inform Mr. J. about how he can ensure that his DPOA-HC, if completed, will be recognized and followed (i.e., File of Life).[[1]](#footnote-1)",
+    "Did the Fellow demonstrate an understanding of the limitations of DPOA-HC and Living wills from previously completed?",
+    "Did the Fellow develop an appropriate patient chart note for this case?"
+  ],
+  "ICS": [
+    "Educate the patient about living wills and DPOA-HC and how to complete them",
+    "Did the SP understand the physician’s questions?",
+    "Did the SP understand the physician’s answers?",
+    "Did the SP feel that he played an active role in decision making?",
+    "Did the fellow demonstrate the ability to counsel on: Durable power of attorney-health care (DPOA-HC)?",
+    "Did the fellow demonstrate the ability to counsel on: Living Wills?",
+    "Was the Fellow able to communicate the issues and plan appropriately with the SP using shared decision making when appropriate?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did the SP feel respected by the physician?",
+    "Did the SP feel well treated by the physician?"
+  ]
+}

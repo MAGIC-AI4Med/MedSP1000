@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-14-10752-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10752-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "The source also says to offer resources and local referrals to professionals and organizations dedicated to helping women escape domestic abuse.",
+    "It is not advisable for a healthcare provider to urge a woman to immediately leave her abuser because the period after leaving may be the most dangerous."
+  ],
+  "ICS": [
+    "The source gives this supportive response from the clinician: “It is really brave of you to tell me that, and I am so glad you are taking care of yourself by coming in today. I can’t imagine how hard this all must be for you.”",
+    "The source specifically suggests asking, “Do you feel safe at home?”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

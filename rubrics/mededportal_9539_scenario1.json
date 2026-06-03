@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9539",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9539/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Is this incontinence related to urge, stress, or incomplete emptying?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Acknowledging the psychological impact of the symptoms (validating)",
+    "Allowing the emotion to open and then effectively moving to different areas",
+    "Allowing the time to listen—this may be the $1 ^ { \\mathrm { s t } }$ time this person has sought assistance. It is worth taking the time to listen.",
+    "Encouraging self-awareness and self-change talk when appropriate",
+    "Reflecting your understanding of the situation to the patient",
+    "Identifying changeable behaviors (don’t ding a patient for personality)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

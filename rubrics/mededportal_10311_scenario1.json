@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_10311",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10311/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Patient is left in a position of comfort, oxygen is provided by blow by",
+    "IV is requested and placed by the ED nurse",
+    "Attempt is made to remove the pacifier – pt may be given ketamine for awake look",
+    "Avoids forcing child to wear a facemask or lay down",
+    "Assembles multiple tools to manageupper airway obstruction",
+    "Recognizes respiratory arrest and implements immediate treatment",
+    "Inserts transtracheal jetappropriately",
+    "Followed PALS algorithmappropriately",
+    "Overall, treatment helped the patient"
+  ],
+  "MK": [
+    "Recognizes upper airwayobstruction & potential for foreignbody"
+  ],
+  "SBP": [
+    "Consults ENT, Anesthesiology,PICU",
+    "The patient is then transferred to the OR with anesthesiology, pediatric ENT and pediatric surgery"
+  ],
+  "ICS": [
+    "Group quickly forms a “team” plan with a clear leader"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

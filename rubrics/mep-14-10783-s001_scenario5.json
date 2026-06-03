@@ -1,0 +1,26 @@
+{
+  "case_id": "mep-14-10783-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10783-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "The patient is harmed by these comments; they re-enforce bias and can lead to flawed medical decision-making (“we should not even admit her…”).",
+    "In this case, it may be helpful to discuss this scenario with the same resources we discussed prior—the clerkship director, Student Affairs, the chaplain.",
+    "By presenting this issue to a higher authority, such as your clerkship director or student affairs committee, you are opening the door to the possibility of positive change in this working environment."
+  ],
+  "ICS": [
+    "This bias can also cause a further deterioration of communication between the team and the family.",
+    "By taking the time to ask the family about their concerns, their priorities, and their prior experiences with healthcare, the family may find that they are being heard for the first time.",
+    "By asking them about their distrust and validating their reactions and feelings, you may establish trust where there was none before.",
+    "And by finding out how they perceive their loved one’s illness, their hopes and expectations, and their understanding of the disease process, you may help to clarify misconceptions and miscommunications and empower them to approach communication with the team in a more effective manner (E-Empower “When you feel angry about a situation, what could you do differently to get people to understand your point of view?” U-Use impact questions “What do you think the impact of your words on the nurse is when you criticize her work?”)."
+  ],
+  "PBLI": [
+    "In this scenario, the caustic comments of these healthcare workers may be a symptom of the underlying problem of burnout.",
+    "Students may benefit from brainstorming positive ways to deal with stress and optimize wellness (e.g. work-life balance, healthcare workers appreciation, retreats)."
+  ],
+  "PROF": [
+    "As a medical student, you will begin to see your role in calling out ethical injustices in medicine since you may be the least fatigued person on the team."
+  ]
+}

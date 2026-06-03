@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_8490",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8490/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Even with the lack of a “true fever,” antibiotics and fever evaluation (blood cultures, chest xray, urinalysis and culture) should be initiated.",
+    "Initial steps would include starting normal saline “wide open” as well as quickly initiating antibiotics.",
+    "Optimal choices would be broad gram negative and gram positive coverage.",
+    "The proper choice should be Aztreonam for gram negative coverage.",
+    "Given the presence of a PICC catheter, gram positive coverage with either vancomycin or linezolid should also be added.",
+    "Correct interventions at this time include:\n\na) Intubation\nb) More fluids\nc) When fluids do not help, initiate pressor support\n( norepinephrine is preferable)\nd) Activated protein C $2 4 \\mathrm { m c g / k g / h r } )$ could also be considered, although with caution as the patient has a mild thrombocytopenia following her stem cell transplant.",
+    "Learners should initiate ACLS protocol for PEA arrest.",
+    "Learners should eventually terminate the code due to futility."
+  ],
+  "MK": [
+    "In the initial assessment, learners should recognize that rigors raise the strong possibility of infection in this neutropenic patient.",
+    "The learner should immediately recognize the possibility of septic shock."
+  ],
+  "SBP": [],
+  "ICS": [
+    "When the patient eventually expires, the team will deliver the news to a family member."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

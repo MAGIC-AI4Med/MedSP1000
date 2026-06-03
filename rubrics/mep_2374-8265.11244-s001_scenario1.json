@@ -1,0 +1,39 @@
+{
+  "case_id": "mep_2374-8265.11244-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11244-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Utilized live video to **augment information gathering**",
+    "**Partnered** with patient to **perform virtual physical** exam",
+    "Elicited a **comprehensive description of symptoms**",
+    "Made **appropriate medication plan**"
+  ],
+  "MK": [],
+  "SBP": [
+    "Confirmed **patient identifiers**",
+    "Actively optimized technical aspects of the virtual encounter",
+    "Maintained **appropriate computer etiquette** during encounter",
+    "Made **appropriate plan** for next visit"
+  ],
+  "ICS": [
+    "Elicited your responses using **appropriate questions**",
+    "Managed the **narrative flow** of your story",
+    "**Clarified information throughout** by repeating to make sure you were understood",
+    "Allowed you to talk **without interrupting**",
+    "Displayed **concern and intent to help**",
+    "**Used non-verbal communication** to enrich communication",
+    "**Acknowledged emotions/feelings** appropriately",
+    "Was **accepting/non-judgmental**",
+    "Asked questions to see what you understood (checked your understanding)",
+    "Provided **clear explanations**/information",
+    "**Collaborated** with you to make a plan",
+    "Used non-verbal communication to enrich communication on camera",
+    "Exhibited comfort and confidence using video interface",
+    "Answered or addressed all of your questions/concerns",
+    "Empowered you in monitoring your symptoms and understanding your illness",
+    "Made you feel like you had enough time (not rushed)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

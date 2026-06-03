@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_9087",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9087/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask about the circumstances of the injury? \u2022 Ask about any past history of similar problem? \u2022 Ask about direct trauma to the back? \u2022 Ask about neurological deficits? \u2022 Ask about the course of the illness? \u2022 Ask about any bladder or bowel dysfunction?",
+    "Inspect /palpate and percuss the back? Test strength, sensation, and reflexes of the legs?",
+    "Prescribe conservative treatment, i.e., mild analgesics, exercises, and observation",
+    "Order preventive health-care issues appropriately?"
+  ],
+  "MK": [
+    "Explain what s/he believes is going on?"
+  ],
+  "SBP": [
+    "Order L-S spine films and or MRI without indication?",
+    "Explain why x-rays and imaging studies are not appropriate?",
+    "Explain why various tests and medications are not needed at this time?",
+    "Ask that the gynecologist send results? Recognize and indicate that an herbal weight-loss pill is unregulated and might be unsafe? . Explain to the patient how best to use the internet as a resource in the health-care system?"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

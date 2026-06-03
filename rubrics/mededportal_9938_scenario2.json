@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_9938",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9938/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "It is necessary to assess the severity of Taylor’s self-injury.  Questions that are important may include: how often is she cutting, what does she use to cut, how deep or superficial are her cuts, did she ever need stitches or ER attention for her cutting?",
+    "Some questions to ask may be: Have you thought of hurting yourself or dying? Have you thought about how you would do it? Do you have access to any of these methods?",
+    "Assessed risk factors:\nSuicidal behavior, history of suicide attempts, and self-injurious behaviors.\nCurrent and past psychiatric disorders, key symptoms (impulsivity, hopelessness, anhedonia, anxiety/panic, command hallucinations, global insomnia).\nFamily history: of suicide attempts or completion, mental health history\nPrecipitants/stressors/interpersonal events\nChange in treatment\nAccess to firearms or weapons",
+    "Assessed protective factors:\nInternal: ability to cope with stressors, religious beliefs, frustration tolerance\nExternal: responsibility for people, pets, family members, positive relationships, social supports",
+    "Suicide Inquiry:\nIdeation: frequency, intensive, duration – in the last 48 hours, past month, and worse period in their life\nPlan: timing, location, lethality, availability, preparatory acts\nIntent: extent to which patient expects to carry out the plan, explore ambivalence",
+    "Regardless of the level of care and mental health comorbidities, a primary goal of Taylor's treatment given her low body weight will be weight gain."
+  ],
+  "MK": [
+    "Clinicians need to assess if this is non-suicidal self-injury (NSSI), or if the cutting is a symptom of something more serious such as suicidal ideation or passive suicidal ideation.",
+    "After completing this assessment, you can determine risk level.",
+    "You can conclude that the function of Taylor’s self- injury is to manage her negative mood and thoughts.",
+    "Taylor’s cutting is classified as non-suicidal self-injury (NSSI) which is a form of intentional physical self-damage or self-harm that is not accompanied by suicidal intent or ideation."
+  ],
+  "SBP": [
+    "If Taylor continues to self-injure or have urges to self-injure as a means to regulate her affect - an appropriate referral could be to refer her to a therapist who uses dialectical behavioral therapy (DBT).",
+    "Appropriate level of care depends on a variety of factors including presenting symptoms, degree of medical instability, and treatment response.  Decisions about level of care may also depend on availability of local specialized programs and finances/insurance.",
+    "Therefore, nutrition intervention, including nutritional counseling by a registered dietitian (RD), is an essential component of multidisciplinary treatment.",
+    "Each discipline should know their rules and state regulations for confidentiality."
+  ],
+  "ICS": [
+    "It is important to respond with a matter of fact attitude, rather than with shock or panic.",
+    "It is important to tell Taylor that you will be telling her parents about her cutting.",
+    "While confidentiality is important to facilitate a climate of trust within the patient/client relationship, there are limits to confidentiality that the patient must be informed of in the beginning of the treatment."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "There should always be a strong presumption to respect confidentiality and avoid breaking confidences when at all possible.",
+    "However, there are three universal situations where clinicians are mandated to break confidentiality and have a duty to inform:\nClinicians have a duty to report abuse.  If the patient discloses that they are a victim of abuse, confidentiality will be broken.  Additionally if it is disclosed that a child under the age of 18 is being abused, anyone over the age of 60 is being abused, and anyone, of any age, that has a disability is being abused, confidentiality will be broken and the abuse reported.\nClinicians have a duty to protect patients from committing suicide.\nClinicians have a duty to warn and protect intended victims of homicide.",
+    "However, because Taylor is 13 years old, many providers may break confidentiality and inform her parents of her self-injury.",
+    "The clearest situations in which confidentiality is broken are those in which the patient places self or another person at significant risk of serious harm."
+  ]
+}

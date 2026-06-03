@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11400-s001",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11400-s001/scenario10",
+  "rubric_version": "v1",
+  "PC": [
+    "Evaluate for ADHD: provide screening tools to her family. Specifically, would provide Vanderbilt screens to parents and teacher(s). Remember, you want to see symptoms and impairment in more than one environment",
+    "May consider anxiety evaluation; could provide family with SCARED screens",
+    "Sleep hygiene: family has a lot to work on here… encourage residents to discuss what sleep hygiene recommendations they would make. Would they think about melatonin in this patient?"
+  ],
+  "MK": [
+    "ADHD (most likely primarily inattentive type)",
+    "Delayed development/cognitive impairment (may have borderline cognitive function)",
+    "Learning disability",
+    "Anxiety",
+    "Sleep problems",
+    "Typical development with difficult/slow-to-warm-up temperament"
+  ],
+  "SBP": [
+    "School evaluation: this may be a downstream step, but if they bring it up it is worth discussing. Consider IEP/504 plan evaluation and how it might be helpful for this child (will be discussed in more detail at a follow-up visit)",
+    "Follow-up plan: return to clinic after Vanderbilt screens completed"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

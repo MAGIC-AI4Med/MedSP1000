@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_8254",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8254/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "If adenosine dose is > 0.4 mg\nDebrief: You gave more than the recommended 0.4 mg of adenosine",
+    "If adenosine dose = 0.4 mg\nDebrief: You gave an appropriate dose of adenosine (0.1 mg/kg)",
+    "If ice applied to face\nDebrief: Your maneuver did not change the cardiac rhythm. Do not delay in treating the rhythm.",
+    "If adenosine dose < 0.4\nDebrief: You gave less than the recommended dose (0.1 mg/kg) of adenosine. Ensure you used the correct adenosine administration technique.",
+    "If synchronized cardioversion @ < 6 J\nDebrief: You should have tried adenosine before cardioversion",
+    "If synchronized cardioversion @ >5 J\nDebrief: You should have tried adenosine before cardioversion and you used too much energy",
+    "If unsynchronized shock @ > 1 J\nDebrief: You should have tried adenosine before cardioversion and you did not synchronize",
+    "If elapsed time > 240 seconds without intervention\nDebrief: You should have administered adenosine (0.1 mg/kg) sooner",
+    "If time elapsed > 180 seconds without intervention\nDebrief: You should have administered adenosine 0.2 mg/kg IV sooner",
+    "If adenosine dose > 0.8 mg\nDebrief: You administered more than 0.2 mg/kg adenosine",
+    "If adenosine dose = 0.8 mg\nDebrief: You administered an appropriate dose (0.2 mg/kg) of adenosine",
+    "If adenosine dose < 0.8 mg\nDebrief: You administered less than 0.2 mg/kg adenosine.",
+    "If infant is not receiving supplemental oxygen AND elapsed time > 30 seconds\nDebrief: You forgot to administer supplemental oxygen",
+    "If infant is receiving supplemental oxygen AND elapsed time > 20 seconds\nDebrief: You remembered to administer supplemental oxygen",
+    "If time elapsed > 240 seconds without intervention\nDebrief: You should have administered synchronized cardioversion sooner.",
+    "If synchronized cardioversion @ > 10 J\nDebrief: You provided synchronized cardioversion at more than the recommended dose.",
+    "If synchronized cardioversion < 11\nDebrief: You provided synchronized cardioversion at the appropriate dose.",
+    "If unsynchronized shock @ > 10J\nDebrief: You provided an excessive, unsynchronized shock.",
+    "If unsynchronized shock <11J\nDebrief: You provided an unsynchronized shock."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

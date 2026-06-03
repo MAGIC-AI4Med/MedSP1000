@@ -1,0 +1,44 @@
+{
+  "case_id": "mededportal_9145",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9145/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "Team rapidly prioritizes and treats while collecting information",
+    "Med knowledgeEstablishes key database",
+    "Patient CareTakes active role (monitor, cart)",
+    "Patient care Identifies key information",
+    "Gathers data, executes plan"
+  ],
+  "MK": [
+    "Considering options (acts on a broad ddx)",
+    "Medical KnowledgeCorrectly identifies problem, makes correct critical decisions"
+  ],
+  "SBP": [
+    "Planning and preparation (tasks chosen w/ regard to urgency)",
+    "Flexibility/responding to change (can reshufle priorities whennew information presented)",
+    "Patient care Uses system/personnel appropriately to direct medical care",
+    "Team seamlessly hands off to one another and thanks floor nurse for calling, telling why to call them back for deterioration"
+  ],
+  "ICS": [
+    "Leader and members identify selves",
+    "Leader assigns roles; members assume their typical roles",
+    "Leader thinks aloud",
+    "Team uses closed-loop communication",
+    "Selecting and communicating option (articulates commandsclearly/concisely;provides foran alternative plan)",
+    "Implementing and reviewing decisions (summarizes thoughts)",
+    "Setting and maintaining standards (identifies self, role)",
+    "Exchanging information (thinks aloud)",
+    "Establishing a shared understanding (invites others' input)",
+    "Coordinating team activities (shows closed-loop comm..)",
+    "Communication- identifes self",
+    "uses closed-loop communication",
+    "Communication: TeamIdentifies role,uses closed-loop,respects others",
+    "Communication: PresentationGives key information to arriving team",
+    "Communication Identifies role, closed-loop,respects others"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "respects others"
+  ]
+}

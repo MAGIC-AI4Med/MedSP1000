@@ -1,0 +1,45 @@
+{
+  "case_id": "mep-15-10837-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10837-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the student ask our chief complaint? (“What brings you in ?”)",
+    "Did the student attend to your comfort and modesty during the physical exam?",
+    "Was the progression of the physical exam fluid?",
+    "Did the student perform all physical exam procedures on skin?",
+    "Did the student elicit that you have a long history of infections?",
+    "Did the student ask about infections during your childhood?",
+    "Did the student ask if you are short of breath?",
+    "Did the student examine your skin?",
+    "Did the student examine your nose?",
+    "Did the student look in your ears?",
+    "Did the student look in your mouth?",
+    "Did the student examine your neck for lymph nodes?",
+    "Did the student examine your lungs?",
+    "Did the student examine your spleen (by palpation or percussion of left upper abdomen or lower ribcage)?",
+    "Did the student examine your nails?"
+  ],
+  "MK": [
+    "Identification of specific (CVID or IgA deficiency) primary immunodeficiency as a cause of recurrent sinopulmonary infections (2 points) – only 1 point for PIDD without specific type or incorrect type\nHistorical support (1 point)\nPE support (1 point)\nDepth of explanation (1 point)\nPrioritization (1 point)",
+    "Granulomatosis with polyangiitis (2 points) – only 1 point for general vasculitis\nHistorical support (1 point)\nPE support (1 point)\nDepth of explanation (1 point)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Did the student refrain from exhibiting any distracting non-verbal behaviors? (i.e. flat affect, eye contact, posture, playing with hair, pen clicking, space building, swaying on stool, etc.)",
+    "Did the student use the skills of empathy in relation to an expressed or potential feeling/emotion (reflection, legitimation, exploration)",
+    "Did the student elicit the impact on your life, your concerns or your explanatory model? (“what do you think is going on?” or “Why do you think this happened?”)",
+    "Did the student update you as to what to expect during the physical exam?",
+    "Is the student proficient in English? (syntax, word choice)",
+    "Was the student’s articulation understandable? (fluency, clarity, pronunciation)",
+    "Did the student use medical jargon without explain it?",
+    "Did the student review and summarize the gathered information from the history of present illness (HPI), at any time during the encounter?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did the student sanitize their hands with soap and water or Purell, before an physical contact? (also prior to PE if applicable)",
+    "Did the student leave the room when the “end of the encounter” prompt was made?",
+    "Did the student avoid verbal or nonverbal judgmental behaviors?",
+    "Did the student convey sincerity?"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_9907",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9907/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked about overall ability to function, such as walking, working, sleeping, OR daily at home responsibilities since last visit.",
+    "Asked about changes in emotional or social factors.",
+    "Asked if have ANY symptoms of withdrawal (e.g. agitation, worse mood, irritability, anxiety, nausea, vomiting, fever, muscle aches, goose bumps, runny nose, tearing, pupillary dilation, diarrhea, yawning, or insomnia).",
+    "Explained why can or cannot prescribe pain medication at this time.",
+    "Discussed alternative pain medication.",
+    "Discussed alternative therapies such as physical therapy, acupuncture, exercise, biofeedback and/or cognitive behavioral therapy.",
+    "Explained that patient needs to withdraw from opiate medication or discussed withdrawal management and symptoms.",
+    "Established next steps or goals for pain management."
+  ],
+  "MK": [],
+  "SBP": [
+    "Reviewed with patient chart information from previous physician (examples the interviewer may say “from your previous record” or “your previous physician wrote…”)"
+  ],
+  "ICS": [
+    "Told the patient the results of urine drug screening.",
+    "Identified family or friend support system (e.g. do you have any one who you rely on for help? or who can you rely on for support, can you tell me that person’s relationship to you.)",
+    "Explained will work with patient if something goes wrong or have questions with care.",
+    "Gave patient opportunity to express self (e.g. did not interrupt).",
+    "Built collaboration/working alliance between interviewer and patient. (e.g. I am willing to work with you)",
+    "Communicated in a non-judgmental fashion.",
+    "Exhibited empathetic/supportive attitude.",
+    "Listened attentively, responded to concerns."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

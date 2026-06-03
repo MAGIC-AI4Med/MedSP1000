@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_7833",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7833/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Get information about the following components of her medical history:\nHistory of Present Illness\nInterim History\nHow has the patient been doing since the last visit?\nAny follow-up information about things discussed during the last visit?\nAny new concerns?\nMedication Review\nSocial History\nHealth-related Behaviors",
+    "Assess the patient’s knowledge and confidence regarding the care of her chronic illnesses.",
+    "Explore the relationship between her stress, her chronic medical conditions and her psychiatric illness.",
+    "Has she been able to make some of the changes that she spoke of with the medical student last visit in terms of behavioral change?",
+    "Screen for depression using established questionnaires."
+  ],
+  "MK": [
+    "Construct a general problem list for known and suspected problems. What kinds of neurologic and psychiatric problems are or might be connected to the patient’s specific problems? Compare with how your facilitators would put things together given this patient’s story."
+  ],
+  "SBP": [
+    "Inquire about barriers to the care of the patient’s illness and problem-solve with the patient to overcome these barriers.",
+    "Continue to explore barriers to the optimal management of her (chronic) illnesses.",
+    "As a group, collaboratively create one SOAP note recording Mrs. Henderson’s interim medical history.  One student will post this write-up for the group as a continuation of Mrs. Henderson’s chart.  Mrs. Henderson will return next year, and these notes will be very helpful references for future visits."
+  ],
+  "ICS": [
+    "Open the interview (greet the patient, make introductions, negotiate an agenda for this follow-up visit with the patient).",
+    "Build a relationship and establish rapport with patient.",
+    "Engage in open-ended inquiry, listening, summarizing.",
+    "Explore Mrs. Henderson’s experience in the Emergency Department and with the medical profession thus far.",
+    "After the interview, have a volunteer give a brief summary of the patient’s story, in the standard medical history format."
+  ],
+  "PBLI": [
+    "Interviewer describes: what went well and not so well, observations of the patient, and emotional reactions to the patient and the interview. How did the balance go between comprehensive history and focused history? Eliciting content and maintaining rapport?"
+  ],
+  "PROF": []
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11256-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11256-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Did you confirm that you were speaking with Martha before you shared any medical information?",
+    "Did you introduce yourself AND state your role (physician, intern) on the medical team?",
+    "Did you ask for permission to give an update (ex: \"is now an okay time for an update?\")",
+    "Did you assess family member’s current understanding (ex: “what is last update you’ve received?”)",
+    "Did you provide an overall assessment of patient which includes condition and trajectory? (improving, stable, critical)",
+    "Did you explain the big picture including all of the following?\nFor case A, you explained briefly what heart failure means, why you suspect that as the diagnosis, and that you think this is the cause of his shortness of breath",
+    "Did you describe the plan moving forward including all of the following?\nFor case A, your plan for diuresis to remove extra fluid / improve shortness of breath, plan to introduce heart failure medications, plan to do ischemic evaluation before discharge",
+    "Did you appropriately exclude unnecessary details? (ex: you did NOT read all of the vital signs and lab results)",
+    "Did you confirm that the family member understood the information presented? (ex: repeat-back method, or \"does all of that make sense? Can I clarify anything I just said?\")",
+    "Did you grant permission for the family member to ask additional questions before concluding the phone call?",
+    "When Martha asked \"is he going to have this problem forever?\" did you honestly explain that it is a chronic condition but can be managed with medicines?",
+    "When Martha expressed \"I should have tried harder to convince him to come sooner,\" did you provide an empathetic response?",
+    "When Martha asked \"can you call me again in a few hours for more updates?\" did you set a boundary that it is NOT necessary to provide another update so soon?",
+    "Did you say goodbye AND set a clear expectation for when next update will be?",
+    "Did you refrain from using medical jargon, or, if used, did you immediately explain in simplified terms?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

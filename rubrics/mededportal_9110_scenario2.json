@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_9110",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9110/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Screen all patients for past and present substance use.",
+    "If any use, ask “CAGE” questions for alcohol/drugs, or use NIDA modified “ASSIST” questionnaire.",
+    "Ask about frequency of use.",
+    "Ask about method of administration.",
+    "Ask patients for their perspective on the current and potential consequences of drug use.",
+    "Ask patients how they acquire their substances, including how they can afford them.",
+    "Ask about past quit attempts, or attempts to cut down; including withdrawal symptoms, how long abstinent, etc.",
+    "Ask about current mood and any past mental health problems.",
+    "Assess patients’ conviction and confidence about their willingness to quit using."
+  ],
+  "MK": [],
+  "SBP": [
+    "Recommend assistance / treatment, and speak succinctly about options: stop on their own, join a 12 step program, go to an addiction specialist, be referred to a treatment center.",
+    "If patients are on prescription narcotics, negotiate a treatment contract with them.",
+    "Inform patients about the role of drug and alcohol testing in treatment monitoring."
+  ],
+  "ICS": [
+    "Ask patients if they are open to hearing that they might have a substance abuse problem and might need specific help for this.",
+    "Conduct interviews in a non-judgmental way. (ie: Do not say, “This is really a will-power problem and you need to just quit!” or make other statements that might induce judgment or shame.)",
+    "Tell patients that you are concerned that they have a substance abuse problem, and need help to manage it. Talk about the potential negative impact of substance use on patients’ health, family, employment, mental health and well-being.",
+    "Communicate that individual needs vary, and that treatment usually includes psychological, social, vocational, and biological interventions.",
+    "Make a supportive statement like, “Recovery is usually a long-term process and it may take years to return to full functioning.”",
+    "Offer to communicate with patients’ families.",
+    "Ask patients if they are ready to accept a referral to treatment.",
+    "Ask patients about their reactions to the discussion.",
+    "Ask patients about their questions and concerns."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "State your willingness to provide continuing care to patients who abuse substances."
+  ]
+}

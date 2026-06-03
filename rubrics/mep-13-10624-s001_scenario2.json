@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-13-10624-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10624-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Factual Information Review circumstances of distressing event",
+    "Emotional Connection What was it like taking care of this patient? What was the most distressing aspect of caring for this patient? What was the most satisfying aspect of caring for this patient?",
+    "Grief Responses What thoughts or feelings are you experiencing since the distressing event?",
+    "Conclusion Acknowledge care provided Acknowledge emotional reactions Thank participants for openness Refer to specific resources, if needed Ask how you can tangibly help",
+    "What part(s) of Naomi’s story affect you most? What parts of her care were the most satisfying? What were the most difficult parts?",
+    "How would you feel, emotionally, after pronouncing a newborn as deceased? Would you feel differently if it were known prenatally that Naomi had a non-survivable condition?"
+  ],
+  "PBLI": [
+    "Strategies for Coping with Grief How do you take care of yourself so you can continue to provide care for other patients and families? What will you do to support yourself as you process this situation? Review available resources",
+    "Lessons Learned What lessons did you learn from caring for this patient? What will you remember most about this patient/family/case?",
+    "How would you feel taking care of other patients immediately after Naomi’s death? Do you think you would or could do your best work? What would you do to help process Naomi’s death?"
+  ],
+  "PROF": []
+}

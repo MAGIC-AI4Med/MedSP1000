@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_8220",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8220/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Continuous pulse oximetry (SpO2) probe/monitor appliedprior to sedation start",
+    "Continuous end-tidal capnometry (EtCO2) probe/monitorapplied prior to sedation start",
+    "Sedation medication appropriate for patient and procedure- availabie institutional sedatives ordered andadministered at appropriate sedation doses (e.g.,etomidate,midazoiam+fentanyl)",
+    "Hypoventilation detected-verbalization of apnea, hypoventilation, hypoxiadetectionAND/OR- ventilatory support with bag-valve-mask, LMA orendotracheal intubation",
+    "Optimal airway management- depioyment of LMA or endotracheal tube within3minutes of apnea onsef (6+3minutesaftersedationstart)",
+    "The following elements are part of the study’s post-sedation reassessment protocol:\nPain evaluation\nNausea evaluation\nVital signs assessment\nAirway assessment (incl. protective airway reflexes)\nHeart and lung assessment\nMinimum post-EDPS observation 30 min\nMinimum post-reversal observation 120 min\nDischarge criteria: $\\mathsf { S p O } _ { 2 } > 9 3 \\%$ or baseline\nDischarge criteria: Mental status at baseline\nDischarge criteria: Adequate hydration status\nDischarge criteria: Post-sedation instructions given\nDischarge criteria: Discharge with responsible adult (if appropriate)\nEDPS operator signature",
+    "Radiographic confirmation of shoulder reduction",
+    "Arrangement for sling and analgesia prescription"
+  ],
+  "MK": [
+    "Potential for difficult airway recognized-verbalization of anticipateddifficuit airwayAND/OR- preparation for difficuit airway management(i.e.,LMA,bougie orotherrescue device)"
+  ],
+  "SBP": [
+    "Defective EDPS equipment (prop) recognized-bag-valve-mask without oxygen tubing (replacementbag-vaive-mask reguested prior to sedation start)",
+    "Time-out (patient identification)- positive patient identification process (name and dateof birth) compieted",
+    "Time-out (procedure confirmation)-positive procedural type,side,and site confirmationprocess compieted"
+  ],
+  "ICS": [
+    "Disclosure of EDPS adverse event"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

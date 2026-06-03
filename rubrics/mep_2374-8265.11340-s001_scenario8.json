@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.11340-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11340-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "You plan to assess tone. *You can observe bulk and posture. Is the baby in a flexed curled up position or frog leg position? Are they moving their extremities? Are movements symmetric, left to right and upper to lower? Is there a paucity of movements? Can ask family to flex heels, wiggle arms and legs. Family can also help pull to sit for head lag and truncal tone. Family can touch feet to nose, scarf sign, horizontal and vertical suspension, and assess head/arm position in prone position. Subtle differences are difficult to pick up. Hypertonia may pose more of a problem but can observe for scissoring, stiffness with movements, clenched fists, resistance to ankle flexion.*"
+  ],
+  "MK": [
+    "What disorder is highest on your differential?*Spinal muscular atrophy given tongue fasciculation, severity of the hypotonia, progression of weakness, and failure to thrive.*",
+    "How is this diagnosed? *Typically by genetic testing. Spinal muscular atrophy is caused by defects in the survival motor neuron 1 gene (SMN1) on chromosome 5q. This leads to deficits in SMN protein which is important for the function of motor neurons. Blood tests checks the number of copies of SMN1 and SMN2 genes. The number of SMN2 copies helps determine the expected type of SMA, with more copies leading to better motor neuron function and milder types. Some states have this on their standard newborn screen, where others have an opt-in option and others do not offer it. In this case, there is rapid testing through different companies with turnaround times between 2-4 days.*",
+    "Is this disorder treatable? What is available? *There are now three different FDA approved treatments available!*"
+  ],
+  "SBP": [
+    "You are seeing this patient by telehealth, what should you do next? *Urgent referral to neurology, call the on-call attending if necessary. Curative treatments are available and the earlier the better!*"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

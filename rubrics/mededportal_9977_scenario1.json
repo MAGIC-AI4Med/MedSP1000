@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_9977",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9977/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assessing a patient after a disclosure of violence."
+  ],
+  "MK": [
+    "Recognize clinical situations appropriate for IPV screening."
+  ],
+  "SBP": [
+    "Explain IPV mandatory reporting requirements."
+  ],
+  "ICS": [
+    "Demonstrate empathetic and nonjudgmental attitude when interacting with a potential victim of IPV.",
+    "Ensuring a private interview environment and requesting father-in-law to step out of room.",
+    "Initiating a discussion about IPV with a patient who may be hesitant to reveal circumstances of injury."
+  ],
+  "PBLI": [
+    "Recognize that a successful interaction is not one that necessarily results in a patient disclosing violence or leaving violent relationship."
+  ],
+  "PROF": [
+    "Demonstrates respect for patients’ autonomy in decision-making."
+  ]
+}

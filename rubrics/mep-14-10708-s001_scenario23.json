@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario23",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario23",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for full set of vitals Ask about patient symptoms",
+    "Inquire about BP trend"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Clear to RN about when you would be worried."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

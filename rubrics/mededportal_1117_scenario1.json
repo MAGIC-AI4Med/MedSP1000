@@ -1,0 +1,53 @@
+{
+  "case_id": "mededportal_1117",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1117/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Cough Nature: productive, yellowish sputum (small amount, odorless), progressive",
+    "Fever: High grade, has no diurnal variation, continuous, associated with rigors",
+    "Left sided chest pain: localized, sharp, getting worse with breathing and coughing",
+    "Mild SOB,  no orthopnea nor PND",
+    "No hemoptysis, night sweating and no loss of weight.",
+    "Social history: non-smoker, no contact with TB patients.",
+    "Medication: prescribed some but never took them except for DM.",
+    "DM: on oral hypoglycemic agents, not followed regularly in diabetes center.",
+    "General Lock: ill, in respiratory distress",
+    "V/S: Temp=38.5, Pulse =110, BP=110/70, RR=30/min, O2 sat=90%",
+    "Inspection: no deformity, reduced chest movement on Left side.",
+    "Palpation: Trachea + apex beat not displaced, reduced chest expansion on Left side, TVF reduced over Left infrascapular area",
+    "Percussion: Stony dullness over Left axilla + Left infrascapular area",
+    "Auscultation: bronchial breath sound over Left infrascapular area with increased vocal resonance and diminished breath sound over Left infrascapular area.",
+    "Systemic Examination: Unremarkable",
+    "CXR, CBC, sputum, blood culture, ECG",
+    "Chemistry, urinalysis, ABG",
+    "Pleural fluid analysis",
+    "Septic workup (including blood culture)",
+    "Diabetic diet",
+    "Oxygen",
+    "Chest tube drainage",
+    "Management of DKA: (Insulin infusion , I.V. Fluid, check electrolytes)"
+  ],
+  "MK": [
+    "Production cough and fever",
+    "Signs of pleural effusion",
+    "D.M.",
+    "Community acquired pneumonia with parapneumonic effusion & sepsis.",
+    "Empyema.",
+    "TB",
+    "CBC",
+    "Glucose, urinalysis",
+    "CXR",
+    "ECG (optional for the exam, may say normal)",
+    "Pleural fluid = exudates + PUS",
+    "ABG",
+    "The Final Diagnosis: Community-acquired pneumonia with empyema. DKA.",
+    "Antibiotics coverage: what organisms:"
+  ],
+  "SBP": [
+    "Admission to the hospital"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

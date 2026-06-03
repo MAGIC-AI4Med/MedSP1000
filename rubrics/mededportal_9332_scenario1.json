@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_9332",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9332/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess the situation by gaining information from the bystander",
+    "Gathers essential and accurate information from bystander (history of present illness, initial vital signs in the field, symptoms, severity, duration).",
+    "Sequences critical actions in patient care: ABCs, vital signs, other therapeutic interventions.",
+    "Reevaluates patient after stabilization, and following interventions.",
+    "Perform an appropriate primary survey",
+    "Perform a timely and appropriate secondary survey",
+    "Recognize and treat hypovolemia secondary to hemorrhage",
+    "Demonstrate the correct sequence of steps to apply a tourniquet",
+    "Reassess casualty if there are any changes or after the casualty is moved"
+  ],
+  "MK": [
+    "Determine medical need and required intervention",
+    "Describes indications/contraindications for each therapy.",
+    "Describes an appropriate differential, plan, and disposition.",
+    "Explains the pathologic basis for management."
+  ],
+  "SBP": [
+    "Can handle distractions while maintaining patient care priorities.",
+    "Requests appropriate evacuation plan.",
+    "Initiate a timely request for evacuation"
+  ],
+  "ICS": [
+    "The learner introduces himself/herself to the suspect, properly or the suspect hangs up, and then the bystander who will provide the care",
+    "Assess the bystander’s skill level",
+    "Communicate proper steps of intervention using lay-terms in a timely manner to save patient’s life",
+    "Update negotiator/commander of the patient’s condition",
+    "Introduces self and efficiently establishes respectful and effective communication with bystander/suspect.",
+    "Communicates clearly, concisely, and professionally with all involved regarding patient status and interventions."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

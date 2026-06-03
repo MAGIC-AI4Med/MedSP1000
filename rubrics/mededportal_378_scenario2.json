@@ -1,0 +1,14 @@
+{
+  "case_id": "mededportal_378",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_378/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "You continue the current medical management including statins,the ACE inhibitor,glipizide and aspirin. Yourefer him to a podiatrist after discussing the reason behind his slow wound healing.Youalso refer him to a dietician to further discuss diet and exercise options."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_10157",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10157/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Did the teacher give specific examples or precise behaviors in giving their feedback?",
+    "Did the teacher offer positive (\"reinforcing\") feedback?",
+    "Did the teacher elicit the reaction of the learner to the feedback?",
+    "Did the teacher make good eye contact with the learner?",
+    "Did the teacher create a comfortable, respectful learning climate?",
+    "Did the teacher listen, as well as talk?"
+  ],
+  "PBLI": [
+    "Did the teacher try asking the learner to first self-assess?",
+    "Was there discussion of an \"action plan\" (i.e. concrete next steps to take in order to improve)?"
+  ],
+  "PROF": [
+    "Did the teacher admit his/her own limitations, or acknowledge the inherent limitations of the learner?"
+  ]
+}

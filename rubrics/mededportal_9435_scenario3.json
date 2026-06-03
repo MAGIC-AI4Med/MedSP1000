@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "M1Wash hands",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM36: Test patency ofnasal cavity bilaterally\nS36: Normal\nS36: Normal or may havedecreased patency",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM37: Inspect lips,gums, tongue & teeth\nS37: No lesion present\nS37: No lesion present",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM38: Inspect posterior pharynx (D)\nS38: Tonsillar erythema orexudates\nS38: Clear watery postpharyngeal secretion(post-nasal drip)",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM39: Observe elevationof palate\nS39: Normal elevation\nS39: Normal elevation",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM8: Palpate or percussfrontal sinus\nS8: No tenderness onpalpation\nS8: No tenderness onpalpation",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM9: Palpate or percussmaxillary sinus\nS9: No tenderness onpalpation\nS9: No tenderness onpalpation",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM10: Palpate pre-auricular nodes bilat.\nS10: Not palpable\nS10: Not palpable",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM11: Palpate posteriorauricular nodes bilat.\nS11: Not palpable\nS11: Not palpable",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM12: Palpate occipitalnodes bilaterally\nS12: Not palpable\nS12: Not palpable",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM13: Palpate anteriorcervical nodes bilat. (D)\nS13: Anterior cervical nodes palpable\nS13: Not palpable",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM14:Palpate posteriorcervical nodes bilat.\nS14: Not palpable\nS14: Not palpable",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM16: Palpate tonsillar nodes bilaterally (D)\nS16: May be palpable\nS16: Not palpable",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM17: Palpate subman-dibular nodes bilat.\nS17: Not palpable\nS17: Not palpable",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM18: Palpatesubmental nodes bilat.\nS18: Not palpable\nS18: Not palpable",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nM33: Perform otoscopicexam bilaterally\nS33: Normal\nS33: Tympanic membranewithout fluid or may haveserous otitis with clearfluid behind the tympanicmembrane (unilateral orbilateral) (Mod)",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nMA17: Inspect internal nose with speculum (D)\nSA17: Normal\nSA17a: Watery dischargeSA17b: Nasal turbinateswollenSA17c: Nasal mucosa:pale bluish-gray color",
+    "Streptococcal pharyngitis\nAllergic rhinitis\nMA32: Palpatemaxillary tooth bilat.(D)\nSA32: No tenderness\nSA32:Tenderness ornormal"
+  ],
+  "MK": [
+    "Given the results of your physical exam, which diagnosis is most likely?\n[ ] strep pharyngitis\n[x] allergic rhinitis\n[ ] neither because the findings are ambiguous or contradictory\n[ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-16-10869-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-16-10869-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "What further steps would you take to confirm your diagnosis?"
+  ],
+  "MK": [
+    "Based on the presentation described above, what is the likely diagnosis? Which of the findings (physical or social/emotional) are relevant to the differential?",
+    "Do you suspect this condition to be sporadic or familial, and what risks might exist for other members of the family?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Assign one person to play the role of the physician, the pregnant woman, and the father of the baby to role play delivery of the information to the couple. Lead students to consider the following:\nHow might the woman react to this news in terms of the new understanding of her husband’s issues and fetus's future?\nHow might the husband react to the suggestion that he has a condition that was not diagnosed in the past and being suggested now?\nHow might the woman feel about the chance of mental health issues for her husband? Physical issues? For the fetus?\nDo you think the couple would want to know everything at once or not?\nMight the woman feel grief, overwhelmed, or empowered?\nMight the husband feel relief, overwhelmed, guilty, angry?",
+    "What information might be available to help the couple adjust to this diagnosis?"
+  ],
+  "PBLI": [
+    "What resources can you use to identify possible genetic conditions?"
+  ],
+  "PROF": []
+}

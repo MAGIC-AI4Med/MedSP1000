@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_10250",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10250/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The learner will be expected to discuss what s/he would look for in an initial physical examination (primary survey e.g. airway, breathing, circulation, disability, exposure) and history (SAMPLE- Signs and symptoms, Allergies, Medications, Past medical history, Last meal, and Events) of any pediatric patient s/he is evaluating.",
+    "The learner should apply basic monitoring standards for a patient in shock (cardiorespiratory monitors, pulse oximetry, blood pressure, and temperature). S/he should obtain a patient weight or accurate estimate (e.g. Broselow-Luten Tape).",
+    "The learner should administer intravenous or intraosseous hydrocortisone. Pediatric dosing for the initial hydrocortisone dose is $5 0 ~ \\mathsf { m g } /$ /meter squared, and neonatal dosing is $2 5 { \\mathsf { m g } }$ .3 Volume depletion, hyponatremia, and hypoglycemia should also be addressed with isotonic fluid boluses and dextrose infusion as needed.",
+    "The learner should position the patient for intravenous/ intraosseous access. Using appropriate clean/sterile technique, the learner should insert either an intravenous or intraosseous line. Intravenous fluids and medications should be administered rapidly.",
+    "The learner should recognize that hyperkalemia with associated cardiac conduction abnormalities is a medical emergency. The learner should administer intravenous or intraosseous calcium, as either calcium chloride $( 2 0 \\mathrm { m g } / \\mathrm { k g } )$ or calcium gluconate $\\lvert 1 0 0 \\mathrm { m g / k g } \\rvert$ , to stabilize the cardiac membranes and prevent deterioration into a ventricular arrhythmia.4 They should then proceed with measures to shift potassium intracellularly (bicarbonate, insulin/glucose, albuterol).2"
+  ],
+  "MK": [
+    "The learner should identify symptoms (vomiting, lethargy, failure to thrive) and physical exam findings (tachycardia, dry mucous membranes, poor tone) consistent with adrenal crisis as well as laboratory abnormalities (hyperkalemia, hyponatremia, hypoglycemia).",
+    "The learner should be able to identify pediatric anatomy necessary for intravenous or intraosseous access.",
+    "The learner should identify the peaked T waves on cardiac monitoring and/or identify the risk for hyperkalemia given the presentation of adrenal crisis. Further confirmation should be made using bedside electrolyte evaluation."
+  ],
+  "SBP": [],
+  "ICS": [
+    "They will be expected to clearly identify (verbally or with visual cues) and maintain a team leader (orders, priorities verbally stated by team leader) and team member roles (questions, information directed to team leader).",
+    "The learner will be required to direct available resources to manage adrenal crisis. The team will be expected to brief at the beginning of the scenario and huddle during the scenario. The goal of briefing and huddling is to create a shared mental model,so that the team is on the same page regarding working diagnoses, treatment priorities and plan of care. S/he willcoordinate, direct and communicate with a resuscitation team using directed call-out and check-back."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

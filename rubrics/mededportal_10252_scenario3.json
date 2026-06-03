@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_10252",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10252/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Inspect the 3D dental mold (1 min)"
+  ],
+  "MK": [
+    "Determine the issue the client is facing as a team (3 min)"
+  ],
+  "SBP": [
+    "Complete SOAP note (3 min)"
+  ],
+  "ICS": [
+    "Introduce yourself to client (1 min)",
+    "Discuss the diagnosis and treatment as a team (4 min)",
+    "Report the treatment plan back to the client as a team (3 min)",
+    "Everyone on the team participates at an \\*acceptable level.",
+    "The team members communicate well together.",
+    "Team members are able to quickly resolve differences in opinion.",
+    "The team provides clear, specific, and timely information.",
+    "Did any one team member assume leadership and conduct the majority of the questioning and discussion in this encounter?\" If so, indicate:"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Team members handle themselves in a professional manner."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9330",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9330/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess patient's airway, breathing and circulation and address issues as necessary with reevaluation as indicated",
+    "Conduct brief history and physical exam",
+    "Recognize the cholinergic toxidrome and start appropriate treatment with Mark-1 kit (or equivalent atropine and 2PAM)",
+    "If patient progresses to seizure activity, demonstrate proper use of benzodiazepines"
+  ],
+  "MK": [],
+  "SBP": [
+    "Properly don PPE prior to treating the patient",
+    "Recognize the need for patient decontamination and removal from the area",
+    "Patient is transferred to the ER for further treatment"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,61 @@
+{
+  "case_id": "mededportal_10251",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10251/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Reason for Visit: My father is just not himself lately… legs appear swollen... and today he complains that he is short of breath.",
+    "History – Kidney Disease: Six months ago, the doctor said my father’s kidneys has slighted reduced function; and that has stayed about same as of his hospitalization about 2 weeks ago",
+    "History- General: He has high blood pressure, diabetes, arthritis, and most recently got an infection when he scratched his leg.",
+    "Nausea: Some nausea today.",
+    "Cough: No cough.",
+    "History - Leg Swelling: Never had leg swelling before.",
+    "Fever: No fever/chills in last week.",
+    "Medications – Over the Counter: He occasionally takes some herbal medications...Don’t know what. Not sure about others – perhaps for pain.",
+    "Medications – Pain: He takes a few for his arthritis. I don’t know if he’s taking more.",
+    "Medications – New/Changed: Only thing that is new is IV antibiotics.",
+    "Medications – Allergies: None.",
+    "Medications – Compliance: I take all my meds. The nurse puts them in a pill box. Did I take my blood pressure medication?",
+    "Fatigue: I just don’t have as much energy right now. Dad was always active, walking regularly.",
+    "Chest Pain: No pain.",
+    "Shortness of Breath: I really never have been short of breath before today. Always pretty active, walking regularly.",
+    "Vision: No blurry vision, no double vision, bright lights don’t hurt.",
+    "Mental Status: I think my memory is pretty good. But the patient seems confused.",
+    "Appetite: Not really hungry last few days but normally eats well.",
+    "Stiffness/Weakness: No, neck stiffness, no weakness in arm or legs.",
+    "Urination: No changes in habits, no blood, no pain/burning.",
+    "Prostate: No changes that I know of.",
+    "Liver: Never had anyone say anything, No problems that we know of.",
+    "Alcohol/Smoking/Drug Use: I don’t smoke; 1-2 drinks/week at most.",
+    "X-Rays/Images: Nothing beyond chest x-ray which was normal."
+  ],
+  "MK": [
+    "Vancomycin toxicity (high drug level) causing acute kidney injury.",
+    "Vancomycin induced acute interstitial nephritis (allergic reaction in kidney) and subsequent acute kidney injury.",
+    "Urinary retention due to oxycodone/acetaminophen (narcotic) in an older man with possible enlarged prostate causing acute kidney injury.",
+    "Infection-cellulitis (sepsis) causing acute kidney injury.",
+    "Lisinopril use in a setting of infection/sepsis/low blood pressure possibly contributing to acute kidney failure.",
+    "Acute kidney injury causing water retention and shortness of breath (when kidney function declines, it cannot excrete water and thus water accumulates in the body). Toxins that accumulate as a result of decline in kidney function can cause confusion.",
+    "Acute kidney injury plus Lisinopril causing a high potassium level in blood (acute kidney injury and Lisinopril interfere with potassium excretion from the kidney).",
+    "Opioid use or overuse / toxicity due to acute kidney injury causing change in mental status (Opioids are excreted by the kidney and accumulate in blood when there is a decline in kidney function).",
+    "Acute kidney injury and oral diabetes medication (Glyburide) causing low blood sugars (Glyburide is excreted by the kidney and may accumulate in blood if there is a decline in kidney function).",
+    "Low blood glucose causing change in his mental status and cognition."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Fellow Explain Diagnosis: Kidneys not functioning effectively.",
+    "Fellow Explain Diagnosis – Why: Decline in kidney function may be due to medications.",
+    "Fellow Explain Diagnosis – Next Steps: Admit you to hospital to do some labs.",
+    "Fellow Explain Diagnosis – Next Steps: Need to do some lab tests.",
+    "Put you at ease/made you feel comfortable?",
+    "Used language that was clear and appropriate to the situation?",
+    "Used open-ended questions?",
+    "Verified and summarized the information you provided?",
+    "Provided closure to the session?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "The fellow appeared poised and self-assured.",
+    "Based on your interaction with this fellow, would you consider having this fellow as your future physician?"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11500-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11500-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Identify concern for IPV."
+  ],
+  "SBP": [
+    "Offer that the patient may meet with the Victim Advocate.",
+    "Counsel the patient on resources available to them (if standardized patient is agreeable to further counseling)."
+  ],
+  "ICS": [
+    "Respond appropriately to the disclosure of IPV.",
+    "Establish a psychologically and physically safe environment for the patient using TIC principles.",
+    "Elucidate if the patient is willing to discuss next steps in managing IPV from the Emergency Department."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

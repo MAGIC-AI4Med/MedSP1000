@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11484-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11484-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "How was your surgery?  How was your recovery?  Did you have any complications?",
+    "Do you have any changes to your \\_\\_\\_?   * Allergies * Family history * Medications or Supplements * Alcohol or Smoking",
+    "Do you have any new diagnoses?",
+    "Have there been any other new updates?"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "We will be going over your CBC, blood sugar, and cholesterol results today.",
+    "Your blood sugar is slightly elevated.",
+    "Your bad cholesterol is too high.",
+    "Your RBC and WBC counts are normal.",
+    "Your platelet count is normal."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

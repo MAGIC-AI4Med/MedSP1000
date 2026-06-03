@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_10177",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10177/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Rapidly assesses airway, breathing, and circulation",
+    "Initiates patient monitoring (vital signs, cardiac monitor)",
+    "Secures the airway (when determined to be necessary for airway protection or a procedure)",
+    "Inserts or orders appropriate intravenous access (“two large-bore IVs”)",
+    "Initiates appropriate resuscitative techniques:\nIntravenous fluids\nOrders blood and blood products\nConsiders pharmacologic treatments (Examples: octreotide, antibiotics)",
+    "Orders appropriate labs; must include, at least, the following:\nType and cross match\nComprehensive metabolic panel (or basic metabolic with liver enzymes/hepatic panel)\nComplete blood count\nPT/INR",
+    "Considers gastroesophageal balloon tamponade (GEBT) device:\nFollows steps outlined in the instruction sheet\nSuccessfully inserts, checks, and inflates the device\nObtains x-rays to confirm placement of the device"
+  ],
+  "MK": [
+    "Recognize high risk chief complaint and potential for decompensation in upper gastrointestinal (UGI) bleeding.",
+    "Formulate a differential diagnosis of UGI bleeding.",
+    "Recognizes abnormal and unstable vital signs"
+  ],
+  "SBP": [
+    "Contact consultant(s): Gastroenterology and/or general surgery"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

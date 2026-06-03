@@ -1,0 +1,15 @@
+{
+  "case_id": "mep-13-10574-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10574-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Outline the major harms and benefits of screening her for breast cancer.",
+    "Provide a recommendation for or against screening this patient."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

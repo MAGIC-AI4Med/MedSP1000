@@ -1,0 +1,35 @@
+{
+  "case_id": "mep_2374-8265.10866-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10866-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Basic metabolic panel, lactate",
+    "CBC with differential",
+    "Beta- hydroxybutyrate",
+    "CXR",
+    "Plasma osmolality (if you are concerned about HHS, although less likely in this patient)",
+    "Urinalysis and sediment (for ketones, e/o infection)",
+    "Blood cultures and urine culture if UA c/f infection",
+    "Electrocardiogram",
+    "Sputum cultures",
+    "Rehydration. Patients are typically 5-7L fluid deplete due to osmotic diuresis.",
+    "Glucose management.",
+    "Potassium management.",
+    "Treat underlying pathophysiology. Antibiotics for CAP in this case",
+    "Ideally will follow K, HCO3, AG, and ABG every 2-4 hours.",
+    "FSBG should be checked hourly for insulin gtt titration.",
+    "Glucose <200-250 mg/dL, pH > 7.3, HCO3 > 18 mmol/L, corrected AG <12 mmol/L, ability to eat"
+  ],
+  "MK": [
+    "DKA: elevated anion gap (20) acidosis, hyperglycemia and ketonemia (DKA), likely secondary to RLL PNA.",
+    "Dehydration: elevated Cr and BUN:Cr ratio. Potassium levels are top-normal, but other electrolytes show evidence of depletion in setting of osmotic diuresis.",
+    "This patient has moderate DKA, precipitated by acute infection (i.e. pneumonia)."
+  ],
+  "SBP": [
+    "Ideally, patients with significant acidosis and AG should be admitted to MICU instead of floor, given the intensity of monitoring required."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

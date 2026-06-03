@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_7947",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7947/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtains a focused history from the patient, family, EMS or referring health care providers.",
+    "Initiates monitoring as appropriate for each scenario including pulse oximetry, blood pressure, and cardiac monitoring.",
+    "Completes a focused physical exam.",
+    "Assesses patient’s oxygenation status and places patient on supplemental oxygen in response to low oxygen saturation.",
+    "Orders a chest radiograph to confirm abnormalities detected on exam."
+  ],
+  "MK": [
+    "Lists findings indicative of respiratory failure (increased/decreased respiratory rate, worsening hypoxia, mottling, bradycardia, thready pulses, altered mental status).",
+    "Describes physical findings of a right sided pneumonia (including those found on the model [crackles and decreased breath sounds on the right] and those not found [fremitus, dullness to percussion and egophony]).",
+    "Describes the pathophysiology of aspiration pneumonia and how it relates to the findings on the chest radiograph.",
+    "Lists the appropriate pharmacologic agents used to treat aspiration pneumonia."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Actively participates as a team member and is respectful of other team members and their input."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

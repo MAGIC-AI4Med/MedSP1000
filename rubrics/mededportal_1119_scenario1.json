@@ -1,0 +1,41 @@
+{
+  "case_id": "mededportal_1119",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1119/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "SOB: gradual onset, episodic, progressive , now 2-3 times weekly, induced by dust, cold air, flu, lasts for hours, also at night, in between she is well",
+    "Associations: wheeze, chest tightness, dry cough, heartburn",
+    "Allergies: penicillin, dust, perfume",
+    "Negatives: no hemoplysis, night sweating, loss of weight, anorexia, orthopenia or PND, fever",
+    "Rhinitis: recurrent sneezing, nasal discharge",
+    "Social history: smoker for 2yrs 10/day, no contact with TB, HTN",
+    "Medication: nasal drops for rhinitis, antihypertensives, Ibuprofen for back pain",
+    "General Lock: obese, somewhat anxious, but is otherwise comfortable",
+    "V/S: Temp=37, Pulse =90, BP=140/85, RR=18/min, O2 sat=95% on R.A.",
+    "Chest Examination: bilateral expiratory wheezes, otherwise Normal",
+    "CVS: no signs of pulmonary HTN, LVF",
+    "Systemic Examination: unremarkable",
+    "CBC, Biochemestry, CXR, ECG, Spirometry, post ventolin spirometry",
+    "Atopy status: IgE, RAST, Skin patch tests(optional)",
+    "Avoid allergens, dust, peak flow monitoring ( >70% predicted)",
+    "Low salt Low calorie diet",
+    "Inhaled short acting beta agonist as required",
+    "Inhaled steroids regularly"
+  ],
+  "MK": [
+    "What is your problem list?\n    1. SOB\n    2. Hypertension\n    3. Obesity",
+    "What is your differential diagnosis?\n\nCan you rationalize your answer?\n\n1. Bronchial asthma\n2. COPD\n3. Hypertensive heart disease, arrhythmias\n4. Recurrent aspiration, recurrent pulmonary emboli, vocal cord dysfunction, etc.",
+    "CBC",
+    "CXR hyperinflated",
+    "ECG normal",
+    "Spirometry (Reduced FEV1/FVC ratio indicative of AFO, Obstructive pattern) repeated after ventolin shows> 20% reversibility)",
+    "The Final Diagnosis: Bronchial Asthma, Allergic rhinitis, Hypertension."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Patient education about disease & drugs (MDI technique, use of PEFR)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

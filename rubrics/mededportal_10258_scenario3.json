@@ -1,0 +1,44 @@
+{
+  "case_id": "mededportal_10258",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10258/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Commented on need tofully undress patient",
+    "Commented on how youdescribed lesions/rash"
+  ],
+  "MK": [
+    "Asked effective questions to probe learner&#x27;sknowledge",
+    "Generalized from singlecase to patterns/models"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Asked effective questions to engage learner",
+    "Encouraged learner toexpress concerns andneeds",
+    "Set an agenda for session",
+    "Paced session appropriately for needs oflearner",
+    "Avoideddigressions/distractions",
+    "Presented material in well-organized manner",
+    "Delivered information in small chunks",
+    "Illustrated points withexamples/analogies",
+    "Outlined to learner whatyou would be looking forduring his/her exam",
+    "Demonstrated sensitivity toward patient",
+    "Commented on how youinteracted with the patient"
+  ],
+  "PBLI": [
+    "Did not miss importanttopics",
+    "Assessed learner&#x27;s self- perceived learning needs",
+    "Explored learner&#x27;sattitudes about this task",
+    "Gave specific positivefeedback",
+    "Gave specific correctivefeedback",
+    "Assessed learners needs",
+    "Observed learnerdo/discuss physicalexamination",
+    "Asked learner to evaluatehis/her own performance",
+    "Provided behaviorally specific positive feedback",
+    "Provided behaviorally specific correctivefeedback",
+    "Summarized learningexperience"
+  ],
+  "PROF": [
+    "Expressed respect forlearner&#x27;s experience andemotions"
+  ]
+}

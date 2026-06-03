@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11377-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11377-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Hay quesacar elpus para eliminar la infeccion Esto se llama incision y drenaje.Primero adormecemos la piel con anestesia local y abrimos elabsceso conun pequeio corte para drenar,dejar que salga,elpus.Despueslodejamos abierto para que siga drenando y vigilamos la herida unos dias.",
+    "Algunas veces se recetan antibioticos, pero no siempre se recomiendan. Si por cualquier motivo usted no puede cumplir con el tratamiento, debe avisarle a un miembro del equipo medico",
+    "Elabsceso tarda variosdias enresoverse inclusodespues delincisionydrenaje.En casa,no debe sumergir la zona en agua.Si debe mantenerla limpia yseca.Debe hacer cita en dos o tresdias para una revision.",
+    "POSIBLES SINTOMAS DE ALARMA:\n\nFiebre   \nLa zona roja se está haciendo más   \ngrande   \nReacción alérgica (picazón,   \nsalpullido,poblemsr   \nrespirar)",
+    "Es importante observar la zona para saber si estä mejorando o empeorando. La doctora le enseia a Pablo a mantener la herida limpia y seca ya ponerse un vendaje.Las instrucciones pueden variar segun la zona afectada, su trabajo $\\nparallel$ otros factores."
+  ],
+  "MK": [
+    "Usted tiene un absceso en la piel. Un abceso es un tipo de infeccion con acumulacion depus.El pus es un material blanco oamarillo que contiene bacteria.Los abscesos ocurren porque entra bacteria dentro del cuerpo y nuestro cuerpo reacciona para contener la infeccion. Cuando ocurre en la piel,elabsceso se ve como un bulto rojo,inflamado y doloroso.A veces se confunden con picaduras de aranas o insectos.",
+    "Eldiagnosticode unabsceso sehace despuesde:\n\nEs c u c h a r s u s s ínto m a s $\\nparallel$ s u h i sto ri a l m é d i c o H a c e r u n exa m e n fís i c oA ve c e s s e h a c e n otr a s r u e b a s c o m o u n u ltr a s o n i d o (sonograma,ecografia),unatomografa(escaner)onalisisde sangre,pero no siempre se recomiendan."
+  ],
+  "SBP": [],
+  "ICS": [
+    "The student provides a clear definition or explanation of the term.",
+    "The student provides a word/phrase synonym in plain language.",
+    "The student provides sufficient context for the term during the encounter/transcript that the meaning of the term becomes clear."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

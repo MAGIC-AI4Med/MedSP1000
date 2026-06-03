@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_10064",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10064/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Place the patient on the cardiac monitor, pulse oximeter, obtain IV Access (PC, PL)",
+    "Maintain C-Collar placement, spine immobilization (PC, MK)",
+    "Recognition and treatment of hemothorax (PC, MK, PL)",
+    "Recognition and treatment of pelvic fracture (PC, MK, PL)",
+    "Recognition and treatment of PEA (PC, MK, PL, P)",
+    "Follows ACLS / ATLS protocols (PC, MK, PL, P)"
+  ],
+  "MK": [
+    "Articulate differential diagnosis and prognosis after decorticate posturing and Cushings reflex (PC, MK, C, PL)"
+  ],
+  "SBP": [
+    "Identify and report possibility of child abuse (PC, C, MK, SP, P)",
+    "Initiation of massive transfusion protocol (PC, C, MK, SP, PL)",
+    "Reports suspicion of child abuse to the authorities (PC, C, MK, SP, P)"
+  ],
+  "ICS": [
+    "Organize a medical team with clearly defined roles for all participants (PC, C, P, PL)",
+    "Manages family emotions and expectations (PC, C, MK, P, PL)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

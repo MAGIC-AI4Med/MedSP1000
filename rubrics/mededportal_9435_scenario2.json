@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "M1Wash hands",
+    "M7: Examine skull, hair &amp; scalp (D)",
+    "M11: Palpate posteriorauricular nodes bilaterallyD)",
+    "M12: Palpate occipital nodes bilaterally (D)"
+  ],
+  "MK": [
+    "In anticipation of your physical exam of the head and lymph nodes, list the positive sign(s) associated with each diagnostic hypothesis.",
+    "Given the results of your physical exam, which diagnosis is most likely?\n\n[ ] seborrheic dermatitis\n[x] lice\n[ ] neither because the findings are ambiguous or contradictory\n[ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

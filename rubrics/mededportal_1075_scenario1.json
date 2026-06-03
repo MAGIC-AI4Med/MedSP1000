@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "You identified that I was smoking tobacco",
+    "You realized I didn’t want to quit",
+    "Exposure to second hand smoke greatly increases the chance of inner ear infections in infants and children.",
+    "Smoking in another room or in a part of the house away from the baby does not reduce risk/exposure. The smoke will eventually circulate to the area occupied by the baby. The only safe alternative is to have no smoking whatsoever in the home.",
+    "Smoking mothers who nurse transmit nicotine and other harmful chemicals to the baby via their milk.",
+    "A nursing mother should stop smoking, not stop nursing.",
+    "Just because you had no ill health effects from your mother smoking, does not mean that Amy will not have any ill health effects as a result of your smoking. She is already experiencing problems (inner ear infections).",
+    "Smoking around an infant/toddler significantly increases the risk of contracting a whole host of illnesses including SIDS.",
+    "Smoking is also risky for the mother.",
+    "Smoking is not an effective way to deal with life’s problems."
+  ],
+  "MK": [],
+  "SBP": [
+    "Student should offer to explain to your mother the importance of not exposing Amy to second hand smoke and devise some equitable way of keeping the home smoke free.",
+    "Student should refer you to additional counseling and schedule a follow-up session with you."
+  ],
+  "ICS": [
+    "You helped me find a reason to think about quitting (Amy's ear infections, other health risks, risk of Amy becoming a smoker, cost)",
+    "You helped me decrease barriers to quitting (talking to family about quitting…)",
+    "You clearly advised me to quit",
+    "Overall, you have definitely made me consider thinking about quitting"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

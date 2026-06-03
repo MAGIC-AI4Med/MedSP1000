@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.11526-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11526-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Hikers complete ALS initial assessment, primary and secondary assessment.",
+    "Another team member obtains vitals, history, and performs initial assessment of the patient",
+    "One team member immediately puts on PPE and then applies direct pressure to the wound using gauze",
+    "Evaluate for debris/contamination and remove as necessary. Assess upper extremity pulses/circulation. Assess neurologic status. Apply direct pressure to wound and hold for 10-15 minutes (simulated), apply tourniquet 5-10 cm proximal to wound if bleeding is not controlled.",
+    "Hikers continue to assess vitals and monitor bleeding control. Administer rehydration via a water bottle from their pack, and give extra layers if she is still cold."
+  ],
+  "MK": [
+    "Recognize shivering, pallor, decreased capillary refill, dizziness with standing as signs of volume depletion via blood loss."
+  ],
+  "SBP": [
+    "Assess and constantly reassess the scene for safety",
+    "Activate EMS as soon as cell service is available",
+    "Assess both the scene and the status of the patient to determine the safest manner of evacuating",
+    "Assess and execute the best manner of EMS activation",
+    "Give comprehensive patient sign-out to EMS"
+  ],
+  "ICS": [
+    "Approach patient in non-threatening way using appropriate communication",
+    "Keep patient updated with medical management in a level of detail appropriate to their level of understanding",
+    "Obtain consent to treat and proceed when possible",
+    "Assign clear team roles and responsibilities",
+    "Communicate effectively as a team, including using directed, closed-loop communication"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

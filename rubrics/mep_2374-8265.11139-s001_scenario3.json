@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11139-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11139-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a head to toe exam looking for evidence of infection",
+    "Identify bony tenderness on lumbar spine using palpation",
+    "Obtain key labs: arterial blood gas, lactate, complete blood counts with differential, electrolytes, renal function, liver function tests, blood cultures, urinalysis and urine cultures.",
+    "Choose broad spectrum antibiotics with coverage for encapsulated organisms",
+    "Ensure patient has adequate access for fluid resuscitation, consider central line placement for vasopressors",
+    "Discuss an appropriate fluid resuscitation plan recognizing likely element of diastolic dysfunction and right ventricular compromise given longstanding sickle cell disease",
+    "Consider additional imaging to make diagnosis (ie magnetic resonance imaging of lumbar spine)"
+  ],
+  "MK": [
+    "Describe an appropriate differential diagnosis for back pain and fever",
+    "Recognize skin breakdown associated with previous port placement as a potential source of infection"
+  ],
+  "SBP": [
+    "Call for Intensive Care Unit consult given need for vasopressors"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

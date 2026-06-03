@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_8509",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8509/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "CAB assessment: check carotid pulse, look for respiratory effort",
+    "Request cardiac monitor and pulse ox",
+    "Initiate some form of bag-valve-mask ventilation - any will suffice, as this case emphasizes CPR and defibrillation, while BVM technique is covered extensively in Scenario 1 (will have no effect)",
+    "Place backboard for CPR",
+    "Initiate CPR using appropriate body position (including use of stool) and compression rate and depth (will initially have no effect, two full minutes of quality CPR are required for recovery to be possible)",
+    "Perform defibrillation (will recover on second shock once CPR criterion is met)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Call for help – learners must request either code team or rapid response team"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

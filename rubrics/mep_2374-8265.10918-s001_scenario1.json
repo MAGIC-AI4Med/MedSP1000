@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.10918-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10918-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Correctly identifies acetaminophen",
+    "Lists acetaminophen along with other drugs",
+    "Does not identify acetaminophen",
+    "Correctly discusses glutathione depletion, P450 enzyme induction, accelerated development of NAPQI (at least 2 out of 3",
+    "Mentions one of the following: P450, glutathione, NAPQI, toxic metabolites",
+    "Correctly identifies N-acetylcysteine (NAC) and mentions glutathione",
+    "Identifies NAC but does not correctly describe the mechanism of action",
+    "Does not correctly identify NAC or glutathione",
+    "The student recognizes that based on the timing of ingestion and acetaminophen level, liver damage is likely",
+    "Nomogram was interpreted incorrectly, and/or the answer is incorrect"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

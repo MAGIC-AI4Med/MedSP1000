@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "You identified that I recently quit tobacco, but I am having trouble staying quit",
+    "Smoking does not get rid of stress: it causes it. (The “hit”/withdrawal cycle)",
+    "Withdrawal (irritability, anxiousness, restlessness and impatience) feels like stress. Smoking gets rid of withdrawal. Smokers mix up relieving withdrawal with getting rid of stress.",
+    "There is no ingredient in a cigarette that will get rid of stress or calm the smoker.",
+    "Most ex-smokers report feeling calmer and less stressed than smokers.",
+    "There are many healthy alternatives to help one deal with stress. The student should recommend or refer you to something:\nFormal Exercise\nGetting Active—Walking, Tennis, Golf, etc\nStress Management/Meditation Classes\nTalking to friends/relatives/clergy\nPositive self-talk/visualization\nVisualization techniques",
+    "Relapse prevention techniques: Anticipate/Plan/Rehearse"
+  ],
+  "MK": [],
+  "SBP": [
+    "Student should set up some type of follow up with you."
+  ],
+  "ICS": [
+    "You gave me support and encouragement for having quit for two months",
+    "Overall, you have definitely made me feel more confident maintaining the quit"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

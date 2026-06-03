@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11439-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11439-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "**Ask-Respond-Tell (ART) in ARTS:** Did the student initiate the patient education conversation by asking an open-ended question regarding tests, treatments, or lifestyle?",
+    "**MI:** Did the student elicit your comfort and preparedness to receive information regarding vaccination?",
+    "**Seeking Solutions (S) in ARTS:** Did the student outline a plan based on your conversation?",
+    "**Ask-Respond-Tell (ART) in ARTS:** Was the discussion about the plan a dialogue between the doctor and patient as opposed to a lecture?",
+    "**MI and Seeking Solutions (S) in ARTS :** Did the student elicit your comfort and preparedness to take part in the recommended plan?",
+    "**Ask-Respond-Tell (ART) in ARTS**: Did the student use the skills of empathy in relation to an expressed or potential feeling/emotion? (Reflection, legitimation, exploration)?",
+    "Did the student make you feel supported?",
+    "**Seeking Solutions (S) in ARTS:** Did the student end the encounter and clarify next steps?",
+    "Did the student communicate clearly? (volume, pacing, enunciation)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did the student behave professionally by showing respect?",
+    "Did the student avoid verbal or nonverbal judgmental behaviors?"
+  ]
+}

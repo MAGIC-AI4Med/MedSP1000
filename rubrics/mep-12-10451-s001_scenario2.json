@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-12-10451-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10451-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "List the problems: ask partner to list subjective and objective problems from this case\n\na. SUBJECTIVE: agitation\n\nb. OBJECTIVE: catatonia, echopraxia, echolalia, intermittent psychomotor retardation/agitation, bizarre behavior, temporal muscle wasting, CSF lymphocytic pleocytosis; elevated creatinine kinase (mild rhabodmyolysis)",
+    "What is the problem representation (restatement of problem list)?\n\na. This is a 25 year old white male presenting with intermittent bizarre behavior, stupor, intermittent motor immobility, peculiarities of voluntary movement and echolalia in context of social conflict with negative medical workup except lymphocytic pleocytosis on cerebrospinal fluid (CSF) evaluation.",
+    "Differential Diagnosis: Explicitly provide the following anchors and ask your partner for common, deadly and exotic differentials. Provide immediate feedback and move through several of these.\n\na. ANCHOR- Bizarre Behavior: i. Common: depression, psychosis, anxiety disorders ii. Deadly: substance, delirium, Central Nervous System (CNS) mass iii. Exotic: seizure disorder, paraneoplastic syndrome\n\nb. ANCHOR- Catatonia\n\ni. Common: schizophrenia, bipolar, major depressive disorder ii. Deadly: neuroleptic malignant syndrome, serotonin syndrome, Substance induced iii. Exotic: encephalitis, autoimmune, strokes, lesions, metabolic\n\nc. ANCHOR- CSF pleocytosis:\n\ni. Common: infection, inflammation, iatrogenic, laboratory error   \nii. Deadly: malignancy   \niii. Exotic: paraneoplastic"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [
+    "List at-risk cognitive biases while working on this case? Could your partner provide examples?\n\na. Anchoring Bias b. Confirmation Bias c. Availability Bias d. Emotional Bias",
+    "Use one of the at-risk bias and walk thru the card and come up with 2-3 strategies to reduce those biases:"
+  ],
+  "PROF": []
+}

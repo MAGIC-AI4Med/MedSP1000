@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9015",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9015/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Check the box if the resident:\nTold family members about what is done to prevent complications Told family members what he/she would have done differently"
+  ],
+  "ICS": [
+    "Check the box if the resident:\nTold family members what the complication was\nExplained why it happened\nTold family members how it impacted care for their relative\nTold family members how the consequences will be addressed",
+    "Check the box if the resident:\nSaid he/she was sorry and apologized sincerely\nAllowed family members to express emotions\nResponded well (non-defensively) to family members' anger, concerns, doubts",
+    "Check the box if the resident:\nListened respectfully, actively to what family members had to say\nWas verbally coherent, avoided jargon\nHad appropriate non-verbal expressions, behaviors (e.g., eye contact)\nChecked for family members' understanding of information",
+    "Check the box if the resident:\nAssured follow-up (how to contact him/her, when to expect next communication) Took appropriate leave (handshake, avoided “hasty retreat”)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Check the box if the resident:\nTook responsibility for the complication\nExplained the problem freely and directly, without the family members having to ask a lot of probing questions to get details\nDid not keep things from family members that they should know\nDid not avoid family members' questions (was not evasive)"
+  ]
+}

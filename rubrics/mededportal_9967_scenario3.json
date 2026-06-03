@@ -1,0 +1,39 @@
+{
+  "case_id": "mededportal_9967",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9967/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Recognize a child in respiratory or cardiovascular distress.",
+    "Perform focused physical exam.",
+    "Take pertinent, focused history.",
+    "Ask for IV access & give 20 ml/kg NS bolus",
+    "Continue fluid resuscitation",
+    "Apply oxygen",
+    "Give Epinephrine",
+    "Give steroids",
+    "Give Bronchodilator",
+    "Give antihistamine",
+    "Observe and respond to patient’s response to therapies."
+  ],
+  "MK": [
+    "Identifies/Interprets vital signs",
+    "Students find bee sting and recognize anaphylaxis",
+    "Discuss differential"
+  ],
+  "SBP": [
+    "Determine admission status.",
+    "Call for help"
+  ],
+  "ICS": [
+    "Communicates effectively with staff and family",
+    "Updates staff and family on plans and progress",
+    "Assigned roles to team members",
+    "Communicated differential with team",
+    "Thinking out loud as a team"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Wash hands"
+  ]
+}

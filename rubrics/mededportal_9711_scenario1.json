@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_9711",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9711/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The Student(s) demonstrated effective patient care, including competent performance of procedures.",
+    "IV, O2, monitor",
+    "12-lead EKG obtained promptly",
+    "Fluid Resuscitation",
+    "Appropriate Recognition of Septic Shock Appropriate Management of Septic Shock",
+    "Consider Appropriate IV Antibiotics (After Blood & Urine Culture)",
+    "Altered Mental Status Evaluation & Workup Check Finger Stick",
+    "Consider Central Access or Pressors if Blood Pressure does not improve"
+  ],
+  "MK": [
+    "The Student(s) demonstrated good medical knowledge including an ability to quickly generate a differential diagnosis and accurately diagnose the “patient’s” illness",
+    "Localize Source of Infection Common Sources of Infection in the elderly? (Urine, Chest, Abdominal Sources)"
+  ],
+  "SBP": [
+    "The Student(s) demonstrated an understanding of systems based practice including the effective use of healthcare resources.",
+    "Appropriate Presentation to ICU about patient's state"
+  ],
+  "ICS": [
+    "The Student(s) demonstrated effective interpersonal communication skills, with the “patient”, his “family”, and the healthcare team (including consultants)."
+  ],
+  "PBLI": [
+    "The Student(s) demonstrated effective practice-based learning, including the selfanalysis/critique of their performance during the simulation exercise."
+  ],
+  "PROF": [
+    "The Student(s) displayed professionalism"
+  ]
+}

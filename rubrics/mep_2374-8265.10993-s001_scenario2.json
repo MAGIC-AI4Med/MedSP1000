@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.10993-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10993-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "It is important to ask about acute concerns related to the complaint because the reason the parent is calling may not be what makes you decide if they are sick or not."
+  ],
+  "MK": [],
+  "SBP": [
+    "If the resident gets all of the information they should triage them as an emergency and send them to the ED for a rule out sepsis workup for fever in a neonate."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

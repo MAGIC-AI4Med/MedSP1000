@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_9246",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9246/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Contains essential elements HPI | ROS | PMH | Meds | PSH | FH | SH",
+    "Provided pertinent positive/negative components",
+    "Reported appropriate exam findings",
+    "Indicated relevant diagnostic studies/treatment plan"
+  ],
+  "MK": [
+    "Listed top 2-3 most likely diagnoses with rationale"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Well-organized",
+    "Utilized appropriate medical abbreviations"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

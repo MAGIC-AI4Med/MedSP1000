@@ -1,0 +1,36 @@
+{
+  "case_id": "mededportal_524",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_524/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Primary assessment (ABCDs)",
+    "Acquisition of vital signs",
+    "Removal of clothing",
+    "Recognition of respiratory failure (hypoxia)",
+    "Recognition of circulatory failure (impaired perfusion)",
+    "Basic airway management (OPA, NPA, $100 \\%$ oxygen administration via mask ventilation)",
+    "Basic circulatory management (peripheral venous access)",
+    "Advanced airway management (endotracheal intubation, placement confirmation and securement, ventilator management)",
+    "Advanced circulatory support (cardiac monitor, additional venous access)",
+    "Closed head injury evaluation and management (implementation of specific testing and treatment, crystalloid infusion, ? mannitol, ? Dilantin, ? Burr hole craniotomy)",
+    "Secondary assessment (incl. log-rolling patient)",
+    "Continued reassessment (recognition of change in status)",
+    "Continued patient evaluation and respiratory / circulatory support",
+    "Supportive therapies upon stabilization of respiratory and circulatory function (sedation, analgesia)"
+  ],
+  "MK": [
+    "Significant closed head injury recognition"
+  ],
+  "SBP": [
+    "Establishment of team structure with role assignment",
+    "Call for assistance",
+    "Recognition of expectant status (based on US Arrmy triage policy)",
+    "Patient information transfer to surgeon for definitive intervention and disposition"
+  ],
+  "ICS": [
+    "Deployment of appropriate communications $^ +$ teamwork behaviors"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

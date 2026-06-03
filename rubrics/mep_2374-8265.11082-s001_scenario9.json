@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11082-s001",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11082-s001/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain current set of vital signs",
+    "Inquire about nature of chest pain",
+    "Ask nurse to obtain EKG now and administer sublingual nitroglycerin",
+    "Could also order repeat troponin and chest x-ray (either before or after seeing patient)",
+    "If EKG shows other ST changes or no changes, but concerned for ACS, initiate therapy immediately. *What does this include?*\n  + Full dose aspirin 325mg\n  + Heparin bolus + full dose drip (if already on heparin drip, make sure PTT therapeutic)\n  + High intensity statin\n  + Beta blocker (if no signs of cardiogenic shock)\n  + Oxygen to maintain O2 saturation > 90%\n  + Monitor troponins (every 8 hours till peak)",
+    "Control patient’s chest pain, goal is for patient to be chest pain free. *What are possible interventions for this?*\n  + Start with sublingual nitroglycerin (can give three tablets a few minutes apart)\n  + If still with chest pain, consider topical nitroglycerin ointment, morphine; if unable to control chest pain with these therapies, next step would be escalating to nitroglycerin drip\n  + Monitor blood pressure with above therapies\n  + If still having significant chest pain despite these interventions, discuss with cardiology fellow as may need more emergent catheterization"
+  ],
+  "MK": [
+    "After evaluating patient, compare current EKG to prior. If new ST elevations, call cardiology fellow immediately to discuss intervention."
+  ],
+  "SBP": [
+    "Consider discussing patient with senior resident and seeing patient together",
+    "Documentation: write event note describing patient’s chest pain, vital signs, and assessment/plan including orders placed"
+  ],
+  "ICS": [
+    "Notify nurse you are worried about acute coronary syndrome and will come see patient urgently"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

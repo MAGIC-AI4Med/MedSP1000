@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.10982-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10982-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain a focused history",
+    "Perform a focused physical exam",
+    "Obtain a temperature",
+    "Initiate IV fluid bolus for hypotension",
+    "Once triad of fever, tachycardia, and hypotension are recognized, begin broad spectrum antibiotics"
+  ],
+  "MK": [
+    "Evaluate for arrhythmia on EKG",
+    "Consider acute blood loss (Abdominal Exam, thigh exam, Rectal exam for GI bleed)"
+  ],
+  "SBP": [
+    "Call for help / activate senior resident or MICU consult"
+  ],
+  "ICS": [
+    "Explain the working diagnosis to the patient"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

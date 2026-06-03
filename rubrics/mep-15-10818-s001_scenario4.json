@@ -1,0 +1,26 @@
+{
+  "case_id": "mep-15-10818-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10818-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "JB should be given general sexual risk reduction counseling, including condoms and lubricant if possible."
+  ],
+  "MK": [
+    "The most concerning aspect of this case is the unprotected anal intercourse.",
+    "Another concerning part is the secrecy of this activity, which may be due to cultural or internalized stigma about homosexual activities.",
+    "The HIV negative status is a good indication, and JB should also have a kidney function test.",
+    "Based on his present risk profile, he is a good PrEP candidate provided he is in good health."
+  ],
+  "SBP": [
+    "The provider may also discuss ways that JB can pay for his care without using the insurance policy he holds with his wife, as test results and charges may appear on their common insurance statement.",
+    "This may lead to additional issues that would indicate JB could benefit from the services of a mental health professional.",
+    "JB should also be directed to resources that will allow him to access healthcare services with discretion, including through shared insurance with his wife.",
+    "In some cases, the provider can issue a letter to the insurance carrier requesting that certain services be redacted from insurance correspondence."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": [
+    "The provider in this case can ensure that they will not share the results of the STD test with JB’s wife, and also will not speak of JB’s sexual intercourse with men with his wife."
+  ]
+}

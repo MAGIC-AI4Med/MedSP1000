@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario12",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario12",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "If it is an urgent need for a consult (like in this case), but the student is not clear about that in the call, you could prompt them with saying “ok we will see him tomorrow” and see if they will ask for more urgent timeline."
+  ],
+  "ICS": [
+    "Example consult question: “This is a 66 yoM with CKD stage IV admitted for AKI, now with hyperkalemia , K of 6.9. He is asymptomatic, but has concerning EKG findings. I feel he needs urgent hemodialysis. He has already received calcium gluconate, insulin, is on telemetry, and is being transferred to the ICU. Are you able to see him now?”",
+    "Goal to guide students to have a clear question. If you are not getting that in the first 30 seconds, then ask “So what’s your question?”",
+    "Goal for students to give you a succinct overview of the medical situation. If they are rambling on with medical details try to guide them to be more succinct: “just tell me the one liner”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

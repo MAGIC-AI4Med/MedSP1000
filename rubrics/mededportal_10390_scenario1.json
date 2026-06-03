@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10390",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10390/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Examine the patient and obtain vital signs",
+    "Assess oxygenation – check the oxygen saturation",
+    "Administer supplemental oxygen",
+    "Administer an antipyretic",
+    "Administer empiric antibiotics"
+  ],
+  "MK": [
+    "Order and interpret the chest radiograph"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

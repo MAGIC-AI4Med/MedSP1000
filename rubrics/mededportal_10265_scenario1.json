@@ -1,0 +1,36 @@
+{
+  "case_id": "mededportal_10265",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10265/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Conducted an interview including a mental status exam.",
+    "Assisted patient to manage levels of anxiety including a PTSD attack.",
+    "Offered ways to manage varying levels of anxiety including a PTSD attack.",
+    "Provided a safe and therapeutic environment.",
+    "Remove any hazardous objects from the area.",
+    "Reduced stimuli.",
+    "Conducted a risk/suicide assessment.",
+    "Stay with and focus on patient.",
+    "Provided comfort and reassurance."
+  ],
+  "MK": [
+    "Recognize the symptoms of PTSD (Reliving; flashbacks, nightmares, emotional distress), and Increased arousal; hypervigilance, difficulty concentrating.).",
+    "Recognize an impending PTSD attack."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Established a caring relationship with the patient including proper eye contact, open and caring body language and use of a therapeutic voice.",
+    "Demonstrate effective communication and teamwork throughout the scenario.",
+    "Respect and encourage the patient’s perspective and incorporate into plan of care.",
+    "Communicated an evidence-based plan of care.",
+    "Assume the role as determined by the team."
+  ],
+  "PBLI": [
+    "Actively participate in debrief to reflect on own performance and the patient’s experience for continuous learning.",
+    "Identify strategies to improve or enhance teamwork/collaboration through the debrief process.",
+    "Use debriefing to discuss what occurred during the simulation scenario including what went well and what could have been better.",
+    "Understand the perspective of the Standardized Patient to enhance one’s own performance."
+  ],
+  "PROF": []
+}

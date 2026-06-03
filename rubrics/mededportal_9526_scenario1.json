@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_9526",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9526/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Determine the patient\u2019s cognitive and functional capabilities"
+  ],
+  "MK": [
+    "Identify end stage cardiac disease in an elderly patient",
+    "What advice could you give to Mr. Smith and his primary provider regarding the course of heart failure?",
+    "List five (5) factors that you would take into consideration to make an assessment of Mr. Smith\u2019s life expectancy."
+  ],
+  "SBP": [
+    "Recommendations:\n  - to not replace AICD battery\n  - palliative care / hospice care",
+    "What suggestions would you give to Mr. Smith\u2019s primary provider regarding his current treatment plan?",
+    "Would Mr. Smith benefit from palliative care? Would he qualify for hospice care through the Medicare Hospice Benefit? How are those different?"
+  ],
+  "ICS": [
+    "Elicit the patient\u2019s goals of care"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_9456",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9456/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Interview an adolescent, asking at least one question for each of the components of the HEEADSSS interview."
+  ],
+  "MK": [
+    "Name and describe the components of the HEEADSSS interview."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [
+    "Identify a specific individual learning goal for interviewing an adolescent using the HEEADSSS interview format.",
+    "Observe a peer doing a HEEADSSS interview and provide feedback about the interview."
+  ],
+  "PROF": []
+}

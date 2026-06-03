@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.10905-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10905-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "In what stage of change is the patient? (precontemplative)"
+  ],
+  "SBP": [
+    "What next steps would you pursue to address the abuse in this scenario?\n   1. Are there legal reporting requirements? (no)\n   2. Referrals to resources\n      1. Clinic social worker\n      2. Local women’s shelter\n      3. National hotline\n   3. Assess for immediate safety\n   4. Schedule close follow up"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

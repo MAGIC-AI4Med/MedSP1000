@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10015",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10015/scenario7",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Needs Work for Level: Interrupts patients/family, does not use silence, gives too much information, is falsely reassuring, becomes defensive",
+    "Adequate for Level: Listened carefully and used silence, avoided false reassurance, didn’t give too much information without permission, uses some NURSE (naming, understanding, emotions)",
+    "Proficient: Listens, Responds to emotion (names, understands, responds, supports and explores emotion) uses silence, warning shots and body language effectively; Avoided false reassurance, paces conversation well, asked permission before providing information",
+    "Positive Response: If appropriate, establish rapport by asking about what Alonzo was like before the accident, then move into the rest of the discussion. Explore what the family member already knows/believes about the future. Name her emotions as she talks to you---exhaustion, confusion, helplessness. Ask if you can talk to her about conversations she and Alonzo had about what to do if either of them were in a situation when it looked like they might not recover. Use I wish statement “I wish we didn’t have to talk about this/ I wish he was getting better.” Be prepared to offer your recommendation about what to do. Establish a concrete plan “so we aren’t going to push on his chest if his heart were to stop again and we aren’t going to put him back on that breathing machine.”",
+    "Negative Response: Delivers facts, pushes Camilla into decisions, ignores her needs.",
+    "Positive Response: Student listens, uses silence. Understands why Camilla would feel this way. Use an I wish statement: “I am wishing for a miracle too, but we have to have a plan in case that he doesn’t get any better.” To understand her perceptions, ask her if she an Alonzo ever talked about what to do if either of them were in a place where he/she wasn’t getting better. It may help to share your recommendation about what to do, and/or the prognosis about the likelihood of getting (Established as <1%). Leave with a concrete plan. Respond to any emotions while you are talking. Could offer a “second” opinion—a palliative care consult.",
+    "NR: Student confronts, is defensive, and ignores Camilla's process of living with her situation, tries to take all her hope away. Doesn’t listen. Is forceful."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

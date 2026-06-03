@@ -1,0 +1,37 @@
+{
+  "case_id": "mep_2374-8265.10951-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10951-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "In the authors’ system, the trainee provider would be expected to involve a faculty supervisor immediately.",
+    "S/he would request help from the clinic front desk in calling an ambulance to transport the patient to the emergency room, which is at a different physical location from the outpatient clinic.",
+    "S/he would enlist help from on-site clinic Public Safety officers to maintain safety and prevent elopement while waiting for the ambulance, and s/he would call a specific providers’ number for Psychiatric Emergency Services to provide a verbal handoff prior to the patient’s arrival to the ED.",
+    "S/he would complete appropriate state legal paperwork to accompany the patient in the ambulance, but does not need to fill out any other forms.",
+    "Depending on the system, multiple different parties may need to be involved in or notified of the admission. In the authors’ system, the psychiatric emergency services resident would provide a verbal handoff to inpatient medicine and inpatient consult-liaison colleagues, update the outpatient provider, and alert family of the disposition. Given the need for multiple communications, some systems may implement a checklist to ensure all necessary communication occurs; if such a checklist exists, this would be the time to highlight its existence and contents.",
+    "If disagreement arises, a trainee provider should directly involve his/her supervisor, if this has not already been done, who may be able to help the care team reach resolution on a supervisor-to-supervisor level.",
+    "Can the patient consent to his own admission and treatment? If not, can his parents (his legal guardians) do so, or would other parties (e.g. court) need to become involved?",
+    "In your system, would the patient be considered most appropriate for an adolescent or adult inpatient unit?",
+    "With this “grey area” patient, which faculty supervisors should be involved in the trainee provider’s decision-making process? (Examples include Adult or Pediatric CL faculty, Adult and/or Child Inpatient Psychiatry faculty.)",
+    "Who is your system’s internal legal counsel? How is s/he reached if areas of confusion regarding legal status and consent arise?",
+    "What paperwork needs to be completed for transfer to the inpatient psychiatric setting?",
+    "Multiple options for stepdown may exist and help Jerry transition back to the community. The exact types of stepdown available will vary by community, but may include partial hospitalization or day programs, mobile crisis team visits, an intermediate (unlocked) inpatient transitional unit, or intensified outpatient services such as increasing frequency of visits, adding group therapy or more individual therapy, etc."
+  ],
+  "ICS": [
+    "Examples of details the authors consider critical to cover include the following:\nPatient name, age, gender\nPast diagnoses, including both relevant psychiatric and mental health diagnoses\nPast hospitalizations\nBrief summary of current issue of concern\nCurrent treatment including any current medication\nSafety: Any history of suicide attempts, aggression or homicidal ideation, or inability to care for self? Do you think they are at risk for elopement during the transport or in emergency services?\nRecommendations: Do you [the outpatient provider] think they need to be hospitalized? If you are not sure yet, this can also be shared with the Emergency Room staff.\nAny other highly pertinent medical, psychiatric, or social history, such as\nuseful PRNs\nadverse medication reactions\npast history of trauma or traumatic restraint\nprimary language of patient and any caregivers",
+    "Clinician receiving the handoff repeats the critical information back to the trainee initiating the handoff.",
+    "Sharing care of a patient with both emergency medical and emergency behavioral health needs requires close and careful communication between the medical and psychiatric teams, even if both have personally evaluated the patient. Sometimes critical information is shared by the patient or family with the psychiatric team but not shared with the medical team, and vice versa. It is the responsibility of each to ensure all critical information is communicated to the other party. This is often best done in person rather than solely by a note in the patient’s chart.",
+    "What information should be included in the handoff to CL and inpatient medicine?\nAgain, this may be system-specific but at a minimum will likely include the points already highlighted in Vignette #1, plus ED course, whether the patient needs a 1:1 sitter while on inpatient medicine, and how quickly he should be seen by CL.",
+    "Again, what information should be transferred from Dr. C to the receiving providers, and how should it be communicated?\nThis should include the previously highlighted items plus the patient’s inpatient medicine course, including successful interventions for de-escalation. Trainees may again practice this transfer via use of a standardized handoff system if that is your institution’s practice.",
+    "The inpatient team should communicate with the outpatient team early and often. Trainees working on their inpatient rotations may forget that that outpatient team knows the patient best and will have to follow up on any plans developed on the inpatient unit, and therefore should be involved in planning as much as possible.",
+    "The content of information transferred from the outpatient team to the inpatient team should include:\nall pertinent past psychiatric history, including past medication history\ncourse of treatment\npatient’s baseline level of symptomatology and functioning\nall pertinent history of stressors and supports in the community\nanything that would be helpful for inpatient team to know to be better support the patient throughout admission (ex. most effective coping strategies)\nall pertinent legal/logistical issues (e.g. guardianship paperwork)",
+    "The content of information transferred from the inpatient team to the outpatient team should include:\nthe details already highlighted regarding the ED and inpatient course\nany newly gained information (e.g. new testing results or new information gathered from the patient or family)\nitems to be followed up (e.g. new referral for additional community supports) after discharge\ndischarge mental status and safety plan\nIdeally, communication form the inpatient team to the outpatient providers would happen both verbally and by sharing a discharge summary, presuming the outpatient team is part of the same care system as the inpatient team or a release has been signed."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "All communications between services should remain collegial and respectful, even when expressing differing opinions.",
+    "Communication with parties outside of the hospital system – in this case, Jerry’s school – will require a signed release of information by Jerry and/or his family. The exact details of this form and who may sign it will vary from state-to-state and institution-to-institution. Your institution’s procedures for this should be discussed here."
+  ]
+}

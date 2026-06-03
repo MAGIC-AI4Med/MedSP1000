@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_9711",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9711/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "The Student(s) demonstrated effective patient care, including competent performance of procedures.",
+    "2 Large bore IV Peripherally",
+    "Start Bolus of Normal Saline IVF Bolus for hypotension while awaiting blood products",
+    "Type and Screen & Labs (CBC & Coags) o Cross for Blood",
+    "Rectal Exam & NG Tube placement (Bright red blood from NGT)",
+    "Give unmatched blood if patient unstable",
+    "IV Meds: o IV Octreotide - Octreotide is a vasoactive protein that causes selective vasoconstriction of the splanchnic vasculature. Blood flow to the upper GI tract is decreased thereby reducing blood loss. It is given as a bolus followed by a drip. o IV Proton Pump Inhibitor - decrease the acidity of the stomach and enhance clot stability",
+    "Consider pressors if patient still hypotensive despite IVF and Blood Transfusions"
+  ],
+  "MK": [
+    "The Student(s) demonstrated good medical knowledge including an ability to quickly generate a differential diagnosis and accurately diagnose the “patient’s” illness"
+  ],
+  "SBP": [
+    "Emergent Gastroenterology and Surgical Consult",
+    "The Student(s) demonstrated an understanding of systems based practice including the effective use of healthcare resources."
+  ],
+  "ICS": [
+    "The Student(s) demonstrated effective interpersonal communication skills, with the “patient”, his “family”, and the healthcare team (including consultants)."
+  ],
+  "PBLI": [
+    "The Student(s) demonstrated effective practice-based learning, including the selfanalysis/critique of their performance during the simulation exercise."
+  ],
+  "PROF": [
+    "The Student(s) displayed professionalism"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_10121",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10121/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The\tresident\tresponsible\tfor\tadmitting\tCarol\thas\tasked you\tto\tobtain\ta\tfocused\tmedical\tinterview\twith\trelevant\thistory\tafter\twhich\tyou\twill\tsee\ther together\tfor\tfurther\tevaluation.",
+    "\\*Do\tnot\tperform\ta\tphysical\texam.\\*"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Allen\tremains\thostile\tthroughout\tthe\tencounter,\tbut\twill\tallow\tthe\tmedical\tinterview\tto progress\tif\tthe\tstudent takes\tthe\ttime\tto\taddress\tthe\tpartner\u2019s\tfrustrations,\tpartnering\twith\tthe couple,\tand\tassures\tthem\tthat\tthe\thospital\twill\twork\tto\tcare\tfor\this\twife\tand\tchild.",
+    "The\tstudent establishes\trapport\twith\tAllen\tby\tappealing\tto\ta\tcommon\tgoal\tof\tcaring\tfor\this\twife."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

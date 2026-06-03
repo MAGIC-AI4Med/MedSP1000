@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for fresh set of vitals",
+    "Verbal orders for stat ECG, CXR and ABG; advise nurse to place patient on supplemental oxygen",
+    "Agree to come evaluate the patient urgently",
+    "IV access"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "$( + / -$ coags, CBC, BMP as thinking about treatment) using clear, closed-loop communication"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

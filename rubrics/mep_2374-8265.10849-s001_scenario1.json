@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10849-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10849-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Based on your conversation with the parent, develop a management plan, placing orders if appropriate"
+  ],
+  "MK": [
+    "Gather information to explain these findings"
+  ],
+  "SBP": [
+    "Expected response from students: go to ED. This should be communicated to patient’s mother and documented in an EHR note (or word processing program if EHR lacks note writing capabilities)."
+  ],
+  "ICS": [
+    "Communicate results to patient’s parent, and document your conversation (in Word or similar; no note-writing functionality in tEMR)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

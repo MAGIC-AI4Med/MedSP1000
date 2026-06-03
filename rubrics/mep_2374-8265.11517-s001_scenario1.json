@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11517-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11517-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Were you asked about the facial lesion?",
+    "Were you asked to remove your sunglasses?",
+    "MANAGEMENT OR DIAGNOSTIC PLAN | * Follow up with dermatology regarding skin lesion. * Offer support for financial burden, discuss affordable insurance options. * Restart anxiety medication once the patient can afford to do so."
+  ],
+  "MK": [
+    "Diagnosis with support from positive and negative history and PE findings | Anxiety: history of anxiety that has been uncontrolled ever since patient has not been able to afford medication. Palpitation have been worse with stress. No personal or family history of cardiac disease. Significant stressors recently. + New finding of a potential melanoma due to growing skin lesion on the face and excess sun exposure as a child.",
+    "Differential with support from positive and negative history and PE findings | Arrythmia: Palpitations, feeling fluttering of heart. However, no family history of early cardiac death. No associated symptoms such as loss of consciousness. Victim of abuse: Given the patient's symptoms of anxiety and trying to conceal a facial lesion with sunglasses, this is a presentation that is worrisome for signs of abuse. The lesion looks more like a melanoma-like mole than a bruise, so this presentation is likely melanoma. However, the facial lesion was evaluated through a screen, thus the patient must still have an in-person follow-up to confirm the characteristics of the lesion. Since abuse is on the differential, it would not be incorrect to ask safety related questions during the encounter."
+  ],
+  "SBP": [
+    "Did the student confirm your name to ensure you are the correct patient?"
+  ],
+  "ICS": [
+    "Did the student introduce himself / herself?",
+    "Did the student offer a follow up plan or possible next steps?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

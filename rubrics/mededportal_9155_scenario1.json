@@ -1,0 +1,41 @@
+{
+  "case_id": "mededportal_9155",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9155/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Examine airway for possible obstruction and auscultate lungs",
+    "Check brachial pulse within first 10 seconds of assessment in accordance with PALS guidelines",
+    "Check capillary refill",
+    "Peform thorough physical exam, including auscultation and characterization of heart sounds",
+    "Removal of infant’s clothing to fully examine patient",
+    "Obtain from parent items not documented on the Emergency Medical Services (EMS) run sheet pertaining to history of present illness and review of systems",
+    "Place patient on monitoring and obtain initial ED vital signs",
+    "Attempt to obtain intravenous access. Due to poor peripheral access, after failed attempts, subsequent prompt intraosseous access is expected",
+    "Administer oxygen for initial hypoxia",
+    "Obtain upper and lower extremity blood pressures",
+    "Employ hyperoxia testing",
+    "Obtain fingerstick glucose, chemistry panel, complete blood count, lactate, venous blood gas, coagulation panel, urinalysis, blood cultures, chest radiography, electrocardiogram",
+    "Treat hypoglycemia (fingerstick glucose $= 5 0 \\ : \\mathrm { m g / d L }$ )",
+    "Bolus with IV fluid for hypoperfusion and concern for sepsis",
+    "Reassessment of vital signs and work of breathing",
+    "Secure airway with endotracheal intubation after worsening respiratory distress and hypoxia with non-invasive oxygenation",
+    "Support circulation with intravenous fluid, inotropic agent, or vasoactive agent as needed",
+    "In response to radiograph and findings suggestive of congestive heart failure or pulmonary overcirculation, administer furosemide and start positive pressure ventilation"
+  ],
+  "MK": [
+    "Verbalize differential diagnosis and communicate initial plan to team",
+    "Analysis of laboratory data, chest radiograph, electrocardiogram",
+    "Team communicates revised differential diagnosis and treatment plan",
+    "Recognition of pulmonary edema on chest plain radiograph and atrial enlargement on electrocardiogram and hyperoxia test results, in conjunction with physical examination findings, that all suggest Congenital Heart Disease"
+  ],
+  "SBP": [
+    "Consult Pediatric Cardiologist",
+    "Admit to Pediatric Intensive Care Unit or transfer patient to appropriate care facility"
+  ],
+  "ICS": [
+    "Console parent and inform about treatment plan"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

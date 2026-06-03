@@ -1,0 +1,48 @@
+{
+  "case_id": "mededportal_9422",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9422/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Urinary frequency",
+    "Patient being more thirsty than usual",
+    "Weight loss",
+    "Eye problems",
+    "Foot problems",
+    "Home monitoring of blood sugars and if the patient knows how to check blood sugars",
+    "Medication compliance",
+    "Diet and a regular day's intake",
+    "Stressed the importance of medication compliance",
+    "Stressed the importance of regular/daily blood sugar checks",
+    "Stressed the importance of managing diet and eating right OR recommended the patient meet with a dietician/diabetic counselor"
+  ],
+  "MK": [
+    "Explained that blurred vision and tingling, burning feet are due to uncontrolled diabetes",
+    "Explained that urinary frequency and fatigue are due to uncontrolled diabetes",
+    "SO Now WHAT: Does the student doctor share his impression/thoughts about your problem?Do you get an answer to the (unspoken) question,\"Now what?\"",
+    "OSTEOPATHIC DIAGNOSIS: Does the student doctor describe/discuss yoursomatic dysfunction?"
+  ],
+  "SBP": [
+    "Recommended annual ophthalmology evaluations",
+    "Recommended a podiatry evaluation"
+  ],
+  "ICS": [
+    "SPEECH: Is the student's speech free of any characteristics (accent, diction, volume) which create abarrier to clear communication?",
+    "VOICE: Does the student's voice communicate warmth,interest and caring?(Or,do you hear hints ofdisbelief, judgment, and il-timed amusement even though the \"right things\" are said?)",
+    "QUESTIoNING STYLE: Is there a balance of question styles (open ended and close ended) that guideyou in telling your story without limiting your expression. Are stacked questions absent?",
+    "LANGUAGE: LANGUAGE: Does the student use appropriate language free of toilet terms, indelicate slang,or jargon that he doesn't bother to explain? Is the language sophisticated enough so that youdon't feel \"talked down to\"?",
+    "INTRODUCTION/ENTRANCE: When the student enters the room, does the introduction include the student doctor's * last name * and * position/job title *? Is the student doctor cordial?",
+    "DISTRACTloNS: Does the student doctor cope with the medical chart, note taking and any other distractions without neglecting interaction with you?",
+    "CONFIDENCE: Does the student doctor appear appropriately confident and relaxed without being overly casual?",
+    "FACE TIME: Is the student doctor's eye contact and facial expression appropriately inviting/open or serious (as the situation dictates)? Is it free of judgment, disbelief or misplaced amusement?",
+    "BODY LANGUAGE: Does the student doctor's body language encourage communication through nods,head tilts and leaning into you? Does s/he maintain an appropriate distance & position in the room?",
+    "CLOSURE/FAREWELL: Does the student doctor's departure include * cordial farewellin keeping with the mood of the encounter * and * an opportunity/invitation for you to ask final questions *.",
+    "COUNSELING: Is the student doctor's counsel practical and reasonable for you to follow?",
+    "MPATHY:Through wordorgesture (i.e.patonthe armorshoulder)，does the student doctorsomehowacknowledge your (portrayed) distress,emotional state or worries?",
+    "SUPPORT:Does thestudentdoctormakeanykindofsupportive statementthatacknowledges yoursituation--anddoes it sound genuine rather than rote/rehearsed?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "GRooMING: Does the student doctor appear appropriately groomed, adhering to the essentials ofour attire guidelines? Is hygiene good?"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "case_id": "mededportal_1698",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1698/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "This student will write up his/her history and physical to turn in at the end of today’s case, including a problem list and differential diagnosis list.",
+    "Describe initial stabilizing treatment versus definitive surgical treatment and prognosis in duodenal atresia. Please address the acceptable time recommended from the time of diagnosis to surgical treatment in this discussion. What is the prognosis for this disorder?",
+    "Initial stabilizing treatment versus definitive surgical treatment for MMRV. What are the general actions performed at the time of surgery? Is the surgery performed at a single time or in stages?",
+    "Initial stabilizing treatment versus definitive surgical treatment and prognosis in JIA. Please address the acceptable time recommended from the time of diagnosis to surgical treatment in this discussion. What is the prognosis for this disorder?",
+    "Initial stabilizing treatment versus definitive surgical treatment and prognosis in HD. Please address the acceptable time recommended from the time of diagnosis to surgical treatment in this discussion. What is the prognosis for this disorder?"
+  ],
+  "MK": [
+    "Definition of DA and the anatomic site at which it occurs, noting frequency of occurrence and gender predominance.",
+    "Embryologic cause of this malformation—what type of tissue is involved? Are there different forms of this malformation? When does this abnormal development occur?",
+    "Symptoms or signs that may be noted prenatally with this malformation.",
+    "Associated syndromes to consider when duodenal atresia is diagnosed.",
+    "Typical clinical patient presentation in duodenal atresia including symptoms, onset, age, physical exam findings.",
+    "Recommended method of diagnosing suspected duodenal atresia.",
+    "Typical plain X-ray findings in duodenal atresia (please find and bring examples—a laptop is required to show what you find).",
+    "Definition of MMRV and anatomic area involved.",
+    "Embryologic cause of this malformation: please provide a visual illustration of the pertinent concepts discussed here. When is the normal sequence of events related to this malformation complete? When does this abnormal development occur?",
+    "Typical clinical patient presentation in MMRV: symptoms, onset, age, physical exam findings.",
+    "Recommended method of diagnosing suspected MMRV: this may include newly emerging methods as well as the standard approach to diagnosis.",
+    "Typical upper GI findings in MMRV (please find and bring examples: a laptop is required to show what you find).",
+    "Definition of JIA and anatomic site that it occurs, noting subtypes of this malformation if applicable.",
+    "Embryologic cause of this malformation; how does the mechanism differ from duodenal atresia? When does this malformation occur?",
+    "Describe the typical clinical patient presentation in JIA: symptoms, onset, age, physical exam findings.",
+    "Describe the recommended method for diagnosing suspected JIA.",
+    "Typical X-ray findings in JIA (please find and bring examples - a laptop is required to show what you find).",
+    "Definition of HD and anatomic site that it occurs, noting frequency of occurrence, gender predominance, and subtypes of this malformation if applicable.",
+    "Embryologic cause of this malformation; what type of tissue is involved? When does the malformation occur?",
+    "What other syndrome is commonly associated with HD?",
+    "Describe a typical clinical patient presentation in HD: symptoms, onset, age, physical exam findings.",
+    "What complications are associated with HD?",
+    "Recommended method(s) of diagnosing suspected HD.",
+    "Typical plain X-ray and barium enema findings in HD (please find and bring examples - a laptop is required to show what you find).",
+    "Vote as a group on the correct diagnosis—after you commit to a diagnosis, your mentor will reveal the diagnosis for the set of films."
+  ],
+  "SBP": [
+    "Please address the acceptable time recommended from the time of diagnosis to surgical treatment in this discussion. Does efficiency of diagnosis affect the prognosis for this disorder?"
+  ],
+  "ICS": [
+    "In addition, this student will give an oral patient presentation to open the ICC session."
+  ],
+  "PBLI": [
+    "Each subgroup must turn in a list of the resources used to prepare its presentation at the end of today’s case;",
+    "After listening, the ICC group must give one piece of positive feedback and one piece of formative (critical) feedback."
+  ],
+  "PROF": []
+}

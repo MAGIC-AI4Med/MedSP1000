@@ -1,0 +1,66 @@
+{
+  "case_id": "mededportal_10209",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10209/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Iwas able to implement the correct management.",
+    "My management was timely.",
+    "Assesses maternal and fetal status",
+    "Takes obstetric history",
+    "Conducts physical exam",
+    "Determines status of membranes (intact/ruptured)",
+    "IV fluid bolus (correct)",
+    "Considers laboratory evaluation: CBC, amniocentesis (correct)",
+    "Administers tocolytics (incorrect)",
+    "Administers chorioamnionitis antibiotics (correct)",
+    "Administers betamethasone (correct)",
+    "Administers magnesium sulfate for fetal neuroprotection (correct)",
+    "Ultrasound performed: presentation, AFI, placenta, biometry (correct)",
+    "Calls for “zero-minute” cesarean section (incorrect)",
+    "Obtaining significant OB history",
+    "Assessment for Membrane Status and Chorioamnionitis",
+    "Management of PTL"
+  ],
+  "MK": [
+    "Iwas able to evaluate the situation correctly.",
+    "Diagnoses chorioamnionitis based on clinical findings",
+    "Diagnoses septic shock based on clinical findings",
+    "Recognition of PTL"
+  ],
+  "SBP": [
+    "Iwas able to determine the need for further assistance.",
+    "I properly documented the PTL event.",
+    "Calls for help"
+  ],
+  "ICS": [
+    "Iacknowledged the nurse when larrived on scene.",
+    "Icommunicated effectively with the delivery staff, using TeamSTEPPS principles and language.",
+    "Icommunicated effectively with the patient.",
+    "Icommunicated effectively with the patient's partner.",
+    "I was honest,accurate,and avoided jargon when communicating with the patient and her partner.",
+    "Introduces themselves to patient and family",
+    "Acknowledges nurse/staff in room, asks for SBAR",
+    "Provide a statement explaining what is going on",
+    "Uses understandable language",
+    "Check for patient/family’s understanding",
+    "Reassures the patient",
+    "Use of positive or negative non-verbal responses",
+    "Express clinical emotion/apologize for change in patient’s expectations",
+    "Complete summary provided to mother",
+    "Counsels regarding need for delivery (correct)",
+    "Explanation of diagnosis – PTL",
+    "Explanation of diagnosis – chorioamnionitis",
+    "Explanation of prognosis – indication for delivery, risks of continuation of pregnancy, neonatal risks",
+    "Explanation of management – antibiotics, etc.",
+    "Explanation of induction process",
+    "Directed Messages",
+    "Closed-Loop Communication",
+    "Sharing Knowledge",
+    "Reevaluation/Summarizing"
+  ],
+  "PBLI": [
+    "Recognize Limitations"
+  ],
+  "PROF": []
+}

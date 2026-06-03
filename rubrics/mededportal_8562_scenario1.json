@@ -1,0 +1,49 @@
+{
+  "case_id": "mededportal_8562",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8562/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Notes position of fetal head",
+    "Notes station of fetal head",
+    "Confirms bladder has been emptied",
+    "Posterior blade placed first",
+    "Uses right hand intravaginally and left hand on handle for posterior blade",
+    "Blades introduced into vagina properly over fingers at posterior fourchette",
+    "Switches hands to place anterior blade",
+    "Confirms proper application to fetal head",
+    "Proper curvature to extraction",
+    "Competently performed FAVD simulation:"
+  ],
+  "MK": [],
+  "SBP": [
+    "Indication for FAVD",
+    "Position of the fetal head",
+    "Station of the fetal head, molding or caput",
+    "Informed consent discussion summary",
+    "Anesthesia",
+    "Proper placement verified",
+    "Bladder empty",
+    "Traction in conjunction with maternal pushing",
+    "Number of pulls to accomplish delivery",
+    "Weight, sex and Apgar scores of neonate",
+    "Description of third stage",
+    "Maternal lacerations and repair",
+    "Examination of neonate",
+    "Estimated blood loss"
+  ],
+  "ICS": [
+    "Risks:\\nIncreased need for transfusion\\nIncreased risk for fourth degree laceration\\nSlight increase in intracranial hemorrhage for baby",
+    "Benefits:\\nDecreased time until delivery compared with vaginal delivery or  cesarean section\\nDecreased maternal infection compared with cesarean section",
+    "Alternatives:\\nWaiting longer for vaginal delivery\\nVacuum-assisted vaginal delivery\\nCesarean section",
+    "Lack of jargon",
+    "Used clear diction",
+    "Non-Verbal Facilitation Skills",
+    "Empathy and Acknowledging Patient Cues",
+    "Encouragement of Questions",
+    "Patient Education and Understanding",
+    "Verbal Facilitation Skills & Encouragement"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

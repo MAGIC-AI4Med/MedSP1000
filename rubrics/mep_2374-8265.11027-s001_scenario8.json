@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.11027-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11027-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Precontemplation."
+  ],
+  "SBP": [],
+  "ICS": [
+    "This can certainly be a sensitive subject for some patients, however most patients do want their providers to discuss weight management with them. Ultimately the way you bring up this topic depends on your relationship with your patient. One safe opening phrase would be, “How do you feel about your weight?” In addition, tying their weight to the health risks it imposes helps normalize the discussion, similar to the way you talk about hypertension or diabetes to your patients.",
+    "“It sounds like you see no reasons to change. Can you explain that more for me?”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

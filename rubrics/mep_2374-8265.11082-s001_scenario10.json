@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.11082-s001",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11082-s001/scenario10",
+  "rubric_version": "v1",
+  "PC": [
+    "Determine current insulin regimen and identify how much insulin patient has been requiring",
+    "Order insulin for current finger stick",
+    "Increase sliding scale to high dose and switch patient to basal/bolus regimen",
+    "Inquire about diet, change to diabetic"
+  ],
+  "MK": [],
+  "SBP": [
+    "Documentation: not necessary to write an event note but communicate patient’s hyperglycemia to primary team at sign out"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

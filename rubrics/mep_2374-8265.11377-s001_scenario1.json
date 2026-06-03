@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.11377-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11377-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Give the patient a verbal explanation of their treatment in Spanish (what medication they need and that it will reduce",
+    "The student provides a clear definition or explanation of the term.",
+    "The student provides a word/phrase synonym in plain language.",
+    "The student provides sufficient context for the term during the encounter/transcript that the meaning of the term becomes clear."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,31 @@
+{
+  "case_id": "mep_2374-8265.11402-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11402-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the doctor explore the family’s living situation and its impact on Bobby’s health? (Consider sleeping environment, food preparation, and support for homework)",
+    "Did the doctor explore the family’s economic situation and its impact on Bobby’s health? (Consider food choice, options for activities, availability for homework support)",
+    "Did the doctor explore the family’s neighborhood environment and its impact on Bobby’s health? (Consider safety, parks, community resources)",
+    "Did the doctor explore issues of health information fluency? (Consider mother’s understanding of Bobby’s understanding of health issues)",
+    "Explore socioeconomic status with patient’s mother",
+    "Assess health information fluency in mother",
+    "Ask if there were any impediments to allowing her child to exercise (money, safety, lack of knowledge of places, no parks)"
+  ],
+  "MK": [
+    "The differential for fatigue is enormous and is not limited to: sleep apnea (obese and chronic snoring), inadequate sleep (should get 9-11 hours per night, getting just over 8), poor sleep hygiene (2 others sleeping in room with differing sleep schedules, tablet before bed), anxiety/stress, infection (he has no signs or symptoms), anemia, hypothyroidism",
+    "The underlying chronic problem is longstanding obesity causing sleep apnea.",
+    "Economic: Can the family afford healthy food? How much does the patient’s mother have to work in order to afford basic necessities such as food/housing/clothes? How does that impact child care options for Bobby and thus his activity level? Can the family afford healthy activities for Bobby outside of school? Do reasonably priced or free activities exist?",
+    "Environmental: How safe is Bobby’s neighborhood? Can he play outside in his backyard? Are there nearby parks? What is his living situation and how is it impacting his sleep?",
+    "Food: Who is cooking Bobby’s food and what is his access to food?",
+    "Health Information Fluency: Does Bobby’s mother understand that he is obese and the potential short and long term impacts on his health? Does she know steps she can take at home to ameliorate it?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Did the doctor express empathy to the mother? (Consider reflection, legitimation, and exploration)",
+    "Did the doctor express partnership and/or support?",
+    "Did the doctor use open-ended questions?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

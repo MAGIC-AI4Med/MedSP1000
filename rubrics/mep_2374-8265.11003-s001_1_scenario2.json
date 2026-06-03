@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11003-s001_1",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11003-s001_1/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Ms. Bailey has moderate osteopenia. We would recommend:\nAdequate daily calcium (1200mg/day) and vitamin D (800 IU/day) intake\nWeight-bearing exercises and resistance training\nDiscussion about starting a bisphosphonate since her 10-year risk of a hip fracture is >3%. She would be on the medication for max of 5 years.",
+    "To work up her AUB, we would order a transvaginal US and refer to GYN for an endometrial biopsy.",
+    "This patient could get a hysterectomy or could undergo progestin therapy.",
+    "What medication would you offer for osteopenia if she had a history of Barrett's esophagus?\nNone- only lifestyle modifications",
+    "What are contraindications to progestin therapy?\nLiver disease\nBreast cancer\nPregnancy\nIschemic heart disease"
+  ],
+  "MK": [
+    "Ms. Bailey’s risk factors for osteoporosis include:\nLow BMI\nPost-menopause\nSmoking history\nLack of weight bearing exercises\nMedications- phenytoin, possible extensive exposure to corticosteroids (frequent COPD exacerbation)\nNullparity",
+    "Patient has abnormal uterine bleeding and we should be most concerned for malignancy given that she is post-menopausal. Her other risk factors for endometrial cancer include: age>50, nulliparity, and family history for breast CA. Her bleeding may be significant too because she has evidence of anemia. Other potential diagnoses include structural abnormalities such as polpy, uterine fibroid, or endometrial hyperplasia"
+  ],
+  "SBP": [],
+  "ICS": [
+    "If she agrees to start an oral bisphosphonate, we would need to tell her to take the medication on an empty stomach with a full glass of water. She cannot lay flat for at least 1 hour after taking the medication because bisphosphonates are known to cause esophagitis. Other side effects include: muscle pain, osteonecrosis of the jaw and atypical femur fracture"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

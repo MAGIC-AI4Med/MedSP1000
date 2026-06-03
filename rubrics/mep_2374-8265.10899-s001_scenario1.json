@@ -1,0 +1,36 @@
+{
+  "case_id": "mep_2374-8265.10899-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10899-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The HPI should address: the onset of symptoms, duration of symptoms (although this is in the triage summary), characteristics of the symptoms, alleviating and aggravating factors for the symptoms, timing and severity",
+    "Other important parts of the history are the past medical history, past surgical history, medications, allergies, family history, and social history.",
+    "What work up would you consider?\nCBC\nCMP\nLipase\nLactate\nUA\nCT of the abdomen and pelvis\nC diff testing\nTroponin\nEKG",
+    "What medications or interventions could you start at this point?\nIntravenous fluids (normal saline or lactated ringers)\nAnti-emetics: ondansetron, promethazine, metoclopramide\nAnti-diarrheal: Loperamide (avoid if you think it is c. diff)\nPain management: always consider non-opiate pain control strategies first\nSpecifically, for opioid withdrawal: clonidine, buprenorphine",
+    "Exclusion: COWS <8, caution in patients with significant benzodiazepine use",
+    "Need to know: last opiate he took, the time, and the dose (if possible)"
+  ],
+  "MK": [
+    "What is your differential?\nViral gastroenteritis\nClostridium difficile\nColitis\nPancreatitis\nOpioid withdrawal"
+  ],
+  "SBP": [
+    "What screening tools have been validated in the Emergency Department setting for screening for potentially dangerous opioid use?\nRevised Screener and Opioid Assessment for Patients with Pain (SOAPP-R)\nNIDA quick screen",
+    "Starting and maintaining patients on buprenorphine usually requires a Drug Addiction Treatment Act of 2000 (DATA 2000) X-waiver, which is obtained after an 8-hour training program for physicians. However, the “72-hour rule” or “3 day rule” (Title 21, Code of Federal Regulations, Part 1306.07) allows physicians to administer (give the medication to the patient in front of them and watch them take it) buprenorphine for up to 72 hours to treat opiate withdrawal and addiction, without having completed the additional training",
+    "Physicians CANNOT write a prescription for buprenorphine to treat opioid addiction, NOR can a physician dispense (give the patient a medication to go home with) without completing the DATA 2000 training."
+  ],
+  "ICS": [
+    "Normalizing: using universal statements to normalize the problem and/or anxiety about discussing the issue\nExample: “Many people find it difficult to talk about substance misuse, particularly for things that may be illegal.” Or “We ask everyone about this because it is important to insure we give patients the best care”",
+    "Transparency: Explain why you asking the information and why it is important for their medical care\nExample: “It is important that we know about what substances you have been using because it could be related to your current complaint and will allow us to more accurately diagnose and appropriately treat the problem.",
+    "Asking permission: Ask the patient if you can discuss a sensitive topic",
+    "Give the option of not answering the question",
+    "Consider asking yes/no questions, or questions with limited choices (never, sometimes, always, almost always) to reduce anxiety",
+    "Raise the subject: The first step is establishing rapport and raising the subject with the patient. Some patients will be more open to discussion of sensitive topics than others. Establishing rapport is an important part of SBIRT and can be achieved by attempting to understand the patient’s circumstances and avoiding a judgmental stance. Examples of how to raise the subject include:\nWould you mind taking a few minutes to talk with me about your opioid use?\nMay I discuss your opioid use with you?\nFollowing the patient’s agreement to discuss his or her drug and/or alcohol use, you can discuss the frequency and quantity of the patient’s use, pros and cons of the patients use, and re-state the findings for the patient. Should the patient decline the discussion, respect the patient’s decision and let them know our availability should that decision change. For example, “I understand you aren’t ready to discuss this today, but we are available should you change your mind”.",
+    "Provide Feedback: In this step the provider is summarizing the discussion that has already occurred and providing the patient with information about health risks associated with the quantity or type of substance use. Steps to this process include:\nReviewing the patient’s screen with them and/or reviewing their substance use patterns\nMake a connection to the patient’s acute health crisis that caused their presentation to the emergency department. Examples of ways to ask this include:\nWhat connection do you see between your drug use and this ED visit?\nDo you think this ED visit could be related to your substance use?\nIf the patient sees a connection between their substance use and the ED visit, reiterate it. If the patient does not see a connection, make one for them using facts.",
+    "Enhance motivation: The focus of this step is to increase the patient’s motivation to reduce or stop their substance use or enter treatment if appropriate.\nReadiness to change: On a scale of 1 to 10, how ready are you to change your drug use?\nIf the patient picks a low number, ask if the patient has ever done something they regretted as a result of substance use, and again discuss pros and cons\nIf the patient picks a high number, ask the patient the reasons they are thinking about changing\nFor patients not ready for change, do not shame or confront and avoid arguments\nDevelop discrepancy:\nNot ready to change: Acknowledge that not being ready to change is ok, attempt to motivate\nWhat would make your drug use a problem for you?\nHow important would it be to prevent that thing from happening?\nDiscuss the pros and the cons of continued use\nReady to change:\nWhy do you want to change this aspect?\nWhat barriers to do you have to change?\nWhat benefits are there to change?\nNegotiate and advise: In this step, we attempt to get the patient to reflect on the conversation. This can be done by asking “What are your thoughts on all of this?” or “How does this sound to you?”.\nSummarize: From what I’ve heard you say, you are prepared to…\nWhat is the next step? Discuss options available to the patient:\nOutpatient referrals for treatment program\nED buprenorphine if available with appropriate prescription and/or follow up[[1]](#footnote-1)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Confidentiality: legally must be maintained per the Healthcare Information Portability and Accountability Act (HIPPA), except in some cases such as child and elder abuse and neglect"
+  ]
+}

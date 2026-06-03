@@ -1,0 +1,45 @@
+{
+  "case_id": "mep_2374-8265.11421-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11421-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtains necessary equipment   includes chest tube kit/tray, a chest tube between 28 and 36F, antiseptic such as chlorhexidine or betadine, suture (0 or 1-0), and towels or a drape",
+    "Identifies appropriate insertion site   between the pectoralis major and latissimus dorsi muscles and above the level of the nipple or inframammary crease",
+    "Prepares Sterile Operating Area   preps a wide area with chlorhexidine or betadine and covers surrounding area with sterile towels or a fenestrated drape (learner may discuss appropriate sterile prep if resources are limited)",
+    "Patient should be placed on nasal oxygen and continuous pulse oximetry.",
+    "Position the patient: for anterior axillary line insertion, the head of the bed should be elevated 30-60 degrees, and the arm on the procedural side is restrained over the patient’s head.",
+    "In nonemergent cases, patients should receive procedural sedation and/or parenteral analgesia; regional nerve block may be considered.",
+    "Local anesthesia: attach a 25 G needle to a 5 or 10 cc syringe containing local anesthetic.",
+    "Create a skin wheal (pantomime) at the insertion site, directly over the rib.",
+    "Withdraw the needle and replace with 22 G needle. Infiltrate local anesthetic (pantomime on mannequin) into subcutaneous fat, fascia, and deep tissues.",
+    "Generously anesthetize the anticipated track of the chest tube, over the top of the rib at the inferior border of rib space to be entered.",
+    "Using this needle, confirm presence of air or fluid in the pleural space.",
+    "Makes a skin incision   incises skin 3-4cm at insertion site in an anterior-posterior orientation, parallel to ribs",
+    "Dissects down to pleura   dissects over the rib in a posterior-apical direction from incision",
+    "Penetrates parietal pleura with forceps   demonstrates care to not allow instrument to penetrate too deeply into pleura to cause injury to the lung or other underlying tissue",
+    "Spreads forceps in parietal pleura   ensures pleural entry site is large enough for the chest tube to pass",
+    "Inserts a finger into the pleural space   ensures track is large enough for chest tube and sweeps pleural space",
+    "Places chest tube   advances the tube into the pleural space using the forceps, unclamps, and directs the tube in the posterior-apical direction",
+    "Advances the tube an appropriate distance   advances tube making sure the distal islet is completely in the pleural space but stopping and predetermined depth or after meeting resistance",
+    "Sutures chest tube into position   sutures tightly enough to create a slight indentation in the chest tube that prevents movement of the tube but does not impede flow",
+    "Cinches soft tissue tightly around chest tube to avoid air leak   can be competed with the same suture that secures the tube or with a second suture",
+    "Covers insertion site   uses sterile gauze over site and secures with tape or other adhesive wrap",
+    "Connects the chest tube to the drainage system   connects the chest tube to the drainage system tightly and secures connection with tape"
+  ],
+  "MK": [],
+  "SBP": [
+    "Verify patient identity and procedure location during “Time Out.”",
+    "Clean off patient and secure redundant tubing.",
+    "Dispose of sharps properly.",
+    "Document procedure protocol in patient’s chart."
+  ],
+  "ICS": [
+    "Discuss indications of the procedure with the attending. Address duration of placement and plans for removal.",
+    "Notify nursing staff of the procedure.",
+    "Obtain informed consent.",
+    "Communication with patient and family, attending, nursing staff and provide appropriate signout to primary medical team."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

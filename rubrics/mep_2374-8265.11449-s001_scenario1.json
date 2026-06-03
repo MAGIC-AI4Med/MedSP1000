@@ -1,0 +1,31 @@
+{
+  "case_id": "mep_2374-8265.11449-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11449-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Behaviors consistent with burnout include snapping at a nurse during phone call, being curt in interactions with care manager (represents emotional exhaustion), stating “that’s not my job” about tracking records (represents depersonalization as she removing self from patient care role and decreased sense of personal accomplishment as she does not feel worth in those tasks).",
+    "In addition to delivering feedback about the above behaviors, acknowledge that learner still interacts well with families during rounds and work is thorough and efficient despite other concerns so performance is not impacted across the board."
+  ],
+  "SBP": [
+    "Refer to leadership (be upfront if escalating concerns)",
+    "Encourage support seeking in and out of medicine",
+    "The burnout intervention can help this mature learner track their own burnout and any concerns for cross-over to depression and provide them with an opening to seek support from program leadership."
+  ],
+  "ICS": [
+    "Be ready to explain burnout\n\ne.g. \"The feelings you are explaining sound like maybe you are experiencing burnout. Does that resonate with you?”",
+    "Verbalize moving into feedback\n\nPromise to return to burnout\nIf learner persists on the topic, discuss impact on work\nIf comes up mid-session, back up and start with “IN”",
+    "Clarify expectations and adjust learner’s goals",
+    "Validated screening questions:\nAre you feeling burned out from your work?\nHave you become more callous toward people since you started this job/rotation?\nOR frame concern in reference to observed behaviors or interactions.\ne.g. “I’ve noticed (behavior, perceived attitude, etc) and I’m wondering if you’re feeling overwhelmed?”\nBriefly explore impact and perception of these feelings",
+    "Normalize burnout\n\ne.g. “The hospital wards are overwhelming, and burnout is especially common among residents this time of year.”",
+    "Empathize:\n\ne.g. “I am sorry you are feeling burned out. It makes it really hard to get through a day.”",
+    "General feedback principles\n\nPlan ahead\nAvoid overloading (1-2 items)\nBehavior-based only/avoid nonactionable comments",
+    "Give honest feedback\n\nAddress deficiencies\nInclude positives when present",
+    "The GetINBurnOUT method will be specifically useful in determining if burnout is present and helping the resident understand their own burnout and its potential impact on performance. In this case, it might be appropriate to contextualize these competency issues (interpersonal skills) with the understanding that burnout is present. However, the learner must still be corrected and guided in the feedback portion."
+  ],
+  "PBLI": [
+    "Discuss self-monitoring of crossover from work life"
+  ],
+  "PROF": []
+}

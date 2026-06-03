@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_9558",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9558/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "*Promoting Protective Factors*.[24](#_ENREF_24) Encourage lofty goals and good behavior. Adolescents are often told what they are doing wrong; however, it is important to give positive reinforcement when earned. Good grades in school are associated with improved self-esteem and often drive future aspirations. For those with poor grades, consider the possibility of a learning disability. An evaluation from the school and an Individualized Education Plan (IEP) may be warranted in these cases. This child should attend church more frequently, otherwise while his parents are out of the home, he will be left completely unsupervised. Religiosity is associated with decreased risk of violent injury because of the abundance of role models and anti-violence messaging.[25](#_ENREF_25)",
+    "*Decreasing Risk Factors*. Find out what *“hanging out with friends”* after school means as this is often a code phrase for ‘unsupervised free time.’ Remember that adolescent violence spikes just after school and again after 9pm.[26](#_ENREF_26) Encourage the child to engage in afterschool activities or athletics to keep him busy. Parents who implement a curfew can protect their child from the evening spike in violent crime that takes place after 9pm. Have parents keep track of movies and limit exposure to violence. The more the youth senses that the parent is involved in her life, the less likely they are to drive without seatbelts, drink alcohol, have unprotected sex, or fight. In other words, adolescents with the ‘nosiest’ parents have less opportunity to engage in risky behaviors.[16](#_ENREF_16) This is especially important since high risk behaviors tend to occur together. The parent’s opinion about fighting and other risky behaviors must be made abundantly clear to the adolescent."
+  ],
+  "MK": [
+    "*Protective Factors*[*1*](#_ENREF_1)*,* [*19-22*](#_ENREF_19):\n1. Does well in school\n2. Good athlete\n3. Good self esteem\n4. No sex or drugs\n5. Goes to church with parents\n6. Likely has a high IQ (unmodifiable)",
+    "*Risk Factors:*[*10*](#_ENREF_10)*,* [*21*](#_ENREF_21)*,* [*23*](#_ENREF_23)\n1. Unsupervised free time. “Hangs out” with friends after school\n2. Exposure to media violence. Watches a lot of action movies that glamorize violence.\n3. Going to church only when he wants to.\n4. Demographics (unmodifiable). African American male in a poor urban community"
+  ],
+  "SBP": [],
+  "ICS": [
+    "*Abstract Thinking*. In general, adolescents are ill equipped to anticipate the consequences of their immediate actions. In other words, they are unable to understand how what they do today will effect where they are tomorrow. For an adolescent who is at a crucial tipping point, it is important to determine what their goals are in life and help them to understand what they can do *now* that will give them the best chance at accomplishing their goal. For example, if a patient expresses the desire to become a doctor in the future, they should work hard to get good grades now. As another example, a resident might help a patient understand how fighting today might interfere with the patient’s ability to become a doctor (e.g. fighting 🡪 get in trouble at school 🡪 suspended from school 🡪 school grades decline 🡪 less likely to get into a good college 🡪 less likely to become a doctor). Adolescents often need every step of their behaviors to be broken down in such a detailed manner before they can understand the consequences of today’s actions.[27](#_ENREF_27)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

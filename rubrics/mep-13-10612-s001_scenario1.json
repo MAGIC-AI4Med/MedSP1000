@@ -1,0 +1,49 @@
+{
+  "case_id": "mep-13-10612-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10612-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The student asked me if I ever take more than was prescribed?",
+    "The student asked me if I ever think about stopping the medicine.",
+    "The student asked me if I ever thought that I’m dependent on medication.",
+    "The student asked me if I ever had any withdrawal symptoms",
+    "The student asked me if I ever had drug cravings.",
+    "The student asked me if I was aware of the risks and problems with my current medicines.",
+    "The student asked me if I ever considered that an alternative treatment would be effective.",
+    "The student asked me if I ever felt like ending my life OR hurting myself OR hurting others.",
+    "The student asked me if I would try alternative treatments.",
+    "The student asked me about my willingness to pursue psychotherapy.",
+    "Did you offer/suggest OR agree to prescribe the patient alprazolam (Xanax)? If so, please briefly describe your clinical reasoning for doing so.",
+    "Did you offer/suggest OR agree to prescribe the patient hydrocodone (Norco)? If so, please briefly describe your clinical reasoning for doing so.",
+    "Initiate treatment with anti-depressant (e.g. SSRI)"
+  ],
+  "MK": [
+    "What stage of change is this patient in?",
+    "What are two barriers to change for this patient?",
+    "What are two strengths for this patient?"
+  ],
+  "SBP": [
+    "Refer for psychotherapy",
+    "Return to clinic in two weeks",
+    "Recommend avoidance of narcotic medications",
+    "The student should recognize the inappropriate nature of the patient’s previous treatment plan and use good communication and interpersonal skills to help the patient gain insight into the problems with continued use of these medications."
+  ],
+  "ICS": [
+    "The student discussed with me my treatment goals.",
+    "The student discussed with me my treatment options.",
+    "The student conducted the encounter in a warm and friendly manner.",
+    "The student treated me like I was on the same level, never \"talking down\" to me or treating me like a child.",
+    "The student let me tell my story, listening carefully, asking thoughtful questions, not interrupting.",
+    "The student showed interest in me as a person, not acting bored or ignoring what I had to say.",
+    "The student encouraged me to ask questions.",
+    "The student used easily understood words and explained any technical or medical concepts in plain language.",
+    "The student should work collaboratively with the patient to develop an alternative, safe, and evidenced-based approach to treating their depression, while establishing and maintaining good therapeutic rapport."
+  ],
+  "PBLI": [
+    "What behaviors did you do that demonstrated empathy to the patient, if any?"
+  ],
+  "PROF": [
+    "The student should avoid disparaging the previous doctor who prescribed these medications, or undermining the patient’s relationship with that doctor."
+  ]
+}

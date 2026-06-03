@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11278-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11278-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain an EKG",
+    "Place patient on supplemental oxygen",
+    "Place defibrillation pads on patient (before arrest)",
+    "Give aspirin",
+    "Give heparin bolus",
+    "Defibrillate at 200J when goes into ventricular fibrillation",
+    "Intubate",
+    "Start an appropriate pressor (epinephrine, norepinephrine, or dopamine)",
+    "Give appropriate antidysrhythmic medication (amiodarone or lidocaine)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Call catheterization lab"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

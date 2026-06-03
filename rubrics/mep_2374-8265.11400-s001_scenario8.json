@@ -1,0 +1,61 @@
+{
+  "case_id": "mep_2374-8265.11400-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11400-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "Substance use behaviors should be screened with an evidence-based tool for adolescents, such as the CRAFFT Screen.",
+    "A non-judgmental screening should include asking about an array of specific substances (alcohol, caffeine, tobacco/nicotine/vaping, THC/cannabinoids, hallucinogens, stimulants/cocaine/meth, opioids, etc) as well as “huffing” household items/chemicals and misuse of old household Rx’s.",
+    "When there is clinical suspicion of substance use impacting mental or physical health, a urine drug screen (UDS) may be warranted.",
+    "Increase Zoloft 50mg to 100mg po qhs for MDD",
+    "Encourage cessation from cannabis, nicotine, and slowly minimize caffeine intake",
+    "Order UDS to screen for other substance use",
+    "Continue weekly individual psychotherapy"
+  ],
+  "MK": [
+    "Mostly morbid ideations without intent or plan to harm self",
+    "Only fleeting thoughts of suicide with a plan, but no access or intent",
+    "No past self-harm or suicide attempts",
+    "Patient doesn’t want to emotionally hurt his family by attempting suicide",
+    "Ego-dystonic thoughts (patient is disturbed by SI and doesn’t want to die)",
+    "Family history of suicide, prior personal suicide attempts, history of abuse",
+    "Male gender, specific age ranges (18-25)",
+    "Mental illness especially depression, substance misuse/abuse, chronic medical condition",
+    "Hopelessness, impulsivity, isolation, loss",
+    "Access to lethal methods, barriers to accessing mental health treatment, *acute changes in treatment",
+    "Access to/Adherence to evidence-based treatment",
+    "Help-seeking, Supportive relationships",
+    "Patient at pre-contemplative stage of change"
+  ],
+  "SBP": [
+    "Removal of lethal means is probably one of the more critical immediate steps to take in safety planning",
+    "Recommend removal of firearms",
+    "Lock away ALL medications, including over-the-counters",
+    "Lock away or remove sharps",
+    "Consider checking for other means such as ligatures, dangerous chemicals",
+    "Reduction of significant and imminent stressors, or finding ways to manage these stressors",
+    "Is social media supportive or are specific contacts detrimental?",
+    "Management of academic stress",
+    "Healthy distractions/coping when feeling distressed",
+    "Increased monitoring, avoid isolation",
+    "Reduction or elimination of time spent alone",
+    "Increasing time spent with supportive others, identify helpful friends/family to contact",
+    "Available help: treatment team, text 741741, call 1-800-273-8255, local ER",
+    "Complete safety plan and review with patient/family",
+    "Schedule for follow-up in one month"
+  ],
+  "ICS": [
+    "Encourage patient to open a discussion with his parents about his suicidal thoughts and his concerns about these thoughts.",
+    "You may help facilitate this discussion with him, but encourage him to take the lead.",
+    "Also encourage the patient to consider discussing his substance use with his parents or imagine the discussion if they were to find out.",
+    "Motivational Interviewing techniques should be utilized to assess appropriate stage of change for any active reported substance use (Stages include Pre-contemplation, Contemplation, Preparation, Action, Maintenance).",
+    "Reviewed R/B/A/SE with parents without new questions/concerns.",
+    "Use motivational interviewing techniques",
+    "Encouraged pt to discuss substance use with therapist"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "It probably wouldn’t be required to break confidentiality for either the suicidal thoughts or substance use (depending on the level of risk you assign to the suicidal thoughts), but continue to encourage communication between patient and parents.",
+    "Substance use history in teenagers should be conducted without the parent/guardian present whenever possible."
+  ]
+}

@@ -62,7 +62,7 @@ def main() -> None:
     )
     parser.add_argument(
         "--rubric-dir",
-        default=str(Path(__file__).resolve().parents[2] / "z-rubric" / "rubrics"),
+        default=str(Path(__file__).resolve().parents[2] / "rubrics"),
         help="冻结 rubric 目录；--rubric-file 未给时从此处按 <case>_<scenario>.json 取。",
     )
     parser.add_argument(

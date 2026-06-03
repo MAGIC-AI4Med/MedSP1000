@@ -1,0 +1,42 @@
+{
+  "case_id": "mededportal_751",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_751/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Made statement of encouragement to quit",
+    "Negotiated some kind of smoking behavior change (appropriate to your level of readiness to quit)",
+    "Family history of rectal / colon cancer",
+    "Three-generation family medical history (including grandparents & cousins)",
+    "Cough",
+    "Shortness of breath",
+    "Smoking; how long or how much",
+    "Desire to quit",
+    "Previous attempts to quit",
+    "Asked about triggers in addiction behavior",
+    "Inquired about smoking-related illness",
+    "Assessed the patient’s motivation to quit",
+    "Advised and encouraged quitting",
+    "Obtained 3-generation family history",
+    "Facilitated patient’s commitment to behavior change",
+    "Incorporated patient factors into cessation plan"
+  ],
+  "MK": [
+    "Noted cancer risks, suggested some further evaluation"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Introduced self",
+    "Explained role",
+    "Used open-ended question",
+    "Gave you time to answer fully",
+    "Acknowledged barriers to quitting",
+    "Introduced self and explained role",
+    "Started with open-ended questions",
+    "Gave patient time to answer fully"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Helpful, non-judgmental attitude"
+  ]
+}

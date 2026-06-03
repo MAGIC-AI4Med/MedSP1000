@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_9903",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9903/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the fellow comprehensively interview thepatient/family?",
+    "History taking?",
+    "Physical exam? (e.g. assess attention, look for iatrogenictethers [foley catheter])",
+    "Neurologic exam?",
+    "Performed CAM assessment?",
+    "Performed adequate medication review? (e.g. review thebrown bag of medications, asking for clarification of OTCsleep aid).",
+    "Adjust medications (e.g. stop benzos)?",
+    "Non pharmacological approach to delirium management?(e.g. reorientation, sitter, remove foley catheter)"
+  ],
+  "MK": [],
+  "SBP": [
+    "The physician reviewed advance directives.",
+    "Reviewed advance directives and assessed code status?",
+    "Fellow appropriately documented the encounter?"
+  ],
+  "ICS": [
+    "Did the SP/Proxy understand the physician&#x27;s questions?",
+    "Did the SP/Proxy understand the physician&#x27;s answers?",
+    "Did the SP/Proxy feel that he/she played an active role indecision making?",
+    "Educate RN regarding the use of anti-psychotics and benzos- only use if non-pharmacological measures inadequate?",
+    "Fellow was able to communicate the issues and planappropriate with patient using shared decision making(when appropriate)?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did the fellow wash their hands?",
+    "Did the SP/Proxy feel respected by the physician?",
+    "The SP/Proxy felt well treated by physician."
+  ]
+}

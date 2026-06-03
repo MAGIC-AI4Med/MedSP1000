@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_9145",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9145/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Appropriate initial management for chest pain",
+    "(Identifies unstable VT and promptly treats with cardioversion)"
+  ],
+  "MK": [
+    "Considering options (acts on a broad ddx)",
+    "Medical KnowledgeCorrectly identifies problem, makes correct critical decisions",
+    "Rapidly determines STEMI and initiates STEMI Protocol"
+  ],
+  "SBP": [
+    "Planning and preparation (tasks chosen w/ regard to urgency)",
+    "Flexibility/responding to change (can reshufle priorities whennew information presented)",
+    "Patient care Uses system/personnel appropriately to direct medical care"
+  ],
+  "ICS": [
+    "Selecting and communicating option (articulates commandsclearly/concisely;provides foran alternative plan)",
+    "Implementing and reviewing decisions (summarizes thoughts)",
+    "Setting and maintaining standards (identifies self, role)",
+    "Exchanging information (thinks aloud)",
+    "Establishing a shared understanding (invites others&#x27; input)",
+    "Coordinating team activities (shows closed-loop comm..)",
+    "Concise, accurate hand-off to cardiologist"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

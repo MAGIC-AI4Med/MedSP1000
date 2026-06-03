@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_10122",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10122/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Clearly reviews the patient’s current and overall medical condition and prognosis",
+    "Explores and explains the expected functional outcomes if CPR is attempted in the setting of a cardiac arrest",
+    "Makes a recommendation in light of identified goals and expected outcomes if a cardiac arrest occurred",
+    "Fill in gaps in understanding of chronic disease and clarifies prognosis",
+    "Clarify misconceptions and chance of surviving CPR e.g.: “Most people on TV who receive CPR are young and end up surviving, however in real life most people are older and sicker like yourself.  If your heart stopped or your breathing failed the chances of you surviving CPR is about ___ %.  The chances of recovery to your current state are even less likely.”",
+    "MAKE A PATIENT-CENTERED RECOMMENDATION: “Given your goals, I would recommend that we do not perform CPR as it is very unlikely to be successful and is more likely to cause you harm.”"
+  ],
+  "SBP": [
+    "Assesses readiness to make a decision. If the patient or surrogate needed more time, establishes a decision process in terms of what to do and when to conclude the process and make a decision",
+    "If the patient or family says “we need to think about it” the learner sets a time to rediscuss"
+  ],
+  "ICS": [
+    "Establishes a comfortable atmosphere and puts patient/family at ease",
+    "Uses open-ended questions when appropriate",
+    "Uses understandable language and avoids medical jargon",
+    "Responds to verbal and non-verbal cues",
+    "Demonstrates empathy and compassion throughout the encounter",
+    "Summarizes the treatment plan for the acute problem(s) and makes clear transition statement to discuss CPR",
+    "Provides a clear summary of a plan of care and treatment for this hospitalization based on the decisions reached, and clarifies the family’s understanding of the plan",
+    "GET TO KNOW YOUR PATIENT – what are his/her values and goals?  What is meaningful in his or her life?",
+    "Ask patient or family what his/her/their understanding is of chronic medical problem(s) including prognosis",
+    "Ask patient/family if they have questions or concerns regarding chronic disease/prognosis",
+    "Make a clear transition statement: “I’d like to talk to you about another aspect of treatment which is CPR (cardiopulmonary resuscitation).  Do you know what CPR is?”",
+    "Finish by asking if the patient has any questions"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Affirms the intention to provide the best care of the patient regardless of the patient’s resuscitation status",
+    "Reinforce that DNAR status does NOT mean s/he and team are giving up on the patient and family and does NOT mean that you are stopping other treatment, e.g. “I want to say again that DNAR does not mean that we will stop any other treatments that you are receiving and that could potentially help you.”"
+  ]
+}

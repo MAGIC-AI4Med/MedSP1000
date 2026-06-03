@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11449-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11449-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Discuss that there are no obvious behaviors suggesting emotional exhaustion, depersonalization, or decreased sense of personal accomplishment.",
+    "This case represents a trainee at high risk of burnout and an opportunity to intervene before behaviors develop."
+  ],
+  "SBP": [
+    "The burnout intervention should include role clarification and expectation setting, as this resident seems to be taking on tasks that should be delegated to other team members (taking on intern frontline provider role instead of supervising them to complete the task on their own, not signing out tasks)."
+  ],
+  "ICS": [
+    "The GetINBurnOUT can be used to screen for feelings of burnout, especially using validated screening questions.",
+    "Whether or not screening questions point to burnout, positive feedback can be delivered. The intervention should focus on the educators’ concern about the resident’s risk of burnout including the evidence-based reasons mentioned above and discussion of how future burnout may impact this resident’s goals."
+  ],
+  "PBLI": [
+    "Given what the educator knows about this trainee’s priorities to socialize with colleagues, a specific, measurable self-care goal to re-establish work-life balance will be especially helpful."
+  ],
+  "PROF": [
+    "Give honest feedback"
+  ]
+}

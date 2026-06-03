@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.10988-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10988-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Abdul may be showing symptoms of malaria, which is common in Sub-Saharan Africa. Other possibilities could include dengue, anemia, tuberculosis, parasitic infections, or hepatitis. He also appears to have post-traumatic stress or another mental health illness from witnessing the killing of his family members. Consider whether any herbal or traditional remedies are being used currently. Consider herbal-drug interactions."
+  ],
+  "SBP": [
+    "Discuss with participants to see if they have staff who are trained in trauma-informed care; interpreters, and mental health providers who understand the context of conflict and displacement in Somalia and Uganda. Abdul's mother may also not have had much exposure to Western biomedicine, and may benefit from longer visits so that she is introduced to different medical practices in the United States. See if there are political, policy, financial, social, or other barriers to receiving an adolescent such as Abdul in their community. Consider the experience of Somali refugees who often are both black and Muslim, thus may experience multiple forms of discrimination. This is an opportunity to discuss \"intersectionality\" or when multiple barriers become additive."
+  ],
+  "ICS": [
+    "Abdul and his family have experienced tremendous hardship as they fled conflict and endured discrimination. The mother has shown much perseverance to bring her family to the United States in search of a better life. Abdul has a family that cares for him. If the community may have resettled Somali refugees in the past, they may serve as a resource for Abdul and his family. Consider who may be a trusted authority figure for a teen male. This may be someone outside of the family, such as a role model in the community."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

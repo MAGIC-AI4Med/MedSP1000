@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_9490",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9490/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Determined the risk factors present in the patient",
+    "Determine appropriateness of surgery"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Explains the importance of assessing risk of non- mandatory surgery.",
+    "Communicates the presence of no risk factors that would indicate the need for immediate surgery.",
+    "States clearly the risks of the surgery",
+    "States clearly the benefits of the surgery",
+    "Explain what the surgery involves",
+    "Discussed high risk of complications (such as stroke, anesthesia, valve and bleeding complications)",
+    "Frankly discussed the pros and cons of surgery",
+    "Made a respectful recommendation not to have the surgery"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Ascertains the reasoning behind the patient’s request without criticizing anybody’s judgment (such as the referring PCP or the patient)."
+  ]
+}

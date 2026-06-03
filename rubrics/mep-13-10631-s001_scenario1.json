@@ -1,0 +1,30 @@
+{
+  "case_id": "mep-13-10631-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10631-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Learner(s) will review the completed CGWEP unintentional weight loss screening tool prior to entering the simulation room- see Appendix.",
+    "Learner(s) are able to perform a concise and differential focused history and physical exam based on the results of the Weight Loss Tool.",
+    "An Oral Cavity Screening exam should be completed. This should include an exam with dentures out.",
+    "Learner(s) should recognize to screen for delirium using the CAM (patient’s wife states he has not had any abnormal behavior, inattention, or altered level of consciousness. He does have disorganized thinking but this is not new).",
+    "Consider changing medications",
+    "Assess patient’s ability to complete ADLs/IADLs.",
+    "The learner(s) suggest monitored and assisted feedings, nutritional supplements, referral to a dentist and treatment of oral candidiasis, and tapering off of the Zoloft as this could be related to his increased somnolence."
+  ],
+  "MK": [
+    "Learner(s) should utilize the SLUMS result from 3 months ago to associate weight loss with possible cognitive impairment.",
+    "Learner(s) should recognize that the patient has a mixture of cognitive impairment, denture problems and oral candidiasis, and possible polypharmacy related to his weight loss.",
+    "The learner(s) should also recognize that he has lost a significant amount of weight which could be secondary to more severe causes, but given the wife’s wishes to avoid intensive intervention and no further cancer screenings there should be a focus on other causes of weight loss."
+  ],
+  "SBP": [
+    "Re-evaluate patient in 4-6 weeks after this intervention is started.",
+    "Consider PT/OT referrals."
+  ],
+  "ICS": [
+    "Educate wife on the need to assist patient with meals.",
+    "Discuss differential diagnosis with patient and caregiver and next steps in work up and treatment"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

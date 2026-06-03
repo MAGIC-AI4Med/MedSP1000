@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_10283",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10283/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Check blood sugar in a patient with altered mental status",
+    "Perform focused history and physical exam based on the presentation",
+    "Intubate patient secondary to altered mental status",
+    "Initiate fluid resuscitation",
+    "Start fomepizole"
+  ],
+  "MK": [
+    "Troubleshoot differential of anion gap metabolic acidosis (AGMA) by sending lactic acid and salicylate levels"
+  ],
+  "SBP": [
+    "Discuss the case with nephrology for hemodialysis",
+    "Discuss the case with intensive care unit for admission",
+    "Appropriate disposition to ICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.10991-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10991-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "How might you **introduce** and/or **ask permission** to talk about the future?\nTry out an open-ended question to get the conversation started. (2 or 3 ideas)",
+    "How can you elicit information about how Taylor’s family views her illness?\nOkay to start with basic questions about getting to know family\nWho lives at home?\nWhat does Taylor like?\nWhat are your family’s favorite things about Taylor?\nTry out a few questions to elicit what hopes they have for Taylor\nWhat are your goals for Taylor?\nWhat are your hopes for Taylor? What else?\nWhat would a good day look like?\nTry out a few questions to elicit what they are apprehensive about for Taylor\nWhat keeps you up at night worrying?",
+    "Focusing on what families DO want for their child; rather than emphasizing what they DON’T want"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "What are some possible biases or potential conflicts that could exist in this situation?\nExamples of biases to discuss:\nBias around “medically complex”: this is not a diagnosis and tells us essentially nothing about the child or their family!\nHospital bias: only seeing kids at their sickest\nAssumptions about level of functioning based on what is observed in a brief interaction with patient/family\nQuality of life: What is “meaningful”? Whose perception?\n“9 lives” narrative: For many families, they have heard that their child is or could be dying many times. “she’s come back from so much more”\n“Fix-it bias”: Our training as physicians primes us to search for problems or potential problems and apply fixes. Often leads to an overemphasis on WORST outcome\nFlip side: overemphasizing pain or burden of procedures in kids with severe disabilities"
+  ]
+}

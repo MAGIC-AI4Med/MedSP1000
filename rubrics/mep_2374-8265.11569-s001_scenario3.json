@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11569-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11569-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Review the patient’s AUDIT/DAST responses with the patient and discuss their score and associated risk category using the SBIRT Brief Intervention Card",
+    "Based on the patient’s readiness to change, determine the appropriate next step(s) (eg, supporting autonomy/exploring negative consequences, offer social work consultation, develop action plan)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Engage patient using motivational techniques to explore the patient’s ambivalence around substance use, elicit and provide information regarding their substance use, assess their readiness to change their behavior, and ask questions meant to increase their readiness",
+    "Place a single tally per incident of student requested permission to discuss substance use, to offer feedback, to offer patient specific education regarding the standardized patient’s (SP) substance use.",
+    "Place a single tally per incident of student provided affirmations in response to SP accounts during their conversation.",
+    "Place a single tally per incident of the student’s offering of choices guiding the SP’s decision-making during their conversation.",
+    "Place a single tally per incident of student offered unconditional support / nonjudgment of SP decision-making regarding their substance use, reinforcing respect for SP autonomy.",
+    "Place a single tally per incident of student offered unsolicited advice concerning the SP’s substance use.",
+    "Place a single tally per incident of student confrontation regarding SP substance use, including use of the words “you need/have to,” or the unsolicited suggestion that continued use would result in negative consequences.",
+    "Place a single tally per incident of student attempted persuasion to induce behavior change in the SP, eg quid pro quo or offering of rewards.",
+    "Place a single tally per incident of student attempted teaching or provision of education around substances and substance use without permission."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

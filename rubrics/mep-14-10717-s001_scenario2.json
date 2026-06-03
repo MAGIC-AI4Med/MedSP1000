@@ -1,0 +1,16 @@
+{
+  "case_id": "mep-14-10717-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10717-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "The teaching resident should acknowledge that this student is excited about being in the ED but also should help the student understand that at their level of training it is important for them to be able to present the pertinent positives and negatives from their evaluation in order to justify their assessment and plan for the patient."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "The teaching resident should recognize that there are other issues going on with the student’s patients that they haven’t brought to their attention and address the issues raised by nursing at some point in the encounter. This may occur either before or after dealing with the new patients, but should include the complaints from patients and leaving dirty exam gloves for others to clean up."
+  ]
+}

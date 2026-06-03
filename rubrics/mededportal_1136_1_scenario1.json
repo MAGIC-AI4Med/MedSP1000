@@ -1,0 +1,37 @@
+{
+  "case_id": "mededportal_1136_1",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1136_1/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Evaluate for injuries in the collision",
+    "Order appropriate tests for evaluation",
+    "Educate regarding bicycle safety: helmets, lights, vests with lights"
+  ],
+  "MK": [
+    "Which of the following is not one of the 3 E's for injury prevention?",
+    "Injuries account for approximately 1 million deaths in the US.",
+    "What is the leading cause of death for 15-24 year olds in the US?",
+    "Injuries are accidents- you cannot predict when they may occur.",
+    "All of the following are examples of secondary prevention except:",
+    "Domestic Violence affects what percentage of the woman aged 15 - 45?",
+    "A personal history of abuse and a lack of education are barriers for providers to asking about domestic violence.",
+    "Incidence of domestic violence decreases during pregnancy."
+  ],
+  "SBP": [
+    "Do not perform any invasive exams on the standardized patient.  Simply request results for the exam.",
+    "Name three referral sources for a patient exposed to domestic violence?"
+  ],
+  "ICS": [
+    "Give bad news regarding possible leg amputation",
+    "Describe two techniques (things you would say) to help advise a patient to seek help for domestic violence.",
+    "When sharing bad news with a patient, it is better to minimize the severity of the diagnosis so that the patient doesn’t feel overwhelmed.",
+    "When giving bad news, it is best to pause frequently.",
+    "When giving bad news, you should review a list of details regarding treatment and prognosis with the patient."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "You should never tell a minor of a life-threatening diagnosis.",
+    "When a family member asks you not to tell their loved one that you discovered findings of cancer on the patient’s CT scan, what do you do?"
+  ]
+}

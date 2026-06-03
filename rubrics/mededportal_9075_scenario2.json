@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_9075",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9075/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "asked about my use of birth control pills or the ring",
+    "acknowledged pregnancy continuation as an option",
+    "acknowledged abortion as an option",
+    "acknowledged adoption as an option",
+    "asked about the effect of my symptoms on my daily life"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "introduced him/herself",
+    "a. told me of the pregnancy test results in a neutral fashion:(the student showed neither excitement or disappointment whendelivering the results)",
+    "b. prior to delivering the results of the pregnancy test the student assessed what I already knew (regarding my “illness” or the tests that were performed) or what I “suspected\" was going on.",
+    "c. prior to delivering the results of the pregnancy test the student gave me a “warning” such as “I have some news that we need todiscuss/I have some results that may be unexpected.\"",
+    "asked how I felt about the pregnancy",
+    "responded to my silence with one of the actions below:- if so, please indicate below which response/responses the studentreacted with\na touch\nnaming of my feeling (\"I can see that you're upset/surprised...\")\nlegitimizing my feelings (\"it's understandable/normal...\")\nfurther questioning of my thoughts and feelings\na patient silence on behalf of the student\nan offer of support or partnership (\"we will get through this/I am going to help you/ I will be here...\")",
+    "explored my beliefs and feelings about pregnancy continuation",
+    "explored my beliefs and feelings about abortion",
+    "explored my beliefs and feelings about adoption",
+    "effectively and respectfully closed the encounter",
+    "Student communicated verbally empathy andsupport",
+    "Student communicated non-verballyempathy and support"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "responded to my “what should I do?\" without interjecting his/herown perspective or values",
+    "responded to my “what would you do?\" without interjecting his/her own perspective or values in a way that that felt judgmental",
+    "communicated well without judgment"
+  ]
+}

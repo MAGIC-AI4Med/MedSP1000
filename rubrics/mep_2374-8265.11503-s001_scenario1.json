@@ -1,0 +1,61 @@
+{
+  "case_id": "mep_2374-8265.11503-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11503-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Sanitizes hands upon entering the room",
+    "Begins the HPI with open-ended questions",
+    "Accommodates patient comfort",
+    "Sanitizes hands at the end of the encounter on the way out"
+  ],
+  "MK": [],
+  "SBP": [
+    "The student ended the encounter with a clear plan for next steps (this does not necessarily mean that the patient and student decided which of the two treatment courses to pursue).a"
+  ],
+  "ICS": [
+    "Knocks and enters the room",
+    "Shakes hands and **introduces self** by first and last name",
+    "Asks patient how they would like to be addressed, including formal title",
+    "Negotiates agenda/focus of visit",
+    "Elicits patient's perspective and beliefs (fears, concerns, ideas)",
+    "Facilitates the storytelling by saying, \"Tell me more\"",
+    "Uses nonverbal skills to demonstrate that they are attentive and present (brings Kleenex)",
+    "Maintains eye contact",
+    "Speaks clearly and audibly",
+    "Demonstrates active listening (includes non-verbals, headnodding, posture)",
+    "Demonstrates empathy when appropriate throughout the encounter",
+    "Avoids using medical jargon, or explains jargon throughout the encounter",
+    "Adjusts tone and pacing as appropriate throughout the encounter",
+    "Creates a mutual understanding of the patient’s prognosis",
+    "Delivers the bad news in very plain language, slowly and carefully",
+    "Allows for silence as appropriate",
+    "Responds appropriately to the patient's emotions",
+    "Gives information in small amounts",
+    "Effectively communicates both known details and uncertainty",
+    "Assures the patient that the medical team would continue to help the patient",
+    "Asks about the patient’s significant relationships/support system",
+    "Offers to partner with the patient in having difficult conversations with family",
+    "Considers cultural and other factors that influence the patient’s understanding of illness/diagnosis",
+    "The student elicited the patient’s religious and/or spiritual beliefs and, if appropriate, incorporated these beliefs into the discussion.",
+    "Elicits the patient’s goals of care (i.e. \"at this stage given your understanding of the situation what are your goals?\")",
+    "Student demonstrated compassion - (i.e. apology followed by 'I wish things were different…')",
+    "Sets an agenda of what will be discussed - possible treatment plans",
+    "Assesses prior knowledge - 'do you know anyone else who has had this kind of serious diagnosis?' (ASK)",
+    "Asks what other information might be helpful (ASK)",
+    "Allows time for questions and concerns",
+    "Inquires if patient wants to include someone else next visit",
+    "Summarizes visit's important points and uses TEACH BACK (i.e. when you are talking to your family tonight and they ask about the visit, what will be your response?)",
+    "Thanks the patient and uses one more PEARLS statement to close the visit, before standing upa",
+    "Establishes and maintains rapport with the patient"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "States that they are a medical student",
+    "Asks patient what pronoun should be used when writing clinical note",
+    "Respect patient's period of indecision",
+    "Demonstrates respect for the patient’s autonomy",
+    "The student conducted the encounter with an honest, trustworthy demeanor.a",
+    "The student offered false hope that the condition is not imminently terminal."
+  ]
+}

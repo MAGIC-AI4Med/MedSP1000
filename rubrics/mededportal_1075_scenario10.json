@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario10",
+  "rubric_version": "v1",
+  "PC": [
+    "Smoking is not a good way to deal with these symptoms.",
+    "There is a smoking cessation medication, Zyban, which is indicated for people who are mildly depressed. If you use this medication you should be able to quit smoking successfully.",
+    "Student should offer suggestions about what to do about being with other smokers and dealing with urges while drinking. If student does not offer specific suggestions, he or she should generally address these issues and direct you to resources to learn targeted coping techniques.",
+    "You identified that I tried to quit, but recently relapsed",
+    "You helped me decrease barriers to quitting (treatment of depression, use of other medications)",
+    "You clearly advised me to quit"
+  ],
+  "MK": [
+    "It appears that you may be mildly depressed and that smoking helps to relieve your symptoms just enough that you feel ok.",
+    "When you have quit in the past, you slip into a mild depression and feel badly. You then go back to smoking to feel better.",
+    "Your inability to quit has nothing to do with you being “weak.” It has to do with the withdrawal symptoms you experience.",
+    "You recognized that I might be self-medicating a mildly depressed mood",
+    "You realized I don't want to quit"
+  ],
+  "SBP": [
+    "Student should refer you to a behavioral support program and offer to do some type of personal follow-up.",
+    "You scheduled a follow-up session"
+  ],
+  "ICS": [
+    "Student should be supportive and encourage you to quit again.",
+    "You helped me find a reason to quit (going on the SAS, spending time with my close friend, seeing the world)",
+    "Overall, you have definitely made me consider thinking about quitting again"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,38 @@
+{
+  "case_id": "mep_2374-8265.11177-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11177-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess patient, including neurological assessment, upon arrival",
+    "Establish time last known well",
+    "IV access (confirmed or placed); by who \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
+    "Weight; by who \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
+    "Draw and send appropriate labs",
+    "Obtain point-of-care glucose",
+    "Order stat head CT and CTA",
+    "Order t-PA, including correct dosage based on patient weight",
+    "Gather materials necessary for t-PA administration and prepare and administer t-PA",
+    "Repeat neurological assessments as appropriate"
+  ],
+  "MK": [
+    "Immediate and appropriate identification of the signs of stroke (e.g. stroke team activation upon EMS notification)",
+    "Discuss absolute and relative contraindications for t-PA",
+    "Identify absence of intracerebral hemorrhage on CT",
+    "Identify presence of large vessel occlusion on CTA"
+  ],
+  "SBP": [
+    "Activate stroke team",
+    "Stroke pager system appropriate?",
+    "Request that radiology technologist hold CT scanner for patient",
+    "CT/CTA ordered appropriately? (e.g. note of deficit in order)",
+    "ED attending note entered for CTA?",
+    "Bring patient to radiology and transfer to CT scanner",
+    "Activate interventional radiology (if thrombectomy capable in-house) or transfer to thrombectomy center"
+  ],
+  "ICS": [
+    "Communication between:\n- EMS and ED team\n- ED team and stroke team\n- CT tech and radiology\n- ED/stroke teams and IR\n- MDs and nursing"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

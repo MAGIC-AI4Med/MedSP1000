@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11566-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11566-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "As the child and parent describe tiredness, decreased activity, and pale appearance, learners ask focused questions to explore possible causes of fatigue, including nutrition, sleep, school stress, and recent illness, and begin forming a differential diagnosis that includes anemia, thyroid disease, and mood changes.",
+    "Order a CBC, Ferritin, Iron, TIBC, BMP, TSH, T3, T4.  Start an iron supplement or multivitamin.  Encourage a varied diet."
+  ],
+  "MK": [
+    "Anemia  Positive history of fatigue, decreased activity (no longer playing sports due to low energy), difficulty concentrating, tachycardia at rest, lightheadedness without clear triggers, pallor, and pale conjunctiva. Patient also does not eat meat, and has low iron intake.",
+    "Differential diagnosis includes   * Hypothyroidism, given fatigue and decreased concentration. Less likely without constipation, skin changes, cold intolerance, or family history of thyroid disease. * Depression, given fatigue, withdrawal from usual activities, difficulty concentrating. Less likely without feelings of sadness/hopelessness. * Vitamin deficiency (B12) deficiency: Low intake of animal products, fatigue, pallor. Less likely without neurologic complaints like numbness/tingling in extremities."
+  ],
+  "SBP": [
+    "Students must navigate utilizing a video interpreter along with any associated technology challenges, such as the sound on the iPad not working."
+  ],
+  "ICS": [
+    "Students should engage directly with the child, rather than consistently directing communication toward the parent, who is Hard-of-Hearing and communicates verbally.",
+    "Students should place the iPad stand next to them, facing the patient so that the patient can see both interpreter and provider without having to turn their head significantly. The iPad stand should be placed primarily in front of the Deaf child as the recipient of the interpretation.",
+    "Learners introduce themselves directly to the patient and parent, maintaining appropriate eye contact and pacing throughout the visit.",
+    "They communicate in short, clear sentences, pausing for interpretation, and use plain language, drawings, or visual aids as needed.",
+    "Learners balance communication between both parties, directing questions primarily to the child but inviting the parent’s input for additional context about fatigue, diet, and activity changes.",
+    "Before concluding, the learner summarizes findings in plain language, explains the plan for lab testing, and answers any further questions."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

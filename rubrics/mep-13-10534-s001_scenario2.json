@@ -1,0 +1,48 @@
+{
+  "case_id": "mep-13-10534-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10534-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Check Warmer - on, heat on, blankets, hat",
+    "Check Bag ready",
+    "Check ET supplies available",
+    "Check IV supplies",
+    "UVC kit ready",
+    "Dried Infant",
+    "Positioned with neck slightly extended",
+    "Suctioned mouth then nose",
+    "Appropriate Tactile Stimulation",
+    "HR checked by approved method",
+    "Correct Rate (40-60)",
+    "Correct Pressure and seal (adequate chest rise)",
+    "Applies MR. SOPA correctly",
+    "Re-eval for response (30 seconds HR check)",
+    "Correct method (2 finger, or hands encircling chest)",
+    "Correct Rate (90 per minute)",
+    "Correct Ventilation Coordination (3:1)",
+    "Correct handling of laryngoscope",
+    "ETT position checked",
+    "Successful intubation",
+    "Appropriate Use of Epinephrine",
+    "Team correctly administers dose of IV epinephrine",
+    "Team will identify need for vascular access and circulation role will correctly place emergent umbilical venous catheter"
+  ],
+  "MK": [
+    "Identify neonate in need of resuscitation",
+    "Recognition of need for Volume, pRBCs"
+  ],
+  "SBP": [
+    "Team requests for pRBCs (unit of O negative) from blood bank"
+  ],
+  "ICS": [
+    "Identify Team Roles",
+    "HR communicated (tapped w finger or verbal)",
+    "Team members will verbalize using closed loop communication for all tasks.",
+    "Team leader will be able to vocalize the shared mental model of next steps, including possible need for PPV."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Team members will demonstrate respect to each other through language and behavior."
+  ]
+}

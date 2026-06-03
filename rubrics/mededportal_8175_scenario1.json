@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_8175",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8175/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The importance of assessing that the patient is indeed unresponsive/apneic/pulseless (Note the 2010 change for compression first CPR: “CAB” or “compressions, airway, breathing”)",
+    "You should discuss how they will ventilate the patient until the code cart arrives. Have an honest discussion if they are really going to do mouth-to-mouth as they all recite from Basic Life Support that they will do (I think not realistically given contagion concerns). Therefore they should know where, on each floor, is the ambu bag and the cushioned mask that goes with it.",
+    "A rescuer (the student) should start chest compressions even without airway/oxygenation available. This is called “compression only CPR” at least until oxygen and airway adjuncts become available."
+  ],
+  "MK": [
+    "Then go down the entire adult cardiac arrest algorithm--remember they should know specific doses based upon weight."
+  ],
+  "SBP": [
+    "The importance of getting help immediately. Ask them to specifically direct the nurse, medical student or any others to “call a code” and call their resident or any more experienced physician. They should be familiar with the mechanism to do this everywhere they work. Remind them to “take your own pulse first at a code”. Then use whatever resources are available (e.g. med student to start compressions; respiratory therapist to administer bag-valve mask ventilation). Stress that the code leader should assign roles during the code but that teamwork is best if each participant has a full understanding of what will likely happen next in the sequence."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

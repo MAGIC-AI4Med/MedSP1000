@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-14-10723-s001",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10723-s001/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "This clinical diagnosis can be made without further diagnostic testing.",
+    "Moderate quality evidence led to the IDSA guideline recommendation to start ampicillin or penicillin G for fully immunized infants and school-aged children who are hospitalized for CAP."
+  ],
+  "MK": [
+    "This patient has presentation most consistent with viral pneumonia (signs of upper and lower respiratory tract infection, non-focal lung exam) and most likely will not benefit from treatment with antibiotics.",
+    "This patient is demonstrating signs of bacterial disease (acute worsening, focal lung exam and alveolar infiltrates on radiography)23 and is ill enough to be hospitalized, so should be treated with an antibiotic."
+  ],
+  "SBP": [
+    "Similarly, in a child with only mild symptoms, a CBC, blood culture, or respiratory viral panel will not offer additional information that will change your treatment plan, i.e. they will provide little to no benefit to the patient and come with a non-incidental risk and cost profile, including pain to the child from phlebotomy and risk of false positive blood cultures.",
+    "Current IDSA guidelines recommend that children with respiratory distress and hypoxemia (defined as pulse oximetry reading less than 90%), age less than 6 months, CAP due to resistant pathogens (i.e. MRSA), and those for whom outpatient observation and/or treatment may be suboptimal should be admitted to the hospital for management.1"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

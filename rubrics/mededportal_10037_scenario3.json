@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_10037",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10037/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "all medications can be discontinued except the medications that relieve the symptoms."
+  ],
+  "MK": [
+    "P=a 95 year old woman with advanced dementia and several other co-existing diseases, on multiple medications, recent hospitalization\n\nI=stop unnecessary medications\n\nC=continue the same medication until her death\n\nO=die comfortably (quality of life or death)",
+    "Less than 6 months, X\\_\\_"
+  ],
+  "SBP": [
+    "this is a case for hospice and palliative care because her expectancy is less than six months and the patient’s son requests comfort care."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

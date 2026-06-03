@@ -1,0 +1,51 @@
+{
+  "case_id": "mep_2374-8265.11400-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11400-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Medication Regimen",
+    "Bedtime routines and sleep hygiene",
+    "What she is thinking about at night when she’s lying in bed? Are you worrying about things at night?",
+    "Other worries and somatic complaints",
+    "Common Physical Symptoms of Anxiety\nTension headache\nDizziness\nPerioral and fingertip tingling associated with hyperventilation\n“Lump in the throat”\nCan’t swallow pills\nWorry about gagging, choking, swallowing, and vomiting\nChest pain\nAbdominal pain\nBowel and bladder urgency",
+    "How much are symptoms interfering with her functioning?",
+    "Family mental health history for anxiety",
+    "Pediatric Symptom Checklist 17 and 35",
+    "RCMAS-2 (Revised Childhood Manifest Anxiety Scale); Gives a total anxiety score along with scores for Worry and Oversensitivity, Physical Symptoms of Anxiety, and Social Concerns (this form is not free and is only for the child to complete)",
+    "SCARED(Screen for Childhood Anxiety Related Disorders)",
+    "Counseling is the first line of treatment if the anxiety is mild. The length of time the child has had the anxiety, frequency of the anxiety, and the degree to which the anxiety is impairing the child will help determine whether medication is started along with counseling.",
+    "Combination treatment with medication and counseling is preferred for most cases.\n80% response rate\nSSRI’s or CBT alone: 55-60% response\nPlacebo response less than 25%",
+    "Cognitive-Behavioral Therapy\nChallenge negative thoughts\nDevelop positive actions\nDevelop coping mechanisms",
+    "Exposure: Remind mother and Stephanie it is not a good idea to avoid the things Stephanie feels anxious about, as this will only make her anxiety stronger.",
+    "Mention relaxation apps available on mobile phones (Mindfulness for Children; Thrive Global); Encourage parent to practice these with their child.",
+    "Worry Box: Suggest the child and parent choose a specific time each day for the child to talk to her parent about her worries. Any other time when a worry pops into her mind, the child is supposed to imagine a box with a large lock on it. She is to put the worry into the box and leave it there until it is time to talk to her parent about it. Parents are to listen to and acknowledge their child’s worries and provide reassurance, comfort, and even problem-solving strategies if appropriate.",
+    "SSRI’s are first line treatment\nStart sertraline 25 mg daily, especially since mother does well with it\nContinue long-acting methylphenidate (Concerta) 36 mg daily",
+    "Begin at starting dose, then increase to minimum effective dose if tolerated within 1-2 weeks",
+    "Each dose adjustment after that should take at least 4-6 weeks to see full effect"
+  ],
+  "MK": [
+    "Separation anxiety disorder",
+    "Generalized Anxiety Disorder",
+    "Social Anxiety Disorder",
+    "ADHD vs Anxiety",
+    "Atotal scoreof $\\geq 2 5$ may indicate the presence ofan AnxietyDisorder.Scores higherthan30are more specific.",
+    "Ascore of7foritems1,6,9,12,15,18,19,22,24,27, 30,34,38may indicate Panic DisorderorSignificant Somatic Symptoms.",
+    "Ascore of9foritems5,7,14,21,23,28,33,35,37may Indicate Generalized Anxiety Disorder.",
+    "Ascore of5foritems4,8,13,16,20,25,29,31may indicate Separation Anxiety Disorder.",
+    "Ascore of8foritems3,10,26,32,39,40,41may indicate Social Anxiety Disorder.",
+    "Ascore of3foritems2,11,17,36mayindicate Significant School Avoidance.",
+    "FDA approved based on studies of obsessive-compulsive disorder\nSertraline\nFluoxetine\nFluvoxamine\nDuloxetine is the only FDA approved medication for anxiety, but not as effective as SSRIs",
+    "Takes 4-6 weeks to see benefits",
+    "Likely to need dose adjusted to be effective",
+    "Side-effects of SSRIs: Headache, gastric distress, insomnia"
+  ],
+  "SBP": [
+    "Book or online resources for parents and child"
+  ],
+  "ICS": [
+    "Educate the patient and family about anxiety – this includes normalizing anxiety and reassuring the patient that some anxiety is a good thing. We can talk about how small amounts of anxiety stop us from doing dangerous things or from getting in trouble at school. It can help motivate us to study so we do better in school. However, anxiety is not a good thing when it makes our bodies feel badly and when it stops us from doing things we want to do or need to do."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,32 @@
+{
+  "case_id": "mep-14-10762-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10762-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Initial assessment of patient, ask for vital signs.",
+    "Assess airway, breath sounds, RR.",
+    "Assess circulation.",
+    "Monitor airway.",
+    "Administer oxygen.",
+    "Administer IM epinephrine immediately.",
+    "Recognize respiratory decompensation after 1st epi dose, repeat IM epinephrine every 5-15 minutes as needed.",
+    "Place patient on SpO2 monitor.",
+    "Expose patient (put in gown).",
+    "Reassess ABC’s",
+    "Administer adjunct anaphylaxis medications: steroids, diphenhydramine, ranitidine, albuterol."
+  ],
+  "MK": [
+    "Recognize tachycardia, tachypnea, respiratory distress, hives.",
+    "Recognize respiratory distress and anaphylaxis."
+  ],
+  "SBP": [
+    "Call medics (911) immediately upon recognizing decompensating patient.",
+    "Sign out to Medics."
+  ],
+  "ICS": [
+    "Learners establish team roles."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

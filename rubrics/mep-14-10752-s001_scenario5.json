@@ -1,0 +1,24 @@
+{
+  "case_id": "mep-14-10752-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10752-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "How are things at home or school? Do you feel safe in your neighborhood and at school?",
+    "Has anyone ever picked on you? Can you tell me about it? Was this because you are LGBT?",
+    "At any time, has anyone hit, kicked, choked, threatened, forced him or herself on you sexually, touched you in a sexual way that was unwanted, or otherwise hurt or frightened you?",
+    "Example questions:\n1. Tell me a little about your sexuality.\n2. Have you been sexually involved with anyone during the past year, including oral, vaginal, or anal sex, or other kinds of sexual practices?\n3. What genders have your sexual partners been in the past?\n4. What genders are your current sexual partners?\n5. How many sexual partners have you had in the last year?\n6. Do you have any sexual concerns or questions you’d like to discuss?\n7. Do you have any concerns or questions about your sexuality, sexual identity, or sexual desires?",
+    "Who do you turn to when you feel sad or need someone to talk to?"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Begin the sexual history by reassuring the patient that it is routine and confidential.",
+    "Ask open ended non-judgmental questions.",
+    "Be specific and use language mirroring the patient’s language."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Do not make assumptions or allow personal prejudice."
+  ]
+}

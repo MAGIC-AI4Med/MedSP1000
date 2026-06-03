@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11020-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11020-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Second responder enters and gets gloves as the First Person conducts rapid assessment of perfusion, respiratory examination including pulse, airway, and breath sounds while obtaining pulse oximeter reading.",
+    "\u201cShe has a pulse, has some secretions in her airway, and is not breathing adequately! I\u2019m opening the airway and beginning ventilations.\u201d",
+    "Prepare suctioning while bagging",
+    "Administer bolus 20ml/kg of NS or LR via push-pull method",
+    "Team should follow choreography of intubation",
+    "Needle Decompression:\n\nDiagnosis with enough certainty to proceed: high suspicion, very sick patient that needs emergent correction.\n\nPreparation and Equipment: Betadine/ Chlorhexidine scrub Needle Size (large, but for mannequin provide 24 G)\n\nIdentify Landmark: 2nd Intercostal Interspace, mid clavicular line\n\nCleanse with cleaning solution\n\nInsert Needle and remove needle leaving catheter behind\n\nChest tube preparation\n\nReassessment"
+  ],
+  "MK": [
+    "Recognize tension pneumothorax",
+    "DOPE Mnemonic: Displacement, Obstruction, Pneumothorax, Equipment failure"
+  ],
+  "SBP": [
+    "\u201cPatient is in distress. I need help!\u201d pushes code button and then gets gloves"
+  ],
+  "ICS": [
+    "After suctioning and oxygen, team leader should share partial mental model recognizing tachycardia and compensated shock.",
+    "Team Leader shares mental model Five problems: airway obstruction (now cleared), apnea (continuing), hypoxia (now improving), compensated shock (now improving), and need to transfer to intensive care"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

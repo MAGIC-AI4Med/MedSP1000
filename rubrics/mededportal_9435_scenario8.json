@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "M1Wash hands",
+    "M4:Measure bloodpressure bilaterally",
+    "M5: Palpate radial pulse",
+    "M6: Measure respiratory rate (D)",
+    "M45:Percuss posteriorlungs fields bilaterally (D)",
+    "M46: Auscultate posteriorlungs fields bilaterally (D)",
+    "M47:Percussanteriorlung fields bilaterally andsymmetrically (D)",
+    "M48:Auscultate anteriorlung fields bilaterally andsymmetrically(D)",
+    "M55: Check jugularvenous pulse (JVP)(D)",
+    "M56: Palpate aortic area",
+    "M57: Palpate pulmonicarea",
+    "M58: Palpate tricuspidarea",
+    "M59: Palpate mitral area(D)",
+    "M60: Auscultate aorticarea (diaphragm)",
+    "M61: Auscultate pulmonicarea (diaphragm)",
+    "M62:Auscultate tricuspidarea (diaphragm)",
+    "M63: Auscultate mitral area (diaphragm) (D)",
+    "M64:Auscultate aorticarea (bell)",
+    "M65:Auscultate pulmonicarea (bell)",
+    "M66: Auscultate tricuspidarea (bell)",
+    "M67: Auscultate mitral area (bell) (D)",
+    "M139:Inspect for peripheral edemabilaterally(D)"
+  ],
+  "MK": [
+    "In anticipation of your physical exam of the chest, list the positive sign(s) associated with each diagnostic hypothesis.",
+    "Given the results of your physical exam, which diagnosis is most likely?\n\n[x] asthma   \n[ ] CHF (stage 3)   \n[ ] neither because the findings are ambiguous or contradictory   \n[ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

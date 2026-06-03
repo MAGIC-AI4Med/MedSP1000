@@ -1,0 +1,42 @@
+{
+  "case_id": "mep_2374-8265.11150-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11150-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Recommended to give at this age because it is prior to sexual activity",
+    "Answered correctly (yes- you may receive this vaccine up to age 45.)"
+  ],
+  "MK": [
+    "Cited the CDC, AAP, and/or ACIP",
+    "Emphasized diseases caused by HPV besides cervical cancer (vaginal, vulvar, penile, anal, and/or oropharyngeal cancer; warts, respiratory papillomatosis)",
+    "Mentioned oropharyngeal cancer",
+    "Mentioned sexual contact",
+    "Mentioned casual contact (eg., skin trauma, autoinoculation) or vertical transmission (mother to child)",
+    "Mentioned fomite reservoirs (higher risk of plantar warts walking barefoot in public showers)",
+    "Correctly answered (80% risk)",
+    "Emphasized “will only need two doses at this age”",
+    "Emphasized “immune response better among this age group”",
+    "Answered correctly (This is not true)",
+    "Cited factors that do encourage sex (not talking about sex with your children, low socioeconomic status, additional high-risk taking behaviors, etc.)",
+    "Cited the literature (eg., studies show us this is not true)/ offered to show parent the literature",
+    "Cite studies of >15,000 people in clinical trials showing no serious safety concerns or more than 90 million doses have been distributed in the U.S.",
+    "Pain at the injection site mentioned",
+    "Two or more side effects mentioned (injection site pain/swelling/redness, fatigue, headache, fever, nausea, dizziness, malaise)",
+    "Syncope in age group mentioned",
+    "Incidence of HPV in the pre-vaccine era",
+    "Prevalence of HPV in the pre-vaccine era",
+    "Incidence of cervical cancer in the US",
+    "Mortality of cervical cancer in the US",
+    "Incidence of HPV in 15-24 year olds in the pre-vaccine era"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Made a “strong recommendation”",
+    "“Bundled” vaccines together (eg., “your child is due for the tetanus booster, meningococcal vaccine, and HPV vaccine today.”)",
+    "Personalized approach (eg., “I made sure to get my child vaccinated for HPV, I recommend we give your daughter this vaccine as well.”)",
+    "Reassured that it is not new (current vaccine came out in 2006)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

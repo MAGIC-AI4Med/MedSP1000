@@ -1,0 +1,33 @@
+{
+  "case_id": "mep-14-10777-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10777-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ordered opioids for pain",
+    "Reassess symptoms after giving medications",
+    "Performed examination to determine death"
+  ],
+  "MK": [],
+  "SBP": [
+    "Clearly confirmed goals of care as hospice",
+    "Confirmed DNAR"
+  ],
+  "ICS": [
+    "Accept wife's desire to give comfort measures only",
+    "Explained use of medications for symptoms to wife",
+    "Communicated that the patient is nearing the end of life",
+    "Used the words “death” or “dying”",
+    "Provided verbal comfort to wife",
+    "Provided physical comfort to wife",
+    "Told his wife he had died",
+    "Exhibited attentive and open body language",
+    "Demonstrated empathy to the patient and his wife"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Interacted according to established standards of professionalism",
+    "Remained at the bedside throughout the encounter",
+    "Did not display signs of discomfort during the encounter"
+  ]
+}

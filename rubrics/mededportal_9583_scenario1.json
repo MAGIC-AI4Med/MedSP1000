@@ -1,0 +1,41 @@
+{
+  "case_id": "mededportal_9583",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9583/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Assembles a team",
+    "Establishes a leader",
+    "Identifies team goals and vision",
+    "Assigns roles and responsibilities",
+    "Utilizes resources efficiently to maximize team performance",
+    "Balances workload within the team",
+    "Delegates tasks or assignments, as appropriate",
+    "Conducts briefs, huddles, and debriefs",
+    "Cross monitors fellow team members",
+    "Applies the STEP process when monitoring the situation",
+    "Seeks information from all available sources"
+  ],
+  "ICS": [
+    "Actively shares information among team members",
+    "Empowers team members to speak freely and ask questions",
+    "Includes patient/family in communication",
+    "Fosters communication to ensure team members have a shared mental model",
+    "Provides task-related support",
+    "Uses the Two-Challenge rule, CUS, and DESC script to resolve conflict",
+    "Collaborates with team members",
+    "Provides brief, clear, specific and timely information to team members",
+    "Verifies information that is communicated",
+    "Uses SBAR, call-outs, check-backs and handoff techniques to communicate effectively with team members"
+  ],
+  "PBLI": [
+    "Provides timely and constructive feedback to team members",
+    "Coaching feedback routinely provided to team members, when appropriate"
+  ],
+  "PROF": [
+    "Holds team members accountable",
+    "Effectively advocates for the patient"
+  ]
+}

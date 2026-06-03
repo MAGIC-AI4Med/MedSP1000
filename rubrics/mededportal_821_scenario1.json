@@ -1,0 +1,42 @@
+{
+  "case_id": "mededportal_821",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_821/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "ABC's evaluated (must demonstrate or state that they are evaluating the airway/breathing and circulation)",
+    "Obtains suficient history (History including recent chemotherapy, fever,symptoms,medications)",
+    "Asks for 10o% oxygen by non-rebreather mask to be applied",
+    "Place on monitors (CR and oximetry)",
+    "Asks for central line to be accessed",
+    "Begins rapid IV fluid bolus (20 cc/kg in <15 min)",
+    "Orders labs: at least a CBC and Blood Culture",
+    "Ask for bedside glucose check",
+    "Orders any broad spectrum antibiotics (e.g. ceftriaxone)",
+    "Specifically chooses anti-pseudomonal coverage such as ceftazidime (gets credit for check box above as well)",
+    "When told that the bolus is done -no pressure change noted,repeats the bolus",
+    "When prompted “Nurse notes child is barely beathing\", begins bag-mask ventilation",
+    "Recognizes need to intubate",
+    "Intubation: Raises bed to appropriate height/positions child",
+    "Gathers necessary equipment (ET Tube, laryngoscope, bag/mask - if not done at step above)",
+    "Check equipment (suction set to correctpressure, laryngoscope light works)",
+    "Suction to bedside",
+    "Chooses proper blade size and type (Miller/Mac 2)",
+    "Chooses proper endotracheal tube size (5-5.5 uncuffed endotracheal tube)",
+    "Choose proper RSI drugs - Atropine,a BPsparing sedative-a low dose of fentanyl,midazolam, etomidate,ketamine,and aparalytic",
+    "Has assistant apply cricoid pressure (if not done, patient will vomit during intubation)",
+    "Endotracheal tube passed using correct technique (credit for holding blade in correct hand, correct body position-no penalty for “breaking teeth\")",
+    "Confirms endotracheal tube position: (Resident will be asked to explain his/her method(s) for confirming proper tube placement - if not offered spontaneously) Auscultates chest Auscultates over stomach Evaluates chest rise Asks for end-tidal CO2 monitoring Orders confirmatory chest X-ray",
+    "Release cricoid pressure after tubeconfirmation (except for chest X-ray)",
+    "Secures endotracheal tube (NG -ok but review risk with low platelets)",
+    "Considers third bolus (may have occurred earlier)",
+    "Asks for dopamine drip, titrates to 10-20 mcg/kg/min (epinephrine, dobutamine-not first line-no credit)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Disposition to PICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

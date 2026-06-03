@@ -1,0 +1,39 @@
+{
+  "case_id": "mededportal_10237",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10237/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Place Chux pad under patient’s arm",
+    "Assemble supplies Gather 1x and be ready w/o forgetting anything Had to go back out to get something Forgot to bring supplies in to room",
+    "Put on protective eyewear before starting procedure (may use own eyeglasses)",
+    "Wash hands before starting procedure Soap & water for at least 15 seconds < 15 seconds",
+    "Prep area *(Chloraprep)*",
+    "Open all supplies *(can be assisted by nurse)* Contaminated",
+    "Apply sterile drape (to arm) Contaminated",
+    "Open and don sterile gloves Contaminated",
+    "State that procedure performed",
+    "Apply sterile dressing Contaminated",
+    "Dispose of waste materials. *(can be assisted by nurse: you may grab the trash can and place it closer to the resident AFTER they have simulated the procedure)*",
+    "Remove gloves",
+    "Wash hands after removing gloves Soap & water for at least 15 seconds < 15 seconds",
+    "Secure dressings with tape Without sterile gloves on Completed with sterile gloves on: Contaminated"
+  ],
+  "MK": [],
+  "SBP": [
+    "Identify patient: Uses two patient identifiers (Name and DOB) AND then compares these to wristband",
+    "Side/site verification by asking patient to present arm and verbally stating side of abscess",
+    "“Time out” verification of procedure (I&D) and correct arm/side with patient Performs BEFORE starting simulation of procedure Remembers at some point during simulation of procedure"
+  ],
+  "ICS": [
+    "State that informed consent has been obtained",
+    "Patient informed as procedure advances Tells what each step will be Forgets to talk to the patient about some steps Does not talk with the patient at all",
+    "Explain outcome of procedure and next steps to patient Too brief Omitted Or patient prompt",
+    "The resident interacted with me in an empathic manner (consult w/patient) **YES** **NO**"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "The resident interacted with me in a professional manner (consult w/patient) **YES** **NO**",
+    "Based on my interaction with this resident, I would consider having this resident as a future health care provider (consult w/patient) **YES** **NO**"
+  ]
+}

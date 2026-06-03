@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11138-s001",
+  "scenario": "scenario26",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11138-s001/scenario26",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtaining a focused history and physical examination of the patient.",
+    "Performing initial interventions for sepsis, including IV fluid and antibiotic administration.",
+    "Ask if this is a new symptom -> Nurse checks chart and states that patient also had some nausea/vomiting during the previous shift",
+    "Ask nurse to administer ondansetron prn ordered by day team",
+    "Order other IV antiemetic",
+    "Go to assess patient -> If assessment done at this point, proceed to **Appendix G: *Perforated Diverticulitis Simulation Case*** for high-fidelity simulation scenario. No further calls for this patient.",
+    "Clarify current pain regimen -> Nurse states patient is on Hydromorphone 1mg IV every 4 hours as needed. The patient started with morphine 4mg IV every 4 hours as needed earlier during his inpatient course, but that did not adequately manage his pain today.",
+    "Clarify degree of pain -> Nurse says, “It’s hard to say. He’s been uncomfortable all night for me. Apparently he was doing that for the last shift too.”",
+    "Administer a breakthrough dose of pain medication.",
+    "Must go assess patient; nurse insists on it -> Proceed to **Appendix G: *Perforated Diverticulitis Simulation Case*** for high-fidelity simulation scenario. No further calls for this patient."
+  ],
+  "MK": [
+    "Recognizing sepsis verbally due to perforated viscus."
+  ],
+  "SBP": [
+    "Calling for assistance, such as from a senior resident, attending, or surgical consultant.",
+    "Recognizing risks and benefits of narcotic therapy and transport for advanced imaging in the setting of hemodynamic instability."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

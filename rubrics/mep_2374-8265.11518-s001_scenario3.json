@@ -1,0 +1,39 @@
+{
+  "case_id": "mep_2374-8265.11518-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11518-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Question about the chief concern (e.g. How can I help you? Why did you come to see us?)",
+    "Ask for details about the current illness (e.g. Tell me more about the chest pain? When did this chest pain start?)",
+    "Ask for details about medical and surgical history  (e.g. When were you diagnosed with diabetes? Have you ever had surgery?)",
+    "Ask about Medications, Allergies, and Adverse Reactions (e.g. Do you take any medicines? Do you have an allergy to any medicines?)",
+    "Ask for alternative or complementary medicines (e.g. Do you take any vitamins? Do you take medicinal herbs? Do you take any home remedy?)",
+    "Ask for details about family history  (e.g. Has anyone in your family had any health problems, such as cancer or diabetes?)",
+    "Ask for signs and symptoms (systems review) of at least  two systems (e.g. Have you had palpitations? Have you had shortness of breath? Have you had vision problems? Why do you wear glasses?)",
+    "Ask about habits and behaviors related to health (e.g. Do you smoke cigarettes, pipes, or cigars? Do you drink alcohol? How many glasses of wine do you drink? Do you do physical activity?)",
+    "Ask details about the social background (e.g. What do you do for work? Who do you live with? How many children do you have?)",
+    "Explain the possible causes, mentioning that a diagnostic evaluation will be conducted, including serological tests for hepatitis A, B, and C, liver function tests, and an abdominal ultrasound to assess the bile ducts and rule out obstruction. If viral hepatitis is confirmed, supportive management will be provided, including hydration and monitoring of liver function."
+  ],
+  "MK": [
+    "Acute viral hepatitis (probably hepatitis A)",
+    "Gallstones or biliary stenosis, primary biliary cirrhosis, drug-induced hepatitis, undiagnosed chronic hepatitis (such as hepatitis C)."
+  ],
+  "SBP": [
+    "Check the patient's identity (e.g. date of birth, age)"
+  ],
+  "ICS": [
+    "Greet the patient appropriately for the time of day (e.g. good afternoon, good morning, good evening)",
+    "Introduces themselves and explains their role (e.g. I'm John Smith, medical student)",
+    "Ask for the patient's first and last name; ask the patient how they prefer to be called (e.g. Mr. Carlos, Mrs. Perez, Ms. Rosa)",
+    "Start with small talk (e.g. Did you have any trouble finding parking?)",
+    "Ask open-ended questions (e.g. How are you?)",
+    "Ask what the patient attributes their health problems to (e.g. Why do you think they have this chest pain? What do you blame for this chest pain?) Applies to any health problems that arise in the interview",
+    "Ask about the impact that the current disease has on the life of the  patient (e.g. Does the pain affect your sleep, work, or family?). Applies to any problems that arise in the interview (e.g. Is alcohol consumption affecting you at work?)",
+    "Reviews steps of the visit with the patient  (e.g. I'm going to ask you questions first, then I'm going to examine you. And at the end we will talk about what we're going to do with your problem, what do you think?)",
+    "Try to establish a good relationship with the patient (rapport) and show empathy (e.g. respond to verbal/nonverbal expression of feelings and emotions, either by making an empathetic comment, “I'm so sorry”, or a thumbs-up gesture for something positive, smiling, etc.)",
+    "Close the interview in a respectful and calm way (e.g. nice to meet you, good afternoon, see you later, goodbye)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

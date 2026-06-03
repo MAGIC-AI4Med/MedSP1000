@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_9945",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9945/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Place the patient on the cardiac monitor and pulse oximeter",
+    "Establish early IV access (PC, PL)",
+    "Recognize and treat hypotension, e.g., IV fluid bolus and aggressive fluid resuscitation.",
+    "Recognition of signs and symptoms of a salicylate poisoning and manage case based on accepted standards – Fluids, alkalinazation of urine, ICU",
+    "Follow proper ACLS protocol"
+  ],
+  "MK": [
+    "Recognition of signs and symptoms of a decompensating patient including vital signs and physical exam findings."
+  ],
+  "SBP": [
+    "Admit patient to ICU and convey appropriate information to ICU physician."
+  ],
+  "ICS": [
+    "Organize a medical team with clearly defined roles for all participants",
+    "Address family concerns and update them on patient status"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Articulate thoughts with regard to addressing DNR order in concert with an attempted suicide"
+  ]
+}

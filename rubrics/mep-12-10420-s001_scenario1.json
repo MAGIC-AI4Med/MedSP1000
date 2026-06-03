@@ -1,0 +1,33 @@
+{
+  "case_id": "mep-12-10420-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10420-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Participants will take a thorough history of a patient presenting with a breast lump.",
+    "Participant washed hands prior to starting exam.",
+    "Participant asked patient (simulator) to remove clothing from the waist up and don a gown with opening to the front.",
+    "Participant asked patient (simulator) to be seated with arms relaxed and breasts uncovered and inspected breasts for asymmetry, skin changes, nipple inversion, and retraction.",
+    "Participant asked patient (simulator) to put hands on hips and press inward while inspecting for asymmetry, skin changes, nipple inversion, and retraction.",
+    "Participant palpated for cervical, supraclavicular, infraclavicular, and axillary lymphadenopathy bilaterally while patient (simulator) was seated with breasts covered.",
+    "Participant palpated for axillary lymphadenopathy bilaterally while patient (simulator) was in seated or supine position.",
+    "Participant asked patient (simulator) to lie flat on examining table with one hand behind head.",
+    "Participant uncovered ipsilateral breast while keeping contralateral breast covered.",
+    "Participant used pads of 2nd, 3rd, and 4th fingers of dominant hand to palpate in a circular motion the ipsilateral breast from the clavicle superiorly, rib cage inferiorly, sternum medially, and mid-axillary line laterally systematically in a vertical, radial, or circular pattern.",
+    "Participant palpated and squeezed nipple and areolar region to evaluate for discharge.",
+    "Participant covered ipsilateral breast and repeated steps 7 through 10 for contralateral breast."
+  ],
+  "MK": [
+    "The differential diagnosis should include diseases such as fibrocystic breast disease, breast cancer, abscess, and mastitis.",
+    "Consider expectant management of low risk patient with benign exam versus right breast ultrasound of palpable mass depending on patient and provider preferences. Mammography is not indicated for such a young patient with an otherwise benign history and exam."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Participant carefully explained what he/she was doing and why.",
+    "Participant relayed findings of exam to patient (simulator).",
+    "Participant asked patient (simulator) if she had any questions/concerns.",
+    "Participants will limit jargon when interacting with the patient."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,31 @@
+{
+  "case_id": "mep_2374-8265.11072-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11072-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Recommend safe sex practices including use of barrier protection",
+    "Test for gonorrhea, chlamydia, HIV, syphilis; testing for gonorrhea and chlamydia should be performed at all sites (pharyngeal, genital, anal) of sexual activity",
+    "Colonoscopy (if not up to date)",
+    "Prevnar 13 (at 65), Pneumovax 23 (at 66), flu vaccine annually, Shingles, Tdap q10 years",
+    "Consider DEXA given intermittent hormone use\nFenway Guidelines recommend:\nPre-orchiectomy (on or off hormones), no routine screening\nAfter orchiectomy if >60 years and OFF estrogen therapy for > 5 years\nEndocrine society:Consider bone mineral density measurements be obtained if risk factors for osteoporosis exist, specifically in those who stop hormone therapy after gonadectomy.",
+    "Mammogram (per Fenway guidelines)",
+    "Consider DRE to evaluate prostate given symptoms (more for risk of prostatitis rather than cancer)",
+    "Hepatitis C screening",
+    "AAA screening",
+    "Consider Anal pap testing",
+    "Safe sex practices, including barrier protection",
+    "Discuss PrEP (include ongoing need for barrier protection for other STI’s)—if planning to start, check HIV, Hepatitis B, STI’s, BMP",
+    "Offer treatment for tobacco dependence",
+    "Labs to monitor transition:\nWeight, blood pressure\nCBC, CMP, lipid, A1c—every 3 months for 1st year; annually after\nProlactin—at baseline and annually"
+  ],
+  "MK": [],
+  "SBP": [
+    "Legal—MDPOA, living will"
+  ],
+  "ICS": [
+    "Explore goals of transition"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

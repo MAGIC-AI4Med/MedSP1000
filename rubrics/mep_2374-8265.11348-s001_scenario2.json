@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11348-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11348-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Diet Instructions: Coumadin: * Vitamin K intake-same amt. each day * limit alcohol * Medication interactions * Laboratory monitoring",
+    "Activity Instructions: * Post-Operative Special Instructions * Currently advanced to full activity by surgical team",
+    "Wounds Instructions: * Old PICC site * Discuss removal, counsel on warning signs of developing redness, swelling * Sternal incision instructions",
+    "Medication Instructions: Coumadin: * Special Instructions: (reason for prescription; take exactly as prescribed; Discuss with provider before taking any new meds Current Dose * Next Dose * Side Effect * When to seek emergent Treatment * Next Lab Draw Time and Place * Which provider is following the results?"
+  ],
+  "MK": [],
+  "SBP": [
+    "Red Flags and Hospital Point of Contact for Questions: * Hospital DC Service * Transition Team member",
+    "Unique Patient Needs: * Referral to continue CBT * behavioral medicine follow-up if not provided by PCP * community resources * Transportation limitations, discussion of telemedicine usage if needed.",
+    "PCP: * PCP Verified * Visit Scheduled Prior to Discharge * Transportation * Verify Hand-Off to PCP * Geographic Proximity to follow up clinic or current hospital",
+    "Specialist(s): * Confirm appointments and patients ability to follow with * Cardiac Surgery * Behavioral Medicine/Psychology * Primary care provider",
+    "Medication Obtainment: * Can Patient Afford? * Is a Prior-Authorization Needed? * Can providers that patient will follow with be able to continue prescribing current medication?"
+  ],
+  "ICS": [
+    "Reason for Hospitalization: * Review of new diagnose(s) * Procedure(s) * Labs * brief review of follow-up needs",
+    "Lay Care Giver Point of Contact for Questions: * Discuss transitional plan of care with the lay caregiver * Answer questions from the laycaregiver"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

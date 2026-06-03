@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11495-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11495-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Identify, justify, and complete a focused physical exam based upon their differential diagnosis.",
+    "Learners were able to gather a history from a patient’s family member"
+  ],
+  "MK": [
+    "Generate an organ system/ pathophysiologic-based differential for common clinical concerns based on a patient’s history.",
+    "Compose an accurate problem representation using semantic qualifiers from information collected in an initial patient encounter.",
+    "Apply one or more illness scripts to match the patient they are evaluating.",
+    "Interpret physical examination findings."
+  ],
+  "SBP": [
+    "Learners were able to consider a patient’s goals of care in developing a diagnostic and treatment plan for an older adult presenting with a change in mental status."
+  ],
+  "ICS": [
+    "Present a patient’s history of present illness (HPI) inclusive of a clear opening statement, appropriate pertinent positive/negative findings, and semantic qualifiers."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

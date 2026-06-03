@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_9938",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9938/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The initial medical work-up for an eating disorder should include electrolytes (sodium, potassium, chloride, Bicarbonate with BUN, creatinine, glucose, calcium, magnesium, and phosphorus), which can indicate dehydration, vomiting, refeeding syndrome, or severe malnutrition. In addition, clinicians should consider screening with a celiac panel, thyroid function tests, complete blood count (CBC), and erythrocyte sedimentation rate (ESR) to rule out other illnesses that may present similarly to eating disorders.  If Taylor has a slow or rapid heart rate, an EKG should be done to check for intervals and QTc. Constipation can be a side effect of nutritional deficiency which can cause decreased bowel motility. Constipation management can include increasing fluids and fiber in the diet. Docusate, a stool softener may be used.  In addition, polyethylene glycol (PEG) can be administered daily with 8 oz of water once to twice daily.  If a patient is extremely constipated, an initial clean out may be needed and further GI evaluation may be necessary."
+  ],
+  "MK": [
+    "The differential diagnosis for eating disorder symptoms is large—focusing on different organ systems such as gastrointestinal (inflammatory bowel disease, irritable bowel syndrome, celiac disease) and endocrine (hypothyroidism, cortisol deficiency) can help participants to think through the many aspects of the differential diagnosis. This should be done with psychological diagnoses, as well, such as major depression disorder and somatoform disorder.",
+    "Puberty is a key feature of adolescent development and it is important for all learners to understand the physical and psychological changes associated with it. Taylor’s BMI is 15.7. The 50**th* *percentile BMI-for-age on the CDC growth chart at age 13 is 18.7, which puts her at 84% median body weight (MBW). This should be demonstrated during this segment by using growth charts referenced above or an alternative tool (such as an online calculator, a Smartphone application, or a SonneWheel™). One year ago, her BMI was 20.2 which put her at the 75**th* *percentile at age 12 (the 50**th* *percentile of the CDC for girls at age 12 is 18.1).Because of her low weight, Taylor could be given a diagnosis of anorexia nervosa. The discussion of her target weight goal is complex. Is the 50**th* *percentile appropriate or the 75**th* *percentile where she was previously? Each discipline should give their opinion. Her pubertal development, menses, and growth should be considered."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Having a representative from each discipline explain specifically the goal of each question they have asked can make sure that all disciplines understand the thought processes of another’s specialty. The medical provider might explain that hair loss or dry skin can be secondary features of malnutrition, while a nutrition learner can explain the importance of calcium for adolescent bone health. Vital sign changes, growth issues, and bone loss are possible medical complications."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

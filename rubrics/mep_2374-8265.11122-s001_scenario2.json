@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.11122-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11122-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Develops a plan of care based on priorities, and makes recommendation"
+  ],
+  "MK": [],
+  "SBP": [
+    "Discusses next steps and ensures follow up"
+  ],
+  "ICS": [
+    "Greets the patient/family member and introduces self and team",
+    "Explains the purpose of the meeting (“*we’re here to follow up on yesterday’s meeting and work together on next steps for your care*”)",
+    "Asks the patient/family member to summarize yesterday’s meeting",
+    "Reviews goals of care and medical situation succinctly without jargon",
+    "Describes treatment options including hospice",
+    "Offers an opportunity for the patient, family member to ask questions",
+    "Maintains an open posture",
+    "Assures comfort and privacy",
+    "Assumes a comfortable inter-personal communication distance",
+    "Allows patient and family time to reflect-does not rush discussion; uses silence",
+    "Recognizes and responds to emotion verbally",
+    "Displays empathy through words and expressions (active listening, repeating/paraphrasing, touch, facial expressions) at appropriate times",
+    "Do you believe the physician is able to describe treatment plan in a manner that is consistent with patient’s goals?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

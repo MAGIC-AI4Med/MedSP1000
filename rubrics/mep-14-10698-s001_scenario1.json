@@ -1,0 +1,32 @@
+{
+  "case_id": "mep-14-10698-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10698-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Does not ask about or clarify roles/responsibilities of others on team; and/or does not explain own role on team",
+    "**Articulates** own **role when asked**; takes **limited responsibility for own role** on the team",
+    "**Takes initiative in** describing own **role/scope**; explicitly **clarifies other** members’ roles/responsibilities**; takes** **responsibility** for own role on team. Identifies **differences and overlap**"
+  ],
+  "ICS": [
+    "Tends to convey rudeness or disrespect in tone or mannerisms.",
+    "Is **usually respectful** when talking with other team members, although the individual may have engaged in **side conversations** that did not involve the entire team **or interrupted** others",
+    "Is **always respectful** when engaging with other team members; this includes **not interrupting** others when they are speaking.",
+    "Does not make eye contact or adopt listening posture.",
+    "Non-verbal clues suggest this person is **usually engaged** and attentive to others although **some mannerisms could be refined (*e.g. eye rolling, facial expressions, sounds, texting/phone/computer use*)**",
+    "Non-verbal clues suggest this person is **always engaged, has adopted a listening posture/body language** that indicates **attentiveness to team activities. Not distracted by other things.**",
+    "Does not seek to involve others or fails to take input from other team members into account during team activities",
+    "**Integrates input from others** and respectfully receives/values **ideas/opinions different from own** (often demonstrated by thinking out loud)",
+    "Same as #2 **AND** **actively seeks** to **involve others, e**specially less assertive & quiet individuals",
+    "Exceedingly quiet and **usually does not engage or participate unless prompted**; or does not readily share information with team members; or uses specialty/discipline-specific jargon",
+    "Usually shares information with team members; **rarely uses** specialty/discipline-specific **jargon**",
+    "Always shares discipline-specific information with team members, **avoids use of** specialty/discipline-specific **jargon AND** takes care to **explain meanings to others**",
+    "Fails to consider patient/family-specific needs/wishes; does not provide patient/family with options for care",
+    "**Listens to patient/family** views, culture, values, beliefs that are important to scenario",
+    "**Actively seeks** to understand **patient/family perspective** AND **asks other team members for opinions about patient/family concerns**;"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

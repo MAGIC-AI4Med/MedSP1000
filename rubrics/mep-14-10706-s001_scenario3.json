@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-14-10706-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10706-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Promote increased pulmonary blood flow by calling for a surgical/catheterization teams to revise/stent the shunt, giving heparin bolus to decrease further shunt obstruction and give volume and pharmacologic boluses to increase systemic vascaulr resistence (SVR)",
+    "Increase mixed venous oxygenation by sedation and paralysis to decrease oxygen demand and maximize oxygen delivery.",
+    "Maximize pulmonary vein saturations by delivering 100% FiO2 and intubation.",
+    "Support cardiac output with initial volume resuscitation but inotropic support may be necessary."
+  ],
+  "MK": [
+    "Recognize that the severe hypoxemia is out of proportion to expected degree of cyanosis for this heart defect and is a change from patient’s baseline. Listen to patient and note change in shunt murmur quality. Order CXR to confirm no lung pathology. Order ECHO and demonstrate decreased blood flow through the shunt."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Assign team roles upon arrival at the bedside and use closed communication."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

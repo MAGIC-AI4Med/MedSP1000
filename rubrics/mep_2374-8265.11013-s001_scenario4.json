@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11013-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11013-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Sex assigned at birth = chromosomes and physical sex characteristics or genitalia a person is born with; note that this is not just binary male vs. female but also includes intersex which is a general term used for any condition in which the anatomy of a person does not fit the typical definition of male or female",
+    "Gender identity = how a person self-defines on the gender spectrum",
+    "Gender expression = how that person communicates their gender through their appearance and behavior",
+    "Transgender: A person whose gender identity or expression differs from their sex assigned at birth (opposite of cis-gender)",
+    "Gender Expansive: Children who do not conform to their culture’s expectations for boys or girls (i.e. behaviors or traits not “gender-typical”)",
+    "The majority of gender expansive children do NOT grow up to be transgender adults, but it is very difficult to know which children will, so we need to take all very seriously",
+    "Many of our patients will also identify as non binary or fall somewhere along the spectrum of women-ness and man-ness.",
+    "Gender identity develops early, typically between 18 months and 2 years old, and children have a stable sense of their identity by age 4",
+    "Studies of parents of transgender children note that on average they began to notice signs that their child was transgender at age 4 ½; and those children state they start to feel “different” from their peers by age 6",
+    "Often, the onset of puberty is the most distressing time, and the development of new sex characteristics can be irreversible and catastrophic for patients",
+    "There is a critical period between 10-13 years in which adolescents cite being increasingly aware of the persistence or desistence of their childhood gender dysphoria; if GD does persist into early puberty, it is very likely to continue into adulthood and often the only intervention is transitioning"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Note that attraction is completely unrelated to gender identity -- we need to ask our patients about ALL of these and not just make assumptions based on their outward expression",
+    "It is very important to never call it a phase and take every child seriously - calling it a phase can discourage or shame a child’s identity. Many studies have shown that transgender adolescents and adults rarely regret gender transition and the process of transitioning greatly improves their wellbeing"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

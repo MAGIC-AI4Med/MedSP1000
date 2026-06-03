@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_3171",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_3171/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Efficiently gathers appropriate additional history further characterizes dyspnea pertinent ROS PMH Social history _Family history of venous thromboembolism",
+    "Performs appropriate physical examination for dyspnea Makes note of vital signs palpates pulses palpates for PMI auscultation of chest and lungs Palpates for LE edema.",
+    "Begins basic therapy oxygen (started within 1 minute after pulse ox $< 9 0 \\%$ ) IV Heparin drip or LMWH subcutaneously."
+  ],
+  "MK": [
+    "Orders the following tests and is able to correctly interpret the results: EKG Troponin I Coags CBC Chem 7 or CMP ABG BNP D-dimer CXR _CT thorax with contrast Stat Transthoracic Echocardiogram"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Professionalism demonstrates adequate sensitivity asks permission before touching Adequately and sensitively keeps pt informed. Works well with team member(s)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Washes hands before physical exam"
+  ]
+}

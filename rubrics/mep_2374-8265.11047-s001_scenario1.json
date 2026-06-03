@@ -1,0 +1,35 @@
+{
+  "case_id": "mep_2374-8265.11047-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11047-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Complete full history including past medical history, surgical history, social history, family history, sexual history, and any current concerns"
+  ],
+  "MK": [],
+  "SBP": [
+    "Set up plan for in-person encounter within next three months to include in person physical exam, routine laboratory testing, and ekg. Will need to discuss additional health maintenance evaluations (mammogram, colonoscopy) at that time."
+  ],
+  "ICS": [
+    "Introduce yourself, your role in their medical care (i.e. student, attending, RN, etc)",
+    "Obtain an introduction from the patient – who they are, where they are calling from, who is in the room with them and privy to the conversation. If others are in the room or able to hear the conversation, verbalize whether you have consent to continue the visit with the patient while others are present. It is important to know the patient’s location (as specific as their address and callback phone number) in case of an emergency",
+    "Address the purpose of the visit/encounter for today and set expectations with the patient",
+    "Discuss next steps with the patient once you have all the information needed, included subsequent visit, how you can be reached if needed in future, and what the patient should expect going forward",
+    "Ask them for a final comment or if any questions before you end the interview",
+    "Have the patient end the call first (this is good practice in case there are any final questions as you do not want to inadvertently cut off the patient)",
+    "Hold yourself up high and try not to slouch; lean slightly forward approx 15 degrees",
+    "Minimize extraneous movements while striving to seem natural (avoid rocking, swaying, swinging back and forth in chair, etc)",
+    "Keep all your materials within reach. If you leave the camera view, it is akin to you having left the room. Explain verbally what you need to do if something must happen off camera. Example: “I dropped my pen and need to pick it up. Excuse me”",
+    "Ask open ended questions, you may have to supplement with yes/no questions if they are necessary to fill in gaps",
+    "Make natural eye contact with the camera, not the screen",
+    "Carry a slight smile to boost enthusiasm; utilize facial expressions to convey emotion",
+    "Slow down your speech and the flow of questions given there may be a slight delay in audio or visual transmission; have concise ends to your sentences so the patient recognizes the cue that it is their turn to talk",
+    "Keep hands in sight when possible and focus on smaller, meaningful movements. Moving your head or hands too quickly will blur on video",
+    "Speak louder than normal, but take care not to yell; speaking with variety and range as vocal changes are one way to communicate emotion",
+    "If you need to look away from camera or screen, look down like you are in thought"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Maintain appropriate professional dress"
+  ]
+}

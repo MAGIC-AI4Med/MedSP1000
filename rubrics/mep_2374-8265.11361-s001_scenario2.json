@@ -1,0 +1,51 @@
+{
+  "case_id": "mep_2374-8265.11361-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11361-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Examines airway (e.g., verbalizes ETT depth, looks in mouth)\nConfirms ETT placement (e.g., ETCO2, DL)\nChest auscultation\nPulse check",
+    "Confirms existing IV access.",
+    "Performs secondary survey.",
+    "Adult Patient – initial management:\nPrimary survey:\nRolls patient.",
+    "Examines airway.\nChest auscultation\nPulse check",
+    "Requests dosing aid (e.g., Broselow tape) or weight",
+    "Requests monitor",
+    "Puts patient in c-collar OR verbalizes rationale for not doing it.",
+    "Performs secondary survey.\nPerforms pulse check in right lower extremity.",
+    "Pediatric Patient – initial management:\nPrimary Survey:\nRolls patient.",
+    "Reassesses patient after initial evaluation of pediatric patient.",
+    "Verbalizes vital sign abnormalities.\nHypoxemia ☐ Hypotension",
+    "Verbalizes intent to perform tube or needle thoracostomy (will place a “verbal chest tube”)",
+    "Orders CXR (prior to RN prompting, ok if after chest tube placement)",
+    "Orders Pelvis XR",
+    "Orders FAST (prior to RN prompting)",
+    "Orders a Type and Cross or Type and Screen",
+    "Orders 2nd PIV",
+    "Initiates resuscitation with blood products (Prior to RN or Trauma Surgeon prompting, must specify transfusion, does not count if ordered to have it “available” or “at bedside”)\nType O (+ or -) uncrossmatched (okay if RN asks…. “What type of blood do you want?”)\nSpecifies 1:1 ratio",
+    "Orders TXA (tranexamic acid)",
+    "Reassesses patient (e.g., examines or rechecks VS at least once after initial assessment)",
+    "Correctly dose pain medication by using weight (~20 kg) or appropriate color on dosing guide (e.g., blue on Broselow). OK if prompted by a nurse to order something. Some viable options:\nIbuprofen 10 mg/kg (200 mg)\nAPAP 10-15 mg/kg (200-300 mg)\nKetorolac 0.5 mg/kg (10 mg)\nMorphine 0.05-0.1 mg/kg (1-2 mg)\nHydrocodone 0.1-0.15 mg/kg (2-3 mg)\nOxycodone 0.05-0.15 mg/kg (1-3 mg)",
+    "Verbalizes plan to splint RLE"
+  ],
+  "MK": [
+    "Recognizes pneumothorax within 10 min of arriving (prior to RN or Trauma Surgeon prompting)",
+    "Recognizes free fluid on FAST."
+  ],
+  "SBP": [
+    "Requests trauma surgeon",
+    "No vasopressors given or, if vasopressors are ordered/discussed, a rationale provided (e.g., concern for neurogenic shock):",
+    "Does not obtain unnecessary imaging (e.g., “pan-scan”).",
+    "Identifies priorities between multiple patients.",
+    "Appropriately allocates resources between two patients.",
+    "Prioritizes urgent/emergent issues.",
+    "Facilitates simultaneous management of two patients."
+  ],
+  "ICS": [
+    "Assigns roles/delegates tasks.",
+    "Provides at least one update/”huddle” to the team.",
+    "Encouraged input from the team at least once."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

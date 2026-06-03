@@ -1,0 +1,45 @@
+{
+  "case_id": "mededportal_8220",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8220/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Patient evaluation -focused HxPl -PMHx -medications -allergies -ROS (smoking, alcohol, illicit drugs) -physical exam- airway， head + neck heart + lung mental status weight procedural side(s) + site(s) X-rays, laboratory values + EKG results ASA assessment Prior patient / family sedation / anesthesia complication Fasting status",
+    "Appropriate sedation plan determination (incl. medications), i.e., moderate sedation, using etomidate or ketamine (avoidance of fentanyl, hydromorphone, morphine)",
+    "Airway- suction source + catheters NPA x 2 and OPA, water-based lubricant -intubation equipment- functioning laryngoscope assorted laryngoscope blades assorted endotracheal tubes stylet 10 cc syringe -difficult airway equipment (i.e., backup device)",
+    "Breathing- nasal cannula / face mask with oxygen flow bag-valve mask with oxygen flow",
+    "Circulation- intravenous access (16-20 gauge) in place",
+    "Monitors applied -continuous cardiac monitor -intermittent NIBP monitor -continuous SpO2 monitor -continuous end-tidal CO2 monitor",
+    "Resuscitation agents- flumazenil naloxone paralytic medication",
+    "Continuous monitoring / vigilance for intra-sedation complication",
+    "VENTILATORY SUPPORT (WITH BVM, LMA, ETT)",
+    "OPTIMAL COMPLICATION MANAGEMENT─ MAINTENANCE OF BVM VENTILATORY SUPPORT FOR BRIEF APNEIC/HYPOXIC (I.E., INSTEAD OF INVASIVE LMA OR ETT)",
+    "Post-sedation evaluation -pain scale -nausea -physical exam- vital signs",
+    "Discharge criteria met -SpO2 &gt; 93% or at baseline level -mental status at baseline -protective airway reflexes intact -adequate hydration status -heart and lung function stable",
+    "Minimum post-sedation observation (30 minutes)",
+    "Minimum post-reversal observation (&gt;120 minutes)",
+    "RADIOGRAPHIC CONFIRMATION OF UNCOMPLICATED SHOULDER REDUCTION (I.E., NO FRACTURE)",
+    "ARRANGEMENT FOR SLING AND ANALGESIC PRESCRIPTION"
+  ],
+  "MK": [
+    "SUBJECT VERBALIZATION / DOCUMENTATION OF RECOGNITION OF POTENTIAL FOR DIFFICULT SEDATION DUE TO MEDICATION ALLERGY AND ASTHMA",
+    "RECOGNITION OF APNEA $^ +$ HYPOXIA $\\mathsf { S P O } _ { 2 } < 9 0 \\%$ ) FROM SEDATIVE MEDICATION",
+    "TIMELINESS OF RECOGNITION OF APNEA $^ +$ HYPOXIA FROM ONSET OF COMPLICATION"
+  ],
+  "SBP": [
+    "SUBJECT COMPLETION OF ED SEDATION FORMS",
+    "IDENTIFICATION OF DEFECTIVE PULSE OXIMETRY PROBE",
+    "REPLACEMENT AND CHECK OF PULSE OXIMETRY PROBE",
+    "EDPS operator MD signature",
+    "Discharged with responsible adult (if appropriate)"
+  ],
+  "ICS": [
+    "Team assembly and establishment of shared mental model",
+    "PRE-SEDATION TIME-OUT FOR SEDATION OPERATOR, SEDATION NURSE, PROCEDURAL OPERATOR",
+    "Time out -patient positive identification -confirm informed consent (risks,benefits,alternatives) -procedural plan check- type, side(s), site(s)",
+    "Post-sedation instructions given",
+    "DISCLOSURE OF SEDATION MEDICATION ADVERSE EVENT"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

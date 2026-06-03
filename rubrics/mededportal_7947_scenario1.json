@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_7947",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7947/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtains a focused history from the patient, family, EMS or referring health care providers.",
+    "Initiates monitoring as appropriate for each scenario including pulse oximetry, blood pressure, and cardiac monitoring.",
+    "Completes a focused physical exam.",
+    "Assesses patient’s oxygenation status and places patient on supplemental oxygen in response to low oxygen saturation.",
+    "Requests a chest radiograph to help assess the etiology of the patient's presenting symptoms."
+  ],
+  "MK": [
+    "Lists findings indicative of respiratory failure (increased/decreased respiratory rate, worsening hypoxia, mottling, bradycardia, thready pulses, altered mental status).",
+    "Recognizes the physical findings of a simple pneumothorax.",
+    "Recognizes the physical findings associated with a tension pneumothorax.",
+    "Describes the findings of a simple pneumothorax on chest radiograph.",
+    "Recognizes the physiologic changes associated with a tension pneumothorax.",
+    "Describes the emergency treatment of a tension pneumothorax."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Actively participates as a team member and is respectful of other team members and their input."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

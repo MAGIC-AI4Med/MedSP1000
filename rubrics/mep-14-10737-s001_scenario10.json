@@ -1,0 +1,14 @@
+{
+  "case_id": "mep-14-10737-s001",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10737-s001/scenario10",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [
+    "After the role play, discuss how you approach discharging patients with chronic pain and a negative ED workup. Explain how making eye contact, sitting at the bedside, using appropriate touch and validating concerns demonstrate empathy and may be effective in patients similar to the one in this case. Also mention how you might begin an encounter like this by setting realistic expectations to prevent discharge complications at the end of the encounter."
+  ],
+  "PROF": []
+}

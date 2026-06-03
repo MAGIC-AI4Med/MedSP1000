@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9087",
+  "scenario": "scenario13",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9087/scenario13",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Explained patient safety issues to patient and/orentered in chart.",
+    "Sought input from other health care teams in differentpractice types (inter-professional) to enhance patient safety.",
+    "Identified a perceived, potential or actual system error byfiling a report, entering in patient chart, or reporting toothers",
+    "Participated in,or led, discussions about solutions to system erors with patient/family,or other health careprofessionals/ institution"
+  ],
+  "ICS": [
+    "Educated patient/family and other teams about patient'ssafety issues"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Provided closure to patient/family by apologizing for ownerror or institution's error"
+  ]
+}

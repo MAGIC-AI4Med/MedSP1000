@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.11163-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11163-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Elicits patient's understanding of what's going on before breaking the ileostomy news.",
+    "Provides brief explanation of statement of ileostomy, and then pauses to allow time for patient to react emotionally.",
+    "Responds to patient emotion with verbal empathic statements/appropriate body language.",
+    "Explores what having an ileostomy means in the context of this patient's life.",
+    "Avoids detailed fact-based discussion until after emotion-seeking has occurred."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

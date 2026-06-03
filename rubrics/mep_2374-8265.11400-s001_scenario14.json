@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.11400-s001",
+  "scenario": "scenario14",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11400-s001/scenario14",
+  "rubric_version": "v1",
+  "PC": [
+    "Any DSM-based rating scale can be used in children this age and should be obtained from caregivers in multiple settings (just like in older children).",
+    "Parent training in behavior management (PTBM) is the first-line treatment. Although we do not advocate for any particular program, examples of PTBM programs include parent-child interaction therapy (PCIT), Triple P Parenting courses, and the Incredible Years.",
+    "Reinforce behavioral management skills to be used at home",
+    "If PTBM is not available, or if it is tried and ineffective, it is reasonable to prescribe stimulant medication for moderate-to-severe cases of ADHD"
+  ],
+  "MK": [
+    "ADHD can be diagnosed in younger children 4-5 years old. The most recent AAP guidelines are clear that the same DSM-5 criteria to diagnose older children can be used in preschool-age children also.",
+    "If medication is used, methylphenidate has better evidence for safety and efficacy in younger children, even though amphetamine has FDA approval for use in children <6yo (the approval happened in an era with less stringent criteria, but data since that time support the use of methylphenidate)."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.10980-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10980-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Check responsiveness",
+    "Check for a central pulse (pulse absent)",
+    "Start high quality compressions with backboard and stool",
+    "Clear airway, bag-valve mask (BVM) ventilation, suction PRN",
+    "Put defibrillator pads onto patient and attach to defibrillator",
+    "Perform pulse and rhythm check simultaneously",
+    "Team leader identifies patient weight and orders code dose epinephrine",
+    "Obtain access – IV, IO"
+  ],
+  "MK": [],
+  "SBP": [
+    "Call a “code” (institution specific)"
+  ],
+  "ICS": [
+    "Team leader is identified and other roles assigned"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

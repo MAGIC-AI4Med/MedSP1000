@@ -1,0 +1,35 @@
+{
+  "case_id": "mep_2374-8265.11270-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11270-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "When did you first start noticing these changes?",
+    "Have there been any changes in Maya’s sleep or appetite?",
+    "Have there been any other changes at home or in school?",
+    "Family history: Anxiety, ADHD; family education history",
+    "Academic functioning: Current grades vs. past grades – is there a decline?",
+    "The SCARED for parent and child",
+    "Consider SSRI trial, in collaboration with or while awaiting additional treatment",
+    "Sleep hygiene\nBedtime routine, regular bed and wake times, turn off screens"
+  ],
+  "MK": [
+    "The parent SCARED form is significant for anxiety since it is above 25, so anxiety (Unspecified anxiety disorder, with need further evaluation)",
+    "Anxiety is common and can be episodic in children, but warrants further evaluation and treatment if impairing",
+    "Physical manifestations of anxiety are very common in children, including sleep problems, headaches, stomach-aches, and other somatic symptoms",
+    "Escitalopram (Lexapro); sertraline (Zoloft); fluoxetine (Prozac); fluvoxamine (Luvox); and citalopram (Celexa); and paroxetine (Paxil)"
+  ],
+  "SBP": [
+    "Consider referral for further evaluation and therapy",
+    "Identify support for the child in school (counselor, teacher)",
+    "Suicidality and follow-up should be within 2 weeks of initiation."
+  ],
+  "ICS": [
+    "Educate parents regarding normative worries in childhood vs. clinically-significant anxiety\nLevel of functional impairment guides treatment recommendations",
+    "Emphasize importance of modeling effective coping skills",
+    "Provide guidance re: parental management of the child’s anxiety\nParent to support child in implementing anxiety management strategies\nParent to avoid rewarding or reinforcing fears and avoidant behavior\nProvide reassurance, and continue all regular activities/schedule if possible\nCollaborate with school re: management of behavioral symptoms (school refusal)",
+    "Optimistic but realistic expectations to promote success\nGradually increase independence and empower parent to empower child"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

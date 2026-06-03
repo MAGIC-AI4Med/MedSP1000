@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10394",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10394/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Sepsis work up - Follow up urine, blood and CSF cultures. - Continue IV ampicillin and cefotaxime until cultures are negative for at least 36 hours.",
+    "Fever - Tylenol $1 5 \\mathrm { m g / k g }$ every 4-6hrs prn",
+    "FEN/GI - Breastfeed POAL. Continue Poly-vi-sol 1mL daily."
+  ],
+  "MK": [
+    "Ty Lee Knoll is a 3 week old former 36 week male presenting with a fever. He is well appearing, though with URI symptoms and likely has a viral illness. However, cannot rule out serious bacterial infection in an infant this young."
+  ],
+  "SBP": [
+    "Disposition: Will require inpatient care until conditions for discharge met: 1) cultures remain negative after 36 hours, 2) clinically stable, 3) tolerating PO, 4) adequate follow up arranged and 5) family and team comfortable with plan and discharge."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_10015",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10015/scenario6",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "**Needs Work for Level:** Interrupts patients/family, does not use silence, gives too much information, is falsely reassuring, becomes defensive",
+    "**Adequate for Level:** Listened carefully and used silence, avoided false reassurance, didn’t give too much information without permission, uses some NURSE (naming, understanding, emotions)",
+    "**Proficient:** Listens, Responds to emotion (names, understands, responds, supports and explores emotion) uses silence, warning shots and body language effectively; Avoided false reassurance, paces conversation well, asked permission before providing information",
+    "***Positive Response:***  Explore what Camilla knows about the patient’s future, and why he is on the ventilator now. Name her fear and her uncertainty. Use an I wish statement. Ask if you can talk about a procedure that would make the patient more comfortable (it will not cure him, change his neurologic prognosis, etc).",
+    "***Negative Response:*** Use jargon to describe the procedure. Assume it is a done deal that this procedure is happening with or without Camilla understanding that it is only about Alonzo’s care, not making an improvement in his condition. Student is very matter-of-fact."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

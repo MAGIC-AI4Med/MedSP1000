@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11504-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11504-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "The student should recognize this is not something in their power to accomplish and should instead reply honestly, stating clearly that this will not be possible."
+  ],
+  "ICS": [
+    "Name | State the emotion. Example: “It sounds like you were really frightened when you got that news.”",
+    "Understand | Empathize with/legitimize the emotion without implying you understand what someone is feeling. Example: Active listening without interruption, follow-up questions to show understanding.",
+    "Respect | Accept their perspective, validate that their reaction is important, and/or give praise. Example: “The medical team has noted how you are at bedside day and night, caring for your loved one.\"",
+    "Support | Show support, demonstrate partnership, or provide opportunities for family engagement. Example: “It sounds like we have the same primary goal in mind, which is…”",
+    "Explore | Ask the patient/family member to elaborate on their emotions. Example: “Is there anything else that is troubling you about this situation?”",
+    "They should recover by redirecting the conversation back to your underlying emotions and fears."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Avoiding discrediting consultants is important; students should maintain team integrity by respecting differences in clinical decision-making, even when it is uncomfortable to communicate this to patients."
+  ]
+}

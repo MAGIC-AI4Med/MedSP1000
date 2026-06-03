@@ -1,0 +1,40 @@
+{
+  "case_id": "mep-12-10474-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10474-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "In Tony’s school, what behaviors can lead to in school or out of school suspension? What were Tony’s specific behaviors that led to his suspensions?",
+    "Here’s the opportunity to stress that treatment should include biopsychosocial considerations. Discuss behavior management ideas for mother to use at home: identifying developmentally appropriate expectations, consistent consequences, rewarding appropriate behavior, etc.",
+    "Biological – Are there medications that are FDA approved for ODD? Continue to monitor for comorbidities that would require pharmacological treatment.\nPsychological – Parent management Training (PMT); Parent Child Interaction Therapy (PCIT) for up to 7 year olds. Individual therapies (cognitively based) that would be focused on anger management skills, problem-solving ability, techniques for delaying impulsive responses and improve social interactions.\nSocial – what supports can be put in place for mother? Church, family, structured day care for “respite” time, etc. Consider finding male role models for this child who is the oldest male in his household. Involvement in strength based activities.",
+    "Discuss the typical expectations of psychotherapy, including\n1. things get worse before they get better – extinction burst\n2. behavior therapy requires active participation of the parent and frequent adjustments to rewards\n3. typical duration depends on severity of symptoms, adherence to recommendations, etc\n4. behavioral training therapy is considered a brief therapy (12-16 sessions)"
+  ],
+  "MK": [
+    "A very broad differential diagnosis list should be generated at this point. Some diagnoses should include:\n1. Oppositional Defiant Disorder / Conduct Disorder (core feature: “bad” behavior)\n2. Disruptive Mood Dysregulation Disorder (core feature: persistent irritable mood)\n3. Adjustment Disorders (recent bullying, abuse, physical body changes) (core feature: proximal precipitating event)\n4. Depressive Disorders (core feature: in kids irritability, also sad mood)\n5. Anxiety Disorders (core feature: worry, also somatic complaints)\n6. Substance Related and Addictive Disorders (core feature: drug use)\n7. Intermittent Explosive Disorder (core feature: normal most of time, explosive outbursts)\n8. Specific Learning Disorders (core feature: difficulty in an academic environment)",
+    "Assesses for ADHD, DBDs, Anxiety and Mood disorders",
+    "Available in parent and teacher versions",
+    "Available in evaluation and follow up versions",
+    "Free access for clinician",
+    "Longer form requires more time for completion",
+    "Negative predictive power is greater than positive predictive power",
+    "Short (only 12 questions) form requires limited time to complete",
+    "Parent and Teacher scores available",
+    "Only assesses for ADHD symptoms",
+    "Only assesses for ADHD and not other mental health disorders"
+  ],
+  "SBP": [
+    "Still not time for a child psychiatrist – many options for treatment interventions remain in the primary care setting.",
+    "| Psychologist (PsyD. Versus PhD.) | Testing for IQ, learning disorders, Provide therapy |",
+    "| Therapist (LCSW, LPC, LCAS, etc.) | Provide therapy (may explain differences in background/degree) |",
+    "| School Guidance Counselor | Insight into school behavior, brief therapy interventions, school behavior plan |",
+    "| Clinic Social Worker | Resources for financial assistance, daycare, community resources, |",
+    "| Nurse | Obtain vitals, obtain social history, reinforce medication education |"
+  ],
+  "ICS": [
+    "Encourage students to formulate ways of asking Tony about his intentions/behaviors – remember to avoid using “why” in your questions.",
+    "The approach to the angry patient: Listen, Empathize, Problem solve.",
+    "Remind students that there are several steps in empathizing with patients - recognition, reflection, attuning to emotional messages, attending to nonverbal communication, accepting negative feedback."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

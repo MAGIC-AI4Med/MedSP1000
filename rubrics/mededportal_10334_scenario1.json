@@ -1,0 +1,53 @@
+{
+  "case_id": "mededportal_10334",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10334/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Prepares an appropriate operation room set-up for performing deep sedation:\nPlaces nasal cannula with end-tidal CO2 monitoring capability\nHas appropriate size bag and mask, handle and blade, LMA, and endotracheal tube available\nPlaces standard ASA monitors appropriately",
+    "Administers deep sedation with assistance:\nChooses the sedative and both the appropriate dose and route for administration",
+    "Might titrate the sedation to effect as needed",
+    "Verbalizes that the patient is apneic",
+    "Tries to arouse patient using verbal and/or tactile stimulation",
+    "Initiates management under supervision:\nPerforms chin lift and bag mask ventilation",
+    "Performs more specific management for the complication:\nAdministers sedation reversal if appropriate",
+    "Identifies and manages complications that are patient, surgery and anesthetic related in a cohesive fashion and maintains conditional independence:\nProvides appropriate airway management which may include bag valve mask ventilation, LMA, or endotracheal tube",
+    "Learner should assess patient, including brief assessment of airway, cardiovascular, pulmonary, and neurologic systems.",
+    "Learner should provide oxygen to the patient via mask or nasal cannula, ideally with end tidal CO2 monitoring in place.",
+    "Learner should outline a plan for sedation for the retrobulbar block and prepare to administer the sedation.",
+    "Learner should choose sedation with a variety of agents including propofol, midazolam, fentanyl, alfentanil, or other.",
+    "Learner should administer sedation or other comfort measures.",
+    "Learner should continue to monitor the patient during the block.",
+    "Learner should identify somnolence, apnea, desaturation, hypotension, and bradycardia.",
+    "Learner should attempt mask ventilation of the patient.",
+    "Learner should obtain definitive airway management via either placement of an LMA or endotracheal intubation with or without paralytic.",
+    "Learner should administer alpha or beta agonists to improve hemodynamics.",
+    "Learner should increase FiO2."
+  ],
+  "MK": [
+    "Verbalizes a plan for deep but short lasting sedation for the procedure",
+    "Verbalizes likely diagnosis of intrathecal injection as a complication of retrobulbar block",
+    "Verbalize that intrathecal injection can result in high spinal",
+    "Can list differential diagnosis of apnea after deep sedation and retrobulbar block",
+    "Can explain the pathophysiology and management of high spinal after retrobulbar block almost independently.",
+    "Demonstrates an expert level knowledge about the retrobulbar and peribulbar blocks, their complications and its management.",
+    "Learner should identify retrobulbar block as source of high spinal."
+  ],
+  "SBP": [
+    "Performs all of the above independently and plays a leader role in coordinating care:\nVerbalizes a plan for patient’s disposition and monitoring",
+    "Learner should call for help.",
+    "Learner should ask that CPR and ACLS be started.",
+    "Learner should request crash cart brought into the OR and paddles placed on patient."
+  ],
+  "ICS": [
+    "Introduces self to the surgical team at the beginning of procedure",
+    "Clearly communicates with the surgeon regarding apnea and need to support ventilation",
+    "Discusses patient’s condition and treatment options with the surgeon and with the anesthesia staff",
+    "Plays a team leader role in management",
+    "Gives clear instructions to other team members in a non-threatening calm manner if assistance is needed (e.g. squeeze the bag once every 6 seconds while I am providing a two hand-mask)",
+    "Gives positive feedback to other team members (e.g. good job squeezing that bag)",
+    "Learner should inform the surgeons when the patient is appropriately sedated to perform the block."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

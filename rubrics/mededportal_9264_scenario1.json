@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_9264",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9264/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Appropriate tagging of all 10 patients\no Green: Actor #2, Actor #5, Actor #7, Actor #9\no Yellow: Actor #1, Actor #6\no Red: Actor #8, Actor #10\no Black: Actor #3, Actor #4",
+    "Identify the Patients that need to be transported to hospital first and that may need immediate intervention (Tagged Red)\n\no Actor #10 in Car #7 with the bowel evisceration Need to cover eviscerated bowel with wet dressing and immediate transport to hospital for OR\no Actor #1 in Car #1 is initially tagged Yellow (Second Priority) but on reassessment has a seizure, and appropriate seizure management applied\no Actor #8 with the traumatic amputated arm requires direct basic management to stop or control the bleeding"
+  ],
+  "MK": [],
+  "SBP": [
+    "Identify Patient that are deceased, or beyond intervention in a mass casualty (Tagged Black) for expectant management Actor #3 in Car #2 and Victim #4 in Car #2 with no palpable heart rate or blood pressure, not breathing or shallow breathing should be tagged as such.",
+    "Identify other victims in a crash who are tagged as Green (‘walking wounded’) who have minor injuries that should be third priority for transport."
+  ],
+  "ICS": [
+    "Communicate calmly with victim who may be tagged Green but causing distraction to the triage process, and assist them as they may be suffering from PTSD from the trauma (this is illustrated by victim #5)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

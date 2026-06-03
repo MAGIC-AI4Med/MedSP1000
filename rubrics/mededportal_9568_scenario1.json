@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_9568",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9568/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Full sepsis evaluation:\nCBC, Blood culture\nCath U/A, urine culture\nCSF studies",
+    "Hypothermia, sepsis, or CNS disease?\nYes – HSV testing & start Acyclovir\nNo– Consider HSV testing & starting Acyclovir",
+    "Ampicillin & Gentamicin\nOr\nAmpicillin & Cefotaxime"
+  ],
+  "MK": [],
+  "SBP": [
+    "Admit"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

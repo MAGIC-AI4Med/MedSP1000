@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_10296",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10296/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Reaspirate",
+    "Medications? Appropriate routes / doses",
+    "Massage uterus",
+    "UItrasound (Perforation? Cul-de-sac fluid?)",
+    "Assess source (Walk the cervix / Cannula test)",
+    "Bleeding history?",
+    "Appropriate bleeding tests (i.e. clot test)",
+    "Start IV",
+    "Consider uterine tamponade (foley or bakri)",
+    "Assess Vitals q 5 minutes"
+  ],
+  "MK": [
+    "List 4Ts * (Tissue first)"
+  ],
+  "SBP": [
+    "Initiate transfer",
+    "Observe if vital signs stable, no orthostasis, bleeding slows, and she is stable over 2 hours if suspected mild perforation.",
+    "Transfer for unstable vital signs, continued bleeding, significant suspected trauma or worsening pain or vitals after trauma.",
+    "An up-to-date chart with stabilization record should be sent to ER."
+  ],
+  "ICS": [
+    "Team members should use closed-loop communications to assure clear understanding and task completion."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

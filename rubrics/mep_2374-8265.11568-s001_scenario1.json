@@ -1,0 +1,40 @@
+{
+  "case_id": "mep_2374-8265.11568-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11568-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "There is clarity about the work that the team should be doing and how to accomplish the work of the team",
+    "I am allowed to use my unique personal skills and abilities for the benefit of the team",
+    "I have a clear understanding of what other team members expect of me as a team member",
+    "Roles and responsibilities of individual team members are clearly understood by all members of the team",
+    "On this team the person who takes the lead differs depending on who is best suited for the task",
+    "Team members follow the leadership of other team members",
+    "The goals of the team are clearly understood by all team members",
+    "The team openly discusses decisions that affect the work of the team before they are made",
+    "Team members participate in making decisions about the work of the team"
+  ],
+  "ICS": [
+    "All team members feel free to share their ideas with the team",
+    "All team members feel free to express their feelings with the team",
+    "Team members say what they really think and mean",
+    "Regardless of the topic, communication between the people on this team is direct, truthful, respectful and positive",
+    "Information that is important for the team to have is openly shared by and with all team members",
+    "When students talk to SP in groups, all other people in room should stay silent and observe.",
+    "Everyone should talk to SP at some point during entire encounter; no more than 1 student per profession at a time, no more than 3 professions at a time",
+    "Team should ask for input from patient about information preferences and include patient in shared decision making about admission plan."
+  ],
+  "PBLI": [
+    "The team has agreed upon clear criteria for evaluating the outcomes of the team’s effort"
+  ],
+  "PROF": [
+    "Team members talk about each other with respect, even when team members are not present",
+    "The work I do on this team is valued by the other team members",
+    "On this team, members support and encourage each other",
+    "The team practices tolerance, flexibility and appreciation of the unique differences between team members",
+    "In the team, there is more of a WE feeling than a ME feeling",
+    "Team members define the goals of the team as more important than their own personal goals"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "case_id": "mep-12-10490-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10490-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "1. Poorly controlled diabetes, largely due to nonadherence to medication and supremacy of psychosocial stressors 2. Polysubstance (tobacco, marijuana, alcohol) use 3. PTSD",
+    "Other anxiety (panic, generalized anxiety, adjustment) disorder"
+  ],
+  "SBP": [
+    "To be discussed with standardized interprofessionals at the conclusion of the patient case:  Nursing – assistance with follow-up, blood pressure surveillance  Social worker – community resources for housing and job search  Psychologist – follow-up on mental health diagnoses  Pharmacist – assistance with follow-up and assessment for medication adherence"
+  ],
+  "ICS": [
+    "Agree: The trainee was warm, went beyond medical issues at hand, conversed about personal background, interests, job etc. [acute cases]: Rapt attention to me.",
+    "Agree: The trainee invited me to speak. Encouraged me to tell my story. Asked open-ended questions. Used silence appropriately.",
+    "Agree: The trainee used body language that was open and encouraging – appropriate eye contact, body position. Let me know I was the trainee’s focus.",
+    "Agree: The trainee followed up on my answers, summarized what I said and allowed me to clarify if needed.",
+    "Agree: The trainee spoke clearly in a way I could understand. All explanations and questions were clear.",
+    "Agree: The trainee demonstrated care and concern for me, offered comments to validate or acknowledge my feelings and concerns, respected my situation, had a willingness to support me emotionally.",
+    "Agree: The trainee asked if I had questions during the encounter.",
+    "Agree: I clearly understood the trainee’s assessment and I felt included in the decision regarding next steps. The plan includes the next diagnostic steps and rationale in a way that considers my beliefs and concerns – for example: pain control, emotional support, lack of insurance, etc.",
+    "Agree: The trainee specifically asked how I felt about the plan and addressed any concerns. Sought my approval/permission/ability to move forward with the next steps."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Agree: The trainee doctor showed courtesy and consideration at all times. Did not talk down to me. I felt my concerns were taken seriously."
+  ]
+}

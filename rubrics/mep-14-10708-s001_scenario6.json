@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain a fresh set of vitals",
+    "Ask about patient symptoms – is it new?",
+    "Once established the patient is stable by repeat vitals and reports of no symptoms; verbal order for nurse to have an AV nodal blocking agent ready for administration – metoprolol 5 mg IV versus diltiazem 10 mg IV",
+    "ECG, lytes with K, Mg",
+    "Agree to assess patient urgently"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

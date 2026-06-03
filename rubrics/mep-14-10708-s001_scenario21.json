@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario21",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario21",
+  "rubric_version": "v1",
+  "PC": [
+    "Recognize the focus should be on alleviating symptoms; not trying to figure out why she is suddenly more dyspneic – avoid interventions such as nebulizers, oxygen like face-mask or NIPPV that would likely add to her discomfort/agitation",
+    "Verbal order for morphine (or other opioid) at low dose o Morphine IV (in this situation $2 { \\cdot } 4 \\mathsf { m } \\mathsf { g } ,$ but OK if they start lower as long as they plan to reassess soon) Q15-30 min PRN pain or dyspnea o Hydromorphone 0.2 – 0.4 mg Q15-30 min PRN pain or dyspnea"
+  ],
+  "MK": [],
+  "SBP": [
+    "Does not mix up two patients with same last name."
+  ],
+  "ICS": [
+    "Clear, closed-loop communication when relaying orders to nursing staff",
+    "Provide education to nurse about opioids are effective for dyspnea, benzodiazepines are not – if anxiety persists after dyspnea controlled then can start low-dose benzodiazepine Benzodiazepines can cause paradoxical agitation in elderly patients, if need start LOW Develop follow-up plan; reassess discomfort 15-20 min after morphine given, preferably at the patient’s bedside, recognizing you may need to escalate dose"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

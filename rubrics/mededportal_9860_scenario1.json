@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_9860",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9860/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Take a cognitive history from the patient and daughter\nMini-cog screening tool, MoCA",
+    "Take a functional history from the patient and daughter\nBarthel scale, ADLs/IADLs\nGait and Balance exam/evaluation"
+  ],
+  "MK": [
+    "Discuss potential next therapies/steps with the patient & daughter, in light of the information you have gathered. Your choices include:\nPemetrexed (Alimta)\nErlotinib (Tarceva)\nSupportive care (Palliative care &/or Hospice care)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Elicit and discuss the patient’s goals of care",
+    "Determine the patient’s understanding of the risks and benefits of each option:\nFull chemotherapy, less intense chemotherapy regimen, supportive care"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

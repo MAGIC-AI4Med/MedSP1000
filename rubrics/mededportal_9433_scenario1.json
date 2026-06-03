@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_9433",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9433/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtains focused history and physical exam, particularly focusing on stroke mimics, indications/contraindications for ivTPA, and the neurologic exam",
+    "Obtain large-bore IV access and continuous cardiac monitoring",
+    "Obtains NIHSS",
+    "Orders other appropriate diagnostic and laboratory evaluation including EKG, CBC, basic metabolic panel, INR, aptt",
+    "On return from CT scanner, recognizes and treats significant hypertension",
+    "Administers ivTPA"
+  ],
+  "MK": [
+    "Recognizes likely diagnosis of CVA and obtains STAT HCT",
+    "Recognizes that ivTPA is indicated"
+  ],
+  "SBP": [
+    "Obtain neurology consultation",
+    "Coordinate final disposition for the patient and admit to ICU"
+  ],
+  "ICS": [
+    "Discuss with the patient the risks and benefits of IV tPA",
+    "Obtain informed consent for ivTPA administration"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

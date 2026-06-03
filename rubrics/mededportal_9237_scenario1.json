@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9237",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9237/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The learner asks about the standardized historian’s relationship to the patient during the interview.",
+    "The learner asks if the standardized historian is the primary caregiver. If completed, the learner asks if the custody arrangement is formal or informal.",
+    "The learner asks why the patient is in the standardized historian’s custody.",
+    "The learner asks about the standardized historian’s medical history as well as the patient’s.",
+    "The learner asks about what medications are in the home. If completed, the learner asks where the medications are stored.",
+    "The learner inquires about patient’s current asthma medications and dosages.",
+    "The learner provides guidance regarding how to properly administer the patient’s medications.",
+    "The learner discusses possible asthma triggers."
+  ],
+  "MK": [
+    "The learner establishes that the standardized historian is not correctly administering the patient’s medications."
+  ],
+  "SBP": [],
+  "ICS": [
+    "The learner turns off the T.V. before beginning to gather the history.",
+    "The learner introduces him/herself to the standardized historian.",
+    "The learner maintains eye contact with the standardized historian while gathering the history.",
+    "The learner sits at the same level as the standardized historian to gather the history.",
+    "The learner speaks in a slow, clear voice"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

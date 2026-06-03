@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10015",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10015/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Needs Work for Level: Interrupts patients/family, does not use silence, gives too much information, is falsely reassuring, becomes defensive",
+    "Adequate for Level: Listened carefully and used silence, avoided false reassurance, didn’t give too much information without permission, uses some NURSE (naming, understanding, emotions)",
+    "Proficient: Listens, Responds to emotion (names, understands, responds, supports and explores emotion) uses silence, warning shots and body language effectively; Avoided false reassurance, paces conversation well, asked permission before providing information",
+    "Positive Response: Student will listen to Camilla as she talks about the family physician’s opinion. Student will explore why the physician feels that way, (Say, “tell me more” if you are a little lost about what the family members know/believe) Respect the family support that Camilla has. Then Ask if the student can explain why the current medical team has a different opinion). Understand the situation she is in, being pulled between the physician family member and the current team. Acknowledge her denial, “I know that you don’t think that this is what lies ahead for Alonzo, I wish it were different too”",
+    "Negative Response: Student will deny outside opinions, confront Camilla with hard facts, disregard process of acceptance.",
+    "Positive Response: Explore why the patient’s wife feels this way (“I’m not sure what you mean” “can you tell me more about why you think that”.) Respect her opinion and restate what she has said. Empathize, “It must be so difficult to believe that Alonzo isn’t getting the care he should…” Ask her if it is okay for you to explain why this decision was made, give the information in bits, have her repeat the bits. Acknowledge her denial, “I know that you don’t think that this is what lies ahead for Alonzo, I wish it were different, but.”",
+    "Negative Response: Students will immediately deny this and is condescending about this possibility. The student may name all the races of the patients he/she has treated. S/he will ask “Don’t you know that’s against the law?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

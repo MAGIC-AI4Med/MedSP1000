@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_751",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_751/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked about at least 2 instrumental activities of daily living (IADL)",
+    "Asked about at least 2 activities of daily living (ADL)",
+    "Asked about social supports",
+    "Asked at least 4-5 depression symptoms",
+    "Asked about thoughts of death or suicide",
+    "Asked about general health and medications"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Introduced self and explained role",
+    "Started with open-ended questions",
+    "Gave patient time to answer fully",
+    "Responded appropriately to patient’s distress",
+    "Attempted to explain bereavement/depression difference"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

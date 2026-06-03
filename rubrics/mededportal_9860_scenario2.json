@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_9860",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9860/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess the patient’s cognition, function, and social situation using geriatric assessment tools (located on the desk)"
+  ],
+  "MK": [
+    "Discuss potential next therapies/steps with the patient & daughter, in light of the information you have gathered. Your choices include:\nPemetrexed (Alimta)\nErlotinib (Tarceva)\nSupportive care (Palliative care &/or Hospice care)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Elicit and discuss the patient’s goals of care",
+    "Determine the patient’s understanding of the risks and benefits of each option:\nFull chemotherapy, less intense chemotherapy regimen, supportive care"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

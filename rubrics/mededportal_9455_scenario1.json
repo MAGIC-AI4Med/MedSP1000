@@ -1,0 +1,67 @@
+{
+  "case_id": "mededportal_9455",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9455/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Onset of lightheadedness",
+    "Objects or the room spins",
+    "Has Gina ever passed out",
+    "Has Gina ever fallen",
+    "Is there anything that makes it worse",
+    "Has prior episodes of lightheadedness",
+    "Any recent changes in medication",
+    "Frequency of urination",
+    "Gina's appetite or daily eating habits and intake of fluids",
+    "Stomach complaints (nausea, vomiting, diarrhea).",
+    "Any black or dark stool or blood in stool",
+    "Examined oral mucosa for dryness",
+    "Auscultated the heart",
+    "Checked lower extremities for pitting edema",
+    "Evaluated patient's standing balance with eyes open and closed",
+    "Palpated the abdomen in four quadrants",
+    "BP supine and standing",
+    "Pulse rate",
+    "Comments on oral mucosa wetness",
+    "No pitting edema",
+    "Weight loss of 5 lbs",
+    "Stop diuretic/furosemide",
+    "Basic metabolic panel (glucose, calcium, sodium, potassium, bicarbonate, chloride, BUN, creatinine)",
+    "CBC"
+  ],
+  "MK": [
+    "Acute renal failure",
+    "[Additional point earned if the following is added to the above: “secondary to” or “associated with medication”]",
+    "GI bleed",
+    "Anemia"
+  ],
+  "SBP": [
+    "Follow-up visit",
+    "HAND HYGIENE: Does the student doctor perform hand hygiene at some point in the encounter beforeexamining you?Notes: Doctors may choose between soap/water &amp; gel sanitizer. SPs should remind students,if necessary,just prior to physical exam. No student should be allowed toforget this task."
+  ],
+  "ICS": [
+    "SPEECH: Is the student's speech freeof any characteristics (accent, diction, volume) which create abarrer toclearcommunication?",
+    "VOICE: Does the student's voice communicate warmth, interest and caring? (Or,do you hear hints ofdisbelief, judgment,and il-timed amusement even though the \"right things\" are said?)",
+    "QUESTIoNING STYLE: Is there abalance of question styles (open ended and close ended) that guide you intelling your story without limiting your expression. Are stacked questions absent?Notes: OPEN ENDED QUESTIONS: Alows patients free reign to tel their story. Close ended questions canlater be used to obtain clarifying information and review details.CLOSE ENDED QUESTIONS: Limits patient answers to options provided. \"Does it hurt here orthere?\" The savvy patient willwork in his own answer; the naive patient may select one of the optionsoffered that is close,but which does not necessarily properly describe,his situation. Should be usedsparingly or to drill down to specific details. Expected and proper in Review of Systems. STACKED QUESTlONS: Not to be confused w/ rewording a question, these are questions fired atpatient in succession with the next one coming before the patient can answer the prior question.Patients often willonlyanswer first or lastinlist,but notall.\"Anyindigestion,bloating,constipation,diarrhea or night sweats?\" Questions should NEVER be asked in this manner.",
+    "LANGUAGE: LANGUAGE: Does the student use appropriate language free of toilet terms, indelicate slang,orjargon that he doesn't bother to explain? Is the language sophisticated enough so that you don'tfeel \"talkeddown to\"?Notes: Toilet terms -“poop”“#1 and #2\" are not acceptable with adults.·Condescending language -- makes you feel that the doctor doesn't think you understand without hisoverexplaining or being overly simplistic.·Technical terms can be used,and this is a way to educate patients, but they should be defined andyou should not feel that they are used to impress.",
+    "INTRODUCTION/ENTRANCE: When the student enters the room, does the introduction include thestudent doctor's * last name * and * position/job title * ? Is the student doctor cordial?Notes: Use of a first name only -- Dr. Molly--is never acceptable unless interacting with young children. Use of a last name ONLY- Dr. Rogers - is, unfortunately,customary in medicine but would never beacceptable in other professions.In order to encourage proper introduction, unless BOTH a first AND last name are used,score the student as Lacking.",
+    "DISTRACTloNS: Does the student doctor cope with the medical chart, note taking and any otherdistractions without neglecting interaction with you?Notes: You can decide if an apology or explanation from the student regarding what he's examining mightmake his absorption in the materiai less offensive.",
+    "CONFIDENCE: Does the student doctor appear appropriately confident and relaxed without being overlycasual?",
+    "FACE TIME: Is the student doctor's eye contact and facial expresson appropriately inviting/open orserious (as the situation dictates)? Is it free of judgment, disbelief or misplaced amusement?",
+    "B0DY LANGUAGE: Does the student doctor's body language encourage communication through nods,head tilts and leaning into you? Does s/he maintain an appropriate distance &amp; position in the room?Notes: -- Posture should not be overly casual.-- Should be seated during the interview,but not at a level higher than you.- A comforting pat may make this behavior exemplary,but too much touching can be discomforting.",
+    "CLOSURE/FAREWELL: Does the student doctor's departure include * cordial farewellin keeping withhe mood of the encounter * and * an opportunity/invitation for you to ask final questions *.",
+    "PERMissloN: Does the student doctor ask your permission before examining you? Treating you?Notes: While one might assume that because you have showed up for your appointment you wish the doctorto go ahead and examine you,a physical examination is stillan invasion of your personal space,andyour permission should be obtained before proceeding with that invasion.\"May I proceed with a physical exam?\" \"May l examine you now?\" Where osteopathic manipulation is being used: Since osteopathic assessment (a structural or palpatory exam) can be confused with manipulative treatment --both involving movement and pressure -it iseasy to segue from one to the other. However,it is not proper to provide treatment unless the patientconsents to it, so the student doctor should seek your permission first before actually treating you evenif he has already goten your permission to examine you. Treating is not the same as examining.",
+    "PREPARATiON: Does the student doctor make any introductory statement explaining the hands-ontechnique (exam skillor treatment procedure) or verbal assessment (i.e. Mini Mental Status Exam) about tobe used on you?Notes: Expect a statement or brief explanation regarding the purpose of whatever you are being subjected to.\"'m going to listen to your heart and lungs to assess that they are functioning properly.\" \"l'dlike to askyou a series of questions to help me better understand how you are processing information.\"",
+    "SO Now WHAT: Does the student doctor share his impression/thoughts about your problem? Doyou get an answer to the (unspoken) question, &quot;Now what?&quot;",
+    "COUNsELING: Is the student doctor&#x27;s counsel practical and reasonable for you to follow?Notes: Counsel (noun): advice, opinion or instruction given in directing the judgmentor conduct of another",
+    "EMPATHY:Throughword orgesture(i.e.paton thearmorshoulder)，does the student doctorsomehow acknowledge your(portrayed) distress, emotional state or worries?Notes:Areyoumadetofeelthatyourproblem/situationisimportantands/heisrealy ivestedinresolvingit?You'relooking foranoverall mood conveyed during the encounter (notaspecific statement,as in the next question). Considerallformsofcommunicating empathy -- eyes, body language, tone of voice, etc.",
+    "SUPPORT:Doesthestudentdoctormakeanykindofsupportivestatementthatacknowledgesyoursituation--anddoesitsoundgenuine rather than rote/rehearsed?Notes:\"I'm sorry you are having this trouble/pain....\"\"Let's see what we can do to get you to get you back to your activities.\"\"Wow, you've been having a rough time.\"\"Another pound lost --I can see you've been really taking care of yourself.\""
+  ],
+  "PBLI": [],
+  "PROF": [
+    "GROoMING: Does the student doctor appear appropriately groomed,adhering to the essentials of our () Yes, for the most part; ()Poor hygiene/grooming orattire guidelines? Is hygiene good?                                                                                          minor violations were notnoticeably inappropriate attirebothersome",
+    "MODESTY: Does the student doctor atempt to preserve your modesty by not excessively exposing you,using a drape over your lower extremities (when examining your abdomen/groin)?",
+    "THERAPEUTIC TOUCH: How comforting is the doctor's therapeutic touch while examining you orrendering treatment? Does the doctor himself seem practiced and controlled in his techniques?Notes: Consider:·Doctor's use of diagnostic equipment·Doctor's use of hands in assessing the pt·Doctor's rendering of treatment.",
+    "POSITIONING CHANGES: Is the student doctor's sequencing of the exam and/or treatment such thatyou are spared from multiple position changes -- siting,lying on back, side or chest -- which can beawkward and uncomfortable?"
+  ]
+}

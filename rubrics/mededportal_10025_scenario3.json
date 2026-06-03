@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_10025",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10025/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Resident acknowledges that treatment will continue despite patient's decision as to life-saving measures.",
+    "Resident reflects (in communication with thepatient) the particular Hospital Requirements fordiscussing an advanced directive.Resident may offer resources (such as a socialworker or educationally-appropriate literature) to aidthe patient in understanding the risks and benefitsof the surgery."
+  ],
+  "ICS": [
+    "Did the Resident: …set the stage and carry out the DNR discussion? …explain why they are having a DNR discussion? …listen to Dena’s questions? …attend to Dena’s concerns?",
+    "Look for: Open body posture Sitting at equal level with patient; no barriers Eye contact Calmness of resident Resident mirrors affect congruent with patient's expressions Resident tracking the patient's behavior",
+    "listen for... Did resident: Introduce him/herself to the patient? Use non-coercive language? Use everyday language and no medical jargon? Raise the patient's awareness of his/her condition? Attend to the patient's fears and concerns? Demonstrate compassion for the patient? Verify the patient's understanding by asking questions? Discuss areas of concern and reach mutual agreement with the patient? Show responsiveness and sensitivity to the patient's level of understanding and unique needs?",
+    "Resident determines the patient's previousunderstanding of a 'code status' or advanceddirective. Resident offers counseling for patient to allay anyfears,or address questions or concerns the patient may have. Resident demonstrates appropriate counseling skills in this case, such as listening, information- seeking, mirroring congruent responses, andempathy.",
+    "Builds a Relationship (includes the following): Greets and shows interest in patient as a person Uses words that show care and concern throughout the interview Uses tone, pace, eye contact, and posture that show care and concern",
+    "Opens the Discussion (includes the following): Allows patient to complete opening statement without interruption Asks “Is there anything else?” to elicit full set of concerns Explains and/or negotiates an agenda for the visit",
+    "Gathers Information (includes the following): Begins with patient’s story using open-ended questions (e.g.“tell me about…”) Clarifies details as necessary with more specific or “yes/no” questions Summarizes and gives patient opportunity to correct or add information Transitions effectively to additional questions",
+    "Understands the Patient’s Perspective (includes the following): Asks about life events, circumstances, other people that might affect health Elicits patient’s beliefs, concerns, and expectations about illness and treatment Responds explicitly to patient’s statements about ideas and feelings",
+    "Shares Information (includes the following): Assesses patient’s understanding of problem and desire for more information Explains using words that patient can understand Checks for mutual understanding of diagnostic and/or treatment plans Asks if patient has any questions",
+    "Reaches Agreement (IF new/changed plan) (includes the following): Includes patient in choices and decisions to the extent s/he desires Asks about patient’s ability to follow diagnostic and/or treatment plans . Identifies additional resources as appropriate",
+    "Provides Closure (includes the following): Asks if patient has questions, concerns or other issues Summarizes/asks patient to summarize plans until next visit Clarifies follow-up or contact arrangements Acknowledges patient and closes interview",
+    "Resident Task: Resident should demonstrate concern and care for you  Resident should respectfully address your considerations  Resident should thoroughly explain what a DNR or “code status” is to the patient.",
+    "Goal for Final Outcome: Resident explains what a code status is and responds to your reactions with care, empathy and respect"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Resident demonstrates sensitivity to the fact that the patient has no family or apparent resources for supportat home.",
+    "Resident respectfully validates the patient's fears(e.g., death, fear that doctors will no longer treat her condition, lack of family and support network in thearea)"
+  ]
+}

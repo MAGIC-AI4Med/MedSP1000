@@ -1,0 +1,57 @@
+{
+  "case_id": "mep-13-10553-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10553-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked when symptoms of altered mental status began",
+    "Asked when swollen ankles were first noted",
+    "Asked when back pain began",
+    "Asked if patient was short of breath",
+    "Asked about urination:\nFrequency/urgency\nAmount of urine produced\nPain/burning when urinating\nBlood in urine",
+    "Asked what medications are being taken",
+    "Asked if fever has been present",
+    "Asked if symptoms have occurred previously",
+    "Examined recent infection site",
+    "Examined PICC line catheter site for infection",
+    "Listened to lungs under gown on the left and right on chest and on the upper left, lower left, and upper right and lower right on the back (6 locations)",
+    "Listened to heart under clothing in 4 locations (to the right and left of upper sternum/breast bone, at the lower left of sternum, and lower left of breast)",
+    "Palpated lower back",
+    "Examined calf for redness/swelling",
+    "Examined ankles for edema",
+    "Checked pulses in wrist and top of feet",
+    "Serum creatinine (BMP)",
+    "BUN (BMP)",
+    "Electrolytes (BMP)",
+    "CBC",
+    "Urinalysis (expanded UA)",
+    "Urinary sodium and creatinine (expanded UA)",
+    "Urine osmolarity (expanded UA)",
+    "Discontinue ibuprofen; try acetaminophen if pain",
+    "Hold/lower dose of hydrochlorothiazide",
+    "Hold/lower dose of lisinopril",
+    "Hold vancomycin for ~90-96 hours"
+  ],
+  "MK": [
+    "Acute renal failure brought about by multiple drugs",
+    "Include at least 3 pertinent positives or negatives for this diagnosis",
+    "Student “found” patient’s clearance of vancomycin",
+    "Student “found” patient’s vancomycin half-life"
+  ],
+  "SBP": [
+    "Documented chief complaint (mental status changes)",
+    "Documented swollen ankles",
+    "Documented patient’s recent hospitalization for infection",
+    "Documented patient’s home health treatment with vancomycin",
+    "Documented patient’s report of decreased urination",
+    "Documented patient’s back/flank pain",
+    "Documented patient’s resumption of hydrochlorothiazide",
+    "Documented patient’s resumption of lisinopril",
+    "Documented patient’s use of Ibuprofen"
+  ],
+  "ICS": [
+    "Correctly told the most likely cause of the problem: **drug-induced** acute **renal (kidney) failure**"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "mep_2374-8265.11573-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11573-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Substance use pattern\\nHow much\\nHow often\\nHow long\\nUsing alone\\nSharing needles\\nUsing other substances\\nCleaning materials\\nInjection sites\\nHas naloxone (Narcan)",
+    "Substance use source\\nSource for substances\\nSource for needles",
+    "History of treatment\\nHx of treatment programs\\nHx of recovery period (\\u201csober,\\u201d \\u201cclean\\u201d)\\nHx of medications for OUD",
+    "History of illnesses related to use\\nHospitalizations\\nOverdoses\\nReceived naloxone (Narcan)\\nHIV hx\\nPrEP hx\\nHep C hx",
+    "Social history\\nHousing status\\nWork status\\nInsurance status\\nSexual history",
+    "Important systems on exam: vitals (systemic infection), HEENOT for dental and mucositis, cardiac exam for murmurs (endocarditis), pulmonary exam (pneumonia, septic emboli), full skin exam (wounds, phlebitis)",
+    "We would start either medication here in the hospital so we can watch how you\\u2019re doing and get you to a dose where you feel comfortable enough to be in recovery from fentanyl.",
+    "We can start slow with either medication so that you don\\u2019t feel any withdrawal. Our goal is always to keep you comfortable and safe, and avoid you feeling withdrawal symptoms."
+  ],
+  "MK": [
+    "Possible answers: uses new needles, cleans materials with bleach (rather than tap water), doesn\\u2019t use alone, carries and knows how to use naloxone (Narcan), has sought medical care in the past",
+    "Possible answers: Cellulitis (likely related to substance use), possible systemic infection, acute pain from infection, active fentanyl use disorder"
+  ],
+  "SBP": [
+    "Methadone would be dispensed at a clinic that you would go to every morning; Suboxone could be prescribed like other medications.",
+    "We will make sure that we have a plan for continuing the medication after you leave the hospital and give you more naloxone (Narcan)."
+  ],
+  "ICS": [
+    "Is it okay if we take a minute to talk about your fentanyl use (asking permission)?",
+    "What makes you interested in learning more about treatment options (open-ended question to elicit motivations for change)?",
+    "What are some aspects of using fentanyl that you like? What are some aspects of using that you\\u2019re not happy with (exploring pros and cons in patient\\u2019s own words)?",
+    "What may happen if things continue as they are? What would be different if you went for treatment (looking forward)?",
+    "We\\u2019re here for you wherever you are right now.",
+    "It sounds like you already have some strategies to keep yourself safe, but would you mind if the team discussed some other strategies with you as well?",
+    "We will also give you more naloxone (Narcan). If you ever change your mind, we are here to support you."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Note on language: remember to be thoughtful, objective, and harm-reduction-oriented when writing notes! A patient \\u201chas OUD,\\u201d \\u201cuses fentanyl,\\u201d \\u201cuses multiple substances,\\u201d \\u201chas been in recovery\\u201d rather than \\u201cis an addict,\\u201d \\u201cabuses drugs,\\u201d \\u201cis sober.\\u201d"
+  ]
+}

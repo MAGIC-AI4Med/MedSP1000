@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.11157-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11157-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Correct answer: Obtain ketones (serum beta-hydroxybutyrate or urine ketones).",
+    "Patients on insulin pumps receive only rapid-acting insulin. In persistent hyperglycemia, prompt correction by insulin SC injections is necessary to ensure that insulin is being delivered and prevent progression to ketosis/DKA.",
+    "Approach to insulin pump failure:\n1. Check and correct problems with the pump or insulin delivery system. Place a new infusion site.\n2. Give correction doses of rapid-acting insulin by syringe every 3-4 hours until ketosis is resolved."
+  ],
+  "MK": [
+    "When to check ketones for patients with T1D:\n1. Persistent hyperglycemia, especially if not responding to insulin correction doses.\n2. Monitoring during acute illness.\n3. Presence of symptoms of DKA: nausea, vomiting, abdominal pain.",
+    "Differential diagnosis of increased insulin requirement:\n1. Acute illness, injury, surgery\n2. Decreased absorption because of lipohypertrophy\n3. Puberty\n4. During menses\n5. Insulin omission\n6. Ending of the honeymoon period\n7. Insulin pump failure",
+    "Pump failure can result from:\n1. Infusion site malfunction (disconnection of tubing, canula kinked, or dislodged)\n2. Pump malfunction (low-battery, alarm, programming error)\n3. Insulin problems (expired, exposure to extreme temperatures)"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

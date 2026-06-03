@@ -1,0 +1,29 @@
+{
+  "case_id": "mep_2374-8265.11449-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11449-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "In this case, the trainee demonstrates behaviors that are consistent with burnout including relying on upper level to fill in (decreased personal accomplishment) or rejection of feedback (emotional exhaustion). The literature (Baer TE et al, slide 24) also describes not fully answering patient’s questions as a specific burnout behavior. He also readily identifies/admits to feeling burnout during his feedback session and attributes his poor performance to such.",
+    "However, the observation of consistent suboptimal performance including inability to explain thought process demonstrates likely lack of medical knowledge and reasoning that cannot be explained by emotional exhaustion, depersonalization, or decreased personal accomplishment. This is why it is important for an educator in the CLE to take opportunities for trainees to demonstrate competency via different methods, like asking them to explain their reasoning. (It may be appropriate for facilitators to address with participants that difficulty processing may be a sign of depression.)"
+  ],
+  "SBP": [
+    "Refer to leadership (be upfront if escalating concerns)",
+    "Encourage support seeking in and out of medicine"
+  ],
+  "ICS": [
+    "Be ready to explain burnout",
+    "Verbalize moving into feedback\nPromise to return to burnout\nIf learner persists on the topic, discuss impact on work\nIf comes up mid-session, back up and start with “IN”",
+    "Validated screening questions:\nAre you feeling burned out from your work?\nHave you become more callous toward people since you started this job/rotation?\nOR frame concern in reference to observed behaviors or interactions.\ne.g. “I’ve noticed (behavior, perceived attitude, etc) and I’m wondering if you’re feeling overwhelmed?”\nBriefly explore impact and perception of these feelings",
+    "Normalize burnout\ne.g. “The hospital wards are overwhelming, and burnout is especially common among residents this time of year.”",
+    "Empathize:\ne.g. “I am sorry you are feeling burned out. It makes it really hard to get through a day.”",
+    "General feedback principles\nPlan ahead\nAvoid overloading (1-2 items)\nBehavior-based only/avoid nonactionable comments",
+    "Give honest feedback\nAddress deficiencies\nInclude positives when present"
+  ],
+  "PBLI": [
+    "Clarify expectations and adjust learner’s goals",
+    "Discuss self-monitoring of crossover from work life"
+  ],
+  "PROF": []
+}

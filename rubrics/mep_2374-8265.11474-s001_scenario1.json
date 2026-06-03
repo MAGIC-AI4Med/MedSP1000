@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.11474-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11474-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Collect and address the patient’s relevant history.",
+    "Ensure plan to get ultrasound and lab work completed.",
+    "Offer but do not demand toxicology screen"
+  ],
+  "MK": [
+    "Patient with a prior traumatic experience impacting engagement with prenatal care in subsequent pregnancy",
+    "Patient with history of substance use in remission",
+    "Ongoing substance use"
+  ],
+  "SBP": [
+    "Offering social work/resources in a sensitive manner.",
+    "Schedule follow up visits for prenatal care"
+  ],
+  "ICS": [
+    "Empathize with her past experiences as they relate to this pregnancy.",
+    "Praise patient’s efforts to maintain a healthy pregnancy.",
+    "Ask open-ended questions.",
+    "Practice reflective listening.",
+    "Summarize the visit.",
+    "Assess patient’s understanding and agreement with the plan"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

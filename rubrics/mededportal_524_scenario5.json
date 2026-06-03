@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_524",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_524/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Primary assessment (ABCDs)",
+    "Acquisition of vital signs",
+    "Removal of clothing",
+    "Basic airway management $1 0 0 \\%$ oxygen administration)",
+    "Basic circulatory management (effective dressing application, peripheral venous access)",
+    "Advanced circulatory support (cardiac monitor, additional venous access)",
+    "Secondary assessment (incl. log-rolling patient)",
+    "Hemorrhagic shock evaluation and management (implementation of specific testing, i.e. hematocrit, and treatment, crystalloid infusion and type-specific blood)",
+    "Continued patient evaluation and respiratory / circulatory support",
+    "Supportive therapies upon improvement of circulatory function (sedation, analgesia, wound cleaning, antibiotic and tetanus vaccine administration, fluid warmer, space blanket)"
+  ],
+  "MK": [
+    "Hemorrhagic shock recognition (incl. identification of hemorrhage sites)"
+  ],
+  "SBP": [
+    "Recognition of need for medical evacuation to CSH for definitive stabilizing care (“nine-line”)",
+    "Duration to critical actions- resuscitation to be completed within 30-40 minutes allotted to multi-patient scenario"
+  ],
+  "ICS": [
+    "Establishment of team structure with role assignment",
+    "Deployment of appropriate communications $^ +$ teamwork behaviors",
+    "Patient information transfer to transport team for definitive intervention and disposition"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

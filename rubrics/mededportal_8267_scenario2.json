@@ -1,0 +1,48 @@
+{
+  "case_id": "mededportal_8267",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8267/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "EMS Radio: ☐ Team Leader (TL) asks for board tilt to left lateral position prior to arrival",
+    "☐ED Tech places patient on ☐BP cuff ☐pulse oximeter ☐cardiac monitor and ☐checks temp ☐Vital Signs called out",
+    "☐Vital Signs repeated during case ☐Nurse 1 obtains IV access and ☐ sends labs ☐1000cc NS bolus ☐1000cc NS bolus ☐2 Units of Packed Red Blood Cells ☐ED Technician obtains blood in cooler if ordered",
+    "☐Nurse 1 prepares and administers fluid or blood via rapid infuser",
+    "☐ECG ordered ☐ED Technician obtains ECG ☐Blood Glucose ordered ☐ED technician obtains Blood Glucose ☐ED Technician prepares pleur-evac ☐FAST obtained and interpreted ☐Obstetrical U/S obtained ☐Fetal Heart Monitor requested"
+  ],
+  "MK": [
+    "Avoid fixation errors",
+    "Generate new ideasand provide clarityof established ideas",
+    "Promote internal and external thinking“outside the box&quot;"
+  ],
+  "SBP": [
+    "Triage: ☐Highest Level ☐Lower Level (dependent on hospital system)",
+    "Pre-arrival preparation:\n☐Universal precautions by all team members ☐ Emergent Obstetrical Service consultation ☐ Nurse 1: Prepares Rapid infuser ☐ MD Procedures: Ultrasound, IV/Central Access ☐ MD Airway: Airway equipment ☐ ED Technician: Chest tube and ☐Blood Cooler ☐Silence during paramedic report ☐MD Primary evaluates ABCs (primary survey) ☐Nurse 2 documents assessment",
+    "☐History of Intimate Partner Violence elicited ☐Social Services consulted ☐Optional: Emergency radiology consulted to discuss risks/benefits of CT Scan ☐Backboard removed prior to CT",
+    "☐Disposition: ☐Operating Room☐CT ☐ICU ☐Labor and Delivery ☐Telemetry/Ward",
+    "Disposition:\nPriority is the mother – Abdominal/Pelvis CT is necessary given $^ +$ FAST with stable vital signs Patient should be monitored overnight in an Intensive Care Unit prior to transfer to the obstetrical service Social services should be involved due to Intimate Partner Violence",
+    "Know when and whom to call for help",
+    "Identify the sources of help available",
+    "Ascertain the type of help needed: advice, hands on,specialized",
+    "Prepare for anticipated needs: special carts or equipment",
+    "Understand the infrastructure of the trauma bays"
+  ],
+  "ICS": [
+    "Steps back,physically and mentally, to manage the event",
+    "Sets clear goals",
+    "Organizes the team and delegates responsibility",
+    "Assume and complete assigned responsibilities",
+    "Feed back event management data",
+    "Provide task and cognitive support",
+    "Introduce themselves and address people directly",
+    "Establish communication paths",
+    "Use nonjudgmental comments",
+    "Close the loop and give feedback",
+    "Use clear and standard language",
+    "Team leader summarizes patient history, data, differentialand current situation"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Hand washing"
+  ]
+}

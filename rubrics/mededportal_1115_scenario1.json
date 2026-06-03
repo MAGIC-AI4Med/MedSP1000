@@ -1,0 +1,53 @@
+{
+  "case_id": "mededportal_1115",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1115/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Exertional SOB, PND, orthopnea",
+    "Bilateral lower limb swelling",
+    "No chest pain, fever, or hemoptysis, there is dry cough and fatigue, no syncope, no intermittent claudication, There is palpitation on and off started 3 months ago",
+    "Cardiac risk factor: no HTN, no DM, no MI, did not check his cholesterol level.",
+    "Smoker: 2 pack/day, 30 years",
+    "General Lock: does not look well, under weight and pale",
+    "V/S: Temp=37, Pulse=120 irregular, BP=180/100, RR=18/min, O2 sat=90% RA",
+    "CVS: JVP raised 6 cm. Apex: displaced, Left parasternal heave, S1+S2+S3",
+    "No murmers no perticardial rub",
+    "Chest: bilateral fine inspiratory crackles at lung base.",
+    "Abdomen: mild tender hepatomegaly, no ascites",
+    "Lower limb:  pitting edema, no signs of DVT",
+    "Other systemic examination: unremarkable",
+    "ECG, CXR, CBC, U&E, Liver enzymes, cardiac enzymes, ABG, lipid profile, glucose",
+    "Urinalysis, Echo",
+    "ABC + continuous ECG monitoring",
+    "Stop smoking, salt resriction",
+    "Oxygen",
+    "Anticoagulation for A.fib",
+    "Control hear rate: digoxin, no B-blocker acutely!",
+    "Diuretic",
+    "ACE Inhibiter",
+    "Statin"
+  ],
+  "MK": [
+    "SOB + Lower limb edema",
+    "Irregular pulse",
+    "Hypertension",
+    "CHF probably caused by uncontrolled BP and precipitated by A.Fib",
+    "IHD complicated by CHF",
+    "Chronic lung disease with core pulmonale",
+    "Constrictive  pericarditis",
+    "Recurrent pulmonary embolism",
+    "CXR: Cardiomegaly and pulmonary edema",
+    "ECG: A-Fib",
+    "CBC: normal, U&E; mild renal impairment, cardiac enzymes :normal, mild elevation of ALT,AST, High LDL, normal random glucose, ABG: hypoxemia, Resp Alkalosis, impaired renal function,  normal TSH",
+    "ECHO: dilated LV, Low EF, no significant valvular lesion",
+    "The Final Diagnosis: CHF, Atrial Fibrillation, uncontrolled hypertension and hyperlipidemia"
+  ],
+  "SBP": [
+    "Health education & cardiology referral",
+    "Admit to the hospital"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

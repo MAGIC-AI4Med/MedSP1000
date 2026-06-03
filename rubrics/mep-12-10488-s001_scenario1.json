@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-12-10488-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10488-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Nursing team identifies correctly that standardized patient is in respiratory distress and call for the cross-covering medical team."
+  ],
+  "MK": [],
+  "SBP": [
+    "Once patient status is improved or the 15 minutes allowed for scenario has expired, the team does a hand-off to the on-coming medical staff for the next shift."
+  ],
+  "ICS": [
+    "Nursing gives SBAR to medical team when they arrive at patient beside.",
+    "Medical team introduces themselves to the patient and nursing team. Who is the leader is evident.",
+    "Medical, pharmacy and nursing team manages patient declining status using team communication skills."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

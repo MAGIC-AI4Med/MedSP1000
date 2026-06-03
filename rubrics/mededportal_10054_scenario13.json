@@ -1,0 +1,39 @@
+{
+  "case_id": "mededportal_10054",
+  "scenario": "scenario13",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10054/scenario13",
+  "rubric_version": "v1",
+  "PC": [
+    "Describe possible consequences of the event, including immediate or long term effects",
+    "Provide information regarding any tests, procedures, therapies that may be necessary as a result of the event",
+    "Provide information regarding changes in level of monitoring or care that may be necessary as a result of the event",
+    "Make a plan for managing the patient's condition and comfort"
+  ],
+  "MK": [
+    "Explain the nature of an unanticipated outcome",
+    "Give a factual explanation of what is known to have contributed to an unanticipated outcome"
+  ],
+  "SBP": [
+    "Offer to obtain support from appropriate health care workers (social workers, clergy, consultants)",
+    "Notify the correct people in hospital administration that an error has occurred",
+    "Provide adequate documentation in the patient's medical chart regarding the event",
+    "Provide appropriate documentation in the patient's medical chart regarding your discussion"
+  ],
+  "ICS": [
+    "Communicate a statement that an unexpected event occurred",
+    "Provide an expression of regret/empathy to the patient and/or family",
+    "Answer questions posed by patient and/or family about the medical error",
+    "Maintain eye contact at comfortable intervals throughout the interview"
+  ],
+  "PBLI": [
+    "Communicate that the factors that resulted in the event will be investigated",
+    "Describe the steps that will be taken to evaluate contributing factors",
+    "Describe the steps that will be taken to prevent recurrences"
+  ],
+  "PROF": [
+    "Avoid medical jargon",
+    "Respond to patient/family concerns and expectations",
+    "Expresses willingness to be helpful to the patient/family in addressing their concerns",
+    "Identify who will communicate with the patient and/or their family on an ongoing basis"
+  ]
+}

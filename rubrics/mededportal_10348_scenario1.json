@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_10348",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10348/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Appropriate treatment of bradycardiawith a pulse and poor perfusion (initiallywith supplemental oxygen)",
+    "Identified need for medications(epinephrine and atropine)",
+    "Initiated transcutaneous pacing",
+    "Did the care improve the patient&#x27;scondition?",
+    "Complete vital signs are obtained and pt is noted to be bradycardic with poor perfusion",
+    "Lab work is sent including CBC, BMP, CBG",
+    "Learner should ask for ECG",
+    "Excessive fluid boluses given for hypotension",
+    "Failure to provide sedation/analgesia prior to transcutaneous pacing"
+  ],
+  "MK": [
+    "Appropriate recognition of completeheart block from malfunctioning pacemaker (recognition of pacemaker inCXRay and spikes in old EKG)",
+    "Correct confirmation of adequatecapture"
+  ],
+  "SBP": [
+    "Correct teams consulted",
+    "Failure to plan for more permanent pacemaker (transvenous or generator change)"
+  ],
+  "ICS": [
+    "Formation of a team"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

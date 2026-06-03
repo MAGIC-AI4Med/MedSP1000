@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_9907",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9907/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Discuss the next steps in his pain management",
+    "Discontinuing marijuana while on opioids is one option before agreeing to increase or continue opioid therapy."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Give the patient the results of his urine drug screening",
+    "It is important to create trust, demonstrate your interest in working with him but also communicate the importance of safety issues and potential side effects of opioids and other treatments that may minimize the need for chronic opioids.",
+    "The interaction of opioids with marijuana should also be discussed."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

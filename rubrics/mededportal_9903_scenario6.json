@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_9903",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9903/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Ideally, the fellow should ask for [and evaluate]: 1) Behavior log for Mr. L., 2) Description of the specific interventions used by facility staff to lessen behaviors, 3) Events that occurred during the geropsychiatry admission.",
+    "Did the fellow wash their hands?",
+    "Did the fellow comprehensively interview the patient?",
+    "The fellow was able to provide effective non-pharmacologic behavior management advice for patient care."
+  ],
+  "MK": [],
+  "SBP": [
+    "The fellow was able to demonstrate the ability to develop a care plan taking into account diverse opinions of team members.",
+    "The fellow was able to utilize the services of an inter-disciplinary team. (e.g. incorporate feedback from nursing staff into management plan)",
+    "Fellow developed an appropriate patient chart note for this case."
+  ],
+  "ICS": [
+    "Did the SP understand the physician’s questions?",
+    "Did the SP understand the physician’s answers?",
+    "Did the SP feel that she played an active role in decision making?",
+    "The fellow was able to lead a team meeting. (e.g. elicit history and ideas for management from patient, nurse, CNA, and pt’s daughter?)",
+    "The fellow was able to demonstrate the ability to gather information from team members in a collaborative and respectful manner. (e.g. agenda set, summarize, etc.)",
+    "Fellow was able to communicate the issues and plan appropriately using shared decision making when appropriate...\nWith Patient\nWith Family\nWith Interdisciplinary Team"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did the SP feel respected by the physician?",
+    "Did the physician treat the patient well?"
+  ]
+}

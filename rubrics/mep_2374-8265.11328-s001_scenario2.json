@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11328-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11328-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Chronic pain: patient education about realistic goals, risks and benefits of opioids, consultation or referral to a pain specialist, consider tapering opioids without rapid taper, non-opioid medications such as NSAIDs or antidepressants, cognitive behavioral therapy, exercise, physical therapy, yoga, acupuncture, or music therapy.",
+    "Depression: referral to behavioral health specialist, exercise or physical therapy, consider initiating an antidepressant.",
+    "Safety concerns: prescribe naloxone and provide training to patient and spouse, discontinue carisoprodol, provide acetaminophen education, discourage alcohol use."
+  ],
+  "MK": [
+    "Chronic musculoskeletal back pain: patient history, PEG screening tool, SP interview.",
+    "Depression: patient history, PHQ-9 screening tool, SP interview.",
+    "Opioid use disorder (OUD): PMP report, SP interview."
+  ],
+  "SBP": [
+    "Safety concerns: high morphine equivalent dose (MED); combining alcohol with opioids and acetaminophen; high daily dose of acetaminophen.",
+    "Concerning behaviors: establish a trusting patient-provider relationship, discuss multiple prescribers and opioid volume, consider a pain agreement with single prescriber/single pharmacy and/or urine drug testing, and consider addiction-specialist referral if OUD assessment is needed."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

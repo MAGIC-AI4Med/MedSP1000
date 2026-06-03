@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11504-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11504-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "State the emotion.  Example: *“It sounds like you were really**frightened when you got that news.”*",
+    "Empathize with/legitimize the emotion *without* implying you understand what someone is feeling.  Example: *Active listening without interruption, follow-up questions to show understanding.*",
+    "Accept their perspective, validate that their reaction is important, and/or give praise.  Example: *“The medical team has noted how you are at bedside day and night, caring for your loved one.\"*",
+    "Show support, demonstrate partnership, or provide opportunities for family engagement.  Example: *“It sounds like we have the same primary goal in mind, which is…”*",
+    "Ask the patient/family member to elaborate on their emotions.  Example: *“Is there anything else that is troubling you about this situation?”*",
+    "They should clarify their role courteously and professionally, then redirect the conversation to your underlying concerns and worries."
+  ],
+  "PBLI": [
+    "If the student falls into the trap of agreeing to get the scan, they should recognize they have made a false promise."
+  ],
+  "PROF": []
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "mededportal_9305",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9305/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "She will need structure, reminders, and assistance with the activities of daily living.",
+    "Mrs. Cooper will need assistance with her medications due to her declining cognition.",
+    "Wherever she goes, caregivers should change her diet to more of these types of foods, especially as the dementia progresses**. They should also monitor her intake and weight. She should continue her daily calcium citrate supplement that provides 600 mg of calcium and 1,000 IU vitamin D to reduce risk of bone fractures in the presence of her osteoporosis.**"
+  ],
+  "MK": [
+    "In your opinion, Mrs. Cooper has now progressed from MCI to early stage Alzheimer’s disease dementia, which means frequent recent memory loss, particularly of recent conversations and events; repeated questions, some problems expressing and understanding language. Mild coordination problems: writing and using objects becomes difficult. Depression and apathy can occur, accompanied by mood swings.",
+    "Mrs. Cooper is likely to progress to this stage in the next two years given her current rate of decline.",
+    "You have applied the updated **Beers Criteria** to the list and find no potentially inappropriate medications.",
+    "This indicates that Mrs. Cooper is unable to walk safely while performing even a simple secondary task."
+  ],
+  "SBP": [
+    "You are worried that she will fall at home without such care.",
+    "There are 16 steps leading from the first to second floor which presents a significant safety risk to Mrs. Cooper.",
+    "Given the progressive nature of the disease and the frail condition of husband/primary caregiver Mr. Cooper, you advise more help (either assisted living or paid help in the home). A facility has a couple of “levels of care” (e.g. a CCRC) might be a good option for the couple as she is likely to be more impaired and need more help than he does. Such a facility might allow them not to be separated in the years to come.",
+    "Given the findings of the examination and home safety assessment you recommend that Mrs. Cooper should not be discharged to home, but would get the therapy and attention she needs in a safe environment such as in an assisted living facility.",
+    "However, recommendations for the best placement for Mrs. Cooper must also take into account the Coopers’ financial resources in addition to what is currently allowed by Medicare and Medicaid.",
+    "Paying for a full-time in-home caregiver may not be affordable for the number of years they might need it (without selling the home or taking out a “reverse mortgage” on the home).",
+    "The family ends up with a prioritized list of residential options."
+  ],
+  "ICS": [
+    "Communicate one’s roles and responsibilities clearly to patients, families, and other professionals.",
+    "Listen actively, and encourage ideas and opinions of other team members.",
+    "Engage other health professionals – appropriate to the specific care situation – in shared patient-centered problem solving.",
+    "Members re-introduce themselves to the Coopers if necessary. (e.g. “Mr. and Mrs. Cooper, I believe you have met everyone on the team. If there is someone you don’t recognize, please let me know.”)",
+    "Team coordinator restates the purpose of the meeting.",
+    "Members share their information and perspectives with the Coopers.",
+    "You assure Mrs. Allen that appointments can be rescheduled. It will be fine to wait until things are stabilized to make any decisions about whether or not to remain in the study."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Respect the unique cultures, values, roles/responsibilities, and expertise of other health professions."
+  ]
+}

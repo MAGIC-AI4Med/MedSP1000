@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9052",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9052/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Student checked my head, eyes and ears [PE]",
+    "Student checked my neck for lymph nodes (at least one lymph node group, bilaterally) [PE]",
+    "Student listened to my heart not through the gown [PE]",
+    "Student listened to my heart in 4 different locations (Aortic, Pulmonic, Tricuspid and Mitral regions) [PE]",
+    "Student listened to my lungs not through the gown (stethoscope was placed on my skin) [PE]",
+    "Student listened to my lungs front and back [PE]",
+    "Student listened to my lungs on both sides of the chest/back (L and R) [PE]",
+    "Student palpated my abdomen in all 4 quadrants [PE]",
+    "Students checked my arms and legs for mobility [PE]",
+    "Student performed whispered voice test [PE]",
+    "Student performed Weber test [PE]",
+    "Student performed Rinne test [PE]"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Student greeted me appropriately [comm.]",
+    "Student asked me if I have any questions [comm.]",
+    "Student made me feel comfortable [comm.]"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

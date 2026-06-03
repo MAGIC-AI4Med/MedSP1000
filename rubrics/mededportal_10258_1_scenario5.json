@@ -1,0 +1,45 @@
+{
+  "case_id": "mededportal_10258_1",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10258_1/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Modeled how to do an LP",
+    "Discussed where to insertneedle",
+    "Discussed how to figureout how far in to go",
+    "Demonstrated how toobtain an opening pressure"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Asked effective questions to engage learner",
+    "Encouraged learner to express concerns andneeds",
+    "Expressed respect forlearner's experience andemotions",
+    "Set an agenda for session",
+    "Paced session appropriately for needs oflearner",
+    "Avoideddigressions/distractions",
+    "Did not miss importanttopics",
+    "Presented material in well- organized manner",
+    "Delivered information in small chunks",
+    "Illustrated points with examples/analogies",
+    "Generalized from single case to patterns/models",
+    "Gave specific positivefeedback",
+    "Gave specific correctivefeedback",
+    "Discussed steps as you aredemonstrating them",
+    "Demonstrated sensitivitytoward patient"
+  ],
+  "PBLI": [
+    "Assessed learner's self-perceived learning needs",
+    "Asked effective questions to probe learner'sknowledge",
+    "Explored learner'sattitudes about this task",
+    "Asked learner to self-assess learning needs",
+    "Observed learnerdemonstrate how to do theprocedure",
+    "Identified learningobjectives",
+    "Summarized learningexperience",
+    "Asked learner to talkthrough procedure",
+    "Observed learner do an LP",
+    "Asked learner to self-reflect on new skill",
+    "Assessed if learningobjectives met"
+  ],
+  "PROF": []
+}

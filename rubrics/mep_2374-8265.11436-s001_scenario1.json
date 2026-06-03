@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11436-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11436-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Active listening requires you to listen to the feedback in order to process it. ACTIVE LISTENING IS THE ONLY WAY YOU WILL BE ABLE TO IDENTIFY THE IMPACT OF YOUR BEHAVIOR VERSUS YOUR INTENT.",
+    "Minimize all of your external (phone, computer, other people) and internal distractions. Validate what the other person is saying with gestures and words (Mmm...hmmm, I see, I hear you).",
+    "Avoid interrupting their voice; wait until they are finished talking to have your turn.",
+    "Make sure you summarize, paraphrase, restate impact, and ask clarifying questions without re-playing the scene.",
+    "Offer to follow up with that person. If they want to have another conversation with you, make yourself available. If not, offer them your contact information.",
+    "Remember that the follow up is not for you or to ask the learner to educate you on your mistakes. It is to follow up on how they are feeling and whether or not there will be difficulty in building trust in your relationship in the future.",
+    "DO NOT keep talking about your guilt or stating that you aren’t racist or biased or defending yourself. In general, replace your defensiveness with genuine curiosity and empathy"
+  ],
+  "PBLI": [
+    "Additionally, the learner should not educate you on the problem or the historical context, this is up to you to read about and discover on your own"
+  ],
+  "PROF": [
+    "Pause to breathe and internally reflect upon your own feelings before responding verbally to any sort of feedback. What are you feeling? Disappointed? Sad? Angry? Embarrassed? Scared? Nervous? Frazzled? Defensive?",
+    "You need to find your own emotional self before engaging in an apology. Understand where your thoughts and feelings are, process them, and then move on to the topic of importance-- the learner-- which is the person upon whom this conversation is centered.",
+    "The apology must be genuine and must, again, be accountable to your own actions.",
+    "This is about the impact you had on somebody else and the possible harm you inflicted on another being. Whether or not you meant it does not matter. Keep it about the impact on the learner, not about what you wanted to message or hoped to come across."
+  ]
+}

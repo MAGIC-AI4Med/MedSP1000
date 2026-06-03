@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_10394",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10394/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "UTI - Continue IV ceftriaxone 50mg/kg q24 hours pending culture speciation and sensitivities - Will order renal ultrasound.",
+    "Fever - Has not had a fever since admission. Tylenol 15mg/kg q4-6hrs prn for fever.",
+    "Vomiting/FEN - No emesis since admission. Tolerating oral intake - PO ad lib Similac Advance per home regimen"
+  ],
+  "MK": [
+    "Given his urinalysis and urine culture results, most likely etiology is a urinary tract infection.",
+    "However other causes of fever and vomiting include otitis media, pneumonia, early gastroenteritis or viral illness, though these are not supported by history or physical exam findings.",
+    "With a urine culture growing gram negative rods, E. coli is a likely pathogen."
+  ],
+  "SBP": [
+    "Disposition: Will require inpatient care until conditions for discharge met: 1) work up complete, 2) tolerating oral antibiotics, 3) adequate follow up arranged, and 4) family/team comfortable with plan and discharge."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

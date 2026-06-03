@@ -1,0 +1,17 @@
+{
+  "case_id": "mededportal_9383",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9383/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Explain the indications/risks/benefits of a central line insertion (PC, ICS)",
+    "Demonstrate the Teach Back technique (ICS)"
+  ],
+  "PBLI": [
+    "Incorporate feedback from standardized patients into practice (PBLI)"
+  ],
+  "PROF": []
+}

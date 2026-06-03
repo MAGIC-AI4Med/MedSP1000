@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11139-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11139-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Appropriately treat the patient with a non-rebreather",
+    "Obtain key labs: arterial blood gas, lactate, complete blood counts, type and screen",
+    "Obtain a portal chest radiograph and EKG",
+    "Re-assess patient, recognize hypoxia is worsening and consider non-invasive ventilation vs intubation",
+    "Order antibiotics, describe need for coverage of atypical organisms",
+    "Recognize need for blood transfusion (simple vs exchange transfusion; exchange will require hemodialysis catheter)",
+    "Consider fluid balance, consider Lasix with transfusion"
+  ],
+  "MK": [
+    "Describe an appropriate differential diagnosis for respiratory compromise",
+    "Diagnose acute chest syndrome"
+  ],
+  "SBP": [
+    "Describe need for an Intensive Care Unit consult and hematology consult"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

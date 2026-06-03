@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario17",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario17",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Attempt to arrange alternate time for family meeting – ideally, during working hours for the day time."
+  ],
+  "ICS": [
+    "Define your role as cross cover to the nursing staff.",
+    "Agree to speak with the family briefly"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

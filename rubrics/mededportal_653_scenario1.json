@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_653",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_653/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Does he need any more tests? Yes, he needs follow-up blood tests at age 9 months."
+  ],
+  "MK": [
+    "What is the meaning of the abnormal test my baby had? (it means he probably has a form of alpha-thalassemia.)",
+    "What is alpha-thalassemia?(A genetic problem with producing red blood cells that ranges from completely asymptomatic, like your baby, to severe life threatening anemia, which your baby does not have.)",
+    "Will he have any medical problems as a result of this? (Probably not. He may have mild anemia with small red blood cells, depending on the results of testing that cannot be done until he is 9-12 months old. If he has mild anemia, the most important thing is for him to tell his doctor that he has a form of alpha thalassemia to avoid unnecessary iron dosing for presumed iron deficiency anemia)",
+    "Why can’t we get  Micah’s follow-up testing done now? Babies make a certain kind of hemoglobin when they are inside the mother that changes over to normal adult hemoglobin during the first year of life, then stays the same for the rest of their life. We have to wait for Micah’s bone marrow to complete this change over to the adult pattern to see which form of alpha thalassemia he may have."
+  ],
+  "SBP": [
+    "Could I have another baby with this problem or with worse problems? Yes. If this infant has thalassemia genes, with a history of Dad’s Asian heritage, it could be possible to have an infant with more significant anemia. If alpha thalassemia is confirmed, testing of mom and dad if indicated to ensure there are no more abnormal hemoglobin genes. Micah himself also needs to pursue genetic counseling prior to procreating, to prevent a more severe form of alpha-thalassemia in his offspring."
+  ],
+  "ICS": [
+    "You will then explain the diagnosis and its significance to an SP posing as the parent of this child."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

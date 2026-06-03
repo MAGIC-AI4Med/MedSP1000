@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.11390-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11390-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Gather appropriate airway supplies.",
+    "Preoxygenate patient.",
+    "Perform endotracheal intubation.",
+    "Complete primary survey per ATLS guidelines, goal within 5 minutes.",
+    "Utilize log roll as part of Exposure in penetrating trauma to identify all wounds.",
+    "Utilize bullet markers and x-ray adjuncts to identify the location and trajectory of penetrating wounds/foreign bodies.",
+    "Perform secondary survey per ATLS guidelines after stabilization of primary."
+  ],
+  "MK": [
+    "Identify hemorrhagic shock and start blood products, ideally 10 ml/kg of plasma for volume expansion, or pRBC 10 ml/kg if plasma not available. Continue 1:1:1 transfusion of products as indicated.",
+    "Identify low GCS and need for intubation for airway protection. Utilize etomidate for sedation in trauma for maintaining normotension."
+  ],
+  "SBP": [
+    "Pre-arrival: Activate Code 1 trauma, assign roles, prepare equipment.",
+    "Disposition - Get to the Operating Room as fast as possible. Minutes matter."
+  ],
+  "ICS": [
+    "Mental model of clinical summary, interventions, and next steps after each intervention.",
+    "Summarize disposition and hand-off to trauma surgery team.",
+    "Closed-loop communication between team members and team lead."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

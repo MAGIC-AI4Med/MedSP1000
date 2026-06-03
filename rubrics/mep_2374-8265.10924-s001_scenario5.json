@@ -1,0 +1,34 @@
+{
+  "case_id": "mep_2374-8265.10924-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10924-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for intravenous (IV) access, to have patient placed on monitor, call for nasal cannula",
+    "Ask for vital signs",
+    "Manage PEA arrest per Advance Cardiovascular Life Support (ACLS) protocols",
+    "Perform CPR in 2-minute cycles with pulse/rhythm checks in between",
+    "Give intravenous epinephrine (1mg 1:10,000) every 3-5 minutes.",
+    "Manage Vifb arrest per ACLS protocols",
+    "Ask for defibrillator and defibrillate patient",
+    "Continue CPR with pulse and rhythm checks every 2 minutes",
+    "Give 1mg of (1:10,000) epinephrine every 3-5 minutes",
+    "Manage stable SVT per ACLS protocols",
+    "Consider vagal maneuvers (these may include carotid sinus massage, Valsalva maneuver)",
+    "Consider adenosine 6 mg intravenous.  May give second dose at 12 mg.",
+    "Discuss possible post-cardiac arrest care:This may include 12-lead EKG; lab work such as troponin, BMP, CBC; consider definitive airway such as intubation if patient was not neuro-intact"
+  ],
+  "MK": [
+    "Recognize pulseless electrical activity (PEA)",
+    "Discuss reversible causes of PEA arrest:These can include Hypoxia, Acidosis, Hyperkalemia, Hypokalemia, Hypothermia, Tamponade, Tension pneumothorax, Coronary or pulmonary thrombosis, Toxins",
+    "Recognize Vfib arrest.",
+    "Recognize stable SVT"
+  ],
+  "SBP": [],
+  "ICS": [
+    "The learner will take lead and assign clear roles",
+    "Ask for help"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

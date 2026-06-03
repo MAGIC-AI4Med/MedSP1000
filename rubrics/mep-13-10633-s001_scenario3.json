@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-13-10633-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10633-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "BONUS: Fix the patient’s mask. Don’t increase the pressure."
+  ],
+  "MK": [
+    "Adherence is poor.",
+    "AHl is above goal of 5. To find an etiology: Look for leak first (acceptable is $\\cdot$ L/min for nasal mask and $\\mathtt { < } 3 0$ for oronasal). Then look at central vs obstructive indices."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

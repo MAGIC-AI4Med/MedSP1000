@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.10995-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10995-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Correctly identify dangerous bleeding",
+    "Transition from manual to electric suction for uterine evacuation in the setting of ongoing bleeding",
+    "Evaluate uterine bleeding using ultrasound",
+    "Perform uterine massage",
+    "Administer uterotonics, recognizing contraindications\nMethylergonovine contraindicated in patients with hypertension\nCarboprost contraindicated in patients with asthma",
+    "Perform cervical evaluation to evaluate for laceration\nask for additional instruments for proper evaluation of the cervix",
+    "Recognize worsening vital signs: tachycardia, hypotension",
+    "Place Foley catheter for tamponade"
+  ],
+  "MK": [
+    "Evaluate the most common etiologies of hemorrhage\nAtony (Tone)\nRetained products of conception (Tissue)\nCervical laceration (Trauma)\nUterine perforation (Trauma)\nCoagulopathy (Thrombin)"
+  ],
+  "SBP": [
+    "Recognize need for escalation of care and transfer to operating room (OR)",
+    "Call OR staff to coordinate transfer to OR",
+    "Call fellow residents to coordinate transfer to OR and any attending level backup required",
+    "Transfer patient to the OR\nTransfer patient to stretcher\nConnect patient to supplemental oxygen and cardiac monitoring\nBring stretcher to OR"
+  ],
+  "ICS": [
+    "Communicate with anesthesia to draw and order labs (CBC, PTT, INR, Fibrinogen, Type and Cross)",
+    "Communicate with staff to draw and order labs (CBC, PTT, INR, Fibrinogen, Type and Cross)",
+    "Demonstrate effective communication skills and workflow management with co-residents, anesthesia, nursing, medical assistant, and operating room colleagues"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

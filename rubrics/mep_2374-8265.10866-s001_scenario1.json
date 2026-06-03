@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.10866-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10866-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Triage: This requires urgent evaluation. You\u2019ll call the nurse back while starting to walk over to the room. Information you want includes: brief description of symptoms, full set of vital signs (red flags: tachy/brady, hypoxia, hypotension, extreme hypertension). Vitals should be collected now (don\u2019t rely on set of vitals taken an hour, or even fifteen minutes, ago).",
+    "Diagnostics: Obtain a full 12-lead EKG. You can ask the nurse to get this while you\u2019re heading to the room.",
+    "SL nitroglycerin 0.4mg tab x 1, q5min up to three times; do not use if PDE inhibitors, RV infarct, severe AS (Can give range from 0.15 \u2013 0.6 mg depending on clinical context, but start with 0.4, and smaller doses can be logistically challenging depending on what\u2019s available on the floor)",
+    "If partial pain relief and blood pressure stable, can consider nitroglycerin gtt starting at 5-10 mcg/min with titration to goal chest pain free as BPs tolerate (Again, avoid if: PDE inhibitors, RV infarct, severe AS)",
+    "Morphine 1-4mg IV if persistent angina despite therapies above: caution as may simply mask ongoing ischemia and trials associating morphine use with worse outcomes.6 Morphine is also associated with delayed activity of oral antiplatelet agents.7",
+    "Symptoms: Increase nitroglycerin gtt as BP allows for chest pain. Monitor for symptoms of heart failure.",
+    "Vital signs: Up titrate metoprolol with goal HR 55-60 as BP tolerates. Watch for signs of heart failure or shock.",
+    "Telemetry and EKGs: Watch for sustained arrhythmias and repeat serial EKGs if any changes in symptoms or monitoring parameters.",
+    "Labs: Reorder biomarkers for 3 hours after initial labs drawn (should automatically populate when you order troponin)"
+  ],
+  "MK": [
+    "Indications for immediate cardiac catheterization in non-STEMI ACS\nRefractory chest pain\nCardiogenic shock/hemodynamic instability\nNew heart failure or severe LV dysfunction\nNew or worsening MR, or new VSD\nSustained ventricular arrhythmias"
+  ],
+  "SBP": [
+    "IV access: Ask RN to page IV nurse if inadequate IV access (e.g. fewer than 2 PIVs)",
+    "If the patient develops any of these signs or symptoms, you should call the cath lab.",
+    "If the patient has any of the above signs or symptoms you should call the cath lab urgently overnight"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "mep_2374-8265.11047-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11047-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Ensure that the patient’s camera setup and positioning are optimal for physical exam, including space for them to maneuver to show the camera different aspects of the physical exam",
+    "Anticipate physical exam requirements, including positioning or uncovering certain body areas while maintaining modesty and in a manner appropriate for video platform",
+    "Ensure that patient is in a comfortable position, which may be sitting, standing or laying",
+    "Ask patient to move further away or closer to camera depending on area being examined",
+    "Begin by assessing patient’s general appearance: ill-appearing or non-toxic?",
+    "Move onto assessing vital signs that can be obtained – be explicit in instructing patient how to do each of the following\n  + Have patient check their own pulse. Have patient feel for their radial pulse and count how many beats while you time them for a given duration\n  + While they are sitting in silence checking pulse, count their respiratory rate. Make sure that you have a good view on camera of patient’s chest rise.\n  + If patient has a home thermometer, ask them to check their temperature\n  + If patient has a home blood pressure machine, ask them to check their BP\n  + If patient has a home pulse oximeter, ask them to check their O2 saturation\n  + If patient has a home glucometer, depending on the scenario you may choose to ask them to check a blood glucose",
+    "Move onto visually inspecting patient patient (use of each of the below may depend on scenario and history obtained – this discussion may be more targeted than last)\n  + HEENT: Check head for gross abnormalities, look to see if tongue is dry or moist\n  + Neck: assess to see its supple\n  + Lungs: Look for signs of increased respiratory effort\n  + Heart: Assessing capillary refill in digits maybe good surrogate for overall cardiovascular status\n  + Abdomen: note if abdominal distension. Have patient point to exact area of pain. Have patient try to press on different parts of the abdomen (describe four quadrants and suprapubic region) while lying down to see if it elicits tenderness. Coach the patient through assessment for rebound or murphy’s sign\n  + GU: assess costovertebral angle tenderness to palpation (you may have to demonstrate how to do this). If pertinent, patient may perform their own GU exam OFF camera and report findings\n  + Extremities: Look for leg edema or erythema and care. Compare both legs in same visual inspection\n  + Skin: assess areas of rash",
+    "Make recommendations for treatment which may vary from conservative management, to new medications, to presenting urgently to the closest emergency department\n  + Consider having patient perform a pregnancy test at home if applicable",
+    "MANAGEMENT OR DIAGNOSITIC PLAN | Patient should be brought to hospital for re-evaluations and treatment for her pyelonephritis. Pregnancy test should be considered in all women of childbearing age, however not necessary in this case given 9 years post-menopause and 55 years old. Patient is at higher risk of infection and negative sequelae due to underlying diabetes. Imaging may be warranted to evaluate for obstructing kidney stones, though unlikely. Alternative, a urine culture can be dropped off at a private lab company that is able to communicate with the provider and the patient given strict follow-up instructions if worsening."
+  ],
+  "MK": [
+    "Diagnosis with support from positive and negative history and PE findings | Pyelonephritis – urinary frequency, dysuria, chills, costovertebral angle tenderness to palpation",
+    "Differential with support from positive and negative history and PE findings | Cystitis – urinary frequency, prior UTI  Musculoskeletal pain – back pain, no history of trauma or strain, no muscular tenderness on palpation  Nephrolithiasis – not colicky, no hematuria, costovertebral angle tenderness, no history to correlate with stone"
+  ],
+  "SBP": [
+    "When having the patient present to the hospital, need understand how the patient will be transported and if there are any social concerns that may hinder this process, such as childcare or work-related absences"
+  ],
+  "ICS": [
+    "Continue to utilize and expand upon points learned from prior debriefs:\n  + Maintain proper eye contact with the camera and thus patient throughout\n  + Obtain a detailed medical, surgical, social, and family history\n  + Communicate with appropriate volume and cadence\n  + Use hand gestures when appropriate in slow, visible fashion\n  + Use facial expressions, smile throughout, appear engaged throughout session",
+    "Provide initial overview to the patient of the physical exam to be performed",
+    "Explain to patient the limitations of this video-based physical exam",
+    "Ensure that the patient is comfortable with what will be occurring in the physical exam",
+    "Summarize to the patient the findings of your history and physical exam, including the things that you feel may be important but you were not able to assess",
+    "Discuss the differential diagnosis in appropriate terms for the patient to understand"
+  ],
+  "PBLI": [
+    "Continue to utilize and expand upon points from prior debrief sessions:\n  + Including proper room setup\n  + Lighting\n  + Background color\n  + Camera height\n  + Minimizing external noise"
+  ],
+  "PROF": [
+    "Reassure patient that they may terminate the tele-exam at any time",
+    "If the physical exam is limited, try to readjust and be creative in getting the needed information while maintaining a professional demeanor. Recognize that the patient is trying their best and you two are on the same team in terms of getting the needed information.\n  + Avoid deep sighs or physical gestures that might convey frustration in this process\n  + Verbalize any limitations in your physical exam, particularly if pertinent to final disposition planning, so that the patient is informed as to how this influences your recommendations"
+  ]
+}

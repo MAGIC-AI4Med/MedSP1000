@@ -1,0 +1,33 @@
+{
+  "case_id": "mep-12-10420-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10420-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "All parts of the history must be elicited by the group of participants.",
+    "Participant asked patient (simulator) to empty bladder if needed, remove clothing from waist down, and sit on table with drape on lap.",
+    "Participant arranged room with table/chair at appropriate height and supplies easily accessible: light source, gloves, appropriate size speculum, spatula/cervical brush or combined broom, ThinprepTM, lubricant, and additional swabs as clinically appropriate.",
+    "Participant washed hands and donned gloves.",
+    "Participant inspected and palpated external genitalia for any abnormalities.",
+    "Participant separated labial folds with non-dominant hand, identified external vagina, held a lubricated speculum in dominant hand with closed blades between 2nd and 3rd fingers, and inserted it into vagina with handle at an angle that causes the least discomfort possible given the patient’s unique anatomy (30 to 90-degrees), rotating the handle to perpendicular position with insertion.",
+    "Participant identified cervix and positioned os in middle of visual field.",
+    "Participant obtained sample with spatula/brush or combined broom, placed them into ThinprepTM, twirled implements to release cells, and discarded them before closing the container.",
+    "Participant obtained additional swabs and cultures as clinically appropriate. If performed, vaginitis swab should be taken from vaginal wall and gonorrhea/chlamydia swab should be taken from cervix.",
+    "Participant closed speculum and removed it while rotating the handle to position assumed on insertion (i.e. handle parallel to floor and held in dominant hand with blades between 2nd and 3rd fingers).",
+    "Participant performed a bimanual exam by placing lubricated 2nd and 3rd finger of dominant hand into vagina to palpate cervix and vaginal fornices while non dominant hand palpated abdomen externally for the uterus and adnexa.",
+    "Wet mount performed and/or vaginitis panel probe for Candida, bacterial vaginosis, and trichomonas should be obtained, if available and diagnosis unclear. Pap smear and GC/Chlamydia probe sent for healthcare maintenance. Consider fluconazole 150 mg orally once or topical miconazole for empiric treatment. Counsel on importance of consistent condom use."
+  ],
+  "MK": [
+    "The differential diagnosis should include diseases such as Candida, Bacterial Vaginosis, Trichomonas, Gonorrhea, Chlamydia, and functional vaginal discharge."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Participants will limit jargon when interacting with the patient.",
+    "Participant carefully explained what he/she was doing and why.",
+    "Participant assisted with patient (simulator) with assuming position while limiting discomfort by guiding legs into stirrups, instructing her to move as close to the edge of the table as possible, and adjusting the drape for modesty.",
+    "Participant relayed findings of the exam to patient (simulator).",
+    "Participant asked patient (simulator) if she had any questions/concerns."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

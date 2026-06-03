@@ -1,0 +1,33 @@
+{
+  "case_id": "mep-14-10774-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10774-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "A: assessment - what could be driving their undesired behavior? (\u201cwhat was the reason for the many interruptions today?\u201d) - you will not know the reason until you ask \u2013 many times the true reason for their behavior may surprise you!",
+    "Addressing the behavior in the moment during a didactic session is likely to be counterproductive with this type of learner problem",
+    "Diagnose accurately. Directly discuss your concerns with the resident and ask if they share your concerns about their substance use."
+  ],
+  "SBP": [
+    "Patient safety\nCan the resident safely continue to practice medicine? Are restrictions needed?\nDepending on level of problem, may be important to alert the resident that some level of reporting (faculty, institution, licensing body) may be necessary, but that confidentiality will be maintained where possible.",
+    "Advocate. Offer resources that may be helpful\nConsider involving chief residents and/or residency leadership team in creating solutions that may aid this resident in their substance abuse recovery - change in block schedule, time off, etc.",
+    "Use external support. If your hospital/GME office offers dedicated substance abuse sessions/resources for residents, offer a referral to these. Consult with the GME office regarding best practices/previous experience. Consider offering resources within the community as well.",
+    "Targeted Mentorship. If there are faculty in the department or within the institution who have overcome substance abuse, these may be helpful points of contact during recovery.",
+    "Do you tell the program director or CCC chair about difficult behavior in your didactic?\nIn general, the answer should be \u201cyes\u201d.\nThe PD (and maybe the CCC) need to know if patterns of behavior are emerging for any one resident - they are uniquely positioned to have this perspective.\nIf this is an isolated incident, they will likely not do anything further with the information.\nIf this is a pattern of behavior, or is an egregious act, the resident may need some more dedicated coaching from the program."
+  ],
+  "ICS": [
+    "O: objective - what exactly did they do that made you feel that way? (focus on specific actions, behaviors, such as \u201cI noticed you interrupted me 5 times during that session\u201d)",
+    "Begin with \u201cI\u2019m on your side.\u201d Emphasize motivation to help them improve. Often, this starts well before the conversation begins and extends to your entire relationship with the resident",
+    "Inquiry is telling the learner your concerns about it and asking for their thoughts.",
+    "Co-create a plan for future improvement. Have the learner first suggest ways they think they could improve their behavior. Modify the plan as needed. Learners are more likely to be successful if they came up with the solution.",
+    "Empathize. Reassure learner that substance abuse is common, and resources and support are available to help with recovery.",
+    "Create alliance. Let the learner know that they have the support of the program and that other members of the department will step up in their time of need.",
+    "Personal wellness.\nWhat are the root causes of this behavior? Personal stress? A bad case at work?\nWhat are the exacerbating factors? Toxic relationships? Family history?\nWhat are the residents supporting factors? Friends, family? Pets?\nWhat resources have they already tried to access to help?",
+    "If it is a personal issue (sick family member, etc), I encourage the learner to tell their PD, and offer to support them in any way they would like."
+  ],
+  "PBLI": [
+    "Use accountability and implementation intentions."
+  ],
+  "PROF": []
+}

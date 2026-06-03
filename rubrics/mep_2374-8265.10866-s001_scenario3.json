@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.10866-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10866-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "You decide to start LR at 250cc/hour, hydromorphone IV 0.4-0.8mg q4hrs prn pain, and to make her NPO.",
+    "*Oral feeding for mild pancreatitis is safe to start when patients are symptom free. The active desire to eat from patients is also a good indicator. In general, early feeding is preferred and nasojejunal is better than TPN if possible.*28",
+    "*Enteral feeding is considered in sick patients requiring ICU stay and usually in more severe pancreatitis where feeding cannot be achieved within 5-7 days.* *Enteral nutrition through a nasojejunal tube placed endoscopically or radiologically rather than initiating parenteral nutrition is preferred.*"
+  ],
+  "MK": [
+    "***Need 2 of the 3 below to make a diagnosis:***\n1. *Characteristic abdominal pain (epigastric pain, radiating to back, acute)*\n2. *Elevation in lipase or amylase > 3 times the upper limit of normal*\n3. *Characteristic findings on CT imaging*",
+    "1. **What are the etiologies of acute pancreatitis? Why do you think Ms. Rose has pancreatitis?**\n2. ***Gallstones***\n3. ***Alcohol***\n*3) Hypertriglyceridemia*\n*4) Trauma (Post- ERCP, blunt abdominal injury)*\n*5) Hypercalcemia*\n*6) Drugs (thiazides, AZT, valproic acid, calcium, estrogen, metronidazole. L-asparaginase, THC)*\n*7) Infections (viruses (mumps, coxsackie, HBV, CMV, HSV)*\n*8) Vascular (ischemia/vasculitis)*\n*9) Genetic (alpha 1 AT deficiency)*\n*10) Idiopathic*",
+    "You decide that Ms. Rose has mild severity pancreatitis."
+  ],
+  "SBP": [
+    "*Cholecystectomy should be performed after recovery in all patients with gallstone pancreatitis. In patients who have had mild pancreatitis, cholecystectomy can usually be performed safely within seven days after recovery and in the same index hospitalization. In cases of severe necrotizing pancreatitis, cholecystectomy should be delayed until active inflammation subsides, and fluid collections resolve or stabilize.*"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

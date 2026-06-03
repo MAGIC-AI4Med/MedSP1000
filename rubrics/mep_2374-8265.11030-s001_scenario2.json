@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.11030-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11030-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Over-the-counter cough and cold medicine is not recommended for kids 4 and under.",
+    "If your child has a stuffy or runny nose, the mucus running down the throat could be causing some of the coughing. A saline nasal spray and frequent nose blowing (instead of sniffling) can help."
+  ],
+  "MK": [
+    "Research has shown these products offer little benefit to young children and can have potentially serious side effects. Many cough and cold products for children have more than one ingredient, increasing the chance of accidental overdose if combined with another product.",
+    "Most of the time symptoms are caused by a virus. Medications cannot cure viruses. Symptoms usually resolve in 4-5 days."
+  ],
+  "SBP": [
+    "Cost- Most cough syrups do not cost a lot. But money spent on medicines that are not needed is money wasted."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

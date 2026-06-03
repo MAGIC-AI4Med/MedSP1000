@@ -1,0 +1,46 @@
+{
+  "case_id": "mededportal_8143",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8143/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtained history",
+    "Assessed airway",
+    "Intervened appropriately if airway inadequate",
+    "Utilized appropriate technique for BVM if needed",
+    "Utilized appropriate technique for intubation if required",
+    "Assessed by auscultation",
+    "Intervened appropriately if abnormalities noted",
+    "Performed needle decompression",
+    "Assessed pulses",
+    "Intervened appropriately for abnormal rhythm (Compressions, medications, defibrillation)",
+    "Assessed of perfusion",
+    "Intervened appropriately if abnormal perfusion",
+    "Established vascular access successfully if required",
+    "Assessed pupils",
+    "Assessed fontanelle",
+    "Assessed mental status",
+    "Completed secondary survey",
+    "Requested appropriate lab studies",
+    "Requested appropriate imaging studies",
+    "Participants will recognize apnea and prepare to intubate."
+  ],
+  "MK": [
+    "Recognized abnormalities accurately",
+    "Identified rhythm appropriately",
+    "Able to list causes of respiratory decompensation pre intubation",
+    "Able to list causes of respiratory decompensation post intubation",
+    "Participants will consider whether or not rapid sequence medications are needed and verbalize what medications might be used (choice may vary by institution, Fentanyl, Midazolam, with consideration of Atropine and a paralytic like Vecuronium would be our suggested choice)."
+  ],
+  "SBP": [
+    "Recognized emergency, obtained help",
+    "Gave appropriate handoff for further care"
+  ],
+  "ICS": [
+    "Identified team leader",
+    "Clear instructions given to team, closed loop",
+    "Leadership skills displayed"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

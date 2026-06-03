@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11384-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11384-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Prepare the room and patient appropriately for the sedation",
+    "Administer correct doses of propofol",
+    "Recognize and appropriately manage apnea with airway repositioning and BVM ventilation",
+    "Recognize and appropriately manage hypotension with a 20 cc/kg NS bolus",
+    "Consider administration of 20 mg of IV lidocaine 1% without epinephrine immediately before propofol to reduce injection-associated pain"
+  ],
+  "MK": [
+    "Determine if patient is appropriate for ED sedation",
+    "Explain why not to give an IV opiate with propofol (airway loss, hypotension, etc.)"
+  ],
+  "SBP": [
+    "Perform a pre-sedation “time out” with RN, guardian and procedure performing physician present"
+  ],
+  "ICS": [
+    "Obtain verbal consent from the guardian/parent of the patient",
+    "Learner should explain events to mother and patient including: 1. Apnea requiring BVM 2. Hypotension requiring fluids"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

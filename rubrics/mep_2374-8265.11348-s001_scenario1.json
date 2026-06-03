@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11348-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11348-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "**Diet Instructions:**   * Diabetic Diet * Diabetes Educator",
+    "**Activity Instructions:**   * Activity as Tolerated",
+    "**Wounds Instructions:**     * PCI site-7 days old-no special instructions",
+    "**Medication Instructions:**  Insulin Specific:   * dose * side effects * red flags * who to call and when * when to seek emergent treatment; * Hypoglycemia counseling * blood glucose log * how to administer and check blood glucose"
+  ],
+  "MK": [],
+  "SBP": [
+    "**PCP:**   * Proximity to Appts.   (resides greater than 2 hours away)   * Transportation * PCP Obtained * Visit Scheduled Prior to Discharge * Describing discharge plan of care to patient and lay caregiver * Geographic Proximity to Follow up clinics",
+    "**Specialist(s):**   * Cardiology",
+    "**Wound/Medication Supplies:**   * Testing Strips * Lancets",
+    "**Durable Medical Equipment:**     * Glucometer * Diabetic testing supplies",
+    "**Unique Patient Needs:**   * lives alone * new medications * limited access to grocery store",
+    "**Medication Obtainment:** * Medication affordable? * Is a Prior-Authorization Needed? (potentially for Insulin/Ticagrelor; diabetic supplies * Can patient obtain medications at a local pharmacy in the future?"
+  ],
+  "ICS": [
+    "**Reason for Hospitalization:** Review of:   * new diagnoses * procedure(s) * labs * acute * brief review of chronic follow-up needs, etc.",
+    "**Red Flags** and **Hospital Point of Contact for Questions:**  Hypoglycemia:   * sweating * feeling hungry * passing out, etc.   Hyperglycemia:   * very thirsty * drinking a lot   **Contact**:   * Transition Team member or PCP, or DC service)",
+    "**Lay Care Giver Point of Contact for Questions:**"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

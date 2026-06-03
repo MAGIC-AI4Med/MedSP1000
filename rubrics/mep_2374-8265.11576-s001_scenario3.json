@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.11576-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11576-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Intern has patient sign consent form."
+  ],
+  "ICS": [
+    "Introduces themselves & identifies their role as cross-cover provider.",
+    "Intern discusses the anemia due to GI blood loss and recommendation for blood transfusion.",
+    "Intern discusses the risk of blood transfusion  a. Allergic reaction  b. Infection transmission  c. Other (e.g., TACO, TRALI, fever, etc.)",
+    "Intern discusses benefits of transfusion (ex: oxygen delivery, function of organs, etc)",
+    "Intern discusses no transfusion as an option, and what the plan would be.",
+    "Intern discusses alternates to transfusion (e.g. fluids, IV iron)",
+    "Intern checks for understanding from the patient. Asks if they have questions."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

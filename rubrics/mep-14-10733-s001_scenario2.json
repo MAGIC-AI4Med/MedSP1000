@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-14-10733-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10733-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Greeting and introduction: Resident introduced self and the team, and explained the purpose of patient and family centered rounds, if appropriate (i.e. first rounding experience for patient and family).  Greeted family member(s) by name, and requested their preference for participation.  Understood and honored patient and family’s preference for inclusion in rounds.",
+    "Physical inclusion of family members into rounds: Resident minimized distractions, made eye contact with the family member(s), and consistently engaged with patient/family member(s) to keep them in rounding circle.",
+    "Set agenda: With the team, the Resident asked family members about questions/concerns, and used family member(s)’ responses to set the agenda of rounding session.",
+    "Invite family members to participate: Resident invited family member(s) to ask questions and share information. If the family member(s) asked questions or for clarification, the Resident addressed family member(s)’ questions or indicated a plan to address questions that could not be answered during rounds.",
+    "Involve family member(s) in decision-making process: Resident engaged family member(s) by asking for their input about care/discharge plan and considered their input fully, changing course of care to reflect family member(s)’ input when appropriate.",
+    "Did parent involvement change care plan? (please circle)",
+    "Check-back/closure: Resident ensured family understood care plan and decision making, checked to see if all of questions/concerns were addressed, and left only when all family members(s)’ questions/concerns were addressed (or made an appropriate plan to return later)."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-12-10451-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10451-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "List the problems: Ask partner to list subjective and objective problems from this case a. SUBJECTIVE: feeling on edge, racing heart with chest tightness, perioral tingling, air huger, tremors, decreased occupational functioning, frequent visits to the bar b. OBJECTIVE: hyperreflexia, elevated AST, ALT (1:1 ratio)",
+    "What is the problem representation (restatement of problem list)?\n\na. This is a 24 year old white unemployed male with 4 month history of anxiety and panic symptoms, racing heart, possible tremors and frequenting bars, noted with elevation in liver associated enzymes.",
+    "Differential Diagnosis: Explicitly provide the following anchors and ask your partner for common, deadly and exotic differentials. Provide immediate feedback and move through several of these.\n\na. ANCHOR- Panic Attacks: i. Common: Panic disorder, Anxiety disorders ii. Deadly: Pulmonary embolism iii. Exotic: Metabolic (hyperthyroidism, Cushing\u2019s, Pheochromocytoma)\n\nb. ANCHOR- Racing Heart:\n\ni. Common: anxiety, substance intoxication or withdrawals ii. Deadly: arrhythmia iii. Exotic: hyperthyroidism, pheochromocytoma\n\nc. ANCHOR- Tremor:\n\ni. Common: benign tremors, substance induced ii. Deadly: alcohol withdrawal iii. Exotic: hyperthyroidism\n\nd. ANCHOR- Elevated Liver associated Enzymes:\n\ni. Common: drugs, steatohepatitis   \nii. Deadly: infection, alcoholism   \niii. Exotic: Wilson\u2019s disease, Metabolic disease (hyperthyroidism)"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [
+    "List at-risk cognitive biases while working on this case? Could your partner provide examples?\n\na. Anchoring Bias   \nb. Fundamental Attribution Error   \nc. Ascertainment bias   \nd. Unpacking bias   \ne. Framing effect",
+    "Use one of the at-risk bias and walk thru the card and come up with 2-3 strategies to reduce those biases:"
+  ],
+  "PROF": []
+}

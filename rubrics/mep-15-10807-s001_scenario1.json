@@ -1,0 +1,34 @@
+{
+  "case_id": "mep-15-10807-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10807-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Resident asked if we could discuss smoking/referral to the Quitline.",
+    "Resident provided information about smoking and/or the Quitline.",
+    "Resident asked me about my smoking and what my triggers are. (If smoking habits are addressed but triggers are not, give credit and make a comment in the comment box**.)**",
+    "Resident encouraged me to talk about what would be the positive and negative aspects of quitting smoking (Your motivation or lack of motivation).",
+    "Resident asked me how I felt about accepting referral to the Quitline.",
+    "Resident was empathetic (they gave me reflective statements, for example, “you cut down while you were pregnant, that must have been hard?”).",
+    "Resident summarized at the end? (This should be specific to your motivation to quit.)",
+    "The examinee greeted me appropriately.   a. The examinee introduces him/her self  b. The examinee explained his/her role  c. The examinee addressed me by name",
+    "Expressed interest in me as a person.   a. Showed interest in me as a “person”, not just my issue/concern  b. Explored my reaction to the illness or problem/impact on my life",
+    "The examinee listened and paid attention to me.   a. Non-verbal expression of interest: (body language, nodding, eye contact)  b. Note-taking was balanced with conversation and eye contact  c. The examines did not talk down to me  d. The examinee summarized information and/or repeated information given  by me during the encounter",
+    "The examinee encouraged me to tell my story.   a. History was collected in an organized fashion  b. Used words I could understand and explained any technical terms in plain language  c. The examinee asked a combination of open-ended questions and focused questions  d. The examinee did not unnecessarily interrupt me",
+    "The examinee included me in the decision making.   a. Elicited my perspective on the issue at hand  b. Encouraged questions: asked if I had any questions or concerns  c. Explored my concerns about willingness/ability to accomplish the follow-up plan",
+    "The examinee was emotionally supportive.   a. Statements of empathy and/or support were expressed  b. The examinee validated my concerns/emotions  c. Non-verbal expression of concern/empathy (for example: nodding, facial expression, eye  contact)",
+    "I would return to the examinee for future care.",
+    "Supported you for cutting down (not been judgmental because you didn’t fully quit).",
+    "Assessed your readiness to quit (on a scale from 1 – 10).",
+    "Explain some of the impact of second hand and third hand smoke for children, including asthma, pneumonia, sudden infant death syndrome, ear infections, hospitalization, respiratory infections.",
+    "If you refuse referral, the trainee should leave the conversation open to restarting at a later time."
+  ],
+  "PBLI": [
+    "What do you think went well during the patient interview?",
+    "What would you have done differently?"
+  ],
+  "PROF": []
+}

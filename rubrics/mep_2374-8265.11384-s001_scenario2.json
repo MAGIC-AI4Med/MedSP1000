@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11384-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11384-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Confirm the patient is appropriate for ED sedation\nObtain a pre-sedation history\nPerform a pre-sedation physical exam\nAssign an ASA classification",
+    "Confirm the room and patient are ready for sedation\nDouble check equipment is available including appropriately sized BVM, pulse oximeter, capnography, cardiac monitoring, and suction",
+    "Administer correct doses of Ketamine",
+    "Recognize and appropriately manage laryngospasm with:\nVigorous airway repositioning with BVM\nLaryngospasm notch pressure with jaw thrust (Larson’s maneuver)\nAdministration of succinylcholine 1 mg/kg IV\nContinued BVM ventilation until the patient has spontaneous respiratory effort and is maintaining airway and saturations"
+  ],
+  "MK": [
+    "Assign ASA classifications and determine which patient is appropriate for ED sedation"
+  ],
+  "SBP": [
+    "Perform a pre-sedation “time out” with RN, guardian and procedure performing physician present"
+  ],
+  "ICS": [
+    "Obtain verbal consent from the guardian/parent of the patient\nExplain sedation plan\nDiscuss risks, benefits and alternatives of sedation",
+    "Learner should explain events to mother and patient including:   1. Laryngospasm requiring interventions 2. Explain to the parent that the procedure could not be completed due to adverse airway event and the learner recommends anesthesia sedation in the OR."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

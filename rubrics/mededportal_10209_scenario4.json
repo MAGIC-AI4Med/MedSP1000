@@ -1,0 +1,62 @@
+{
+  "case_id": "mededportal_10209",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10209/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Review of medical history and full review of systems.",
+    "Review of maternal medication allergies (patient has NKDA)",
+    "Review maternal vital signs",
+    "Review fetal heart rate by Doppler (not continuous monitoring)",
+    "Abdominal examination for uterine tenderness",
+    "Pelvic examination including speculum for nitrazine/pool/fern/wet mount",
+    "Management could include CBC with differential, UA, pediatrics consultation",
+    "Iwas able to implement the correct management.",
+    "My management was timely.",
+    "Assesses maternal and fetal status",
+    "Takes obstetric history",
+    "Conducts physical exam",
+    "Determines status of membranes (intact/ruptured)",
+    "Administers tocolytics (incorrect)",
+    "Administers antibiotics (correct management is not clear, may suggest MFM consult)",
+    "Administers betamethasone (incorrect)",
+    "Administers magnesium sulfate for fetal neuroprotection (incorrect)",
+    "Ultrasound performed: presentation, AFI",
+    "Calls for “zero-minute” cesarean section (incorrect)",
+    "Failure to perform a speculum examination to diagnose PPROM",
+    "Using a digital cervical examination to confirm dilation in setting of PPROM"
+  ],
+  "MK": [
+    "Iwas able to evaluate the situation correctly."
+  ],
+  "SBP": [
+    "Iwas able to determine the need for further assistance.",
+    "Calls for help",
+    "I properly documented the PTL event.",
+    "Participant discharges patient from triage without discussion of risks"
+  ],
+  "ICS": [
+    "Management needs to include counseling regarding the prognosis of previable PPROM, risk of pulmonary hypoplasia, risk of maternal sepsis/chorioamnionitis, risk of abruption and preterm delivery. Counseling regarding pregnancy management: expectant versus labor induction.",
+    "Failure to appropriately counsel regarding neonatal prognosis and maternal risks",
+    "Iacknowledged the nurse when larrived on scene.",
+    "Icommunicated effectively with the delivery staff, using TeamSTEPPS principles and language.",
+    "Icommunicated effectively with the patient.",
+    "Icommunicated effectively with the patient&#x27;s partner.",
+    "I was honest,accurate,and avoided jargon when communicating with the patient and her partner.",
+    "Introduces themselves to patient and family",
+    "Acknowledges nurse/staff in room, asks for SBAR",
+    "Provide a statement explaining what is going on",
+    "Uses understandable language",
+    "Check for patient/family’s understanding",
+    "Reassures the patient",
+    "Use of positive or negative non-verbal responses Pos: Eye contact, physical contact, leaning in Neg: Poor eye contact, moving back, crossing arms",
+    "Express clinical emotion/apologize for change in patient’s expectations",
+    "Explanation of diagnosis of PPROM",
+    "Counseling regarding prognosis specific to midtrimester PPROM – discussion regarding maternal risks (chorioamnionitis/sepsis, abruption) and fetal/neonatal risks (pulmonary hypoplasia, etc)",
+    "Gestational-age specific counseling regarding prognosis review of non-viability with delivery at 21 weeks, versus expectations at 24 wks (or beyond)",
+    "Counseling regarding management options pregnancy continuation versus induction of labor/TOP and discussion of risks/benefits",
+    "Counseling regarding inappropriateness of interventions such as tocolytics, betamethasone, magnesium at current gestational age of 21 weeks."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

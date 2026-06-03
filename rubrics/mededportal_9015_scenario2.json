@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_9015",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9015/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Told family members how it impacted care for their relative",
+    "Told family members how the consequences will be addressed"
+  ],
+  "MK": [
+    "Told family members what the complication was",
+    "Explained why it happened"
+  ],
+  "SBP": [
+    "Told family members about what is done to prevent complications",
+    "Assured follow-up (how to contact him/her, when to expect next communication)"
+  ],
+  "ICS": [
+    "The doctor should come in and reintroduce himself.",
+    "Said he/she was sorry and apologized sincerely",
+    "Allowed family members to express emotions",
+    "Responded well (non-defensively) to family members' anger, concerns, doubts",
+    "Listened respectfully, actively to what family members had to say",
+    "Was verbally coherent, avoided jargon",
+    "Had appropriate non-verbal expressions, behaviors (e.g., eye contact)",
+    "Checked for family members' understanding of information",
+    "Took appropriate leave (handshake, avoided “hasty retreat”)"
+  ],
+  "PBLI": [
+    "Told family members what he/she would have done differently"
+  ],
+  "PROF": [
+    "Took responsibility for the complication",
+    "Explained the problem freely and directly, without the family members having to ask a lot of probing questions to get details",
+    "Did not keep things from family members that they should know",
+    "Did not avoid family members' questions (was not evasive)"
+  ]
+}

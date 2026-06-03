@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10966-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10966-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "The patient needs a chest tube, and a needle decompression in the meantime (would only do this yourself if you think the patient won’t last minutes)"
+  ],
+  "MK": [
+    "Students will usually recognize uremic pericarditis, volume overload, hypertensive urgency, and PE as possibilities in the clinical context.",
+    "A more systematic approach, such as considering all life-threatening diagnoses on the board and always doing a focused physical exam, will lead to the diagnosis."
+  ],
+  "SBP": [
+    "Call an RRT or code immediately.",
+    "Ask someone to STAT-page SURGERY with pager and overhead."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

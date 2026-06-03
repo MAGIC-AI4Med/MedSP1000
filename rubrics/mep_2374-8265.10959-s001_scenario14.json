@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.10959-s001",
+  "scenario": "scenario14",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10959-s001/scenario14",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Did the learner explain the new diagnosis?",
+    "Did the learner talk to you about how serious the condition is?",
+    "Did the learner ask what you wanted to accomplish in the appointment today?",
+    "Did the learner ask you about what would prevent you from making changes appropriate to this diagnosis?",
+    "Did the learner help you create a plan to address barriers to healthy eating and exercise?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

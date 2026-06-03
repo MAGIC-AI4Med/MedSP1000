@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_9087",
+  "scenario": "scenario15",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9087/scenario15",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "The written list should include the following items: Ask the nurse to write an incident report. Rewrite or ask the intern to rewrite the sliding scale without abbreviations. Email or call the Quality Administrator/Nurse Manager with this safety concern. Write additional orders to check the patient's glucose."
+  ],
+  "ICS": [
+    "Grade 1 Explanation - tells patient that s/he was hypoglycemic, does not explain why nor takes responsibility for what happened.",
+    "Grade 2 Explanation - tells patient s/he was hypoglycemic because of a medical error, but does not take responsibility for what happened.",
+    "Grade 3 Explanation - tells patient s/he was hypoglycemic because of a medical error, gives details about the error and takes personal responsibility for what happened, includes a plan for avoiding the mistake in the future."
+  ],
+  "PBLI": [
+    "Attributes of good feedback should include: Statement of issue in a concrete manner (didn\u2019t \u201chedge\u201d) Use of non-judgmental language Help you, as an intern, to make plans to avoid this mistake in the future"
+  ],
+  "PROF": [
+    "The resident\u2019s language/attitude towards the nurse should be non-judgmental. The resident shouldn't \"blame\" anyone for the mistake."
+  ]
+}

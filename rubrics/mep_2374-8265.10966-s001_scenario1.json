@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.10966-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10966-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Pulse (regularity, rate, strength)",
+    "JVP (elevated in tamponade, tension PTX, massive PE, or RV MI)",
+    "Heart sounds (e.g. arrhythmia, new murmurs or S4 indicating ischemia)",
+    "Lungs sounds (critical in catching a PTX or PNA + part of volume exam)",
+    "Chest wall (rash or tenderness)",
+    "Abdomen (abdominal pathology can cause chest pain)",
+    "Reflexive tests for CP or SOB should include:\n\nECG\nCXR\nTroponin in most patients – one now, one in 6 hours",
+    "Morphine: ONLY IF you can’t control the pain with nitrates and beta blockers",
+    "Oxygen: ONLY IF hypoxemic (O2 sat < 94%!)",
+    "Nitrates: BUT NOT IF low blood pressure or RV-MI",
+    "Aspirin: HUGE benefit with very little down side (a no-brainer unless brain bleed)",
+    "Statin: Atorva 80 has benefit in acute setting, pretty much no downside",
+    "Heparin: Unless high bleeding risk. LMWH or UFH ok.",
+    "Beta-blocker: NOT IF bradycardia or low BP. Short-acting only."
+  ],
+  "MK": [
+    "What are your no-miss causes of chest pain?\n\nAnswer (consider writing on board):\n\nMyocardial ischemia\nPulmonary embolism\nAortic dissection\nPericarditis with tamponade\nPneumothorax\nEsophageal rupture\nPneumonia"
+  ],
+  "SBP": [
+    "There’s a clot in her LAD: we can’t take it out. You must immediately call the STEMI pager, where the interventional cardiologist on call will hear the story from you, look at the ECG from home, and decide whether to activate the cath lab.",
+    "Other antiplatelets like clopidogrel – defer to cardiology"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

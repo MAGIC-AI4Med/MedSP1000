@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11021-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11021-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Student asked for vitals",
+    "Student asked about chest pain (duration, radiation, etc.)",
+    "Student asked if the patient received nitro and if that relieved the pain (must ask about both)",
+    "Student asked about associated symptoms",
+    "Student indicated they would come see the patient immediately",
+    "Student mentioned the need for the following:\nPortable CXR\nEKG\nCardiac enzymes\nAspirin 325"
+  ],
+  "MK": [],
+  "SBP": [
+    "Student indicated they would call their senior resident"
+  ],
+  "ICS": [
+    "Student identified themselves",
+    "Student identified reason for calling",
+    "Student asked specific, goal-directed questions",
+    "Student initiated read-back (closed-loop communication)",
+    "Student indicated to nurse they will talk to patient’s wife when they arrive (did not just tell nurse to deal with the wife)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

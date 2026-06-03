@@ -1,0 +1,24 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario11",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario11",
+  "rubric_version": "v1",
+  "PC": [
+    "New vitals",
+    "Ask about what has been done, if anything, for patient’s hyperkalemia",
+    "Ask nurse to draw repeat potassium",
+    "Ask to place patient in telemetry and obtain STAT ECG (SLIDES OF NEW & OLD ECGs are in power point)",
+    "Verbal orders for albuterol nebulizer, calcium gluconate 1.0 gram or calcium chloride 0.5 \u2013 1.0 gram, 10 units of regular insulin, $_ { 2 5 - 5 0 ~ \\mathsf { g } }$ glucose, and Kayexalate 15-30 grams",
+    "Notifies the nurse they will come to patient’s room/nurses station to assess telemetry and review ECG"
+  ],
+  "MK": [],
+  "SBP": [
+    "If severe, call nephrology to for HD"
+  ],
+  "ICS": [
+    "Clear, closed-loop communication when relaying orders to nursing staff",
+    "Attempt to help the nurse recognize the urgency of the situation when asked if the interventions can wait"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

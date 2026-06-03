@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11331-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11331-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain a pertinent patient history to include an HPI, ROS, PMH, social/occupational history, and medications/allergies.",
+    "Perform a pertinent physical exam to include assessment of the patient’s skin, cardiovascular function, lungs, and abdomen.",
+    "Order appropriate laboratory tests to include complete blood count (CBC), basic metabolic panel (BMP), coagulation tests (PT, INR, PTT), serum lactic acid level, urinalysis, and blood cultures.",
+    "Provide appropriate supportive care to include fluids, broad spectrum antibiotics, and an antipyretic/analgesic."
+  ],
+  "MK": [
+    "Interpret abnormal vital signs.",
+    "Consider sepsis.",
+    "Recognize exposure to ionizing radiation and establish a diagnosis of ARS."
+  ],
+  "SBP": [
+    "Consider the need for patient decontamination.",
+    "Consult appropriate disciplines, such as toxicology, hematology, internal medicine, REAC/TS, and/or the hospital’s radiation safety officer.",
+    "Admit the patient."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

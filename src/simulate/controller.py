@@ -75,8 +75,8 @@ def _safe_relative_path(path: Path, base: Path) -> str:
 _FROZEN_RUBRIC_DIMS = ("PC", "MK", "SBP", "ICS", "PBLI", "PROF")
 FROZEN_RUBRIC_OUTPUT_NAME = "final_evaluation_frozen_rubric.json"
 
-# 冻结 rubric 默认目录（与 runner.py 的 --rubric-dir 默认一致）：test_multi/z-rubric/rubrics
-DEFAULT_RUBRIC_DIR = Path(__file__).resolve().parents[2] / "z-rubric" / "rubrics"
+# 冻结 rubric 默认目录（与 runner.py 的 --rubric-dir 默认一致）：<repo_root>/rubrics
+DEFAULT_RUBRIC_DIR = Path(__file__).resolve().parents[2] / "rubrics"
 
 
 def _frozen_result_payload(

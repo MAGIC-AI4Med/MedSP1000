@@ -1,0 +1,68 @@
+{
+  "case_id": "mededportal_9804",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9804/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asks open-ended question about chief complaint (shortness of breath)",
+    "Asks about duration of symptoms",
+    "Asks about presence of cough (productive or nonproductive)",
+    "Asks about wheezing",
+    "Asks about chest tightness or discomfort",
+    "Asks about fever",
+    "Asks about URl symptoms",
+    "Asks about previous history of asthma and how long",
+    "Asks about level of asthma control/severity",
+    "Asks about sick contacts",
+    "Asks about leg swelling or pain",
+    "Asks about home nebulizer use",
+    "Asks about other chronic medical conditions",
+    "Asks about medications (prescription and OTC)",
+    "Asks about allergy to medications",
+    "Asks about family medical history",
+    "Asks about tobacco use or exposure",
+    "Asks about alcohol and drug use (must ask both)",
+    "Asks about occupational exposures",
+    "Assesses airway on SM3G",
+    "Listens to the lungs on SM3G (in at least 4 places over bare skin)",
+    "Listens to the heart on SM3G (in at least 2 places over bare skin)",
+    "Initiates oxygen therapy",
+    "Addresses IV access",
+    "Orders initial beta agonist nebulizer treatment",
+    "Orders repeat nebulizer treatment",
+    "Examines lower legs for edema",
+    "Assesses SM3G response to treatment (vital signs and how patient feels)"
+  ],
+  "MK": [
+    "Recognizes severity of situation based on initial condition of SM3G",
+    "Recognizes low O2 saturation",
+    "Recognizes need for steroid therapy (oral or IV)"
+  ],
+  "SBP": [
+    "Communicates management plan (hospitalization)"
+  ],
+  "ICS": [
+    "Communicates likely diagnosis (asthma exacerbation)",
+    "Communicates at least 2 other probable diagnoses (e.g. pneumothorax, PE,pneumonia, exposure to allergens)",
+    "Communicates appropriate diagnostic plan (CBC and chest x ray)",
+    "The student introduced him/herself with first and last name as wellas title (student).",
+    "The student asked about my comfort (and made changes if needed).",
+    "The student explained things clearly (e.g. No medical jargon).",
+    "The student listened to what I had to say (Never interrupted or repeated same question twice).",
+    "The student summarized information to clarify my concerns.",
+    "The student maintained appropriate eye contact during the encounter.",
+    "The student asked what Ithought to be the reason for the problem.",
+    "The student acknowledged and responded to my concerns or emotions.",
+    "The student asked how the symptom was affected my life.",
+    "The student tried to get to know me as a person (asked about non-medical interests).",
+    "The student asked if I had any further questions.",
+    "The student gave clear verbal orders/instructions."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Washes hands and gloves before doing the physical exam",
+    "The student washed his/her hands before starting the physical examination.",
+    "The student treated me with respect? (Warned before touching and draped appropriately).",
+    "The student treated me with respect."
+  ]
+}

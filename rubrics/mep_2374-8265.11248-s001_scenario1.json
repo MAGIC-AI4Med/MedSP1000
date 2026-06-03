@@ -1,0 +1,36 @@
+{
+  "case_id": "mep_2374-8265.11248-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11248-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "#1 Learner asks about the patient’s thoughts on their substance use",
+    "#2 Learner asks if the patient ever thought about stopping substance use.",
+    "#3 Learner asks if the patient ever experienced withdrawal symptoms.",
+    "#5 Learner asks if the patient had ever tried treatment for substance use in the past",
+    "Start buprenorphine  Screen for HIV, hepatitis C and STIs",
+    "Harm Reduction counseling",
+    "Safer sex counseling"
+  ],
+  "MK": [
+    "Severe opioid use disorder, substance use disorder",
+    "Major depressive disorder, cellulitis of antecubital fossa"
+  ],
+  "SBP": [],
+  "ICS": [
+    "#4 The learner asks for permission to discuss treatment options with the patient",
+    "#6 Learner asks if the patient ever considered that an alternative treatment would be effective",
+    "#7 Learner asks how confident the patient feels about carrying out the treatment plan",
+    "#8 Learner What would help me achieve my treatment goals",
+    "#9 Learner discussed my treatment goals",
+    "#10 Learner discussed my treatment options",
+    "#12 Learner asked open ended questions",
+    "#13 Learner spoke to the patient as an equal and partner in their care. Never “talked down” or made the patient feel bad about their decisions",
+    "#14 Learner demonstrated empathy",
+    "#15 Learner asked questions in a nonjudgmental manner"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "#11 Learner avoided stigmatizing language such as “addict”, “injection drug user”, “substance abuse”, “clean and sober”, “relapse”, “detox”"
+  ]
+}

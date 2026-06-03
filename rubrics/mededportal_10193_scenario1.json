@@ -1,0 +1,66 @@
+{
+  "case_id": "mededportal_10193",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10193/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked about events that occurred prior to the onset of my symptoms Such as food that I had eaten or medications that I had taken in the past.",
+    "Clarified the frequency of vomiting.",
+    "Asked me if I am having abdominal pain?",
+    "Asked me about associated abdominal symptoms like diarrhea?",
+    "Asked about my ability to take in fluids orally and maintain hydration.",
+    "Asked me about symptoms of stress or depression, feeling anxious, sad or blue?",
+    "Asked me about drug use, and specifically about marijuana use.",
+    "Asked me if I am being followed for any chronic medical conditions.",
+    "Asked me how the weakness is affecting my life and my activities?",
+    "Reviewed the medications that I am taking.",
+    "Performed a \u201creview of systems\u201d \u2013 checking for any additional symptoms such as or joint pain.",
+    "Washed his /her hands.",
+    "Checked my mouth to assess my state of hydration.",
+    "Observed my abdomen AND listened with their stethoscope.",
+    "Palpated my abdomen lightly (checking for peritonitis) before palpating more deeply.",
+    "List initial diagnostic tests you would order to confirm (or disconfirm) each listed diagnosis. Include any initial therapy that should be administered and an interval for follow-up, if needed.",
+    "Checked for important high risk signs and symptoms",
+    "Checked for important high risk signs and symptoms and acted appropriately if a high risk sign was found",
+    "Remembered to wash hands",
+    "Remembered to wash hands and mentioned this to the patient",
+    "Abdominal exam correctly performed",
+    "Abdominal exam correctly done and commented on how findings help to support assessment",
+    "Screening neurologic exam correctly performed",
+    "Screening neurological exam and commented on how findings support assessment"
+  ],
+  "MK": [
+    "Propose three diagnoses that could explain the patient's presenting problem, listed in order of likelihood. Next, enter the findings from your history and physical examination that increase (or decrease) the likelihood of each diagnosis.",
+    "Effectively discriminated whether the cause of nausea and vomiting was GI or non-GI",
+    "Clearly discriminated the class of nausea and vomiting, then correctly sub-classified which mechanism was causing nausea and vomiting"
+  ],
+  "SBP": [
+    "Record what the patient told you. Include only information pertinent to the main problem. Write the Chief Complaint in the patient\u2019s words. Retell the History of Present Illness, ending with pertinent positives and negatives. List all Medications and any Medical Allergies. Include any pertinent information from the Past, Family, and Social History that helps with diagnostic reasoning.",
+    "Record the findings from your exam. Include only findings pertinent to the main problem. List the Vital Signs first. Describe the patient\u2019s General Appearance. Record the findings from pertinent organ systems (such as HEENT, Lungs, Heart, Abdomen, Extremities, etc.). Describe abnormal findings. Also, record the absence of abnormal findings when that helps with diagnostic reasoning."
+  ],
+  "ICS": [
+    "Listened and encouraged me to tell my story without rushing me. As demonstrated by behaviors such as waiting while I speak, maintaining comfortable eye contact, forward leaning posture, and making indications that encourage me to continue.",
+    "Spoke to me using terms and language that I could understand. Did not use medical jargon.",
+    "Asked permission to perform a history and physical exam.",
+    "Reviewed his/her findings with me AND discussed the next steps that should be taken.",
+    "This medical student made me feel comfortable and cared for.",
+    "Knocked before entering Warm greeting Some small talk",
+    "Knocked; Friendly greeting Comfortable eye contact Warm yet business-like demeanor Set a positive tone",
+    "Started with an open-ended question",
+    "Started with an open-ended question Used guiding comments to facilitate the patient\u2019s narrative",
+    "Allowed the patient to tell their narrative with few or no interruptions",
+    "Allowed patient to tell their narrative and then followed up with questions to clarify key points",
+    "Asked difficult questions in straightforward and non-judgmental manner",
+    "Asked difficult questions in a manner that conveyed understanding of the situation and advocacy for the patient",
+    "Acknowledged the patient\u2019s discomfort",
+    "Acknowledged the patient\u2019s discomfort and affirmed the patient\u2019s decision to reveal sensitive information",
+    "Summarized the findings Reviewed next steps",
+    "Reviewed and discussed findings and next steps and collaborated with the patient when formulating the plan"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Was well prepared for the encounter.",
+    "Was tactful and respectful.",
+    "Was well groomed and appropriately attired."
+  ]
+}

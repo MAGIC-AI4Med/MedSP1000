@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.10891-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10891-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "**Complete** – MD explains what a TOLAC vs VBAC entails AND indicates that the patient must choose between an ERCD and TOLAC.",
+    "**Complete** – MD explains the patient’s likelihood of successful VBAC AND explains the possibility of failure requiring RCD",
+    "**Complete** – MD explains both management strategies AND describes associated outcomes",
+    "Complete MD discusses risks to baby related to TOLAC AND ERCD. (PLEASE NOTE IF EXPLICIT COMMENT MADE ON INCREASED MORBIDITY ASSOCIATED WITH FAILED VBAC)",
+    "**Complete** – MD discusses risks to mom related to TOLAC AND ERCD. (PLEASE NOTE IF EXPLICIT COMMENT MADE ON INCREASED MORBIDITY ASSOCIATED WITH FAILED VBAC)",
+    "**Complete** – MD discusses benefits to baby related to TOLAC AND ERCD.",
+    "**Complete** – MD discusses benefits to mom related to TOLAC AND ERCD",
+    "**Complete** – MD asks about 2 or more factors or considerations influencing their mode of delivery preference AND inquiries about their risk aversion",
+    "**Complete** – MD mentions uncertainty related to spontaneous labor/rupture AND limits of predicted likelihood of success",
+    "**Complete** – MD indicates a SHARED role",
+    "**Complete** – MD ask patient to demonstrate their understanding. (Teach-back or ASK-Tell Ask required)",
+    "**Complete** – MD asks about preference (ok to defer if patient states they are unsure)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

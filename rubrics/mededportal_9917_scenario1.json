@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_9917",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9917/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "An interprofessional intervention plan (P) flows logically from (A) andreflects involvement of each represented profession on the team in an integrated manner"
+  ],
+  "MK": [
+    "Brief report of (A) includes main findings from all professional teammembers",
+    "Assessment (A) builds on (S) and (O),and reflects involvement of eachrepresented profession on the team"
+  ],
+  "SBP": [
+    "Patient name, date, and description of initial situation including presentingconcern are included",
+    "Names and professions of team members involved are listed,and types of assessments used are described",
+    "Objective data (O) clearly reflects involvement of each representedprofession on the team"
+  ],
+  "ICS": [
+    "Introduction of team members and description of OSCE assessmentprocess",
+    "Brief report of (S) includes main findings from all professional teammembers",
+    "Brief report of (O) includes main findings from all professional teammembers",
+    "Team plan (recommendations) reflects entire team",
+    "Presentation is integrated and involves all team members",
+    "Presentation is clear, concise,and uses time well",
+    "Subjective data (S) clearly reflects patient perspective",
+    "Quality of writing including grammar, clarity, spelling and professionalappearance"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

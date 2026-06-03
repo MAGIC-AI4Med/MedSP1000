@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10931-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10931-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a primary and secondary survey",
+    "Stabilize the patient by establishing access and assessing fluid status for fluid resuscitation",
+    "Send initial labs including urine drug screen, acetaminophen level, liver function, and coagulation studies",
+    "Discuss medications for sedation (while monitoring hemodynamics)",
+    "Prepare for intubation"
+  ],
+  "MK": [
+    "Identify and discuss the differential for altered mental status"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

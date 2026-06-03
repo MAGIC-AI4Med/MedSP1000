@@ -1,0 +1,17 @@
+{
+  "case_id": "mededportal_10069",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10069/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "two and one-half points for asking correct history questions"
+  ],
+  "MK": [
+    "one-half point for correct name of event",
+    "two points for four correct possible etiologies (1/2 point for each)"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

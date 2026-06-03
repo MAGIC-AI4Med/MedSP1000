@@ -1,0 +1,42 @@
+{
+  "case_id": "mep_2374-8265.11535-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11535-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ideally, one of the learners should ask what the patient refers or means by “down there”, at which point of facilitator should let them know that this patient means the rectal area.",
+    "**Get urine sample for gonorrhea and chlamydia**",
+    "Any PCP can assess for gender dysphoria/incongruence.",
+    "Facilitator should mention that physician should rule out alternative causes of gender dysphoria, as well as ensuring that medical and mental health conditions are reasonably well controlled to prevent harm.",
+    "**Transdermal estradiol should be considered in patients with a history of venous thromboembolism**",
+    "For the first year, lab should be collected every three months after initiation of GAHT until target levels are reached. Testosterone is collected for all patients. For patients and feminizing hormone therapy, they should obtain estradiol and BMP. Doses of hormones can be titrated every three months until target levels are reached.",
+    "if a patient is admitted to a hospital or a psych unit for a mental health condition, GAHT should be continued, unless there is a specific contraindication because discontinuation can perpetuate and worsen symptoms of gender, dysphoria, and associated symptoms of depression, anxiety, or others"
+  ],
+  "MK": [
+    "Learner should be disclosing that some patients can have rectal STIs that may present similar to this patient",
+    "What is her gender identity: transgender woman",
+    "Should she get tested: Yes she should get tested: multiple partners, inconsistent condom use, hx of STI.",
+    "**Patient with active hepatitis B infection**",
+    "**Fertility is mostly reversible**",
+    "There really are three major contraindications: history of hormone sensitive cancer, which requires consultation with oncology, a patient in an acute psychotic episode, and a pregnant patient",
+    "H/H is needed to assess for polycythemia (baseline and to monitor with time) and BMP given spironolactone (changes in potassium)"
+  ],
+  "SBP": [
+    "They only need to put their sex assigned at birth and their gender identity separately",
+    "Many TGD people want parenthood -> consultation with fertility specialist should be offered prior to initiation of GAHT",
+    "placing a referral to behavioral/mental health is NOT required as long as their mental health symptoms do not affect their capacity to understand the risk-benefits of treatment. But that it **should be offered** as support to **all patients**. Should not be used as gatekeeping.",
+    "If a patient requests any regiments that deviate from standard of care, it would be beneficial to refer to a specialist.",
+    "There should be an assessment on housing, food and security, financial and security and safety concerns and whether starting GAHT can negatively impact these aspects of their life."
+  ],
+  "ICS": [
+    "One strategy is to ask the patient what pronouns they use, in this situation Callie refers that she uses she her hers.",
+    "The facilitator can share that similar to any other patient with any other health concern, physician should try and understand what the patient’s goals are. Essentially: elicit information to understand where the patient is coming from and what gender-affirmation means to them",
+    "The provider’s role: educate TGD patients about the effects of GAHT and side effects, just like any other treatment or intervention where we get consent by informing the patient of benefits and risks.",
+    "All trans people should be counseled on effects of GAHT on fertility and reproduction before starting."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Ensure patient has Capacity: able to understand risks, benefits, alternatives, unknowns, limitations, risks of no treatment",
+    "Consent should be given for each individual intervention or medication, just like for any medical condition."
+  ]
+}

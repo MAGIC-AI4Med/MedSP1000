@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.10909-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10909-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "It\\u2019s likely that this frail patient with DVT could benefit from rivaroxaban over warfarin, but a more detailed bleeding risk assessment should be performed."
+  ],
+  "MK": [
+    "What research question could help address the issue posed by the above case? What type of study would you conduct to answer that question? Why? What outcomes would be important to you? How about to the patient?",
+    "What are the relative risks/benefits of using rivaroxaban vs warfarin in frail patients with a new diagnosis of DVT?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Knowing this, what would you tell your patient?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

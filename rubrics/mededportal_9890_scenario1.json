@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9890",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9890/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Placement of the patient on telemetry",
+    "Placement of IV",
+    "Complete history including eliciting that the patient is postpartum",
+    "Performing a complete physical examination including neurologicalexamination",
+    "Administer IV crystalloid fluid rapidly",
+    "Checks fingerstick when the patient seizes",
+    "Administers benzodiazepines to break the seizure",
+    "Neuro-imaging to identify venous sinus thrombosis",
+    "Consideration of eclampsia and administration of Magnesium"
+  ],
+  "MK": [
+    "Considers anticoagulation",
+    "Not considering the diagnosis of cerebral venous sinus thrombosis"
+  ],
+  "SBP": [
+    "Consults neurology",
+    "Discussion of anticoagulation with the neurologist",
+    "Admits the patient to the ICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

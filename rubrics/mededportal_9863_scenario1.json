@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_9863",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9863/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain key elements of history from available sources (EMS), including the patient’s location relative to fire, type of fire/combustibles, and any testing performed en route (e.g. blood glucose, ECG strips)",
+    "Manage ABC’s:\nRapid airway assessment\nCardiac, end-tidal CO2 and pulse oximetry monitoring\nMove quickly to intubation and positive pressure ventilation\nIV Access with at least 2 large-bore IV catheters\nFluid resuscitation\nExpose the patient for a complete survey",
+    "Obtain point-of-care and appropriate laboratory and radiographic testing, including blood gases, glucose, carboxyhemoglobin and/or co-oximetery, lactic acid, basic metabolic panel, chest x-ray",
+    "Recognize and treat possible carbon monoxide poisoning with $1 0 0 \\% \\mathrm { F i O } _ { 2 }$ , early consultation for hyperbaric treatment once the patient is stabilized and if such resources are available",
+    "Recognize and treat possible cyanide poisoning, using available antidotes (hydroxycobalamin, sodium thiosulfate)"
+  ],
+  "MK": [
+    "Recognize critical illness in the setting of smoke inhalation",
+    "Consider alternate causes for the patient’s mental status and metabolic derangements (other intoxication, sepsis)"
+  ],
+  "SBP": [
+    "Appropriate disposition to ICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

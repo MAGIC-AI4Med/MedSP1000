@@ -1,0 +1,15 @@
+{
+  "case_id": "mep_2374-8265.10931-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10931-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Initial Management:\nPerform the initial primary survey: Airway, Breathing, and Circulation (ABCs)\nDiscuss the status epilepticus pathway maintained at our institution (lorazepam 0.1mg/kg followed by fosphenytoin 20 PE/kg)\nStabilize the patient by establishing access and assessing fluid status for fluid resuscitation, respiratory exam for impending respiratory failure, and neurologic exam",
+    "Advanced Management:\nDiscuss obtaining a CSF sample while considering a plan for the airway and sedation management\nIntubation for respiratory failure secondary to status epilepticus"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,62 @@
+{
+  "case_id": "mep_2374-8265.11205-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11205-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Verbalize primary and secondary patient assessments",
+    "Obtain thorough history from patient/family",
+    "Ensure open airway",
+    "Administer immediate supplemental oxygen",
+    "Obtain vascular access",
+    "Direct vascular access 10-60cc/kg NS bolus",
+    "Initiate continuous cardiopulmonary monitoring",
+    "Ask for a focused physical exam with secondary survey",
+    "Perform focused physical exam",
+    "Asks to apply pressure to nose to stop bleeding.",
+    "Orders stat bloodwork: CBC, Diff, Type and Screen, BC, CRP, Lytes, Ca, Mg, PO4, Urea, Creatinine, Liver Enzymes and Bili’s, PTT, INR, Fibrinogen, D-Dimer, Uric Acid, LDH, Venous Gas and Lactate.",
+    "Orders Stat chest x-ray",
+    "Request broad spectrum antibiotic monotherapy with anti-pseudomonal coverage such as ceftazidime, cefepime, or meropenem",
+    "Administer additional fluids and discuss",
+    "Runs D5NS *without* KCL at 2x maintenance requirements",
+    "Orders blood products",
+    "Establishes a 3rd IV if needed for fluid and blood products or considers central line/PICU",
+    "12-lead EKG (peaked T waves notable from hyperkalemia).",
+    "orders insulin/glucose/albuterol",
+    "orders rasburicase and allopurinol",
+    "STAT Head CT",
+    "Intubation of patient\n  * 5.0 cuffed ETT\n  * 15.5-16.5 cm depth\n  * Rapid Sequence Intubation (RSI) medications of sedative and paralytic",
+    "Ensures fluids are adequate and urine output is maintained at least 2-3 cc/kg/hour.",
+    "Initiates neuroprotective measures such as raising head of bed 30 degrees, hyperventilation",
+    "Considers giving 1 mg/kg furosemide or 3% hypertonic saline 3-5 mL/kg, although acknowledges concern for increased viscosity with hyperleukocytosis",
+    "Starts urate oxidase (Rasburicase) 0.2mg/kg IV stat."
+  ],
+  "MK": [
+    "Verbalize elevated temperature and altered mental status",
+    "Formulate differential diagnosis that includes bleeding disorders, idiopathic thrombocytopenic purpura, leukemia with possible leukostasis, sepsis",
+    "Verbalizes concern for blast crisis",
+    "Verbalizes hyperleukocytosis as cause",
+    "Recognizes electrolyte derangements; calls out specific ones: _________",
+    "Recognizes acute change from hyperkalemia, call out specifics: __________",
+    "Recognizes worsening neuro status"
+  ],
+  "SBP": [
+    "Calls oncology for immediate advice on how to manage.",
+    "Calls blood bank stat for:\n  * 5 Units CMV neg Irradiated Platelets – run over 15-30 minutes.\n  * 10 cc/kg fresh plasma IV over 30 minutes – 1 hour.\n  * 5 units (1 unit per 5 kg) cryoprecipitate IV push.",
+    "avoids calcium if possible, as can worsen renal damage and avoids Lasix because can worsen viscosity",
+    "Call PICU for pheresis team activation",
+    "Sign-out patient to ICU"
+  ],
+  "ICS": [
+    "Team assigns roles/briefs or pre-assigned",
+    "Team lead summarizes within first 2 minutes",
+    "Team lead summarizes throughout case to maintain shared mental",
+    "Team lead delegates according to role",
+    "Team demonstrates adaptability in the scenario",
+    "Use of closed-loop communication",
+    "Team lead addresses any CUS/ARC/etc.",
+    "Family is kept involved/informed at bedside"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

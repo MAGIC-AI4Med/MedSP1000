@@ -1,0 +1,14 @@
+{
+  "case_id": "mededportal_10121",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10121/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Do not perform a physical exam."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

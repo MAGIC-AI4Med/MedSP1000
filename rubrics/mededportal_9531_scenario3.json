@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_9531",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9531/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Measure blood pressure with appropriate sized cuff, use a microfilament to test foot for sensation and take a blood sugar (280) and a HbA1C (10%).",
+    "Labs: CBC, CMP",
+    "HCTZ  25mg and Lisinopril 20mg  to manage hypertension",
+    "Lifestyle modifications including weight reduction, sodium restriction and a diet rich in fruits and vegetables and low fat dairy products, regular exercise and moderation of alcohol consumption",
+    "Metformin 2000mg to control of blood sugar and 20 units of 70/30 insulin to lower sugar. Control of diabetes is the treatments for nerve damage.",
+    "Counsel on  wearing shoes at all times to protect your feet from injury. Before you put them on, always check inside your shoes for stones, nails, or rough areas that may hurt your feet.",
+    "Check your feet every day. Look at the top, sides, soles, heels, and between the toes. Wash your feet every day with lukewarm water and mild soap. Use lotion, petroleum jelly, lanolin, or oil on dry skin.",
+    "Check bathwater temperature with your elbow before putting your feet in the water.",
+    "Avoid putting pressure on areas with nerve damage for too long."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

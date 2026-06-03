@@ -1,0 +1,45 @@
+{
+  "case_id": "mep-15-10804-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10804-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Oxygen saturation monitor placed",
+    "Cardiac monitor placed",
+    "Request IV x 2",
+    "Place patient on oxygen",
+    "NS bolus 20 mL/kg",
+    "Obtains complete history on patient",
+    "Performs physical exam",
+    "Bolus given by push-pull",
+    "Order antibiotics",
+    "Blood glucose and venous blood gas",
+    "CBC, CMP, CRP, procalcitonin",
+    "Blood culture x 2",
+    "Urinalysis and urine culture",
+    "PT/INR/PTT",
+    "Chest x-ray",
+    "Re-assess vitals",
+    "Re-assess physical exam",
+    "Re-assess perfusion",
+    "2nd NS bolus push-pull",
+    "Orders 3rd bolus",
+    "Re-assess following vasopressor"
+  ],
+  "MK": [
+    "Verbalizes Shock",
+    "Identifies vitals abnormal for age",
+    "Identifies concerning lab results",
+    "Identifies need for pressor",
+    "Selects dopamine for cold shock",
+    "Verbalizes starting dose (or where to find)",
+    "Recognize signs of volume overload"
+  ],
+  "SBP": [
+    "Ask for help",
+    "Notifies PICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

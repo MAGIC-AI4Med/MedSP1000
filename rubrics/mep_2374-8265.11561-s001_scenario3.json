@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11561-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11561-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "“We can see that her body is strong and reflexes are intact, but her mind and body are not communicating in a healthy way. The body has learned a pattern of weakness that is possibly triggered by environmental factors. This pattern needs to be re-wired, which will take some time.”",
+    "**Alarm** = symptoms, nervous system signaling",
+    "**Fire/smoke** = trigger (biological, trauma, etc)",
+    "“There is clearly something wrong.”",
+    "“I see that this is really affecting her daily life. It must be hard to not be able to participate in [school, sport, activity].”",
+    "“This diagnosis can be frustrating for families because there is not a specific test for this condition”",
+    "**Software** = mind, nervous system signaling, symptoms",
+    "**Hardware** = body"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

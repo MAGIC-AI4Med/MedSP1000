@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11027-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11027-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Waist circumference should be measured at least annually. You can ask your medical assistant to place a tape measure in the room for patients in whom you plan to measure waist circumference. Measure at the uppermost border of the iliac crest.",
+    "**2013 AHA Guidelines for Obesity Management: Achieve a negative calorie balance via exercise and reduced caloric intake** (Grade A, Class I, Level of Evidence A)\nNo one diet plan (ie. low carbohydrate vs low fat) is best \u2013 individualize to disease states, patient preferences, and cultural preferences.\nGeneral goals for caloric intake: 1200-1500 kcal/day for women and 1500-1800 kcal/day for men. An easier way to incorporate measuring calories may be to simply recommend trying to achieve a 500-750 kcal/day energy deficit.\nPhysical activity- 150-300 min/week moderate intensity exercise or 75-150 min/week of vigorous intensity with at least 2 sessions/week of resistance/muscle-strengthening activity.\nExercise is the best predictor of long-term weight loss and weight maintenance. It has also been shown to redistribute abdominal adiposity. Even modest increases in moderate-to-vigorous physical activity is beneficial.",
+    "**Realistic goals to offer patients: 10% weight loss over 6 months (1-2 lb/week)**\nChoose 1-2 goals at a time\nReduce sedentary activities\nIncrease physical activity\nReduce portion sizes of meals and snacks\nLimit or eliminate caloric beverages and choose water, unsweetened tea, or coffee"
+  ],
+  "MK": [
+    "**Overweight**. Overweight is classified as body mass index (BMI) between 25-29.9 kg/m2. It is a harbinger for obesity and its adverse consequences. BMI has a J-shaped association with cardiovascular disease and all-cause mortality, with the lowest risk occurring at 21-25 kg/m2.1 This means that as BMI increases above 25 kg/m2, risk for these conditions increases.",
+    "**Increased waist circumference**. In patients with BMI between 25-35 kg/m2, increased waist circumference is independently associated with increased risk for type 2 diabetes, hyperlipidemia, hypertension, and cardiovascular disease.2 Waist circumference provides an estimate of increased abdominal fat even in the absence of changes in BMI, which is important because visceral adipose tissue (or abdominal fat tissue) is closely linked with metabolic dysfunction and insulin resistance.2"
+  ],
+  "SBP": [
+    "Refer to comprehensive lifestyle program. The most effective interventions are comprehensive, in person, and high frequency/intensity."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

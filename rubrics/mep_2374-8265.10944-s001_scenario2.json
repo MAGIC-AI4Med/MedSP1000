@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.10944-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10944-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Avoid NSAIDs (e.g. naproxen, ibuprofen) given recent GI bleed, as these could potentiate ulcers.",
+    "Avoid opioids if you can.",
+    "Simple measures such as lidocaine patches, heating pads, and ice packs can often provide pain relief and avoid systemic side effects.",
+    "Acetaminophen may also be appropriate here."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

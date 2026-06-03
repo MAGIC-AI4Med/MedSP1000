@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-14-10756-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10756-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Patients should be clearly informed of the practice policy for monitoring the risk/safety of OPM.",
+    "Patients should be informed how often you will check UDS and asked, “Will the results show anything unexpected?” before administration.",
+    "Patients should also be clearly informed of the policy of acting on UDS results, e.g. “If your urine shows that you are taking other drugs that could increase the risk of overdose and death, like tranquilizers or opioids that aren’t prescribed, I will no longer be able to prescribe OPM for you because the risk is too high.”",
+    "Patients who are prescribed OPM should be informed that the provider will regularly be checking the PDMP to monitor risk of the medications and informed that if it reveals multiple prescribers that it is very likely that risk of the medication outweighs any potential benefit.",
+    "The patient should be informed that all patients with chronic pain require a complete assessment, including history, physical exam, and review of past records before a patient-centered chronic pain management plan can be developed."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

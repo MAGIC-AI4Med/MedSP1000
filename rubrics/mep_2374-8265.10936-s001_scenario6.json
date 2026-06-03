@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.10936-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10936-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Risk stratifies the patient’s head injury risk using PECARN prediction tool [GCS, signs of basilar skull fracture, altered mental status, mechanism of injury, vomiting, severe headache, loss of consciousness]"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Discusses management options (CT vs. observation) with parents [speed of diagnosis, radiation, cost, length of stay, need for sedation, potential downsides of incidental findings]",
+    "Solicits parent preferences on at least 2 relevant issues [speed of diagnosis, radiation, cost, length of stay, need for sedation, potential downsides of incidental findings]",
+    "Incorporates parental preferences into decision making and determines final management plan [suggest play of the case for parent to prefer imaging]",
+    "Provides appropriate discharge instructions and return precautions to the parent [imaging results, final diagnosis, return precautions, follow up instructions]"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

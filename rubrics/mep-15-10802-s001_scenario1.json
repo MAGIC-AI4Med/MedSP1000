@@ -1,0 +1,32 @@
+{
+  "case_id": "mep-15-10802-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10802-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain sufficient history and physical exam findings to identify a post-operative hematoma.",
+    "Effectively release both the skin incision and deeper muscle layers to relieve hematoma pressure.",
+    "Reassess patient vitals and response to hematoma drainage",
+    "Ask for cardiac monitoring, pulse oximetry, and non-invasive BP monitors; Gather history from patient, family member, and ward nurse; Call for support from Anesthesia team.",
+    "Ask for appropriate tools and medications for either intubation or cricothyroidotomy."
+  ],
+  "MK": [
+    "Recognize need for intubation or cricothyroidotomy in anticipation of delay"
+  ],
+  "SBP": [
+    "Make arrangements for definitive management with return to OR and notify consultant of situation.",
+    "Recognize that patient-centered care requires interprofessional teams consisting of various health professionals (nurses, anesthesiologists, surgeons, etc.) to maximize a positive patient outcome."
+  ],
+  "ICS": [
+    "Overall demonstrate cohesive teamwork",
+    "Show clear leadership during time of uncertainty and potential crisis.",
+    "Make use of closed-loop communication",
+    "Recognize and validate the family member(s) concerns and treat them with understanding and respect.",
+    "Ask family member to leave room",
+    "Identify themselves and their roles to patients, family members, and other health professionals."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Remain calm and professional in interactions with allied health professionals and other colleagues."
+  ]
+}

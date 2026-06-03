@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario17",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario17",
+  "rubric_version": "v1",
+  "PC": [
+    "M1Wash hands",
+    "MA10: Have patient point out location ofpain(D)",
+    "M99: Inspect and palpate ankle bilaterally(swelling, redness) (D)",
+    "MA20:Palpatebothankles (D)",
+    "M100: Assess range ofmotion of anklebilaterally (D)",
+    "M101: Inspect mid footand toes bilaterally",
+    "M102: Inspect plantarsurface bilaterally",
+    "M113: Observe gaitwhile patient walks",
+    "MA21: Take temperature (D)"
+  ],
+  "MK": [
+    "In anticipation of your physical exam of the ankles, feet, and vital signs list the positive sign(s) associated with each diagnostic hypothesis.",
+    "Given the results of your physical exam, which diagnosis is most likely?\n[x] infectious arthritis\n[ ] ankle sprain\n[ ] neither because the findings are ambiguous or contradictory\n[ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

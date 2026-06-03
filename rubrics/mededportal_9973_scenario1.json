@@ -1,0 +1,55 @@
+{
+  "case_id": "mededportal_9973",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9973/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtained history and physical exam adequate for successful management (PC2, PROF 1, ICS1)",
+    "Ordered sufficient ancillary testing to arrive at proper diagnosis (PC3, PC4, MK)",
+    "Initiated treatments and interventions in a timely manner (PC1, PC5, PC6, MK, SBP2)",
+    "Safely provided the needed care (PC4, PC5, PC6, PC 7, MK, ICS2, PROF2, SBP2)",
+    "Cardiac monitor",
+    "Continuous pulse oximetry",
+    "IV access",
+    "Administration of supplemental oxygen",
+    "CBC",
+    "Basic metabolic panel (chem 7)",
+    "Methemoglobinemia level",
+    "Chest x ray",
+    "EKG",
+    "Administration of methylene blue",
+    "Arterial blood gas",
+    "Measurement of G6PD levels",
+    "Head CT",
+    "Antiemetic administration",
+    "Normal saline bolus",
+    "Re-evaluation following methylene blue therapy. (PC6)",
+    "Did not successfully manage the case, or may have done potentially harmful intervention.",
+    "Patient care provided was accurate and safe, minor flaws in care provided.",
+    "Patient care provided exceeded expectations, well rounded and complete."
+  ],
+  "MK": [
+    "Interpretation of data was correct (PC3, PC4, MK)",
+    "Did not have the medical knowledge to adequately manage the case (did not have complaint driven DDx, did not know appropriate testing, did not know interventions, did not perform procedures safely).",
+    "Medical knowledge sufficient to successfully manage the case, but some elements needed improvement."
+  ],
+  "SBP": [
+    "Admission",
+    "Review previous day’s medical record",
+    "Failed to utilize needed resources such as nursing, consultants, social workers, respiratory therapy, Poison Control, etc.",
+    "Utilized resources adequately to safely and successfully manage the case.",
+    "Exceeded expectations, used all resources skillfully.",
+    "Discussion with appropriate additional providers (toxicologist, admitting physician) for admission and management. (PC7, PROF2, ICS2, SBP2)"
+  ],
+  "ICS": [
+    "Marked difficulty in communicating with the patient or family, impeded care, unable to explain plan or rationale for interventions, did not engage or involve patient, jargon that confused).",
+    "Communicated with patient and family effective enough to successfully complete case, but some elements needed improvement.",
+    "Polished interpersonal skills, and excellent clarity, appeared caring.",
+    "Communicate results of testing and planned treatment to the patient. (PROF1, ICS1)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did not act in professional manner during the case (introduce self, address patient and family respectfully, responds to questions).",
+    "Professionalism met expectations, but some elements need improvement."
+  ]
+}

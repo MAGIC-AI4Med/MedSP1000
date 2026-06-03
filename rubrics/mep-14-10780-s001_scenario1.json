@@ -1,0 +1,36 @@
+{
+  "case_id": "mep-14-10780-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10780-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform initial primary survey (including ABCDE, GCS)",
+    "Obtain intravenous or intraosseous (IV/IO) access",
+    "Evaluate and manage altered mental status",
+    "Perform secondary survey and recognize potential ingestions (alcohol (ETOH)/drugs)",
+    "Give 20cc/kg intravenous fluid (IVF) bolus.",
+    "Consider naloxone dose at 0.1 mg/kg/dose, may repeat every 2-3 minutes as needed"
+  ],
+  "MK": [
+    "Obtain and interpret laboratory studies, including point of care glucose",
+    "Discussion amongst participants about likely diagnosis and appropriate management",
+    "Team to discuss treatment for THC intoxication"
+  ],
+  "SBP": [
+    "Recognize need for a full resuscitation team when a patient presents with altered mental status of unknown etiology.",
+    "Consider expert consultation",
+    "Sign patient out to the PICU or neurology confederate.",
+    "Calling the Poison Control Center",
+    "If patient remains lethargic, consider admission for general monitoring",
+    "Consider social work assessment."
+  ],
+  "ICS": [
+    "Division of labor to accomplish multiple tasks simultaneously",
+    "Clear communication with team members",
+    "Open communication with the parent even if there is uncertainty",
+    "Designate leadership and team member roles to ensure coordinated team functioning.",
+    "Use brief or huddle to create a shared mental model for the working diagnosis and management plan."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

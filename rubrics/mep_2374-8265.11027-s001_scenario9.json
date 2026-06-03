@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.11027-s001",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11027-s001/scenario9",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "She has moved to the preparation stage."
+  ],
+  "SBP": [],
+  "ICS": [
+    "“I’m so sorry to hear about your sister…I would love to help you make a plan to lose weight. The keto diet is popular but often leads to a high intake of saturated fats and is likely not sustainable in the long term… Why don’t we take a look at your diet and see where we can make a few modifications?”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

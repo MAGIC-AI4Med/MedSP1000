@@ -1,0 +1,21 @@
+{
+  "case_id": "mededportal_9125",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9125/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform an assessment utilizing the ABC method.",
+    "administer oxygen.",
+    "initiate nebulized beta 2 agonist/anticholinergic therapy.",
+    "establish IV access",
+    "administer IV steroids",
+    "reassess effectiveness of intervention (Beta 2 agonist nebulizer therapy) vocalize abnormal physical findings, including exam finding and vital signs continue with multiple nebulizer therapy after initial treatment is completed.",
+    "Optimal sequence of critical actions: check patient, check airway, check breathing, recognize wheezing , initiate O2, and nebulized beta agonist therapy, check cardiac status including blood pressure and heart rate, initiate IV access.",
+    "Duration to critical actions initiation of nebulizer therapy should commence within 2 minutes"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

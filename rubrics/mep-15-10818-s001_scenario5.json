@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-15-10818-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10818-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "TW should receive HIV testing for the next year at regular intervals, and be educated about the symptoms of acute HIV infection. He should also be educated about the use of protection with his wife until it has been confirmed he is HIV-negative."
+  ],
+  "MK": [
+    "TW is not a candidate for PrEP as he may have already been exposed to HIV.",
+    "PrEP is taken before someone is exposed to HIV as prevention, while post-exposure prophylaxis (PEP) is taken after someone has a suspected exposure to HIV. The rational of PEP is to give a high dose of three antiretroviral medications to prevent a new HIV infection from occurring. PEP must be prescribed within a 72-hour window after the suspected exposure and is typically prescribed for a 30-day period. Finally, PEP is a full-dose antiretroviral regimen, and is usually a combination of antiretrovirals. There are two categories of PEP: occupational PEP (oPEP) which is used for suspected HIV exposure in a workplace setting and nonoccupational PEP (nPEP) for potential exposure outside of the workplace, such as in cases of sexual assault. Prescribing guidelines for both oPEP and nPEP are available from the CDC.",
+    "Patients are candidates for PEP if they have potentially been exposed to HIV within the past 72 hours, and are not protected with another method (eg PrEP)."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

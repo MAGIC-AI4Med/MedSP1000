@@ -1,0 +1,14 @@
+{
+  "case_id": "mep_2374-8265.11377-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11377-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Review each jargon word (total from Part A, Step 7 above) in the context of the transcript to determine whether it is explained or unexplained. Medical Spanish instructors or individuals with medical Spanish knowledge are best suited to complete this step or guide students in peer-reviewing each other’s transcripts to determine whether a jargon term is explained or unexplained. Jargon terms are considered to be explained if they meet one or more of the following criteria:\nThe student provides a clear definition or explanation of the term.\nThe student provides a word/phrase synonym in plain language.\nThe student provides sufficient context for the term during the encounter/transcript that the meaning of the term becomes clear."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

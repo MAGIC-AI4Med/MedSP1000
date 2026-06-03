@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_1114",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1114/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Analysis of presenting complaint:\nGradual onset of the weakness, started on right upper limb",
+    "Negatives: numbness, fall down, syncope, headache, chest pain, palpitation, dyspnea before weakness",
+    "No vomiting, no diplopia, vertigo or dysphagia.",
+    "No loss of consciousness, no convulsions",
+    "Past History: no similar events. He is hypertensive on regular treatment. Diabetic but not adherent to treatment. He has diabetic neuropathy in lower limbs and diabetic eye complications.",
+    "Drugs: ACE inhibitors, glibenclamide, metformin. He is not using aspirin or statin.",
+    "Social history: smoker 1 pack /day x 20 years, a truck driver",
+    "Vital signs: HR = 88/min, Regular, BP: 180/120 mmHg; Temp:37, RR= 20/min, O2 sat= 95% room air",
+    "Neurological Exam:\nVery drowsy\nSpeech mumbling sounds\nCranial nerves: right 7th palsy (Upper motor lesion type)\nMotor system: right hemiplegia\nPower:0/5 in upper limb & 2/5 in lower limb\nhypotonia, hypreflexia, upgoing right plantar (positive Babniski sign)\nSensations: Can't be assessed because of drowsiness\nFundoscopy: diabetic retinopathy. No papilledema",
+    "Cardiovascular examination: normal 1st and 2nd heart sounds. No gallop rhythm and no murmur. Weak peripheral pulses. No carotid bruits.",
+    "Rest of Systemic Examination: Unremarkable.",
+    "CBC, Biochemistry, PTT, INR, lipids profile, Brain CT Scan (Plain), CXR, ECG & Urinalysis, carotid Doppler, Echocardiogram",
+    "Secure A.B.C.",
+    "Change Position",
+    "Care of pressure sore",
+    "NPO till swallowing assessment",
+    "Physiotherapy",
+    "Observe BP, no medications for now",
+    "Strict control of Blood sugar",
+    "ASA ,  no IV heparin\nStatin",
+    "Prophylaxis against stress ulcer and DVT"
+  ],
+  "MK": [
+    "What is your  problem list?\n1. Acute onset of right sided weakness\n2. Hypertension\n3. Diabetes mellitus",
+    "Differential Diagnostic:\n1. Acute stroke with right sided hemiplegia:\n1. Thrombotic (infraction /ischemia) or\n2. Hemorrhagic\n2. Space-occupying lesion.\n3. Venous thrombosis.",
+    "CBC normal",
+    "Biochemistry: Glucose 255 mg/dl slightly raised urea and creatinine, elevated cholesterol, normal electrolytes & cardiac enzymes",
+    "Brain CT Scan: Hypodense area in left temporaparietal area suggestive of infarction",
+    "CXR: Cardiomegaly",
+    "ECG: Suggestive of Ischemia. (there is no ECG to show with this station)",
+    "Acute ischemic stroke with right sided hemiplegia secondary to left middle cerebral artery  thrombosis\n\n(left – MCA)"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

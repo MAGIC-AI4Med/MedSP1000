@@ -1,0 +1,36 @@
+{
+  "case_id": "mededportal_9205",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9205/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "First, meet baseline level of physiological adaptation to opioids by providing the equivalent of the 80 to 100 mg of oxycodone taken prior to the surgery.",
+    "Second, treat the new pain with additional medication on top of baseline medications.",
+    "Patient controlled anesthesia or PCA pumps are often effective in the post-operative period; consultation with anesthesia may be helpful for patients needing pain control who are tolerant to opioids at baseline.",
+    "Tolerance: Patients on chronic opioids develop tolerance to their effects. These patients need increased doses of short-acting medications (not less) compared with patients not on chronic opioids who have no tolerance.",
+    "Hyperalgesia: Patients on chronic opioids develop hyperalgesia—increased sensitivity to painful stimuli. This is counterintuitive, but well documented in the literature. These patients need increased doses of short-acting medications, and may need them earlier or in situations that may not otherwise require opioids, compared with patients not on chronic opioids who have no hyperalgesia.",
+    "Use what you would normally use for acute pain in addition to baseline meds: Use medications with rapid onset and a short half-life. Do not use methadone for acute pain. Will likely need higher doses than patients not on chronic opioids.",
+    "Oxycodone long-acting formulation (40 mg) twice per day, plus the 20 mg per day of short-acting oxycodone, would mean that this patient may have needed up to 150 mg of the hydrocodone to meet his baseline opioid need.",
+    "Alternatives that may have met the patient’s baseline need include the following: Just continuing pre-op oxycodone. Replacing long-acting oxycodone with another long-acting oral opioid, such as extendedrelease morphine (see notes below). If patient could not take oral medications, then giving morphine (50 mg) by IV, in divided doses throughout the day, would have covered the baseline need. If IV morphine were used, both baseline and acute pain medication needs could be covered through a PCA pump with a basal rate and allowing additional doses.",
+    "Incomplete Cross-Tolerance: Factor in the potential for incomplete cross-tolerance any time a provider is switching opioid medications. It is recommended to calculate the equivalent dose, but start at half of the equivalency with the new medication, particularly when switching from one long-acting agent to another long-acting agent. Monitor for signs of overmedication (e.g., sedation) and under-medication (e.g., withdrawal, worsening pain). When switching from one long-acting medication to another, allow enough short acting medication to cover any potential shortfall in meeting the baseline opiate need, as well as enough additional medication to cover the acute pain."
+  ],
+  "MK": [
+    "The dose of hydrocodone the patient is receiving is not equal to the dose of oxycodone he had been taking prior to the surgery, thus causing opioid withdrawal syndrome.",
+    "The Clinical Opioid Withdrawal Scale (COWS) allows a somewhat objective, reliable, and reproducible way to quantify and track the severity of a patient’s withdrawal syndrome.",
+    "The symptoms of opioid withdrawal have been likened to a severe influenza infection and include nausea, vomiting, diarrhea, papillary dilation, tearing, rhinorrhea, sweating, tachycardia, hypertension, muscle cramps, joint aches, piloerection, anxiety, restlessness, agitation, and tremor.",
+    "Practitioners using this tool often express concern that there is very little that is truly “objective” in this scale. When examined more closely, most patients should not score above the lowest score in most of the categories without having some detectable sign or symptom.",
+    "Addiction: Addiction is a primary, chronic, neurobiologic disease, with genetic, psychosocial, and environmental factors influencing its development and manifestations. It is characterized by behaviors that include the following: impaired control over drug use, craving, compulsive use, and continued use despite harm.",
+    "Physical Dependence: Physical dependence is a state of adaptation that is manifested by drug class-specific signs and symptoms that can be produced by abrupt cessation, rapid dose reduction, decreasing blood level of the drug, and/or administration of an antagonist. Physical dependence, by itself, does not equate with addiction.",
+    "Pseudoaddiction: The iatrogenic syndrome resulting from the misinterpretation of relief-seeking behaviors as though they are the drug-seeking behaviors commonly seen with addiction. The relief-seeking behaviors resolve upon institution of effective analgesic therapy.",
+    "Hazards: Use despite harm/risky situations Occupational impairment Legal problems Social/interpersonal consequences",
+    "Tolerance Withdrawal Intention: Using more substance, or longer time than intended (loss of control) Time: Increased time spent obtaining, using, recovering C Inability to Cut down, unsuccessful attempts H Use despite Harm AR Activities Reduced",
+    "Tolerance and withdrawal would not apply as criteria for addiction, because anyone taking opioids chronically will develop tolerance and experience withdrawal if the medications are abruptly discontinued. Monitor instead for the misuse of alcohol or the use of illegal drugs, and for “Aberrant Drug-Taking Behaviors” that may fall into the categories in the table below.",
+    "Loss of Control Reports lost/stolen medications. Calls for early refills. Seeks opioids from other sources. Withdrawal symptoms noted at appointments.",
+    "Craving, preoccupation with use Recurring requests for increases in opioids. Increasing pain despite lack of progression of disease. Dismissive of non-opioid treatments.",
+    "Use despite negative Consequences Over-sedation/somnolence. Decreases in activity, functioning, and/or relationships."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

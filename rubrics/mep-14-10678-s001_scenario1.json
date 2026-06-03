@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-14-10678-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10678-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Complete a focused history and physical exam.",
+    "Order IV normal saline and IV bicarbonate solution as treatment."
+  ],
+  "MK": [
+    "Identify clinical findings consistent with salicylate toxicity, including vomiting, diaphoresis, hyperthermia, tachycardia, tachypnea, and tinnitus.",
+    "Determine that the patient has salicylate toxicity."
+  ],
+  "SBP": [
+    "Call poison control for treatment instructions."
+  ],
+  "ICS": [
+    "Assign roles to each team member before entering the patient room, ensuring that someone is assigned the role of scribe and another serves as team leader."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11504-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11504-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "State the emotion.  Example: *“It sounds like you were really**frightened when you got that news.”*",
+    "Empathize with/legitimize the emotion *without* implying you understand what someone is feeling.  Example: *Active listening without interruption, follow-up questions to show understanding.*",
+    "Accept their perspective, validate that their reaction is important, and/or give praise.  Example: *“The medical team has noted how you are at bedside day and night, caring for your loved one.\"*",
+    "Show support, demonstrate partnership, or provide opportunities for family engagement.  Example: *“It sounds like we have the same primary goal in mind, which is…”*",
+    "Ask the patient/family member to elaborate on their emotions.  Example: *“Is there anything else that is troubling you about this situation?”*",
+    "In most cases it is best not to contradict or challenge “no answers” or other blanket statements."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Reasonably, students may feel it is inappropriate to share a possible cancer diagnosis without a completed workup. However, they should not mislead the family if asked directly about it."
+  ]
+}

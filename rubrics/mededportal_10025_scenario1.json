@@ -1,0 +1,42 @@
+{
+  "case_id": "mededportal_10025",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10025/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Do not perform any physical exam maneuvers."
+  ],
+  "MK": [
+    "Resident should tell you that blood tests show that your red blood cell level is low, which creates a condition called anemia.",
+    "Resident will explain the degree of anemia, using numbers to explain relative severity. Specifically:   + Your hemoglobin level is 5.4.   + Normal menstruating female is 12-15.   + Milder anemia (8-10) is treated with iron supplements.   + Anything lower than 7 is usually treated with a recommendation for transfusion",
+    "Therefore, transfusion is recommended for your level of severity.",
+    "Resident will explain that severe anemia can cause problems beyond dizziness like stroke, heart attack and kidney damage",
+    "…explain that treatment with transfusion is the fastest, most efficient and safest way to recovery?",
+    "Resident should explain blood loss vs. how fast your body could make blood; that because of your heavy vaginal bleeding, your body could not keep supplying what your body needed; that the iron your doctor prescribed would help, but that it takes a very long time to work. With a transfusion, you will feel much better very quickly.   Resident should stop intermittently if they don’t the patient can be confused."
+  ],
+  "SBP": [
+    "…explain risks versus benefits of the transfusion?",
+    "…explain what Informed Consent means for Ida?",
+    "Resident adheres to core requirements of providing InformedConsent, namely:：·RisksBenefits Use of lay terms (avoids jargon)Non-coercive Ensures patient understandingResident may offer to obtain a copy of the informed consentdocument for the patient to review prior to making adecision."
+  ],
+  "ICS": [
+    "A. Builds a Relationship (includes the following): Greets and shows interest in patient as a person Uses words that show care and concern throughout the interview Uses tone, pace, eye contact, and posture that show care and concern",
+    "B. Opens the Discussion (includes the following): Allows patient to complete opening statement without interruption Asks “Is there anything else?” to elicit full set of concerns Explains and/or negotiates an agenda for the visit",
+    "C. Gathers Information (includes the following): Begins with patient’s story using open-ended questions (e.g.“tell me about…”) Clarifies details as necessary with more specific or “yes/no” questions Summarizes and gives patient opportunity to correct or add information Transitions effectively to additional questions",
+    "D. Understands the Patient’s Perspective (includes the following): Asks about life events, circumstances, other people that might affect health Elicits patient’s beliefs, concerns, and expectations about illness and treatment Responds explicitly to patient’s statements about ideas and feelings",
+    "E. Shares Information (includes the following): Assesses patient’s understanding of problem and desire for more information Explains using words that patient can understand Checks for mutual understanding of diagnostic and/or treatment plans Asks if patient has any questions",
+    "F. Reaches Agreement (IF new/changed plan) (includes the following): Includes patient in choices and decisions to the extent s/he desires Asks about patient’s ability to follow diagnostic and/or treatment plans . Identifies additional resources as appropriate",
+    "G. Provides Closure (includes the following): Asks if patient has questions, concerns or other issues Summarizes/asks patient to summarize plans until next visit Clarifies follow-up or contact arrangements Acknowledges patient and closes interview",
+    "…listen to Ida’s concerns?",
+    "…ask Ida to restate her understanding of her current situation?",
+    "…attend to Ida’s concerns about transfusions?",
+    "Resident communicates the importance and urgency of the necessary procedure while remaining sensitive and responsive to the patient concerns and questions.",
+    "Should ask: Has anyone ever told you that before?",
+    "Resident should acknowledge that this is scary for you, - and certainly isn’t what you expected today when you came here"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Resident identifies risks and benefits, ensuring transparency andhonesty.Resident avoids coercive language.",
+    "Resident listens attentively and non-judgmentally to patient&#x27;sexplanatory model (fears about having &quot;someone else&#x27;s blood&quot;)Resident acknowledges patient&#x27;s fears and offers counseling /educationon risks and benefits of transfusion"
+  ]
+}

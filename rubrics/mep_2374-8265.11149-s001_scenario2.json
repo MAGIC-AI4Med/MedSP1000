@@ -1,0 +1,45 @@
+{
+  "case_id": "mep_2374-8265.11149-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11149-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Ensure appropriate setting and check that relevant people can all attend.",
+    "Ask if choices about life-sustaining treatment have ever been documented.",
+    "Identify who will be proxy.",
+    "Ask how much leeway proxy should have in decision-making.",
+    "Make chart note of key discussion points.",
+    "Arrange for drafting and signing relevant documentation where applicable."
+  ],
+  "ICS": [
+    "Explain why you have convened this meeting now.",
+    "Check how the surrogate feels about a discussion of advance care planning.",
+    "Establish trust.",
+    "Consider use of PEARLS for relationship building.",
+    "Ask about understanding of the illness and prognosis.",
+    "Provide additional information using understandable terms.",
+    "Clarify shared understanding of illness and prognosis.",
+    "Ask for understanding of likely further curative or palliative treatments.",
+    "Provide additional information regarding likely treatments.",
+    "Explore knowledge of other people’s end of life care and feelings about it.",
+    "Ask what makes life worth living or what should be the goals of treatment at the end of life.",
+    "Elicit specific preferences, and ask why.",
+    "Identify unacceptable life states and what risks are acceptable to avoid them.",
+    "Discuss probabilities and ask how uncertainty would be managed.",
+    "If the surrogate says they would not want any treatment, ask specifically about artificial nutrition and hydration.",
+    "Tell what you will do to meet the patient’s goals and emphasize that the team will remain involved regardless of which goals are chosen.",
+    "Explore how much communication there has been with the proxy.",
+    "Stress the need for good communication with the proxy.",
+    "Watch for emotional signals and respond verbally and non-verbally.",
+    "Consider using NURS for emotion handling.",
+    "Reassure that uncertainty and confusion are common and that there can be time to reflect as needed.",
+    "Summarize the conversation, including unresolved issues, and check for shared understanding."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Explain that its purpose is to respect the patient’s wishes.",
+    "Reassure that death is not believed to be imminent, if true, and avoid false reassurance."
+  ]
+}

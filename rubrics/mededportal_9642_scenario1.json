@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_9642",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9642/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "In a child the most likely cause for this is genetic, hence a Schilling-test is appropriate.",
+    "Since in this disease the utilization of cobalamin in the body is normal, management of the patients is simply by monthly i.m. injection of cobalamin.",
+    "Treatment is usually an antibiotic and rehydration."
+  ],
+  "MK": [
+    "A CBC quantifies the anemia and identifies the type, here: megaloblastic.",
+    "Chemical analysis of blood plasma reveals a deficiency of cobalamin, whilst [folate] is normal.",
+    "Unless the patient has a vegan diet and hence a nutritional deficit, this means that uptake of cobalamin must be defective.",
+    "Since this patient cannot absorb cobalamin even if intrinsic factor (from hog stomach or genetically engineered) is also given, the problem is with the intestinal cobalamin receptor and the proper diagnosis is ImerslundGräsbeck-syndrome.",
+    "Common cause of travelers diarrhea are enterotoxic $E$ . coli (ETEC) from food or water that has been exposed to human sewage."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

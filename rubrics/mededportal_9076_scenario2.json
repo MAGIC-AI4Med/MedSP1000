@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_9076",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9076/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Determine level of stability",
+    "Intern interviews Patient and learns that this shortness of breath came on suddenly and she has never had it before. The dyspnea is progressively worsening.",
+    "Intern conducts brief physical exam and auscultates a regular rhythm as well as bilateral rales throughout both sides of the chest.",
+    "Intern re-assesses patient as pulse $0 x = 8 6 \\%$ and the monitor alarms.",
+    "Intern orders an EKG and chest xray, STAT BMP, STAT ABG i. ABG $=$ p02 540/ pCO2 34/ pH 7.48/ HCO3 24",
+    "Intern stops the IVF.",
+    "Intern orders IV diuretic.",
+    "Intern determines next management steps as patient stabilizes.",
+    "Intern orders diuretics but does not stop the IV fluidsthe patient will continue to have marked shortness of breath",
+    "Intern fails to turn off IVFpatient fails to improve",
+    "Intern provides a negative chronotropic medication such as a beta blocker or calcium channel blockerworsening of respiratory distress.",
+    "Patient fails to initially properly assess patient as stable and proceeds with debrillation."
+  ],
+  "MK": [
+    "Intern reviews sign-out and recognizes that the patient is admitted for pneumonia. Intern also notices a history of CHF listed.",
+    "Intern recognizes congestive heart failure on the chest x-ray.",
+    "Intern recognizes left ventricular hypertrophy on EKG.",
+    "Intern fails to recognize respiratory distress, fluid overload. Patient mis-reads the chest x-ray as “Normal”."
+  ],
+  "SBP": [
+    "Intern calls senior resident for help. Places order to move patient to Intermediate Care Unit. Places order to increase oxygen flow."
+  ],
+  "ICS": [
+    "Give appropriate orders to the Nurse",
+    "Intern interviews the Nurse and is provided with current vitals and re-assuring documentation from prior notes in the chart."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

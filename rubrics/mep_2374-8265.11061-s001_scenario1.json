@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11061-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11061-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "How would Joanna’s response and disclosure of a history of trauma alter/change/improve your approach to her care?\nHow would you engage Joanna in care planning for her medical diagnoses?\nHow could you use the “Stress Health Self Care Tool” during the patient visit, or for follow-up?\nStudents can look through “Stress Health Self Care Tool” and should emphasize that they will work collaboratively with Joanna to choose goals in her care and then make a follow-up plan based on these goals. If Joanna is amenable, the plan should also include referral to mental health. Regarding engaging patients, can emphasize that building supportive relationships, resiliency, and healthy habits can help lessen the effect of traumatic exposures on health and well-being."
+  ],
+  "MK": [
+    "What factors may have contributed to the onset of multiple severe chronic illnesses at a young age? Answers can include adverse childhood experiences, social determinants of health, lack of access to health care, genetic predisposition, difficulty with medication compliance.",
+    "Based on the lectures you heard this morning and the panel you attended last week on community violence, how do you think Joanna would answer the question “how was growing up for you?” What might have been some of the adverse childhood experiences that could have impacted Joanna? Based on the preceding lecture we will expect that the students will answer that growing up was difficult for Joanna. Students may list the 10 original ACEs including physical, emotional, sexual abuse, emotional and physical neglect, incarcerated relative, parental separation, family mental illness, mother treated violently and family substance use. Encourage students to think beyond the original 10 ACEs for additional forms of traumatic exposures, such as discrimination, immigration status, neighborhood/community violence, gender discrimination, etc.",
+    "If Joanna suffered from traumatic exposures, such as adverse childhood experiences, how could that be related to the development of her chronic illnesses? Answers can include that adversity can lead to toxic stress which can lead to changes in stress hormone levels, neuro dysregulation, increased inflammation, and through these mechanisms organ specific disease.",
+    "What are Joanna’s traumatic exposures? Parental separation, mental illness in mother, father incarcerated, mother’s substance abuse, physical abuse, and verbal/emotional abuse from foster parents. Total Score: 6. Can highlight that research has shown that an ACE score of 6 or greater leads to 20 year decrease in life expectancy."
+  ],
+  "SBP": [
+    "What are the barriers to employing a trauma-informed approach to care?\nTime, lack of training in trauma assessment, lack of familiarity with how to respond to positive screening questions, lack of referral resources, lack of longitudinal relationship with patients, fear of opening up a “Pandora’s box” with patients (may not be able to manage patient’s or my own emotional reaction).",
+    "What would happen to this patient if you do not employ a trauma-informed approach to care?\nMost dramatically, ACE study and subsequent research has shown that those with 6 or greater ACEs have 20 year decreased life expectancy. We can mitigate this statistic by understanding how trauma can affect our patients, collaborating with them to create a plan of care that includes strengths focused approach to care to build resiliency, connect to mental health resources, and encourages healthy habits."
+  ],
+  "ICS": [
+    "If you suspect or want to informally inquire about traumatic exposures: How would you start the conversation and what question(s) would you ask? Examples from preceding lecture included:\n“A lot of research shows that stress can affect health. I wanted to ask, how do you think stress may be playing a role in your diagnosis of obesity?”\n“Many times, stressful life events can affect a person’s health and well-being. Are there any stressful life events that you would like to share with me today?”",
+    "How would you respond to Joanna’s statement about her “bad luck” and explain to Joanna the connection between her past traumatic exposures and her current health?\nMany times, stressful life events can affect a person’s health and well-being. Do you think that the stressful events that you shared with us could be affecting your health? If so, how?\nEmphasize that the medical diagnoses here are not simply rooted in unhealthy habits. Underscore the biologic effects of stress on the body and how this overall has an effect on the body’s physiology and increases risk for medical co-morbidities."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario19",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario19",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for fresh set of vitals",
+    "Inquire about symptoms & access",
+    "Verbal order for stat ECG",
+    "Notify the nurse of your plan – which should include likely urgent cardioversion – have crash cart ready, sedation (e.g. 2mg versed and 50-100mcg fentanyl)"
+  ],
+  "MK": [
+    "Recognize patient is in an unstable tachycardia"
+  ],
+  "SBP": [
+    "Agree to assess the patient urgently – call rapid response or cards or ICU"
+  ],
+  "ICS": [
+    "Clear, closed-loop communication when relaying assessment and orders to nursing staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11436-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11436-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "DO- Show gratitude",
+    "DO- Be brief",
+    "DO- Follow up personally",
+    "DO NOT- Belabor the point"
+  ],
+  "PBLI": [
+    "DO- Commit to learning, growing, and doing Better"
+  ],
+  "PROF": [
+    "DO NOT- Make it about you (or your intent)"
+  ]
+}

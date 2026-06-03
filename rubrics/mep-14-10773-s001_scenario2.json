@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10773-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10773-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "MANAGEMENT OR DIAGNOSTIC PLAN\nIdeally participants should consider obtaining a 12-lead ECG in the clinic/office while the patient is there (if requested this will be provided).\nParticipants should also refer the patient for a stress test and should consider whether they would manage this patient in the inpatient or outpatient setting."
+  ],
+  "MK": [
+    "Diagnosis with support from positive and negative history and PE findings\nStable Angina (+ intermittent chest pain with exertion, +associated shortness of breath, + pain relieved with rest, + smoking history, Tums and Prilosec not palliative, high stress job, history of hypertension and diabetes contributing factors)",
+    "Differential with support from positive and negative history and PE findings\nUnstable Angina (intermittent chest pain with exertion and associated shortness of breath, - pain relieved by rest)\nAcute Myocardial Infarction (+ intermittent chest pain with exertion and associated shortness of breath, - pain relieved by rest)\nGERD ( +burning pain, - for pain after eating or pain when lying down)\nPeptic Ulcer Disease (+ pain/burning in chest, - nausea, vomiting, excessive gas)\nPulmonary Embolism (+ recent flight, - sudden onset of shortness of breath, shortness of breath and pain resolves with rest, Oxygen saturation is normal, heart rate is 78)\nAortic Stenosis (- murmur, - lightheadedness, - fainting)\nCostochondritis (- pain with deep breathing or cough, not reproducible with palpation)"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

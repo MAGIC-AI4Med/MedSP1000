@@ -1,0 +1,45 @@
+{
+  "case_id": "mededportal_8367",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8367/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "What parts of the physical exam do you want to do and why?",
+    "What lab tests or other diagnostic studies would you like to order? (You must give justification for each test.)",
+    "Given the fact that Marcia is “deathly afraid” of needles, do you think Marcia will agree to this treatment plan?  Are there any alternative treatments you could offer to Marcia?",
+    "Should order an x-ray of the left wrist at a minimum.  May want to order an x-ray of the  left orbit and left hip, too."
+  ],
+  "MK": [
+    "What are the hypotheses/ differential diagnoses for the problems that you have identified?",
+    "Prioritize the hypotheses based on what problems you know so far.",
+    "What are your Differential Diagnoses (hypotheses) now? Go through your previous list, and rule in or rule out based on the physical findings.",
+    "What do you think is going on with the patient?",
+    "Is your treatment choice different this time?",
+    "What is the differential diagnosis for her injuries?"
+  ],
+  "SBP": [
+    "There should always be a chaperone present in the room during a GYN exam.  If the student accompanying the physician is female, then she could potentially serve as the chaperone. A male doctor should not perform a GYN or breast exam without a chaperone to protect himself from claims of inappropriate sexual behavior as well as protect the patient. More controversial is the need for same-sex providers to have a chaperone present.  In our opinion, all providers should have a chaperone present during any sensitive exam.",
+    "Partners need to be advised if the cultures come back positive for an STD.  Patient should be informed about the importance of using safer sex practices. (eg. Wearing condoms all the time, including during anal intercourse since this practice carries a very high risk for transmission of infection. Partners should be tested for STD’s before having sexual relations.)",
+    "Need to discuss intimate partner violence (domestic violence).  Ascertain patient’s risk for further injury.",
+    "Do health care providers need to report this assault? In this case, it would have to be the patient’s decision if she wanted to press charges. It would be important to document her injuries and reporting of the incident. If possible, offer to photograph her injuries, in case she decides to press charges.",
+    "Probably not necessary to send to the ER or an orthopedist, unless the x-ray is positive.",
+    "Encourage her to call police or inform family."
+  ],
+  "ICS": [
+    "What is the best way to enter the patient’s room?  (Knocking first, etc.)",
+    "How should you introduce yourself as a student?",
+    "What else do you need to educate the patient about?",
+    "Did the SP clearly understand all of the directions?",
+    "There should be some empathic response to her admission of abuse.",
+    "Did the SP understand the new treatment plan?",
+    "Did the student talking with her provide adequate emotional support?"
+  ],
+  "PBLI": [
+    "When there is a bad outcome, you should always go through a process of analysis of the situation, to see if you should have done something differently.",
+    "It is often helpful to use trusted colleagues as a sounding board to discuss these situations."
+  ],
+  "PROF": [
+    "Talk about how personal judgments need to be separated from our professional behavior.",
+    "It is important not to say anything that blames the victim, no matter how well intended it may be."
+  ]
+}

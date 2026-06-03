@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.11256-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11256-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "When Nitin asked for an exception to the visitor policy, did you set a boundary that it is NOT appropriate for an exception to be made in this case?"
+  ],
+  "ICS": [
+    "Did you introduce yourself AND state your role (physician, intern) on the medical team?",
+    "Did you ask for permission to give an update (ex: \"is now an okay time for an update?\")",
+    "Did you assess family member\u2019s current understanding (ex: \u201cwhat is last update you\u2019ve received?\u201d)",
+    "Did you provide an overall assessment of patient which includes condition and trajectory? (improving, stable, critical)",
+    "Did you explain the big picture including all of the following?\nFor case B, you explained the diagnosis of C Diff infection, discussed dehydration, and discussed delirium",
+    "Did you describe the plan moving forward including all of the following?\nFor case B, your plan for oral vancomycin to treat C Diff, plan for continued fluid resuscitation (dehydrated, do not need to specifically discuss AKI, plan for delirium (reorientation, address discomforts)",
+    "Did you appropriately exclude unnecessary details? (ex: you did NOT read all of the vital signs and lab results)",
+    "Did you confirm that the family member understood the information presented? (ex: repeat-back method, or \"does all of that make sense? Can I clarify anything I just said?\")",
+    "Did you grant permission for the family member to ask additional questions before concluding the phone call?",
+    "When Nitin asked \"is this condition ever life-threatening?\" did you honestly explain that C Diff can have some life-threatening complications but you do not currently see signs of those?",
+    "When Nitin expressed that his mother just passed away and his father is scared of the same, did you provide an empathetic response?",
+    "Did you say goodbye AND set a clear expectation for when next update will be?",
+    "Did you refrain from using medical jargon, or, if used, did you immediately explain in simplified terms?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did you confirm that you were speaking with Nitin before you shared any medical information?"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "mep_2374-8265.10965-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10965-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ensure that the patient is stable by checking airway, breathing, circulation, disability/dextrose, and ECG/exposure (ABCDE).",
+    "Administer oxygen via nasal cannula.",
+    "Obtain a fingerstick glucose measurement",
+    "Obtain IV/IO access",
+    "Administer a bolus of dextrose, 5cc/kg of D10 or 2cc/kg of D25 (must not be more concentrated than D25 or else line will blow) during seizure activity",
+    "Repeat amp of dextrose if hypoglycemic",
+    "Start patient on dextrose drip",
+    "Consider administration of octreotide",
+    "Administer appropriate fluid bolus",
+    "Obtain and assess initial ECG.",
+    "Obtain other laboratory studies (CBC, BMP, VBG, salicylate level, acetaminophen level)",
+    "Frequently reassess patient, including vital signs and glucose.",
+    "Reassess patient, including vitals and repeat glucose measurements"
+  ],
+  "MK": [
+    "Identify sulfonylurea overdose after considering other differential diagnosis.",
+    "Discuss the signs/symptoms that can be seen in patients with a sulfonylurea overdose:",
+    "Describe the various treatment options for a sulfonylurea overdose and when each treatment option is indicated:"
+  ],
+  "SBP": [
+    "Consult with toxicologist or PCC if needed",
+    "Do not administer charcoal unless patient is intubated d/t mental status change",
+    "Disposition - Admit to PICU for further monitoring and treatment"
+  ],
+  "ICS": [
+    "Obtain appropriate history from family"
+  ],
+  "PBLI": [
+    "List three items that you learned from this simulation that you did not know prior to participation in the exercise:",
+    "If an error occurred during your simulation, what did you learn from it and how will you avoid making this in the future?"
+  ],
+  "PROF": []
+}

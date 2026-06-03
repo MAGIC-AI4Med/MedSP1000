@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_8302",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8302/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Performs primary survey, obtains all vital signs",
+    "Establishment of IV/IO access",
+    "Obtains bedside glucose measurement",
+    "Recognition of airway/respiratory compromise",
+    "Performs RSI using appropriate drugs/dosing, tube sizing and depth Appropriate medication and dose to control seizures",
+    "Administers appropriate medications for brady PEA arrest (if applicable) Considers appropriate differential diagnosis for altered mental status/seizure/resp failure."
+  ],
+  "MK": [
+    "Obtains and accurately interprets CXR",
+    "Obtains and accurately interprets head CT"
+  ],
+  "SBP": [
+    "Consults neurosurgery and appropriately dispositions patient"
+  ],
+  "ICS": [
+    "Obtains info from available sources (patient, medics, family, police). Organizes team/assigns duties to specific members of the team.",
+    "Provides clear instructions to team throughout resuscitation."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Appears confident and calm & asks for help if needed."
+  ]
+}

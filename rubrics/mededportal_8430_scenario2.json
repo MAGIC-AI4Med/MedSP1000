@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_8430",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8430/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform quick history and physical exam, including a visual speculum exam of the vagina. Do NOT perform brisk bimanual exam at this time. Establish IV access and administer fluids. Order pregnancy test and pelvic ultrasound.",
+    "You appropriately performed a pregnancy test and pelvic ultrasound exam",
+    "You appropriately administered intravenous fluids",
+    "You administered a very large initial intravenous fluid bolus",
+    "You should not have administered methotrexate for this case",
+    "You appropriately performed surgery to remove the ectopic pregnancy",
+    "You appropriately performed surgery to remove the ectopic pregnancy, but you did not appropriately evaluate the patient first",
+    "You appropriately performed surgery to remove the ectopic pregnancy, but you should have replaced intravenous fluids"
+  ],
+  "MK": [],
+  "SBP": [
+    "You failed to act in a timely fashion during this urgent clinical scenario",
+    "You should have performed a pregnancy test and pelvic ultrasound exam sooner",
+    "You should have administered fluids sooner",
+    "You should have acted on your diagnostic tests, pregnancy test and pelvic ultrasound exam, sooner.",
+    "You should have performed a pregnancy test and pelvic ultrasound exam and surgery sooner"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

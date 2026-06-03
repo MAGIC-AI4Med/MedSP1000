@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario13",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario13",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for a fresh set of vitals",
+    "Ask nurse about symptoms/changes in clinical status (at which time it will be revealed about lightheadedness, melanic stool)",
+    "Ask for adequate IV access: $2 ^ { \\mathsf { n d } }$ PIV that is $1 6 \\mathrm { - } 1 8 \\mathrm { g }$",
+    "Ask for stat type and screen/crossmatch 4 units, repeat hemoglobin, INR, $+ / -$ plts",
+    "Isotonic IVF bolus"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Clear, closed-loop communication used when relaying orders to nursing staff",
+    "Notify nurse you will come assess the patient"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

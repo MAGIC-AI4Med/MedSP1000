@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_10248",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10248/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Recognize that the patient is critically ill. Place the patient on a monitor, obtain IV access, obtain complete set of vital signs",
+    "Recognize hypotension—initiate appropriate resuscitation with IV fluids and pressors",
+    "Perform focused history and physical—recognize adrenal crisis",
+    "Initiate appropriate treatment with IV steroids"
+  ],
+  "MK": [],
+  "SBP": [
+    "Admit patient to the ICU."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

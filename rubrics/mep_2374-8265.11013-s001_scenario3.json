@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11013-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11013-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "In a patient who tests positive for any STI, should offer testing for other STIs as well",
+    "You also can (and SHOULD) provide expedited partner therapy (EPT) -- if the patient is diagnosed with chlamydia or gonorrhea, you can prescribe medication to the patient to take to his or her partner without the health care provider first examining the partner"
+  ],
+  "MK": [],
+  "SBP": [
+    "No, you do not need to inform parents",
+    "New York State Guidelines (can tailor this to the state you work in) - minors can consent to STI testing and treatment, prenatal care, abortion services, emergency contraception, outpatient mental health treatment, inpatient mental health treatment if above 16, alcohol and substance abuse services, HPV vaccine",
+    "Note: parental consent IS required for hormone therapy at this time",
+    "Social work involvement"
+  ],
+  "ICS": [
+    "Ask him what his specific concerns are",
+    "Address potential risks (i.e. abuse, homelessness)",
+    "Offer to set up an appointment with him and his family in a safe space",
+    "Emphasize that coming out is a strength and can help develop resilience, but ultimately you support whatever his desires and timeline are",
+    "Recommend joining organizations in and outside of school",
+    "Explain that there is no correct answer, but the most important factor is safety. It may not be the right time to come out if the patient is at risk of homelessness. As a provider you can partner with the patient and come up with a plan that feels comfortable for both of you. Emphasize the importance of coming out to at least one person (even if not the parents)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

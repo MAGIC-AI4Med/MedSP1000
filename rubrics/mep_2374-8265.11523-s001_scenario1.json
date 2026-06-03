@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11523-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11523-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Establish oxygenation by calling for an oxygen tank",
+    "Establish ventilation by switching from anesthesia machine to self-inflating bag valve mask.",
+    "Find appropriate method of monitoring vital signs (code cart, transport monitor, auscultation, etc).",
+    "Convert anesthetic from volatile anesthesia to total intravenous anesthesia via infusion pumps.",
+    "Find and use an alternative light source (laryngoscopes, cell phones, etc.)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Consult biomedical engineering (a team of professionals responsible for maintaining, repairing, and ensuring the safe operation of all medical equipment within a hospital), and alert anesthesia board runner.",
+    "Establish an appropriate disposition plan with the surgeon actor."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

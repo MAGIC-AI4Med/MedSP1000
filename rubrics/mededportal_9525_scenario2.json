@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_9525",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9525/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Did the student mention the possibility of cancer?",
+    "Did the student mention the possibility that this could be a cancer that has spread (metastasized) to your liver?"
+  ],
+  "SBP": [
+    "Did the student describe what the next step(s) would be?"
+  ],
+  "ICS": [
+    "Did the student introduce him/herself?",
+    "Did the student ask how you were feeling/doing today?",
+    "Did the students put you at ease and treat you with respect?",
+    "Did the student explain the test (abdominal CT) results in understandable language?",
+    "Did the student check for your understanding of what was said?",
+    "Did the student respond to your emotions in an appropriate way?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Was the student’s appearance and demeanor professional?"
+  ]
+}

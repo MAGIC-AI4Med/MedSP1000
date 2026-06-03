@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.11237-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11237-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Learner will counsel patient on safe firearm storage"
+  ],
+  "MK": [
+    "Learner will evaluate patient risks for firearm injury",
+    "Risk for unintentional firearm injury as children are in home with firearm that they have gained access to."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

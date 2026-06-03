@@ -1,0 +1,36 @@
+{
+  "case_id": "mep-12-10479-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10479-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Take history",
+    "Order fluid resuscitation and O2",
+    "Order blood products",
+    "History Taking: Student takes complete and accurate history efficiently. Responds to patient's affect and non-verbal cues (EPA 1).",
+    "Clinical Evaluation and Management: Student demonstrates a well-reasoned, individualized use of tests and procedures, generating a comprehensive treatment plan (EPA 3)."
+  ],
+  "MK": [
+    "Interpret vital signs and lab results",
+    "Interpret physical findings and ultrasound results",
+    "Decision to perform surgery",
+    "Fund of Knowledge: Student applies understanding of pathophysiology to clinical context (EPA 2).",
+    "Student recognizes critical findings (EPA 10)."
+  ],
+  "SBP": [
+    "Systems Awareness: Student understands and uses hospital systems information to facilitate patient care (notifies OR, blood bank, anesthesia) (EPA 13)."
+  ],
+  "ICS": [
+    "Obtain informed consent (not included in clerkship level learners)",
+    "Perform handoff of patient to next provider",
+    "Interpersonal Skills: Student engenders trust, and uses communication skills to deliver high level of care.",
+    "Presentation Skills: Student uses SBAR to present a cogent, efficient and sophisticated hand off, synthesizing complex information, conveying thought processes behind clinical decisions, and tailored to the setting. (EPA 8).",
+    "Student obtains informed consent for D&C (EPA 11)."
+  ],
+  "PBLI": [
+    "Desire to Learn: Student demonstrates intellectual curiosity (EPA 7)."
+  ],
+  "PROF": [
+    "Professionalism: Student models highest standards of integrity, reliability and collegiality in interactions with team and patient, seeking out and accepting responsibility"
+  ]
+}

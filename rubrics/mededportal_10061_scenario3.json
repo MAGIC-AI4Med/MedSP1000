@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_10061",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10061/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "$\\mathrm { O } _ { 2 } / \\mathrm { I V } / \\mathrm { I }$ monitor",
+    "History and physical examination",
+    "Requisite studies o Labs: CBC, BMP, cardiac markers, coagulation profile o Images: ECG, CXR",
+    "Place defibrillation pads",
+    "Initiate chronotropic infusions",
+    "Initiate transcutaneous pacing",
+    "Administration of atropine in setting of complete heart block",
+    "Inappropriate medication dosing",
+    "Failure to initiate transcutaneous pacing in patient unresponsive to chronotropic infusions"
+  ],
+  "MK": [
+    "Failure to recognize unstable bradycardia"
+  ],
+  "SBP": [
+    "Call expert consultation (Anesthesia for sedation)",
+    "Call expert consultation (Cardiology for transvenous pacing)",
+    "Failure to call Anesthesia for appropriate airway management"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

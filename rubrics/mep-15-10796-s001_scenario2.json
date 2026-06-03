@@ -1,0 +1,24 @@
+{
+  "case_id": "mep-15-10796-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10796-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Pap smear for cervical cancer screening +/- anal pap for anal cancer screening"
+  ],
+  "MK": [
+    "Cervical Cancer screening for transgender men follows the same initiation, interval, and cessation schedule as non-transgender women.",
+    "Transgender men have a 10-fold lower risk of unsatisfactory path results from their pap compared to non-transgender women.",
+    "a painful pap experience is correlated with non-adherence to future screening and colposcopy in transgender men.",
+    "Vaginal estrogens can be used one week prior to exam to improve transgender men's experience with paps."
+  ],
+  "SBP": [],
+  "ICS": [
+    "What are your preferences when having sex with your partner?",
+    "Ask about other practices (both insertive and receptive--don't make assumptions based on their gender).",
+    "Don't pass up the opportunity to ask about protection!",
+    "You should have a shared decision making conversation about anal paps with Mr P."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

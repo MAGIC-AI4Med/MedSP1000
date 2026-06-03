@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-12-10525-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10525-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Participants will use their notes regarding this patient to correctly diagnose lepromatous leprosy in the debrief session."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Participants will work together as an inter-professional team to take a thorough history of a patient presenting with lepromatous leprosy."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Participants will interact professionally with the patient."
+  ]
+}

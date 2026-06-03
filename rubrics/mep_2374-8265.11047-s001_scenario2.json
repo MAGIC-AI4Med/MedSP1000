@@ -1,0 +1,54 @@
+{
+  "case_id": "mep_2374-8265.11047-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11047-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Ensure that the patient’s camera setup and positioning are optimal for physical exam, including space for them to maneuver to show the camera different aspects of the physical exam",
+    "Obtain a detailed medical, surgical, social, and family history",
+    "Ensure that patient is in a comfortable position, which may be sitting, standing or laying",
+    "Ask patient to move further away or closer to camera depending on area being examined",
+    "Begin by assessing patient’s general appearance: ill-appearing or non-toxic?",
+    "Have patient check their own pulse. Have patient feel for their radial pulse and count how many beats while you time them for a given duration",
+    "While they are sitting in silence checking pulse, count their respiratory rate. Make sure that you have a good view on camera of patient’s chest rise.",
+    "If patient has a home thermometer, ask them to check their temperature",
+    "If patient has a home blood pressure machine, ask them to check their BP",
+    "If patient has a home pulse oximeter, ask them to check their O2 saturation",
+    "If patient has a home glucometer, depending on the scenario you may choose to ask them to check a blood glucose",
+    "HEENT: Check head for gross abnormalities, look at eyes for conjunctivitis, tearing or exudates, look for rhinorrhea, open mouth and check for any throat erythema or exudates. Check to see if tongue is dry or moist. The patient or a family member may assist with a flashlight if the lighting is poor",
+    "Neck: Assess for jugular venous distention, watch movement of neck",
+    "Lungs: Look for signs of increased respiratory effort, such as increased respiratory rate or usage of accessory muscles. Listen for audible wheezing",
+    "Heart: Have patient check pulse again and to say out loud when they feel a beat, such as saying “now.” This can provide information as to an irregular or regular heartbeat. Assessing capillary refill in digits maybe good surrogate for overall cardiovascular status",
+    "Abdomen: If complaining of pain, have patient point to exact area of pain. Have patient try to press on different parts of the abdomen while lying down to see if it elicits tenderness. Coach the patient through assessment for rebound",
+    "GU: if pertinent, patient may perform their own GU exam OFF camera and report findings",
+    "Extremities: Look for leg edema or erythema and care. Have patient press onto area of edema bilaterally to check extent of pitting vs. non-pitting edema. Have patient point to areas of pain. Compare both legs in same visual inspection",
+    "Skin: assess areas of rash",
+    "Make recommendations for treatment which may vary from conservative management, to new medications, to presenting urgently to the closest emergency department",
+    "Given this is new-onset congestive heart failure, the patient likely needs to be evaluated in a hospital setting and started on diuretics. Labs including troponin, EKG and possibly an echocardiogram need to be performed to evaluate if the patient had a prior or has an ongoing cardiac event that is causing this new onset heart failure."
+  ],
+  "MK": [
+    "Congestive Heart Failure – exertional dyspnea, orthopnea, pedal edema, diabetes, hypertension",
+    "Acute Coronary Syndrome – exertional dyspnea, diabetes, hypertension  Allergy-induced Asthma – occurred while gardening, shortness of breath  Pulmonary Embolism – pedal edema, worsening dyspnea"
+  ],
+  "SBP": [
+    "When having the patient present to the hospital, need understand how the patient will be transported and if there are any social concerns that may hinder this process, such as childcare or work-related absences"
+  ],
+  "ICS": [
+    "Maintain proper eye contact with the camera and thus patient throughout",
+    "Communicate with appropriate volume and cadence",
+    "Use hand gestures when appropriate in slow, visible fashion",
+    "Use facial expressions, smile throughout, appear engaged throughout session.",
+    "Provide initial overview to the patient of the physical exam to be performed",
+    "Explain to patient the limitations of this video-based physical exam",
+    "Ensure that the patient is comfortable with what will be occurring in the physical exam",
+    "Verbalize any limitations in your physical exam, particularly if pertinent to final disposition planning, so that the patient is informed as to how this influences your recommendations",
+    "Summarize to the patient the findings of your history and physical exam, including the things that you feel may be important but you were not able to assess",
+    "Discuss the differential diagnosis in appropriate terms for the patient to understand"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Anticipate physical exam requirements, including positioning or uncovering certain body areas while maintaining modesty and in a manner appropriate for video platform",
+    "Reassure patient that they may terminate the tele-exam at any time",
+    "Avoid deep sighs or physical gestures that might convey frustration in this process"
+  ]
+}

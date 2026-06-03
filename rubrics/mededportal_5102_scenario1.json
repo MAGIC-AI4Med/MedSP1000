@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_5102",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_5102/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask about current cigarette smoking?",
+    "Assess for level of dependence?",
+    "Ask about previous quit attempts?",
+    "Ask about the dose and duration of prior NRT use?",
+    "Ask about other current members of household who smoke?",
+    "Ask about family history of smoking related disease such as heart attack and lung cancer?",
+    "Wash their hands?",
+    "Set a quit date?",
+    "Offer pharmacotherapy and explain options?"
+  ],
+  "MK": [],
+  "SBP": [
+    "Offer individual or group classes or quitline?",
+    "Offer follow up shortly after the quit date?",
+    "Offer support of any non-physician staff?"
+  ],
+  "ICS": [
+    "Ask about motivation to quit?",
+    "Strongly urge patient to quit smoking?",
+    "Elicit and support the patient’s own motivation to quit?",
+    "Offer advice and assistance in a supportive manner to minimize resistance?",
+    "Express empathy and alleviate fear of withdrawal symptoms and cravings?",
+    "Explain nicotine addiction/dependence?",
+    "Introduce himself/herself?",
+    "Make appropriate eye contact with patient?",
+    "Ask questions in an organized fashion?",
+    "Ask open ended questions?",
+    "Allow patient time to answer questions?",
+    "Avoid asking \"leading\" questions (putting words in the patient's mouth)?",
+    "The student's overall communication skills were:"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Act professionally and appropriately?",
+    "Avoid making judgmental statements about the patient?"
+  ]
+}

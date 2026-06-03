@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_10257",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10257/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Verifies the current medications list.",
+    "Explains what the medication is for.",
+    "Explains how to take the medication.",
+    "Explains why simvastatin (Zocor) must be taken at bedtime and atorvastatin (Lipitor) does not. FOLLOW-UP 1",
+    "Explains duration of therapy is life-long. PROMPT 1",
+    "Asks you to report unusual myopathy/muscle pain/tenderness/weakness.",
+    "Counsels on additional side effects of atorvastatin. Might include: diarrhea, joint pain, nose inflammation, trouble sleeping, nausea, upset stomach, nausea, risk of liver injury/elevated liver enzymes (fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice).",
+    "Counsels you to avoid consuming large amount of grapefruit juice. FOLLOW-UP 2",
+    "Addresses interaction with colchicine. PROMPT 2"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Used the appropriate terminology (2.3a)",
+    "Was confident (2.3a)",
+    "Asked me if I had any questions AND gave me the opportunity to respond (1.5a)",
+    "Came to a satisfactory closure (1.5a)",
+    "Establishes rapport, puts me at ease (2.3a)",
+    "Would you return to this pharmacist?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

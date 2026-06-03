@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.10866-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10866-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Identify daily insulin requirement (80kg patient at 0.5U/kg/day= 40 units/day)",
+    "Divide the daily insulin requirement into basal and nutritional needs (20 units basal + 20 units nutritional)",
+    "Calculate individual basal doses for either once daily glargine or twice daily NPH (20 units glargine or 10 units NPH BID, with 7 units aspart with meals)",
+    "Choose a supplemental correctional scale of short acting insulin",
+    "Stop meal time, continue sliding scale and basal. In general, basal insulin should not change depending on patient’s nutritional status. NPH has a small peak effect and limited post-prandial coverage, as a result, can at times be reduced in times of fasting.",
+    "Suggested adjustment in this case:\n1. Give 20 units of glargine or if on NPH, give 10 units NPH QPM the night before\n2. Check fasting FS In AM, if >180mg/dl, give usual 10U NPH QAM, if <180mg/dL, give 5 units instead"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "She is correct that as a person living with type 2 diabetes, her problem is more one of insulin resistance and less about insulin secretion. However, you can reassure her that native hormonal regulatory mechanisms will cause her own pancreas to reduce its insulin production if she were to approach hypoglycemia.",
+    "Additionally, you can reassure her that her you will be starting with a low dose of insulin (less than her own body would make), that she will have her finger stick glucose frequently monitored, and that you will promptly adjust the insulin regimen as needed.",
+    "Lastly, just because she is getting insulin in the hospital does not mean (and probably won’t mean) that she will go home on insulin. It is often helpful to remind patients that you are using the insulin to replace their outpatient medications (so for this patient, you could consider telling them you’re using basal bolus to replace the metformin and sulfonylurea)."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

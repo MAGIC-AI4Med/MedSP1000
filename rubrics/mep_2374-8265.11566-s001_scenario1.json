@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11566-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11566-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Learners continue to gather a history and perform a physical exam with the help of the interpreter.",
+    "Urgent referral for abdominal/pelvic CT scan, labs (CBC, BMP, CRP), NPO, IV fluids, surgical consult."
+  ],
+  "MK": [
+    "The diagnosis is acute appendicitis due to pain migration from periumbilical region to the right lower quadrant (RLQ), RLQ tenderness, rebound pain, and guarding.",
+    "The differential includes gastroenteritis, ovarian torsion, ovarian cysts, diverticulitis, urinary tract infection, and mesenteric adenitis."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Ensure informed consent despite language barrier and acknowledge patient’s fear and frustration with surgery.",
+    "Students are challenged to attempt ≥3 communication strategies, such as writing notes, using voice to text modalities on their phones, gesturing, pointing, and using images to visually supplement communication.",
+    "They look at the patient when speaking rather than the interpreter.",
+    "As the clinical picture becomes clear, students should explain the need for surgical intervention and consider sketching a simple diagram or searching for an image online for a visual aid.",
+    "Learners address any fears or concerns the patient may have."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

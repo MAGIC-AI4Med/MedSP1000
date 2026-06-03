@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-12-10428-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10428-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a focused history and a focused physical exam.",
+    "Diagnostic studies: Doppler ultrasound, CBC"
+  ],
+  "MK": [
+    "Deep/superficial vein thrombosis\n\nHistory finding(s) Physical exam finding(s)\n\n*OCP use Unilateral leg edema/tenderness*\n\n*Travel history Erythema*\n\n*Tobacco use Fever*\n\n*Unilateral leg pain Evidence of local trauma*\n\n*Recent leg trauma*",
+    "Cellulitis\n\nHistory finding(s) Physical exam finding(s)\n\n*Skin wound Focal erythema/tenderness/edema*\n\n*Diabetes history Fever*\n\n*Focal pain Regional lymphadenopathy*\n\n*Recent leg trauma Wound to leg*",
+    "Other potential diagnoses: phlebitis/myositis/other deep tissue infection, soft tissue contusion, gastrocnemius m. strain, venous insufficiency, Baker’s cyst"
+  ],
+  "SBP": [
+    "History & Physical Examination: Describe the encounter with this patient. Include only information (pertinent positives and negatives) relevant to this patent’s problem(s)."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

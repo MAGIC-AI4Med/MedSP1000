@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_9903",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9903/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the physician wash their hands?",
+    "Did the fellow comprehensively examine the patient? (e.g. confirm neurologic deficits in order to independently evaluate prognosis?)",
+    "Fellow discussed nutrition (supplemental feeds via NG or PEG)",
+    "The fellow created an appropriate treatment plan to assure comfort care."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Did the physician introduce him/herself to the patient and daughter?",
+    "Did the patient’s daughter feel respected by the physician?",
+    "Was the patient’s daughter able to express her mother’s wishes to the physician?",
+    "Did the patient’s daughter understand the physician’s questions?",
+    "Did the patient’s daughter understand the physician’s answers?",
+    "Did the patient’s daughter feel that she played an active role in decision making?",
+    "Did the fellow comprehensively interview the patient’s daughter? (e.g. elicit daughter’s concerns about prognosis and questions about feeding tube?)",
+    "The fellow was able to obtain the patient’s wishes through the patient’s daughter. (e.g. patient wanted comfort care if irreversibly ill, but had not explicitly discussed feeding tubes)",
+    "The fellow was able to explain the patient’s status and expected prognosis to the patient’s daughter."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

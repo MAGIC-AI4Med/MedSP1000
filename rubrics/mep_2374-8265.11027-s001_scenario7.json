@@ -1,0 +1,15 @@
+{
+  "case_id": "mep_2374-8265.11027-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11027-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "\u201cThat\u2019s so great that you\u2019ve already made those big changes! Perhaps try frozen fruits and vegetables if you are having trouble affording fresh produce.\u201d Frozen fruits and vegetables are still healthy options if fresh produce is not available, in season, or affordable. They retain the overall nutritional content of their fresh counterparts.",
+    "\u201cAlthough switching to low sodium frozen dinners is a first step, try to cook more of your dinners at home. Maybe meal prep for your dinners a few times per week if you don\u2019t have time to cook every night.\u201d"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

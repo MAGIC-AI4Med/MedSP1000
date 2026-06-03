@@ -1,0 +1,46 @@
+{
+  "case_id": "mep-12-10409-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10409-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Monitors the status of the patient"
+  ],
+  "MK": [
+    "Provided appropriate illness severity"
+  ],
+  "SBP": [
+    "To do list provided",
+    "Provided situation awareness - plan for what might happen",
+    "Uses resources efficiently to maximize team performance",
+    "Balances workload within the team",
+    "Monitors fellow team members to ensure safety and prevent errors",
+    "Monitors the environment for safety and availability of resources (e.g. equipment)",
+    "Monitors profess toward the goad and identifies changes that could alter the plan of care"
+  ],
+  "ICS": [
+    "Patient summary is concise and relevant",
+    "Provided action plan with clear instructions",
+    "Made efforts to clarify code status with patient",
+    "Allowed receiver to synthesize and summary",
+    "Allowed receiver to ask questions",
+    "Introduced himself/herself and explained roles",
+    "Assembles a team",
+    "Assigns or identifies team members",
+    "Includes patients and families as part of the team",
+    "Provides brief, clear, specific, and timely information to team members",
+    "Seeks information from all available sources",
+    "Uses check back to verify information that is communicated",
+    "Uses SBAR, call-outs, & handoff techniques to communicate effectively with team members",
+    "Identifies team goals and vision",
+    "Delegates tasks or assignments, as appropriate",
+    "Fosters communication to ensure that team members have a shared mental model"
+  ],
+  "PBLI": [
+    "Conducts debrief. Huddles, and debriefs"
+  ],
+  "PROF": [
+    "Holds team members accountable",
+    "Role models teamwork behaviors"
+  ]
+}

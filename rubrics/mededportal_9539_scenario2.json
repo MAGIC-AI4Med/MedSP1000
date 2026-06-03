@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_9539",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9539/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "If a Sexually Transmitted Disease (STD) is suspected, it is necessary to ask questions regarding all possible STDs."
+  ],
+  "MK": [
+    "In addition to using Motivational Interviewing to prompt behavior change in her tobacco use, alcohol use, and “at risk“ sexual lifestyle, the interviewer should be able to identify that this could be a Sexually Transmitted Disease (STD) and the patient should be recommended to get testing for multiple STDs."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Acknowledging the wisdom of the patient to seek help (validating)",
+    "Allowing any emotion to open and then effectively moving to different areas",
+    "Allowing time to listen—this may be the first time this person has sought assistance. It is worth taking the time to listen.",
+    "Encouraging self-awareness and self-change talk",
+    "Reflecting your understanding of the situation to the patient",
+    "Identifying changeable behaviors (don’t ding a patient for personality)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

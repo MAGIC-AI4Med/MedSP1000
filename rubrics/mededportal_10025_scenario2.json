@@ -1,0 +1,36 @@
+{
+  "case_id": "mededportal_10025",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10025/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "\u2026explain that this will be reported so processes can be altered to prevent re-occurrence",
+    "Resident acknowledges the following:Their error compromised the patient&#x27;s health and well-being (i.e.,pain from burn, work responsibilities will be limited for the time-being, permanent scarring)The error could have had more profound implications if the allergicresponse had not been identified / treated so quickly.",
+    "Resident explains the procedures in the healthcare setting, whichwill be examined to prevent this sort of error in the future.Resident shares with patient the mechanism used for how errorwill be reported.Resident reflects in communication with the patient the particularHospital Requirements for disclosing an error."
+  ],
+  "ICS": [
+    "A. Builds a Relationship (includes the following): Greets and shows interest in patient as a person Uses words that show care and concern throughout the interview Uses tone, pace, eye contact, and posture that show care and concern",
+    "B. Opens the Discussion (includes the following): Allows patient to complete opening statement without interruption Asks \u201cIs there anything else?\u201d to elicit full set of concerns Explains and/or negotiates an agenda for the visit",
+    "C. Gathers Information (includes the following): Begins with patient\u2019s story using open-ended questions (e.g.\u201ctell me about\u2026\u201d) Clarifies details as necessary with more specific or \u201cyes/no\u201d questions Summarizes and gives patient opportunity to correct or add information Transitions effectively to additional questions",
+    "D. Understands the Patient\u2019s Perspective (includes the following): Asks about life events, circumstances, other people that might affect health Elicits patient\u2019s beliefs, concerns, and expectations about illness and treatment Responds explicitly to patient\u2019s statements about ideas and feelings",
+    "E. Shares Information (includes the following): Assesses patient\u2019s understanding of problem and desire for more information Explains using words that patient can understand Checks for mutual understanding of diagnostic and/or treatment plans Asks if patient has any questions",
+    "F. Reaches Agreement (IF new/changed plan) (includes the following): Includes patient in choices and decisions to the extent s/he desires Asks about patient\u2019s ability to follow diagnostic and/or treatment plans . Identifies additional resources as appropriate",
+    "G. Provides Closure (includes the following): Asks if patient has questions, concerns or other issues Summarizes/asks patient to summarize plans until next visit Clarifies follow-up or contact arrangements Acknowledges patient and closes interview",
+    "\u2026express empathy for the error and its consequences?",
+    "\u2026listen to Edna and attend to her concerns?",
+    "Look for: 0 Open body posture Sitting at equal level with 0 patient; no barriers 0 Eye contact 0 Calmness of resident 0 Resident mirrors congruent affect of patient&#x27;s facial expressions Resident tracking the 0 patient&#x27;s behavior",
+    "listen for... Did resident: 0 Introduce him/herself to the patient? 0 Use non-coercive language? 0 Use everyday language and no medical jargon? 0 Apologize to the patient about the error? 0 Attend to the patient&#x27;s fears and concerns? 0 Verify the patient&#x27;s understanding by asking questions? Respond to the patient&#x27;s questions and ramifications of 0 the error?",
+    "Resident acknowledges that this kind of scarring is more pronounced ondarker skin",
+    "Resident acknowledges patient&#x27;s frustration / anger with the error.Resident respectfully and non-defensively listens to the patient&#x27;sresponse to the error, addressing all questions and concernsraised by the patient."
+  ],
+  "PBLI": [
+    "\u2026demonstrate understanding of how personal limitations and processes contribute to medical errors?"
+  ],
+  "PROF": [
+    "\u2026respond to the medical error in a professional manner?",
+    "\u2026display regret?",
+    "Resident accepts ownership and responsibility for the error. Resident clearly explains to patient measures that will be taken toensure this will never happen again."
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.10957-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10957-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "Use hypothesis-driven history taking to identify key or distinguishing features of a patient presenting with severe fatigue and pallor.",
+    "A complete blood count and a reticulocyte count should be obtained to check this patient’s hemoglobin level, to determine if transfusion is indicated and to evaluate his/her other red blood cell indices, which may help distinguish between a red blood cell production problem (i.e., aplasia) versus hemolysis.    If parvovirus B19 is suspected, PCR testing for this virus should be performed on serum to confirm the diagnosis. Once confirmed, isolation of such patients is important for preventing exposure to pregnant women and other immunocompromised individuals at special risk of severe disease."
+  ],
+  "MK": [
+    "Interpret physical exam (PE) findings to further characterize this patient’s problem representation.",
+    "The diagnosis in this patient is an aplastic crisis due to parvovirus B19 infection, suggested by the acute severe fatigue, signs of severe anemia on physical exam, and recent contact with a child with a “slapped cheek” rash.",
+    "Other conditions in the differential diagnosis for this patient include aplastic crisis from other pathogens known to cause this condition in sickle cell patients, including *Streptococcus pneumonia, Salmonella*, other streptococci, and Epstein-Barr virus. Noninfectious conditions leading to acute severe anemia should also be considered, including acute severe bleeding (of which there was no evidence in this patient) and secondary causes of bone marrow aplasia (drug/toxin exposures, autoimmune disease)."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

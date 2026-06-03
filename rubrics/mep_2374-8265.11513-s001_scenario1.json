@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11513-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11513-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Recognize patient is unresponsive and perform basic assessment",
+    "Begin and optimize compressions",
+    "Perform ACLS care including respiratory support, defibrillation, and medication administration",
+    "Perform uterine displacement"
+  ],
+  "MK": [
+    "Recognize cardiac arrest",
+    "Consider resuscitative hysterotomy",
+    "Consider the differential diagnosis of maternal cardiac arrest"
+  ],
+  "SBP": [
+    "Call for additional help",
+    "Activate additional resources"
+  ],
+  "ICS": [
+    "Assign roles",
+    "Use effective teamwork and communication"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

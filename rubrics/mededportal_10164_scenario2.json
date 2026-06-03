@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_10164",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10164/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a rapid assessment: CAB, vital signs",
+    "Perform a focused history and examination",
+    "Order oxygen",
+    "Request appropriate tests: Lab, EKG, Chest x-ray, ABG",
+    "Early cardiovascular support with initiation of IV fluids",
+    "Address active vomiting",
+    "Place the patient on cardiac monitor",
+    "Treatment of the seizure with benzodiazepines first, then treatment of refractory seizures with IV propofol or phenobarbital",
+    "Gastrointestinal decontamination with activated charcoal once vomiting controlled",
+    "Cautious correction of hypokalemia, hypophosphatemia and hyperglycemia",
+    "Rapid sequence endotracheal intubation"
+  ],
+  "MK": [
+    "Identification of the causative agent: Theophylline poisoning",
+    "Recognize that if sedative meds are given, respiratory support with endotracheal intubation is indicated"
+  ],
+  "SBP": [
+    "Request appropriate consults: Toxicology, Nephrology and Critical Care"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

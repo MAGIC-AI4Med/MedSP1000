@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_10164",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10164/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a rapid assessment: CAB, vital signs",
+    "Perform a focused history and examination",
+    "Initiate oxygen therapy",
+    "Start IV Fluids",
+    "Address active vomiting",
+    "Place the patient on cardiac monitor",
+    "Assessment of cardiac arrhythmia with overdose appropriate treatments",
+    "Cautious correction of hypokalemia, hypophosphatemia and hyperglycemia",
+    "Gastrointestinal decontamination with activated charcoal once vomiting controlled",
+    "Request appropriate tests: Lab, EKG, Chest x-ray, ABG"
+  ],
+  "MK": [
+    "Identification of the causative agent: Theophylline poisoning"
+  ],
+  "SBP": [
+    "Consultation with Toxicology for treatment plan review",
+    "Referral to Nephrology for consideration of hemodialysis",
+    "After sedation is given and intubation takes place, Critical Care Service should be consulted for focused hand-off and admission"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

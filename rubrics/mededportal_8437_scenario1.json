@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_8437",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8437/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Within your multidisciplinary group, you are to formulate questions to ask the patient that will determine your plan of care. You do not need to physically examine the patient, only talk with him or her. For example, some of the things to consider for this patient are:\nWhat patient history is relevant for this issue?\nWhat other issues might we need to think about?"
+  ],
+  "MK": [
+    "Identify at least 3 contributing factors to insomnia in an adult patient.",
+    "Describe the typical presentation and initial therapy for carpal tunnel syndrome.",
+    "Discuss the potential impact of nutritional factors and over-the-counter medications on a patient."
+  ],
+  "SBP": [
+    "Discuss the contributions of different health care providers in the care of patients.",
+    "Evaluation and management plans for the patient should consider:\nPharmacologic issues (addition and/or removal of drugs)\nNon-Pharmacologic therapy\nRole of team in management\nPT re modalities? Exercises, splinting\nNursing re nutrition, social supports\nOther team members?\nPlan for follow up\nResources for assistance"
+  ],
+  "ICS": [
+    "Collaborate with other health professionals to develop a care plan.",
+    "Use “time out” as needed. Ensure that the car plan discussion is patient-centered."
+  ],
+  "PBLI": [
+    "Assess the efficacy of the interprofessional team approach to providing care to a specific patient."
+  ],
+  "PROF": []
+}

@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_9145",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9145/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Identifies post catheterization hypotension o Recognizes retroperitoneal bleed in differential diagnosis o Initiates fluid resuscitation treatment",
+    "Identifies PEA Arrest o Initiates treatment promptly including CPR o Provides appropriate treatment according to ACLS guidelines"
+  ],
+  "MK": [
+    "Considering options (acts on a broad ddx)",
+    "Medical KnowledgeCorrectly identifies problem, makes correct critical decisions"
+  ],
+  "SBP": [
+    "Planning and preparation (tasks chosen w/ regard to urgency)",
+    "Flexibility/responding to change (can reshufle priorities whennew information presented)",
+    "Patient care Uses system/personnel appropriately to direct medical care"
+  ],
+  "ICS": [
+    "o Establishing a leader o Communication to and through the leader o Leader uses closed-loop techniques o Leader defines roles of other team members",
+    "Selecting and communicating option (articulates commandsclearly/concisely;provides foran alternative plan)",
+    "Implementing and reviewing decisions (summarizes thoughts)",
+    "Setting and maintaining standards (identifies self, role)",
+    "Exchanging information (thinks aloud)",
+    "Establishing a shared understanding (invites others' input)",
+    "Coordinating team activities (shows closed-loop comm..)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

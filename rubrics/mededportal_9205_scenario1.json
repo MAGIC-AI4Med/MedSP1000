@@ -1,0 +1,60 @@
+{
+  "case_id": "mededportal_9205",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9205/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Location: Patient or nurse marks drawing indicating pain location.",
+    "Intensity: Patient rates the pain. Scale used: Numerical 0–10 Present: 7/10 Worst pain gets: 10/10 Best pain gets: 7/10 Acceptable level of pain: “No pain”",
+    "Quality: (Use patient’s own words, e.g., prick, ache, burn, throb, pull, sharp) sharp, stabbing, stretching, burning; goes down leg to foot",
+    "Onset, duration, variations, rhythms: began when lifting furniture, now daily constant pain, worsens with movement, slight improvement if still",
+    "Manner of expressing pain: upset, frustrated, losing patience",
+    "What relieves the pain? “Percocet”",
+    "What causes or increases the pain? Standing, bending, lifting",
+    "Effects of pain: (Note decreased function, decreased quality of life.) Accompanying symptoms (e.g., nausea) no changes in bowel or bladder function Sleep poor-uncomfortable lying flat but worse when turns over Appetite decreased- ? stomach upset from medications Physical activity very limited- unable to lift, climb stairs, stand up for long Relationship with others (e.g., irritability) moody, impatient with family Emotions (e.g., anger, suicidal, crying) angry, frustrated, embarrassed by disability Concentration distracted by pain and worry that he won’t get better Other complains it is difficult to get dressed",
+    "Other comments: “need to get better and get back to work”",
+    "Plan: up to you . . .",
+    "Long‐acting opioids should be initiated only in patients who are already opioid tolerant and are experiencing inadequate relief of pain using short‐acting opioids.",
+    "Long acting opioids should not be used to treat acute, post‐operative, or intermittent pain.",
+    "Start low and go slow.  Start with the lowest doses and increase slowly at appropriate intervals to avoid causing sedation and overdose.  It may take days for patients to achieve full steady‐state serum levels."
+  ],
+  "MK": [
+    "A depression diagnosis that warrants treatment or treatment change, needs at least one of the first two questions endorsed as positive (little pleasure, feeling depressed) indicating the symptom has been present more than half the time in the past two weeks.",
+    "In addition, the tenth question about difficulty at work or home or getting along with others should be answered at least “somewhat difficult.”",
+    "15-19 Major depression， moderatelysevere Antidepressant or psychotherapy",
+    "Score ≥ 8 “positive”; significant likelihood of: Hazardous or harmful drinking patterns Possible diagnosis of alcohol dependence.",
+    "Score ≥ 3 is considered a “moderate level” of problems related to drug use and warrants further investigation. Any single positive answer may warrant further investigation in pain patients.",
+    "History of alcohol or drug abuse/addiction • Cigarette smoking Younger age History of mood disorder, especially unipolar depression History of childhood sexual abuse Family history of substance abuse History of driving under the influence or drug-related legal problems."
+  ],
+  "SBP": [
+    "Diagnosis: Documentation of indication for opioids",
+    "Responsibilities of patients: taking as prescribed only, safe storage",
+    "Office procedures: appointments, refills, insurance, payments",
+    "Safety procedures: Safe storage, urine drug testing, callbacks",
+    "Expectations for use of adjuvant meds and modalities",
+    "All patients for whom opioids may be prescribed should be screened for SUDs early in the evaluation of pain complaints, arguably before the first prescription for opioids.",
+    "Discuss options for further investigation of a positive screening, such as further provider history and evaluation by a behavioral health or addiction treatment professional."
+  ],
+  "ICS": [
+    "Treatment goals should be discussed and documented explicitly",
+    "Goals: decrease pain, improve function, maximize safety, minimize harm",
+    "Set goals that are specific, measurable, and realistic, with time lines or limits in which it would be expected that each goal would be met. Record these goals and review at each visit, tracking whether goals are being met or not.",
+    "“Pain free” is not a safe or realistic goal. Patients should not expect to become pain free. Instead, the expected outcomes are decreased pain and improved function.",
+    "Treatment of last resort; other treatments that have been tried and failed",
+    "Side effects/toxicities",
+    "Medication interactions",
+    "Impaired driving or other activities that put self/others at risk",
+    "Physical dependence",
+    "Addiction potential",
+    "Sexual side effects",
+    "Risk to pregnancy.",
+    "“In order to help me take better care of my patients, there are some questions I ask everyone in my practice…”",
+    "“Many of my patients have expressed concern that pain medications can cause addiction…Is that something you are worried about?”",
+    "“Have any of your friends or family ever had problems controlling their use of medications? Alcohol? Drugs?”"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Even when providers decide a patient may be too high risk to manage in their outpatient offices, they still have the responsibility to help the patient find resources to manage both pain and the substance-related problems.",
+    "If you become addicted to these medications, we will help you get treatment and get off of the medications that are causing you problems safely, without getting sick."
+  ]
+}

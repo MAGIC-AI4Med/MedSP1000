@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_1722",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1722/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Identify the most critical problem of a patient based on pt’s clinical information, chief complaints, & the student’s own physical assessment and verbalize “WHY”",
+    "Consider the necessary care for this emergent situation.",
+    "Identify the necessary steps for acute emergency case management.",
+    "Emergency management – [No technical training is given at this time]\n\nAssess and protect airway Keep patient in a semi-reclined position if tolerated Immediately provide supplemental oxygen, if available Assess vital signs Consider administering nitroglycerine to the patient Reduce precipitating factors that may be contributing to the onset of pain If stabilized: use gauze to slow blood, suture wound closed & transfer to oral surgeon. With delayed recovery, call 911"
+  ],
+  "MK": [
+    "Recognize and interpret pressure and EKG traces on clinical monitors. (review from case # 1)",
+    "Define the cardiac rate and rhythm. (review from case # 1)",
+    "Measure and analyze the cardiac output. (review from case # 1)",
+    "Describe the common rhythm abnormalities. (review from case # 1)",
+    "Recognize and be able to describe stable and unstable angina.",
+    "Define the vasodilatory effect of the nitroglycerine. Identify the time to stop the dental procedure."
+  ],
+  "SBP": [
+    "Introduce the concepts of task delegation and medical referrals. (review) Recall the American Society of Anesthesiologist Classification System (ASA): http://www.dhed.net/ASA%20Physical%20Status%20Classification%20SYSTEM.htm Underline the classification which matches with the medical history of the simulated patient.",
+    "Formulate a discharge plan.",
+    "Verbalize necessary referrals for this patient.",
+    "Delegate task to other healthcare members (oral surgeon under sedation.)",
+    "Prevention – Angina is often triggered by stress or exertion. Consider length of appointment, pain control during treatment, and consider using psychosedation (based on medical assessment). Consider administering patient prescribed nitroglycerin prophylactically prior to start of procedure. Consider referring to oral surgeon initially."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_10043",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10043/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Clarify incomplete components of medical and social history.\n“I reviewed your chart and I understand that… (Summarize briefly the information), but I would like to clarify some information…”"
+  ],
+  "MK": [],
+  "SBP": [
+    "Preparation:\n1. Identification of the reason for consultation and clarify the range of prognosis according to the expected gestational age prior to meeting with parents.\n2. Review the maternal chart.\n3. Discuss the plan with the obstetrical team (including fetal ultrasound result and estimated fetal weight).\n4. Find a time and quiet place to make parents comfortable and allow for questions (30-60 minutes).\n5. Try to have both parents present at the consultation (may need to schedule appointments). Appropriately inquire about the father's/partner's presence/absence (if applicable).",
+    "Offer a break time in order to give the parent(s) an opportunity to talk together and/or with other family members or friends and plan a follow-up meeting with them within 24 hours.",
+    "Offer the opportunity to make any changes to the care plan now or later, recognizing there are limits.\nOffer the opportunity to re-discuss and information or changes of the clinical situation individually or with other supports (e.g. nurses, social work, etc.).\nMaintain open communication."
+  ],
+  "ICS": [
+    "Welcome to parent(s) & introduce yourself.\nIntroduce other attendees as needed (e.g. trainees, etc…).\nWelcome to others (e.g. grandparents, acquaintances, etc …) and inquire about the appropriateness of their presence in the room based on the parent(s)’ wishes. Clarify their relationships to parents.",
+    "Inquire about the baby’s name and refer to the baby’s name.\nUnderstand and acknowledge the parent(s)’ concerns.\nBe honest. Admit uncertainty when present.\nMaintain eye contact.\nDemonstrate compassion and empathy.\nRecognize the parent(s) wish.\n“I’m sorry to be meeting you in this difficult circumstance. However, I am here because there is a risk that [Name] may come early.”",
+    "Introduce the agenda for the initial meeting.\nUse an open ended question to create the agenda according to the parent(s) needs.",
+    "Build upon and evaluate the parent(s)’ knowledge base, level of understanding, values, beliefs and preferences for participation in the decision making by using an open ended question.\n“How I can help you to better understand the situation and to make plans for [Name]?”",
+    "Verify parent(s) perspectives by using open-ended questions.\n“What is your experience with premature infants?”\n“What are your worries for [Name], if is going to be born in the next few days?”\n“How can I support you?”",
+    "Transitional signal toward discussion about consequences of prematurity\n“My goal in the next minutes is to share with you information that may help you understand the situation.”\n“The information that I am going to discuss may be difficult to hear, but it takes into account your whole situation.”",
+    "Share the information with parent(s) using short sentences and simple, non-medical terminology.\nAcknowledge our prognostic limitations and the limits of the meaning of statistics.\nAllow silence and time as often as needed.",
+    "Evaluate parent(s)’ understanding frequently and make readjustments as necessary. Offer time for parent(s) to ask questions as often as possible.\n“May I ask you to summarize what I told you?”\n\"Is there anything else you need to know or understand better?\"",
+    "Observe parent(s) reactions and listen to the way the parents describe the situation.\nIf you can identify them, you can name them:\ni.e. Anger: \"You seem upset by that …\"\nAcknowledge, validate and support parent(s) emotions.\n\"Your emotions/reactions, are more than understandable\"\nAllow them to keep some realistic hope (2 scenarios):\n“The days and weeks that you gain for [Name], will give them greater chances of survival and better long term outcome.”\n“[Name] needs to be delivered early so they will have a better chance of survival and less of a chance to develop complications.”\nOffer support to parent(s) all along the encounter.\n\"We know that this is very difficult for you. Is there anything you would like me to do that would help you in a more concrete way?\"\n“We will be with you all along the process….”",
+    "Transition toward discussion about care plan.\n\"The news that I just shared with you is difficult to hear, but I need to discuss with you what can be offered to [Name] if they are born very soon.”\nAsk the parent(s) if they are comfortable with the current process or the way they are participating to the discussion.\n“Are you comfortable to discuss now or would you prefer me to come back later?\"",
+    "Explain the usual care offered in that specific situation. Offer options according to the standard of care.\nAlways discuss options with parent(s) to allow them to participate.",
+    "Re-introduce yourself.\nSummarize previous discussion(s)/decisional care plan.\nProvide parent(s) the opportunity to ask any questions.",
+    "Set the agenda for this meeting:\nEvaluate parent(s) preferences to participate in the decision making process.\nNegotiate a shared treatment plan for the care of the baby if s/he is going to be born.\nUse words such as: “team, shared, together” etc.",
+    "Based on the care plan decision, explain what will happen to the baby in detail, including the usual behaviors of the baby, depending on the following care plan chosen:\n- Interventionist\n- Comfort care",
+    "Obtain clear consent for the care plan.\n“Do you agree with the care plan that we made together for [Name] …?\nEmpathize with parent(s) and their perspective while reaffirming care plan.\n“The decision we made is the best in the circumstances. We will make sure that [Name] … will receive the care as we discussed.”",
+    "Ask for any other questions or clarification before you leave.\n\"Do you have any questions about what we have discussed today?”\nClose the interview by being appropriately hopeful.\n“Goodbye and we will see you again as needed.”\n“We wish you the best and hope your pregnancy continues without further complications and that your baby does very well”\n“We will do our best, when [Name] is born and keep you informed at all times.”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

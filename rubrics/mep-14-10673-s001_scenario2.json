@@ -1,0 +1,26 @@
+{
+  "case_id": "mep-14-10673-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10673-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Consider a brain MRI to search for metastatic disease.",
+    "Would check a CBC given history of cyclophosphamide and TSH given history of chest radiation",
+    "Electrocardiogram given history of doxorubicin and to evaluate for arrhythmia, +/- echocardiogram if there are symptoms or signs of cardiomyopathy from history and physical exam.",
+    "Would also consider Doppler ultrasound of the lower extremities +/- CT chest if history indicates possible venous thromboembolism given anastrozole and cigarette use.",
+    "Would check a TSH given history of chest radiation.",
+    "Would check BMP and a urinalysis considering history of cyclophosphamide."
+  ],
+  "MK": [
+    "Brain metastasis and neuropathy are the most significant concerns.",
+    "Paclitaxel can contribute to neuropathy",
+    "Would consider whether she is having arrhythmias given history of doxorubicin therapy.",
+    "Would consider thyroid dysfunction given history of radiation therapy.",
+    "Based on history of chest radiation, consider thyroid dysfunction",
+    "Given history of cyclophosphamide therapy, consider secondary bladder cancer or cystitis."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

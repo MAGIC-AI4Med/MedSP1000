@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_10205",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10205/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain accurate history including tetanus status, prior envenomation and allergies",
+    "Perform appropriate first aid: remove jewelry, clean and wash bite, keep extremity at level of the heart",
+    "Update tetanus immunization",
+    "Pain control with narcotics while being mindful of hypotension",
+    "Measure circumference of affected extremity on presentation and repeat every 15-30 minutes initially",
+    "Order CBC, chemistry, PT, PTT, fibrinogen or d-dimer, type & screen, CK",
+    "Administer antivenin",
+    "Epinephrine for anaphylaxis (optional path)",
+    "Do not apply ice",
+    "Do not place a tourniquet",
+    "Do not attempt to incise and drain wound",
+    "Do not give prophylactic antibiotics",
+    "Do not perform or recommend a fasciotomy"
+  ],
+  "MK": [
+    "Correctly identify rattlesnake"
+  ],
+  "SBP": [
+    "Consult poison control",
+    "Once patient is stabilized, transfer/handoff to Critical Care team"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

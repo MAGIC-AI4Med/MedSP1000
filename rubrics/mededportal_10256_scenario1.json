@@ -1,0 +1,58 @@
+{
+  "case_id": "mededportal_10256",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10256/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Positions patient correctly",
+    "Washes hands OR uses hand sanitizer",
+    "Puts on gloves",
+    "Separates the labia and buttock cheeks sufficiently AND appears to visually inspect the entire genital region/perineum",
+    "Comments on normal appearance at \u22653 stages of examination",
+    "Expresses intention to lubricate speculum (PLEASE DO NOT LET RESIDENT ACTUALLY USE LUBRICANT, WHICH WILL DAMAGE MODELS)",
+    "Avoids contaminating light source AND other surfaces during and after examining the patient",
+    "Retracts labia minora prior to speculum insertion AND inserts speculum with care",
+    "Locates cervix",
+    "Samples cervical surface AND os with spatula AND cytobrush OR broom (AT THIS POINT, SIGNAL THE RESIDENT TO HAND THE SPECIMENS TO YOU)",
+    "Closes bills of speculum and withdraws carefully",
+    "Re-drapes AND helps patient sit at conclusion of the exam",
+    "Halts the exam immediately when the patient displays distress",
+    "Modifies speculum position if the patient complains it is uncomfortable",
+    "Disposes soiled materials appropriately and washes hands after removal of gloves.",
+    "Encourages the patient to continue behavioral health counseling",
+    "Helps the patient make an immediate self-care plan before leaving the office"
+  ],
+  "MK": [],
+  "SBP": [
+    "Discusses plan for communicating results of Pap test"
+  ],
+  "ICS": [
+    "Addresses any concerns or questions raised by the patient",
+    "Outlines strategies to maximize patient safety, comfort, and control  MUST LIST TWO to receive credit:\n* Asks for patient preferences regarding support person/chaperone\n* Offers the option of self-insertion of the speculum\n* Offers the option of positioning without use of stirrups (suggested term to use with patients: footrests)\n* Provides assurance that the patient can stop the exam at any time\n* Negotiates in advance what will happen if the patient chooses to halt the exam",
+    "Obtains explicit permission to perform the exam prior to proceeding",
+    "Warns patient prior to exam maneuvers",
+    "Inquires as to the source of the patient\u2019s discomfort",
+    "Utilizes stress reduction and grounding techniques  MUST DO TWO of THREE to receive credit:\n* Utilizes ANY relaxation techniques (e.g., asks the patient to take a few deep breaths)\n* Utilizes ANY mental grounding techniques (e.g., repeatedly orients the patient by telling them what day it is, what time it is, and where they are in the present)\n* Utilizes ANY physical grounding techniques (e.g., has the patient hold the table, feel their hands, squeeze their fists, etc.)",
+    "Reassures the patient that distress is a natural response given a past history of trauma",
+    "I felt you were telling me everything; being truthful, up front,  and frank; not keeping things from me.",
+    "I felt that you discussed options with me.",
+    "I felt you made sure that I understood those options.",
+    "I felt you asked my opinion, allowing me to make my own decision.",
+    "I felt you encouraged me to ask questions.",
+    "I felt you answered my questions, never avoiding them.",
+    "I felt you clearly explained what I needed to know about my problem; how and why it occurred.",
+    "I felt you clearly explained what I should expect next.",
+    "I felt you greeted me warmly upon entering the room.",
+    "I felt you were friendly throughout the encounter. You were never crabby or rude to me.",
+    "I felt that you treated me like we were on the same level.  You never \u201ctalked down\u201d to me or treated me like a child.",
+    "I felt you let me tell my story and were careful not to interrupt me while I was speaking.",
+    "I felt you showed interest in me as a \u201cperson.\u201d You never acted bored or ignored what I had to say.",
+    "I felt you were patient when I asked questions.",
+    "I felt you were careful to use plain language and not medical jargon when speaking to me.",
+    "I felt you approached sensitive/difficult subject matters with sensitivity and without being judgmental."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "I felt the resident displayed a positive attitude during the verbal feedback session."
+  ]
+}

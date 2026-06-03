@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11148-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11148-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Elicit open-ended history about CC / HPI",
+    "Elicit 5 P’s: \\_\\_ Partners, \\_\\_\\_ Practices, \\_\\_ Past history of STI testing & diagnoses,\n\\_\\_\\_\\_ Protection from STI, \\_\\_\\_\\_ Pregnancy Plans",
+    "[FYI] the PROVIDER should offer the following tests:\n**HIV serology** – HIV negative MSM with >1 partner since the last check\n**RPR –** MSM with multiple partners and intermittent condom use should be screened every 3-6 months\n**Urethral and Pharyngeal Chlamydia / gonorrhea** – insertive anal and oral sex (urethral), receptive oral sex (pharyngeal). Rectal screening is not required if patient had prior negative testing and does not engage in receptive anal sex."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Elicit and use inclusive and patient preferred language",
+    "Normalize asking sensitive questions",
+    "Establish confidentiality",
+    "Recognize non-verbal clues"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Maintain professionalism, open-mindedness, non-judgmental tone, respect"
+  ]
+}

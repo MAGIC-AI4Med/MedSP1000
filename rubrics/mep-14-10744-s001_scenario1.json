@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-14-10744-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10744-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Requests additional history (e.g., prior course, recent medications).",
+    "Performs focused oropharyngeal and airway examination.",
+    "Initiates prompt medical therapy and prepares for difficult airway.",
+    "Decides to intubate patient with a backup plan including surgical airway.",
+    "Decides to perform a surgical airway."
+  ],
+  "MK": [
+    "Recognizes angioedema and possible anaphylaxis."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

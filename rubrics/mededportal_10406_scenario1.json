@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_10406",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10406/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Request additional information such as laboratory studies and pertinent history",
+    "Suggest strategies for DKA management including the following:\nTwo large bore IV lines, arterial line to guide resuscitation\nAggressive fluid resuscitation given the patient’s significant fluid deficit\nPotassium replacement when the patient’s potassium is less than 5.5\nInsulin infusion as long as the patient’s potassium is greater than 3.3 (insulin should be held for low potassium)\nAddition of a dextrose source when the patient’s blood glucose is greater than 250\nContinued resuscitation until the patient’s anion gap closes",
+    "Outline the plan for anesthetic management for the emergent cesarean section, including the following:\nGeneral anesthesia\nRapid sequence induction\nContinued fluid resuscitation throughout the procedure\nContinued management of insulin and electrolytes during the procedure",
+    "Manage the airway in the meconium-stained neonate with poor Apgar score using ‘suction, intubate, suction, ventilate’ while avoiding stimulation",
+    "Assess for hypoglycemia in the neonate of a diabetic mother by checking a blood glucose level",
+    "Supplement for neonatal hypoglycemia with dextrose"
+  ],
+  "MK": [
+    "Calculate an anion gap based on data provided",
+    "Diagnose longstanding diabetes based on Hb A1C of 11.3, anion-gap metabolic acidosis based on ABG, and DKA based on anion gap of 24 and B‑hydroxybutyrate of 3.3"
+  ],
+  "SBP": [
+    "Create a plan for care of the anesthetized mother during resuscitation of the depressed neonate"
+  ],
+  "ICS": [
+    "Inform the obstetrician on call that the patient is not medically optimized for non-emergent surgery",
+    "Inform the obstetrician that, even though the glucose is improved, resuscitation is not complete and the patient is not optimized for non-emergent surgery until the anion gap improves"
+  ],
+  "PBLI": [
+    "The learner is receptive to and reflects upon feedback provided following the simulation."
+  ],
+  "PROF": []
+}

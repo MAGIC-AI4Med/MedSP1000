@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11394-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11394-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Lessen chance for future errors- discuss details for reporting/follow-up and what steps might be taken to decrease the risks of this happening again"
+  ],
+  "ICS": [
+    "Empathy- verbalize at least one empathetic statement during discussion of the events, make good eye contact and positive body language, inquire about the family member’s emotions and not interrupt.",
+    "Education- clearly state why the error occurred and its results/implications"
+  ],
+  "PBLI": [
+    "Awareness- confirm that now is an appropriate time to talk, evaluate for possible cause of error/situational circumstances"
+  ],
+  "PROF": [
+    "Honesty- explicitly state an error has occurred"
+  ]
+}

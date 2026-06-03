@@ -1,0 +1,53 @@
+{
+  "case_id": "mededportal_9378",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9378/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Q1. Is there any additional information that you want to ask Mr. Samuel?",
+    "Some things the students may think to order are:\n\nPulse oximetry\n\nBasic pulmonary function tests\n\nCXR",
+    "Q13. What two types of initial medications might you prescribe Mr. Samuel for his asthma? What is the mechanism of action and common side effects of these medications?",
+    "Add an inhaled long-acting B2 agonist bronchodilator (i.e. salmeterol and formoterol) or a leukotriene modifier (i.e. montelukast, zafirlukast, zileuton) to his inhaled corticosteroid.",
+    "You wondered if there might be an environmental trigger to his asthma so on this follow-up visit today, you take a detailed exposure history, including an occupational history.",
+    "He fills out a log with the following information:\n\n1. Peak flow 4 times per day (before work, mid-shift, end of shift, and bedtime, with similar times on non-work days).\n2. He records his symptoms and albuterol use throughout the day\n3. He records what types of pastries he is making each day"
+  ],
+  "MK": [
+    "Demonstrates at least one of the following:  -Asks questions to clarify own or groups understanding  -Explains mechanisms that lead to patient symptoms based on basic science concepts  -Generates and refines hypotheses that account for identified problems  -Identifies next steps and predicts results to help advance hypotheses",
+    "Demonstrates 2 or 3 of the following:  -Explains mechanisms that lead to patient problems  -Generates and refines hypotheses  -Identifies next steps and predicts results  -Asks questions to clarify own or groups understanding",
+    "Demonstrates all of the following:  -Explains mechanisms that lead to patient problems  -Generates and refines hypotheses  -Identifies next steps and predicts results  -Asks questions to clarify own or groups understanding",
+    "Q2. What are the key features of this presentation so far which your diagnoses should explain?",
+    "Q3. Using the template on the board, generate an initial differential diagnosis based on his history. For each diagnosis listed, state what you will be looking for on physical examination (a hypothesis driven approach).",
+    "Students should recognize that the tachypnea, wheezing and prolonged expiratory phase point them toward pulmonary pathology. Because the wheezing is diffuse, this makes infection, embolism or other focal processes such as neoplasms less likely. The cardiac exam is normal, making cardiac etiologies less likely. He has no signs of anemia (normal conjunctiva, not tachycardic).",
+    "Q6. What is the differential diagnosis for an elevated eosinophil level?",
+    "Q7. What does the CXR show? Apply a standardized approach to reading a chest radiograph.",
+    "Q8. What is forced vital capacity? What is FEV1? Label and define the lung volumes on the diagram drawn on the board.",
+    "Q9. What do Mr. Samuel’s basic spirometry results indicate? How does this support or refute your previous diagnosis? Draw a normal flow-volume curve and a curve that represents Mr. Samuel’s results.",
+    "Q10. What is asthma? How do you diagnose asthma?",
+    "Q11. What is the pathophysiology of asthma?",
+    "Q12. How do total lung capacity, functional reserve capacity and residual volume change during an acute asthma attack? Why?",
+    "There are a number of factors that should be considered when a patient fails to respond to therapy:\n\n* Medication non-adherence\n* Improper usage or administration of medications\n* Other illnesses or conditions that could exacerbate asthma:\n  + Lower respiratory tract illnesses such as bronchitis, pneumonia, tuberculosis\n  + An allergic component of asthma\n  + Gastroesophageal reflux disease (GERD)\n* Misdiagnosis…could this be something else?\n  + Conditions that can mimic asthma:\n    - Vocal cord dysfunction (inappropriate adduction of the vocal cords during inspiration, and less commonly expiration, is associated with exposure to dusts and fumes)\n    - Allergic rhinitis-sinusitis\n    - Hypersensitivity pneumonitis: also known as extrinsic allergic alveolitis, HP is an inflammatory disorder of the lung involving alveolar walls and terminal airways that is induced by repeated inhalation of a variety of organic agents in a susceptible host inducing a cell mediated immune complex hypersensitivity. In the United States, the most common types of HP are farmer's lung, bird fancier's lung, and chemical worker's lung.",
+    "Based on the 20% reduction in his spirometry, a diagnosis of occupational asthma was confirmed."
+  ],
+  "SBP": [
+    "Removing Mr. Samuel from the exposure is important.",
+    "If the sensitizing agent (in this case wheat flour) cannot be eliminated from his work environment, then the patient may need to be removed from the environment.",
+    "The ideal solution would be to ensure that Mr. Samuel does not work with wheat flour any longer.",
+    "Less ideal solutions would be to reduce exposure by improving ventilation when working with the sensitizing agent and/or implementing respiratory protection."
+  ],
+  "ICS": [
+    "-Not engaged in group process (emailing, texting, having side conversations)  -Use of technology detracts from group process, interferes with attention and contribution to group  -Not open to other perspectives  -Demonstrates difficulty communicating with faculty and/or peers  -Poor listening skills, frequently interrupts  -Unable or unwilling to attend to non-verbal messages",
+    "-Engaged in group process  - Use of technology complements contribution to group  -Listens to and is open to alternate perspectives  -Consistently communicates with faculty and peers in a respectful and professional manner",
+    "-Facilitates effective group functioning  -Actively seeks and explores alternative perspectives",
+    "Mr. Samuel was counseled as to the various ways he could modify his work environment to maximize his respiratory health."
+  ],
+  "PBLI": [
+    "-Does not state one thing that worked well and one thing that needs improvement  -Merely restates what others have said without adding any new insight  -Lacks awareness of limitations in knowledge",
+    "-Statement of one thing that worked well and one thing that needs improvement in group process",
+    "-Statement of one thing that worked well and one thing that needs improvement in self or other individual  -Feedback contributes to improvement in group process or cohesion  -Demonstrates high self-awareness (recognizes limits of knowledge or abilities without becoming defensive or blaming others  -Improves in response to feedback"
+  ],
+  "PROF": [
+    "If student is 5 minutes late or later, additional points will be deducted from overall score. Arrived _____ minutes after start time.",
+    "Lose one point for every minute student is late:  1 minute late = 4  2 minutes late = 3  3 minutes late = 2  4 minutes late = 1",
+    "Arrives on time = 5"
+  ]
+}

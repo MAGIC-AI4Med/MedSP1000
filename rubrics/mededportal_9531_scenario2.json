@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_9531",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9531/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Recent medical procedures or surgeries . Certain surgeries can cause urinary retention.",
+    "Medication used both old and new as some medications can cause urinary retention.",
+    "Volume status—ask the patient how much water s/he has been drinking. Look for signs of fluid overload or dehydration In our case the patient would have fluid overload due to low urine output.",
+    "Urine Output history.",
+    "**Extremities/Skin**<u>**: look for swelling in the legs and feet known as edema**</u> (I’m not terribly concerned with them being able to grade the edema; right now recognizing it is appropriate)",
+    "<u>Basic Metabolic Panel</u> (BMP)—look for electrolytes imbalance;\n\nBUN/Creatinine > 20; students should be able to get the values from the BMP and calculate this ratio",
+    "<u>Microabluminuria</u> (urine to measure microalbumin) This is a very specific test to measure albumin in urine when the filtering function of the kidney begins to falter.",
+    "<u>24-hour urine protein</u> In the normal kidney protein does not get filtered into the urine. In diabetic nephropathy protein appears in the urine .",
+    "<u>CBC with Differential</u> (look for possible anemia or infection)",
+    "Treat the underlying disorder. In this case the patient’s diabetes."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Counsel the patient that s/he is at risk for kidney failure if s/he does not control their diabetes which could result in any of the complications listed above. Consult (involve) dietician and social work to help manage the patient. Dietician will help with counseling on proper diet .Social worker will help connect the patient with community resources to assist in managing diabetes."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

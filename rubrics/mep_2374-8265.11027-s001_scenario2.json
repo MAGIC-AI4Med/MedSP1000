@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.11027-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11027-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "A heart healthy diet promotes consumption of whole grains, vegetables, fruit, legumes, nuts and seeds. It limits intake of meat and refined and processed foods. This allows for intake of fiber, phytochemicals, mono and poly unsaturated fatty acids, and antioxidants. It also decreases intake of added sugars, sodium, and saturated and trans fats.",
+    "Mediterranean eating pattern:\nChoose whole grains, fruits and vegetables\nProtein sources: Emphasize seafood, legumes (beans and peas), nuts/seeds. Moderate intake of poultry, eggs.\nOlive oil as predominant cooking oil\nLess emphasis on dairy compared to a standard US diet\nLimit intake of red meat, added sugars",
+    "Plant-based eating pattern: similar to Mediterranean diet.\nDifferences: limited or no intake of eggs and dairy; no meat, poultry, or seafood."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

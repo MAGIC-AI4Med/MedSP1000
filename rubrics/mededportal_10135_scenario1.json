@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_10135",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10135/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform Airway/Breathing/Circulation (ABC) evaluation immediately.",
+    "Ask that patient be placed on monitor, 2 large bore peripheral IV lines obtained, and oxygen supplementation initiated.",
+    "Check finger stick blood glucose.",
+    "Initiate a 20 mL/kg bolus of crystalloid and monitor response in mental status, heart rate, and blood pressure.",
+    "Begin rapid cooling efforts: this may include ice packs, mist, fans. Learners should note the importance of continued core temperature monitoring.",
+    "Draw blood cultures and request broad spectrum IV antibiotics.",
+    "Initiate appropriate laboratory workup, including complete blood count (CBC), basic metabolic panel (BMP), liver function test (LFT), chest x-ray (CXR), urinalysis (UA), urine culture, urine pregnancy test (UPT), Urine tox screen, ETOH level, blood gas, lactate, coagulation profile, consider creatine phosphokinase (CPK), bedside US for resuscitation evaluation, also perfectly reasonable to consider computed tomography (CT) of the head and lumbar puncture (LP) as well, provided patient is stable enough to perform these safely."
+  ],
+  "MK": [
+    "Consider at least heat stroke and sepsis / septic shock in the differential."
+  ],
+  "SBP": [
+    "Admit patient to the Pediatric Intensive Care Unit (PICU)."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

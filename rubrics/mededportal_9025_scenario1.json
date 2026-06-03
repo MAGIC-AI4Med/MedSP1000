@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_9025",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9025/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Elicited chief complaint effectively Y/N",
+    "HPI – did the fellow discover the following\nOnset Y/N\nCourse Y/N\nLocation Y/N\nIntensity Y/N\nModifying factors Y/N\nAssociated symptoms Y/N",
+    "Did the fellow cover the following\nSignificant past medical history Y/N\nSignificant past surgical history Y/N\nMedications Y/N\nAllergies Y/N\nFamily History Y/N\nSocial History\nTobacco/alcohol/illicit substances Y/N\nAbuse history Y/N\nLiving situation assessment Y/N\nLitigation/Workers compensation Y/N\nReview of systems\nDepression/suicidal ideation Y/N\nSleep problems\nEffect on daily activities Y/N\n“red flags” for possible urgent situation Y/N",
+    "Physical Examination – did the fellow properly examine the following?\nGeneral exam\nHeart Y/N\nLungs Y/N\nAbdomen/pelvis Y/N\nExtremities/pulses Y/N\nMuskuloskeletal\nInspect area of concern Y/N\nRange of motion Y/N\nPalpation Y/N\nProvocative maneuvers Y/N\nNeurologic\nMotor strength Y/N\nReflexes Y/N\nSensory Y/N\nUpper Motor Neuron Signs Y/N\nGait Y/N\nOther\nSigns of somatoform disorder (Waddell’s/Hoover’s) Y/N"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Proper introduction Y/N"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

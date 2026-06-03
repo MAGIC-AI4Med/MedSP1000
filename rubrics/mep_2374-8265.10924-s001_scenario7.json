@@ -1,0 +1,55 @@
+{
+  "case_id": "mep_2374-8265.10924-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10924-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain intravenous (IV) access, place on monitor, apply oxygen, and obtain vital signs",
+    "Order stat fingerstick glucose in patient with altered mental status",
+    "Promptly perform primary trauma assessment, and intervene",
+    "Assess airway, breathing, circulation while protecting c-spine (via assistant)",
+    "Briefly assess neurologic disability via Glasgow coma score or AVPU score",
+    "Attempt to pre-oxygenate with non-rebreather at high flow rate",
+    "Assemble equipment, at minimum: Bag-valve-mask (BVM) attached to O2, suction, laryngoscope (confirmed functional), endotracheal tube (size 7.0-8.0, confirmed intact balloon), stethoscope, ETCo2 device",
+    "Ensure cervical spine precautions throughout procedure (via assistant)",
+    "Recognize and utilize an acceptable sedative at correct dose for RSI:E.g. Etomidate, 0.2-0.4mg/kg IV, or Propofol 1-3mg/kg IV",
+    "Perform endotracheal intubation, and verbalize confirmation with multiple methods (e.g. direct visualization, fog in tube, absent epigastric sounds, bilateral chest rise, bilateral breath sounds)",
+    "Ensure tube not displaced",
+    "Do not release ETT until securely fixed with tape or securement device",
+    "Perform appropriate post-intubation care",
+    "Provide appropriate post-intubation sedationE.g. benzodiazepine or propofol drips, plus fentanyl drip",
+    "Obtain and interpret STAT post-procedural CXR to confirm tube position",
+    "Promptly perform focused History and Physical Exam",
+    "Discover patient was hit by a car if not already noted",
+    "Discover scalp hematoma if not already noted",
+    "Discover pupillary asymmetry if not already noted on primary survey",
+    "Complete secondary exam, to include whole-body exposure and exam",
+    "Promptly recognize intracranial injury with concern for impending herniation, and implement ICP lowering maneuvers",
+    "Elevate head of bed while maintaining spinal precautions",
+    "Verbalize consideration of hyperosmolar therapy (e.g. hypertonic saline) and hyperventilation",
+    "Order non-contrasted head CT after initial stabilization of patient with concern for severe intracranial injury"
+  ],
+  "MK": [
+    "Promptly recognize critical illness",
+    "Recognize need for intubation",
+    "Verbalize that patient is not protecting their airway",
+    "Verbalize pupil asymmetry as sign of impending herniation"
+  ],
+  "SBP": [
+    "Recruit multiple healthcare workers to assist",
+    "Promptly obtain appropriate specialty consultation",
+    "STAT page neurosurgery and trauma for immediate consultation",
+    "Promptly admit to intensive care unit (ICU) after completion of specialty consultation and initial patient stabilization"
+  ],
+  "ICS": [
+    "Promptly lead team in successful intubation",
+    "Update family once initial stabilization completeDiscuss presentation, evaluation, current diagnosis, severity and next steps",
+    "Provide effective team leadership",
+    "Verbally assign roles",
+    "Provide specific instructions"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Remain calm"
+  ]
+}

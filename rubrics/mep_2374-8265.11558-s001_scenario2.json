@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.11558-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11558-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Most Likely Diagnosis and Differential with Rationale from History and/or Physical Exam: Asthma Exacerbation\n1- Atypical Pneumonia\n2- Epiglottitis\n3- Acute Bronchitis"
+  ],
+  "SBP": [
+    "Patient has to go to the emergency room and be evaluated and treated."
+  ],
+  "ICS": [
+    "Utilizes adequate Spanish vocabulary throughout the interview.",
+    "Demonstrates interest in the patient as a person, encourages the patient to ask questions and clear up doubts, and closed the interaction with a summary of the history and confirms patient understood the next steps."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Demonstrates honesty and respectful treatment towards the patient, the ability to listen to the patient’s story, and the ability to create closeness in communicating with the patient."
+  ]
+}

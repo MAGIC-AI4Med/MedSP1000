@@ -1,0 +1,49 @@
+{
+  "case_id": "mep-13-10555-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10555-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Learner should obtain further history.",
+    "Laboratory work should be sent including BMP with magnesium and phosphorous, Blood Gas.",
+    "Learner should ask for EKG.",
+    "Cardioversion performed for ventricular tachycardia.",
+    "Amiodarone or Lidocaine given",
+    "Open Airway  Assess Patency\n* Opens Airway\n* Recognizes child is vocalizing\n* < 30 seconds",
+    "Assess Breathing\n* < 30 seconds, auscultation, tachypnea, and WOB",
+    "Oxygen\n* 100% oxygen\n* via BVM or ETT",
+    "Monitors\n* < 60 seconds\n* Pulse oximetry and cardiac monitor in place",
+    "Pulse Check\n* < 30 seconds",
+    "Blood Pressure\n* <120 seconds",
+    "IV/IO\n* PIV or IO placed in < 120 seconds",
+    "Fluid Bolus  (Shock or Tachydysrhythmia)\n* 20 mL/kg isotonic fluid bolus ordered",
+    "CPR  (Asystole or Respiratory Arrest\n* <30 seconds after pulselessness\n* Good technique",
+    "Effective Ventilation\n* < 30 seconds after apnea\n* Proper rate",
+    "CPR\n* <30 seconds after pulselessness\n* Good technique (proper rate and depth)",
+    "Epinephrine\n* Correct dose\n* < 30 seconds after asystole\n* Correct route (IV/IO)",
+    "Pulse Check\n* < 60 seconds after change in status"
+  ],
+  "MK": [
+    "After the patient is connected to the monitor the learner should recognize Ventricular tachycardia with hemodynamic compromise.",
+    "Rhythm identification\n* Verbalizes correct rhythm"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Identify Yourself\n* Well identified",
+    "Identify Patient\n* Well identified",
+    "Describe why calling\n* Clear statement",
+    "Patient’s Presenting Complaint\n* Clear and complete",
+    "Relevant PMH\n* Clear and complete",
+    "Brief code summary\n* Clear and complete",
+    "Current Condition of Patient\n* Clear and complete",
+    "Current Therapies\n* Clear and complete",
+    "Transfer Request\n* Clear and complete",
+    "Leader initiated response\n* Initiated Response",
+    "Asked for team input\n* Asked for input and acknowledged",
+    "Orders stated clearly\n* Clear",
+    "Person receiving orders clearly identified\n* Clear personnel identification",
+    "Readback\n* Readback performed"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,17 @@
+{
+  "case_id": "mededportal_9938",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9938/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "It is recommended that parents eventually feed their child up to 3000 calories a day.",
+    "In FBT, it is not recommended that patients exercise until they are weight restored to 90% median body weight."
+  ],
+  "MK": [
+    "Genetic factors play an important role in eating disorders. Findings from twin studies report heritability estimates of 40% to 60% of liability to anorexia nervosa, bulimia nervosa, and binge eating disorder."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

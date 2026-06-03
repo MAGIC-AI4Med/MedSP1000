@@ -1,0 +1,21 @@
+{
+  "case_id": "mep_2374-8265.10931-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10931-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform an initial primary survey: Airway, Breathing, and Circulation (ABCs)",
+    "Learners should immediately recognize that the patient is not protecting his airway and prepare to intubate",
+    "Stabilize the patient by establishing access and assessing fluid status for fluid resuscitation",
+    "Discuss ways to monitor of neurologic exam in intubated and sedated patient including NIRS and EEG."
+  ],
+  "MK": [
+    "Discuss the pathophysiology of disseminated intravascular coagulation (DIC) and thrombocytopenia-associated multiple-organ failure (TAMOF)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Ask bedside RN for clarification and details regarding urine output, progression of mental status changes, vital sign trends, and if any other concerns"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

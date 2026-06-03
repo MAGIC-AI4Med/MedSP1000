@@ -1,0 +1,31 @@
+{
+  "case_id": "mep-12-10437-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10437-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "What was the impression stated by the participant calling the consult?"
+  ],
+  "SBP": [
+    "What was the specific question to the consultant?",
+    "Was the urgency of the consultation conveyed?",
+    "How will the consultant’s impression and recommendations be communicated to the team?"
+  ],
+  "ICS": [
+    "Did they identify themselves by name, team and role?",
+    "Did they provide the name, age and gender of the patient?",
+    "Did they provide relevant history and exam findings to the consultant?",
+    "Did they discuss pertinent results such as labs and radiographic studies?",
+    "Did they setting up the interview in some way? (e.g. find a private space, arrange for seats, silence pager/phone, ect.)",
+    "How did they assess the parent’s perceptions of what was happening before discussing the news?",
+    "Did they establish that they had difficult news to discuss and/or obtaining the parent’s invitation to discuss the news at this time?",
+    "Did they share knowledge using non-technical words and at a pace that was reasonable for the patient and their family?",
+    "How did they express empathy and identify emotions expressed by the recipient of the news?",
+    "Did they conclude with a strategy for next steps and a summary of what was discussed?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Was the communication between the participants courteous and professional?"
+  ]
+}

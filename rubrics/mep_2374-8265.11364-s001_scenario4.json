@@ -1,0 +1,54 @@
+{
+  "case_id": "mep_2374-8265.11364-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11364-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Try to gather the history as you would for any other patient. Ask questions and allow the patient to talk.",
+    "Direct the patient to position themselves to facilitate visual inspection.",
+    "When directing patients to examine for lumps or tenderness, ask patients to describe what they are feeling.",
+    "Labs/Diagnostic Studies:List initial diagnostic studies/data collection (if any) you would order/suggest for this patient. Each study/recommendation should be appropriately linked to a diagnosis from question 3.",
+    "Medications/Treatments: prescribe any medications/durable medical goods (splints/crutches, etc), physical therapy, counseling. Any specific prescription medications should be written as a prescription.",
+    "labs/imaging: COVID 19 test, influenza test,cbc, tsh",
+    "labs/imaging: chest x-ray if worsens",
+    "medications/treatments: Tylenol, motrin, cough meds"
+  ],
+  "MK": [
+    "Based on what you have learned from the history and physical examination, list diagnoses that might explain this patient's complaint(s). List your diagnoses from most to least likely. Then, enter the positive of negative findings from the history and the physical examination (if present) that support each diagnosis.",
+    "Diagnosis 1: COVID 19 related illness History supporting: Dry cough, fever, recent travel",
+    "2nd or 3rd Dx : Influenza, bacterial pneumonia, mycoplasma History supporting: No flu shot this year, dry cough PE supporting: fever, mildly ill appearing, frequent cough during interview"
+  ],
+  "SBP": [
+    "How do you choose a quality interpreter? Not a family member NEVER a child Fluent in both languages including medical terminology Professional training in interpretation Confidential, impartial, complete, accurate Act as a cultural broker and patient advocate",
+    "Ensure the patient receives directions on how to access the virtual waiting room and suggest a \u201cdry run\u201d.",
+    "Include directions to the patient if the patient is expected to obtain vital signs prior to the appointment.",
+    "Confirm audio and video function.",
+    "Address any distractions, issues with the environment.",
+    "Introduce yourself and confirm patient identity with two identifiers.",
+    "Ask if interpreter services are needed.",
+    "Ensure safety if asking patients to stand or walk.",
+    "Document which parts of the exam were observed and which were patient reported.",
+    "History - Describe the history you just obtained from this patient. Include only information relevant to this patient's problem(s). Include pertinent positives and negatives. Start with ID, CC, HPI, Major and pertinent minor criteria.",
+    "Physical Exam Findings -Describe any positive and negative findings relevant to this patient's problem(s). Be careful to include ONLY those parts of examination you witnessed watching in THIS encounter. Please note the vitals from the document provided before the case entitled \"presenting situation and instructions to the learner.\"",
+    "Follow up Plan: SPECIFIC follow-up interval and reason for follow-up/disposition.",
+    "disposition: when to return to work, quarantine protocol, ED precautions"
+  ],
+  "ICS": [
+    "Introduce yourself and orient the interpreter",
+    "Position the interpreter behind you OR beside the patient, NOT between you if in person. If using telehealth, make sure all participants are on gallery view.",
+    "Speak directly to the patient",
+    "Speak at an even pace in short segments; pause so the interpreter can interpret",
+    "Avoid asking multiple questions or complicated compound sentences",
+    "Avoid phrases particular to English",
+    "Ask the patient to repeat back their understanding of what has been said (discharge/medication instructions)",
+    "Encourage the interpreter to alert you to cultural concepts or misunderstandings",
+    "Patient Education:regarding lifestyle modification (if appropriate)",
+    "education: masks, covering face, cdc.gov"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Be patient; Don\u2019t give up.",
+    "Inquire if the patient has a caregiver or other family members to assist if needed and ensure appropriate privacy/confidentiality.",
+    "Ensure appropriate privacy to perform exams."
+  ]
+}

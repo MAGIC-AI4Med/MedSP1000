@@ -1,0 +1,64 @@
+{
+  "case_id": "mededportal_9011",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9011/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "effectively gathered information – collected information in a way that seemed organized; began with several open-ended questions and progressed through interview using a balanced ratio of open- to closed-ended questions; summarized periodically.",
+    "Chronic Low Back Pain: Discontinue Advil as concurrent use of Advil and Warfarin may increase risk of GI bleed.",
+    "Chronic Low Back Pain: Continue with Tylenol Extra-strength 2 tablets every 6 hours, not to exceed 8 tablets of Tylenol/day.",
+    "Chronic Low Back Pain: Will provide rx for Vicodin 5/500 for use for severe pain, but caution patient about acetaminophen content.",
+    "Chronic Low Back Pain: Discontinue Tylenol PM given concern about potential for acetaminophen overuse.",
+    "Paroxysmal Atrial Fibrillation w/ recent TIA: Recheck INR in 2 weeks to make sure level is stable.",
+    "Paroxysmal Atrial Fibrillation w/ recent TIA: Address importance of Metoprolol use for rate control of atrial fibrillation. Switch to once daily dosing for ease of administration.",
+    "HTN: Review all antihypertensives with patient and consider simplifying regimen. Address patient’s concerns about potential for side effects from medications.",
+    "HTN: Consider home monitoring of BP as a longer term goal.",
+    "Periodontal disease: Encouraged patient to switch to a soft toothbrush",
+    "Periodontal disease: Increase brushing to twice daily",
+    "Periodontal disease: Initiate flossing once daily",
+    "Sleep Disturbance: Consider TCA if addressing pain and other issues does not help."
+  ],
+  "MK": [
+    "Chronic Low Back Pain: History and physical examination suggest low back pain secondary to a combination of degenerative disc disease and mild spinal stenosis, causing pain with both flexion and extension activities. No worrisome neurologic symptoms or signs to suggest nerve impingement or spinal cord compression. Likely pain may be exacerbated by activities at work. Inadequate pain control with current regimen of Tylenol/Vicodin/Advil and concern about potential overuse and medication interactions.",
+    "Paroxysmal Atrial Fibrillation w/ recent TIA: Recent TIA presumably secondary to embolic event due to atrial fibrillation. Patient at high risk for recurrent TIA or stroke (CHADS score of 3 = stroke risk 5.27 per 100 person years if untreated with anticoagulation vs. 2.20 per 100 person years with anticoagulation). Recommend lifelong anticoagulation with warfarin with goal INR 2-3. Currently in sinus rhythm, but occasionally symptomatic with palpitations likely due to paroxysmal atrial fibrillation.",
+    "HTN: Poorly controlled secondary to patient non-adherence to regimen.",
+    "Hyperlipidemia: Poorly controlled due to non-adherence to treatment regimen. Multiple risk factors for heart disease including age, HTN, tobacco use and low HDL. Using Framingham risk calculator – 10 year risk of cardiovascular event is 30% so goal LDL < 100.",
+    "Periodontal disease: Patient with periodontal disease likely due to poor oral hygiene.",
+    "Caries: Patient with several caries",
+    "Oral lesions: Patient with oral lesions. Given tobacco history, concern about possibility for possible malignancy.",
+    "Tobacco: Pt is contemplative and motivated to quit by recent TIA. Not yet ready to set quit date.",
+    "Sleep Disturbance: Possibly due to back pain or underlying worry"
+  ],
+  "SBP": [
+    "Chronic Low Back Pain: Referral to physical therapist for evaluation and treatment. Treatment to include core stabilization exercises in neutral spine position, body mechanics education for sleep and work activities, patient education for non-pharmaceutical options for pain control (ice and/or heat), patient education for avoiding end-range flexion and extension movements, and stretching to improve ROM.",
+    "Chronic Low Back Pain: Limit heavy lifting at work as this may exacerbate back pain. Discuss with patient potential filing of workman’s compensation claim.",
+    "Paroxysmal Atrial Fibrillation w/ recent TIA: Discuss need for monitoring coumadin every 4-6 weeks once level is stable.",
+    "HTN: F/U BP check in 2 weeks. At this visit, review medications and help with organizing medi-set.",
+    "Hyperlipidemia: Switch to simvastatin as cheaper generic alternative to atorvastatin.",
+    "Periodontal disease: Schedule for deep cleaning, pending HTN control and stable INR within 2-3.",
+    "Caries: Once blood pressure is under better control, will pursue treatment.",
+    "Oral lesions: Referral to oral surgery for consideration of biopsy.",
+    "Tobacco: Readdress this issue at next appointment.",
+    "Healthcare maintenance: Not addressed in this visit due to time constraints",
+    "Healthcare maintenance: Obtain records from previous MD."
+  ],
+  "ICS": [
+    "listened actively – paid attention to both my verbal and non-verbal cues; used facial expressions/body language to express encouragement; avoided interruptions; asked questions to make sure s/he understood what I said.",
+    "established personal rapport – introduced self warmly; verbally/non-verbally showed interest in me as a person, not just my condition; avoided technical jargon.",
+    "appropriately explored my perspective – encouraged me to identify everything that I needed to say.",
+    "addressed my feelings – acknowledged and demonstrated interest in my expressed and/or unexpressed feelings and experience.",
+    "met my needs – worked toward a plan which addressed both the diagnosis and my concerns about my illness.",
+    "Chronic Low Back Pain: Counsel patient about importance of only taking medications prescribed for him.",
+    "Paroxysmal Atrial Fibrillation w/ recent TIA: Counsel patient about the importance of anticoagulation with warfarin to prevent recurrent TIA/stroke.",
+    "Paroxysmal Atrial Fibrillation w/ recent TIA: Discuss potential for drug interactions with warfarin use and need to avoid ASA/NSAIDS.",
+    "HTN: Educate patient about risks of untreated HTN and goals for blood pressure treatment.",
+    "HTN: Discuss lifestyle changes – diet and exercise that might facilitate non-pharmacologic BP mgmt.",
+    "Hyperlipidemia: Patient education about the importance of lipid control given multiple risk factors for CAD.",
+    "Hyperlipidemia: Discussion of non-pharmacologic measures (diet and exercise) for lipid control.",
+    "Tobacco: Discuss pharmacologic means of assisting with smoking cessation at next appointment."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "appeared professionally competent – seemed to know what s/he was doing; inspired my confidence; appeared to have my interests at heart."
+  ]
+}

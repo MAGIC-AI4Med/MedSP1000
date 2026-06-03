@@ -1,0 +1,43 @@
+{
+  "case_id": "mededportal_10258_1",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10258_1/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Observed learnerdo/discuss physicalexamination",
+    "Commented on need tofully undress patient ·  Could state with expectations·  During your physical examination·  During feedback",
+    "Commented on how youdescribed lesions/rash ·  Primary lesions- Nomenclature macule, papule, patch, plaqueSecondary lesions scale,crust·  Pattern： Distribution"
+  ],
+  "MK": [
+    "Asked effective questions to probe learner'sknowledge",
+    "Generalized from singlecase to patterns/models"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Asked effective questions to engage learner",
+    "Encouraged learner toexpress concerns andneeds",
+    "Expressed respect forlearner's experience andemotions",
+    "Set an agenda for session",
+    "Paced session appropriately for needs oflearner",
+    "Avoideddigressions/distractions",
+    "Did not miss importanttopics",
+    "Presented material in well-organized manner",
+    "Delivered information in small chunks",
+    "Illustrated points withexamples/analogies",
+    "Gave specific positivefeedback",
+    "Gave specific correctivefeedback",
+    "Outlined to learner whatyou would be looking forduring his/her exam",
+    "Provided behaviorally specific positive feedback",
+    "Provided behaviorally specific correctivefeedback",
+    "Demonstrated sensitivity toward patient",
+    "Commented on how youinteracted with the patient"
+  ],
+  "PBLI": [
+    "Assessed learner's self- perceived learning needs",
+    "Explored learner'sattitudes about this task",
+    "Assessed learners needs",
+    "Asked learner to evaluatehis/her own performance",
+    "Summarized learningexperience"
+  ],
+  "PROF": []
+}

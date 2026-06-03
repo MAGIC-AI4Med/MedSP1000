@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.10922-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10922-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "How well did the doctor elicit the parent’s concerns about autism?",
+    "How well did the doctor validate the parent’s concerns about autism? Describe how the doctor validated the parent’s concerns.",
+    "How did the parent establish a trusting relationship with the parent?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

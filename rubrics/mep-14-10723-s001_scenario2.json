@@ -1,0 +1,27 @@
+{
+  "case_id": "mep-14-10723-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10723-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain additional history",
+    "I would want to know pertinent negatives in history and physical in order to rule out potential pathologies, such as sepsis, seizures or arrhythmias.",
+    "In addition, you should consider observing a feeding session - this can be invaluable in order to assess for oral dysphagia.",
+    "Also, it would be important for residents to ask questions to be able to distinguish between obstructive and central apnea."
+  ],
+  "MK": [
+    "Reflux and laryngospasm of gastric contents likely associated with overfeeding",
+    "Discuss definition of BRUE and how it is different than an ALTE.",
+    "BRUE has a strict age limit, is only used if no other explanation available and is not solely based on caregiver’s perceptions regarding whether the event was life threatening.1",
+    "No, because according to the definition, BRUE can only be used if there is no other explanation. This baby likely had an episode of reflux and laryngospasm."
+  ],
+  "SBP": [
+    "| **Sepsis work up** | Low | Rule out infectious etiology with higher certainty | Costs of equipment, labs and analysis  Parental anxiety  Potential longer hospitalization; potential for false positive test results; Patient experience- pain | Low |",
+    "| **pH probe** | High | Potential to objectively make diagnosis for reflux | Multiple visits or prolonged stay; possibility of false positive results; procedural complications; potential need for further testing (testing cascade) or interventions such as medications (PPI) | Low |",
+    "| **EEG** | Low | Could potentially catch an early seizure disorder | False reassurance that EEG is negative; Potential for false positive; Uncomfortable and likely hospitalization;  Parental anxiety | Low |",
+    "| **CT scan** | Low | May reassure families that there isn’t a CNS abnormality  May catch the very rare unexpected abuse head trauma or other CNS cause | Radiation exposure; Possible sedation;  Expensive; Potential for false positive results | Low |"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

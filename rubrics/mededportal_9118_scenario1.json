@@ -1,0 +1,40 @@
+{
+  "case_id": "mededportal_9118",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9118/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Student established time-line of my pain [Hx]",
+    "Student asked me to describe the pain [Hx]",
+    "Student asked me about location of pain OR asked me to show where the pain is located [Hx]",
+    "Student asked me about radiation of pain [Hx]",
+    "Student asked me about severity of pain on a scale from 1 to 10 [Hx]",
+    "Student asked me about alleviating AND aggravating factors [Hx]",
+    "Student asked me about family history of gallbladder disease [Hx]",
+    "Student asked about fever or chills [Hx]",
+    "Student asked me about nausea or vomiting [Hx]",
+    "Student auscultated abdomen in 4 quadrants [PE]",
+    "Student percussed abdomen in 4 quadrants [PE]",
+    "Student palpated abdomen in 4 quadrants [PE]",
+    "Student checked for Murphy’s sign [PE]",
+    "Student checked for Blumberg’s sign [PE]",
+    "Student checked for McBurney’s sign [PE]",
+    "Student checked for Aaron’s sign [PE]",
+    "Student checked for Rovsing’s sign [PE]"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Student established a good working relationship, with appropriate eye contact, body language and verbal communication [comm.]",
+    "Student used open-ended questions appropriately [comm.]",
+    "Student asked for permission before starting physical exam [comm.]",
+    "Student discussed with me the necessity of performing digital rectal exam [comm.]",
+    "Student provided a closing summary at the end of the encounter and shared with me his/her diagnostic plans [comm.]",
+    "Student discussed with me the possibility of acute cholecystitis [comm.]"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Student washed hands prior to starting physical exam [comm.]",
+    "Student draped me appropriately for abdominal exam [comm.]"
+  ]
+}

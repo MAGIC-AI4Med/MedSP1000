@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.10889-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10889-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess and manage the patient’s airway by verifying patency, evaluating the presence and effort of breathing, and initiating appropriate oxygen supplementation as needed (via nasal cannula, facemask, high-flow nasal cannula, CPAP or BiPAP)",
+    "Connect patient to cardiopulmonary monitor (if not on monitor already) and correctly identify the presence of sinus tachycardia and tachypnea with careful attention to the development of PVC’s",
+    "Establish IV access; if peripheral IV cannot be established rapidly then intraosseous access must be obtained",
+    "Consider initiating fluid resuscitation in the setting of potential shock; appreciate that the patient continues to have persistent tachycardia and worsening respiratory distress (i.e., tachypnea, retractions, and hypoxia) after fluid resuscitation. Careful reassessment for development of hepatomegaly, new gallop, new JVD, or new crackles.",
+    "Administer inotropic medication (e.g., epinephrine, milrinone, dobutamine, dopamine,) to help improve cardiac contractility/function",
+    "Administer diuretics (e.g., Lasix) to help relieve fluid overload in the lungs",
+    "Given persistent symptoms, prepare for rapid sequence intubation; select appropriate sedative/paralytic agents (e.g., Etomidate; Fentanyl/ ±versed; rocuronium). In anticipation of hypotension with sedative drugs or in response to decreased venous return, phenylephrine should be available at the bedside.",
+    "Recognize multiple runs of non-sustained ventricular tachycardia on the monitor secondary to myocardial irritability and vasoactive medication; select appropriate antiarrhythmic agent (e.g., lidocaine, amiodarone); defibrillator pads should be placed on the patient or, at the least, made available at the bedside."
+  ],
+  "MK": [
+    "Abort fluid administration and verbalize a differential diagnosis for shock worsened by fluid resuscitation including cardiogenic shock (i.e., myocarditis)",
+    "Obtain chest x-ray in the setting of decompensating patient with worsening hypoxia; appreciate cardiomegaly, pleural effusion, and increased pulmonary vasculature suggesting underlying cardiac etiology of patient’s condition"
+  ],
+  "SBP": [
+    "Other actions that may be taken throughout this case: - Considering drawing labs (e.g., BMP, lactate, blood culture) or obtaining other studies (EKG, ECHO) to help establish underlying cause of patient’s acute presentation - Consulting Cardiology in the care of patient with suspected myocarditis and subsequent cardiogenic shock"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

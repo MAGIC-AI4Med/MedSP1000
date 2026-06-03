@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11417-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11417-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "You explored in detail my sleep history (obtained at least 3 of the following)\nTime in bed: 11 pm\nTime falls asleep: 1 am\nTime wakes up: 6 am\nDaytime naps: after work for 1-2 hours\nNighttime awakenings: 1-2 times\nTime to fall back asleep: not sure\nWhat occurs when wake up: need to use restroom, then lays in bed on the phone tossing and turning\nCaffeine intake: 6-7 cups a day, last at 5 pm\nETOH intake: weekends, 5-6 beers\nSnoring: does not know as patient sleeps alone\nPets in bed: dog sleeps in bed with patient",
+    "You explored what sleep hygiene techniques I tried."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "You respected my personal space. (Kept the table between us while we talked)",
+    "You were not provocative physically or verbally.\ndemeanor and voice were calm,\nhands visible and unclenched,\neye contact was direct but not staring or aggressive,\nbody language was open and non-confrontational,\nyou did not insult or patronize me or my concerns",
+    "You verbally connected with me when you;\nasked me how I’d like to be addressed,\nclarified your role,\nexplained that you are here to listen to my concerns, “I may not be able to fix everything, but I can listen and try to help”\nValidated the seriousness of my concerns/situation.",
+    "When you used active listening I felt heard and respected:\nlistened closely (physical cues and non- verbal utterances)\nrepeated my words back to me\nvalidated my concerns\ngave me a chance to clarify or correct stated or implied emotions …“Tell me if I have this right”",
+    "You identified my wants, expectations, and feelings. (Frustration with “sleep hygiene”, impact of sleep on work/stress, desire to have medication)",
+    "When you explained concisely using short sentences and simple vocabulary, it gave me time to process and understand the rationale behind needing more info about my sleep history.",
+    "Agree or agree to disagree.\nFind something about the situation/ patients position with which you CAN agree (see article)\nif there is no way to honestly agree with the patient, respectfully agree to disagree",
+    "Offer choices and optimism- Offer realistic options or choices, including acts of kindness (food, water, phone, …)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Set clear limits if the patient’s behavior is causing the clinician to be frightened or disrespected. This includes not offering alprazolam as this is not clinically appropriate."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "case_id": "mep_2374-8265.10867-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10867-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Student ensures that patient has no thoughts of suicide or self-harm",
+    "Student screens for a history of mania",
+    "Student asks about history of substance and alcohol use",
+    "Recommend counseling near home (due to transportation issues getting to clinic) and/or offering a connection with the clinic’s behavioral health team resources, and/or recommend a first line antidepressant such as a selective serotonin reuptake inhibitor (SSRI)"
+  ],
+  "MK": [
+    "Identified depression as a possible cause of trouble sleeping.",
+    "Student determines appropriate treatment plan based on the PHQ-9’s indicated level of depression",
+    "Major Depressive Disorder – patient reports death of partner, “the bed just feels a bit bigger now since they died.” PHQ-9 results interpreted along with affect examination should lead to a diagnosis of depression.",
+    "Alcohol Use Disorder – unlikely given low report of wine consumption  Thyroid Disease – unlikely given lack of family history and medical care previously up to date"
+  ],
+  "SBP": [
+    "Student provides a clear follow up plan (i.e. “we should talk again in xx days/weeks)",
+    "Accessed the patient’s PHQ-9 in using the telemedicine interface."
+  ],
+  "ICS": [
+    "Introduced self to patient.",
+    "Established rapport at the beginning of the encounter.",
+    "Allowed the patient to answer questions without interruption or interjection.",
+    "Used language the patient could understand.",
+    "Expressed empathy (e.g. transportation issues, acknowledged patient frustration).",
+    "Verbalized clear instructions for next steps in care following this electronic encounter.",
+    "Ask the patient if he had any additional questions or concerns.",
+    "Summarize the encounter including having the patient teach back the recommendations.",
+    "Student uses shared decision making with patient to determine treatment plan",
+    "Asked the patient if he could see and hear with the technology.",
+    "Makes any necessary adjustments and to accommodate for technologic issues. (asks patient to adjust camera)",
+    "Verbalized what he/she was doing when not focused on the patient (e.g., while viewing PHQ-9 results).",
+    "Remained patient-centered despite distractions or technology interface challenges (acknowledges any distractions due to technology and explains what is going on to patient)"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Address the patient’s concerns of not sleeping by diagnosing depression and communicating that in a compassionate matter that does not convey stigma"
+  ]
+}

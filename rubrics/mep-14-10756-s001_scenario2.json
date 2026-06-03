@@ -1,0 +1,15 @@
+{
+  "case_id": "mep-14-10756-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10756-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "The participant playing the role of physician/provider should be instructed to discuss the potential benefit (possible pain relief) of opioid pain medication (OPM) and review all risks.",
+    "The conversation about risks of OPM should include unintentional overdose and death, risk of addiction, constipation, cognitive impairment, sexual dysfunction and osteoporosis."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

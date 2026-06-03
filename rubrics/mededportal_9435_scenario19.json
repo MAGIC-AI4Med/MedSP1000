@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario19",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario19",
+  "rubric_version": "v1",
+  "PC": [
+    "M1 Wash hands",
+    "MA8: Palpate spine (D)",
+    "M108:Assess thoraco- lumbar lateral flexion (D)",
+    "M109:Assess lumbarflexion (D)",
+    "M110:Assess lumbarextension (D)",
+    "M122: Assess hip flexorbilaterally but separately",
+    "M123: Test lower leg muscles strengthbilaterally (D)",
+    "M127: Test patellarreflex bilaterally (D)",
+    "M128:Test Achilles(ankle) reflex bilaterally",
+    "M133: Test sharp &amp; dullon thighs, shins &amp; feet(D)",
+    "MA7: Assess straight legraise (D)"
+  ],
+  "MK": [
+    "Given the results of your physical exam, which diagnosis is most likely?   \n[x] herniated disk L4-5   \n[ ] muscle strain   \n[ ] neither because the findings are ambiguous or contradictory   \n[ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

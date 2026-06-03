@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11484-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11484-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "How was your surgery?  How was your recovery?  Did you have any complications?",
+    "Do you have any changes to your \\_\\_\\_?   * Allergies * Family history * Medications or Supplements * Alcohol or Smoking",
+    "Do you have any new diagnoses?",
+    "Have there been any other new updates?"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "We will be going over your liver function test, CBC, and cholesterol results today.",
+    "Your bad cholesterol is too high.",
+    "Your liver function tests are normal.",
+    "Your white blood cell count is slightly elevated.",
+    "Your hemoglobin and RBC are normal."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

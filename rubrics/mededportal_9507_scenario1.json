@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_9507",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9507/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Take a relevant history.",
+    "Perform an appropriate focused physical exam for your profession.",
+    "Tell the patient what you think is going on with her and develop a plan for helping her better manage her chronic medical conditions."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "made a personal connection during the visit (e.g., went beyond medical issues).",
+    "gave me an opportunity/time to talk (e.g., didn't interrupt).",
+    "listened. Gave me undivided attention (e.g., eye contact, verbal acknowledgment, non-verbal feedback).",
+    "checked/clarified information (e.g., recapped, paraphrased, echoed, summarized, asked for clarification when not certain about what I described).",
+    "encouraged me to ask questions/checked my understanding of information provided.",
+    "adapted to my level of understanding, using appropriate language (e.g., avoided or explained jargon; avoided child-like slang).",
+    "expressed empathy (e.g., demonstrated care and concern for me, acknowledged my feelings, expressed understanding of my feelings / respect for my situation / willingness to support me).",
+    "maintained a respectful tone (e.g., did not belittle me; did not use humor inappropriately, did not talk down to me).",
+    "involved me in deciding upon a plan (e.g., presented me with options [if any], provided rationale for their assessment).",
+    "elicited and addressed any concerns I have about the plan.",
+    "Based on my level of satisfaction with this encounter, I would return to see this student provider again."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

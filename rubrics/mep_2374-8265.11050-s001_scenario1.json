@@ -1,0 +1,38 @@
+{
+  "case_id": "mep_2374-8265.11050-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11050-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtains history and physical examination with focus on allergic, cardiac and infectious symptoms.",
+    "Clarifies timing of pre-medication (e.g. diphenhydramine, acetaminophen, corticosteroids) and if other pre-medications such as ranitidine were given",
+    "Determines at what rituximab infusion IV rate symptoms started and if the iv has been clamped",
+    "Clamps rituximab infusion",
+    "Immediate review of airway/ breathing/ circulation with stabilization as required",
+    "Positions patient with legs elevated",
+    "Orders 50 mg IV diphenhydramine, 50 mg IV ranitidine, 1000 mg acetaminophen, corticosteroids IV (e.g. Hydrocortisone 50 mg)",
+    "Requests demerol 50 mg, identifies a suitable IV line and pushes the first 25 mg while watching the rigors dissipate.",
+    "If rigors persist after 30 seconds a second dose of demerol 25 mg is administered",
+    "Recommends that patient can resume rituximab infusion at reduced rate after period of recovery (e.g. after 30 minutes resume at 50 ml/ hour so long as vitals are stable)"
+  ],
+  "MK": [
+    "Identifies causes of low oxygen saturation including poor oximetry reading secondary to rigors and attempts to trouble shoot (e.g. moves oxygen probe, locates alternative oxygen monitor)"
+  ],
+  "SBP": [
+    "Clearly indicates to nursing when to be called again (i.e. any hypotension, hypoxia, fever, rigors)",
+    "Elicits help in managing the case from interprofessional team (e.g. nurses, supervising hematologist)"
+  ],
+  "ICS": [
+    "Provides reassurance to patient and coaches them with breathing",
+    "Maintains good eye contact with nurse embedded participants",
+    "Reflects back nurse embedded participant statements",
+    "Uses closed loop communication",
+    "Clarifies team goals and defines roles",
+    "Encourages input from nurse embedded participants",
+    "Responds to non-verbal cues"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Respectful and responsive to feedback from nurse embedded participants"
+  ]
+}

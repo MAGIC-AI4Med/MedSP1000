@@ -1,0 +1,22 @@
+{
+  "case_id": "mep_2374-8265.11283-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11283-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Investigate the change in patient status through information gathered in history, physical examination, and data/chart review.",
+    "Recommend glucose check",
+    "Respond to critical findings of acute hypoglycemia by implement a treatment plan based on patient ability to take oral medications and current IV access",
+    "Reassess the patient response to the treatment."
+  ],
+  "MK": [
+    "Use information gathered to prioritize concerns for hyper or hypoglycemia."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Use ISBARR to update the nurse to concerns",
+    "Use ISBARR to update senior resident upon their arrival"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

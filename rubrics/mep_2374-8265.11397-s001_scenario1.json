@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11397-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11397-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Submissions should include dietary pattern recommendations that meet the criteria presented in the Advance Preparation Resources (Appendix A) as evidence-based approaches for reducing blood cholesterol levels and support cardiovascular health (i.e., based on the dietary patterns that meet medical nutrition therapeutic guidelines)."
+  ],
+  "MK": [
+    "Submissions may recognize that the patient’s dietary history included a high-protein/ketogenic pattern of dietary intake, which the patient may be using as an approach to support weight loss in an effort to reduce their health risks.",
+    "Family history narrative interpretation  (submitted pedigree is a reasoned reflection of patient narrative)",
+    "Interpretation  (team recognizes an autosomal dominant pattern of inheritance and provides supporting evidence)",
+    "It is expected that teams recognize that the patient’s clinical presentation, in combination with the autosomal dominant inheritance pattern of concerning cardiovascular disorders within the patient’s family, are consistent with a preliminary diagnosis of familial hypercholesterolemia."
+  ],
+  "SBP": [
+    "Organization  [generational (parent-child and sibling) relationships, biological unions are correctly distinguished)",
+    "Symbol usage and shading (standard symbols are used to indicate sex, and appropriate symbol shading is used to indicate the presence/absence of phenotypes)",
+    "Symbol notations  [includes brief notations such as relevant phenotypes (e.g., “stroke”, “heart attack”), deceased family members and cause and age of death]"
+  ],
+  "ICS": [
+    "Patient preferences and values in shared-decision making",
+    "Team submissions should include dietary recommendations that meet the criteria for a patient-centered, shared decision-making, and motivational interviewing approach.",
+    "Dietary intake recommendations should meet the elements of the behavior change model, including the 5 A’s: Assess, Advise, Agree, Assist, Arrange.",
+    "Submissions should include patient-centered short-term (1-2 agreed upon achievable goals for dietary intake changes) and long-term goals (health outcome-based goals)."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

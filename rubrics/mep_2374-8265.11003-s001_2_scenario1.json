@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.11003-s001_2",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11003-s001_2/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Urge Incontinence\nLifestyle modifications\nWeight loss\nSmoking cessation\nAvoiding constipation\nBladder training- urge suppression",
+    "Urge Incontinence\nMedications:\nShould consider stopping cetirizine since antihistamines may impair detrusor contractility\nAnticholinergic agents (Ex. Oxybutynin, vesicare)\nSide effects include dry mouth, increased HR, blurred vision, heat intolerance, constipation\nBeta-adrenegic agent (Ex. Mirabegron/Mybetriq)",
+    "Menopausal symptoms- hot flashes, vaginal dryness/atrophy\nLifestyle modifications\nSmoking cessation\nDecrease alcohol intake\nWeight loss\nAvoid hot drinks and spicy food\nUse fans\nApply ice packs",
+    "Menopausal symptoms- hot flashes, vaginal dryness/atrophy\nMedications\nCANNOT use HRT given her hx of smoking and high cardiac risk\nVaginal moisturizer/lubricant\nTrial SSRI- paroxetine or venlafaxine (SE: Dry mouth, nausea, drowsiness, constipation)"
+  ],
+  "MK": [
+    "Mrs. Johnson is likely experiencing perimenopausal symptoms and urge incontinence."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

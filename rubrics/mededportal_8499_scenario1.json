@@ -1,0 +1,31 @@
+{
+  "case_id": "mededportal_8499",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8499/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Primary Survey: Assess airway, IV, O2 Monitor, Vital Signs",
+    "Physical Exam",
+    "Order Ancillary Data (EKG, labs, CBC, Coags, Panel 7)",
+    "Obtain Detailed History",
+    "Initiate Pharmacologic Treatment of WCT",
+    "Initiate $2 ^ { \\mathrm { n d } }$ Pharmacologic Treatment of WCT",
+    "Sedation Prior to Electrical Cardioversion",
+    "Successfully deliver Cardioversion"
+  ],
+  "MK": [
+    "Recognize Wide Complex Tachycardia"
+  ],
+  "SBP": [
+    "Critical Care Disposition"
+  ],
+  "ICS": [
+    "Resident was an effective Team Leader",
+    "Resident utilized closed loop communication",
+    "Team Leader incorporated team members in case"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Resident suspended disbelief in simulation participation"
+  ]
+}

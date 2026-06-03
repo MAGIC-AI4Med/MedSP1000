@@ -1,0 +1,25 @@
+{
+  "case_id": "mep-15-10857-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10857-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "**Things to look for:**  -Is the pillbox filled correctly?  -Are there missed doses?  -Does the patient have any medicines that are not on the medication list?  -Is the patient able to take his medicines correctly?  -How or when does he take certain medicines?",
+    "* When possible a “brown bag” method for medication reconciliation should be used (additional details described above) * Ask open-ended questions about over-the-counter medication use * Ask the patient if he or she is taking any medications that are **not** on the medication list",
+    "Effective medication reconciliation techniques may elicit these patient factors and associated errors, including:   * Ask the patient to explain his or her medication management system, especially when you notice:   + Cut or crushed medications in pill bottles or in the pillbox   + Two distinct pills in the same pill bottle * Ask the patient to demonstrate inhaler technique and the frequency of inhaler use in a given week * Health literacy assessment and/or cognitive assessment",
+    "* Consider what medications can be switched to a long-acting medication to decrease administration times to help improve adherence * Consider how often a patient currently takes medications when adding a medication that is twice daily or greater to align prescribing with patient preferences and routines"
+  ],
+  "MK": [
+    "**Patient taking expired or old medications1,2**",
+    "**Patient taking over-the-counter medications or medications not on their medication list1,2**",
+    "**Certain patient factors, including factors related to aging, may lead to errors in medication management1-3**",
+    "**More than one medication administration time may lead to patients skipping or missing doses4-6**",
+    "**Medication adverse effects can lead to patients skipping doses and can contribute to polypharmacy7-9**",
+    "**Glipizide has a high hypoglycemic risk and may not be indicated for diabetes depending on patient-specific A1c goals10-12**",
+    "**Some medications on an older patient’s list may be AGS Beer’s Criteria Potentially Inappropriate Medications6,11,13**"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

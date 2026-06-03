@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-14-10725-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10725-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "How do you interpret the physical findings?\n\nAll normal",
+    "How do you interpret the basic metabolic panel?\n\nAll normal"
+  ],
+  "SBP": [],
+  "ICS": [
+    "What guidelines would you give Sam for water consumption prior to, during, and after his marathon? How would you explain to a patient like Sam why it is important to drink enough (but not too much) water, especially during exercise?\n\nThe current best recommendation is to drink according to your thirst. The night before and morning of the race, check your urine to make sure it is light in color and optically clear. If it is darker than apple juice, drink an extra glass of water or sports drink. During the race, take advantage of drink stations if you're thirsty. Thirst is your body's way of telling you to replenish your fluids. Don't force yourself to drink if you aren't thirsty- overhydration is actually very dangerous. If you base it on your body weight, a weight loss of 2% or less during the course of the race is normal and will be regained naturally over the next 24 hours through consumption of water and sodium-containing foods. Greater weight loss or any weight gain during the race is a bad sign and indicates you're dehydrated or overhydrated, respectively. After the race, drink water or sports drinks moderately, again according to thirst. Consuming some salty food is a good idea as well (as long as you're hydrating properly) to help replenish sodium lost through sweat.",
+    "Just make sure that students recognize this as a patient education exercise.",
+    "They should attempt to explain some of the basic concepts (intracellular and extracellular fluid, osmosis) without getting too detailed."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for a fresh set of vitals",
+    "Verbal order for 1 L NS bolus using clear, closed-loop communication; inquire about access",
+    "Agree to assess patient urgently",
+    "$+ / -$ verbal orders for work-up and stablization but should see him immediately"
+  ],
+  "MK": [],
+  "SBP": [
+    "Consider escalation of care to intermediate care status (higher is appropriate, too)"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

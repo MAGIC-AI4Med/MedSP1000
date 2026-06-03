@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_10367",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10367/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform focused history and physical exam",
+    "Order aspirin 325mg",
+    "Serial assessment of patient and repeat ECG when chest pain returns",
+    "When chest pain returns, the patient should receive SL Nitroglycerin."
+  ],
+  "MK": [
+    "Order STAT ECG and interpret appropriately i. Recognize acute change in ECG #1 (Wellens’ or TW inversions in anterior leads) in comparison to old ECG ii. Recognize need for repeat ECG in patients with changes in condition iii. Recognize STEMI in ECG #2"
+  ],
+  "SBP": [
+    "Activate Cath Lab and start appropriate anticoagulation",
+    "Don't stress test a patient with Wellens'!"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

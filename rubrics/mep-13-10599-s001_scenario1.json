@@ -1,0 +1,26 @@
+{
+  "case_id": "mep-13-10599-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10599-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Place the patient on the cardiac monitor, pulse oximeter,obtain IVaccess (PC, PL)",
+    "Maintain C-Collar placement, spine immobilization (PC, MK)",
+    "Recognition and treatment of pneumothorax (PC, MK, PL)",
+    "Recognize and treat hypothermia in an injured child (PC, MK)",
+    "Follows ATLS / PALS protocols (PC, MK, PL, P)"
+  ],
+  "MK": [
+    "Recognition of femur fracture (PC, MK, PL)"
+  ],
+  "SBP": [
+    "Identify and report possibility of NAT (PC, C, MK, SP, P)",
+    "Consult appropriate services (C, SBP)"
+  ],
+  "ICS": [
+    "Organize a medical team with clearly defined roles for allparticipants (PC, C, P, PL)",
+    "Manages family emotions and expectations (PC, C, MK, P, PL)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

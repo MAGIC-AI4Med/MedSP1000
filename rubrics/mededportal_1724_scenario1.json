@@ -1,0 +1,57 @@
+{
+  "case_id": "mededportal_1724",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1724/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "If my weight has changed",
+    "If I am following a low cholesterol (fat) or low salt diet.",
+    "If I am taking my medications.",
+    "If I am checking my blood pressure outside of the doctor’s office.",
+    "If I have any chest pain.",
+    "If I wake up in the middle of the night with trouble breathing or have increased the number of pillows I sleep with at night.",
+    "About my exercise habits.",
+    "Asked about one of the symptoms of depression. (must mention at least one)",
+    "If I have any plan to hurt myself (suicidal ideation) or have attempted to hurt myself?",
+    "Asked about my tobacco and alcohol use",
+    "Checked my blood pressure using a blood pressure cuff.",
+    "Checked my neck to evaluate for elevated JVP",
+    "Palpated my precordium for lifts/heaves and position of PMI (point of maximal impulse of the heart)",
+    "Listened to my heart in 4 places.",
+    "Listened to my lungs in six places.",
+    "Evaluated my legs for any pitting edema",
+    "Reinforced the importance of watching fat/cholesterol or salt (sodium) intake in order to better control hypertension, cholesterol, heart disease OR to control my weight.",
+    "Write 2 recommendations to Mr. Thornton for how he could better monitor his own illness(es), using the actual words you would say to him.\n\nRecommendations (maximum of 4 pts from any two recommendations)\n\nMonitor medications – pillbox, other reminder system. Must be specific about exact system (1 pt if mentioned without specifics)\n\nMonitor BP – should include something about freq of monitoring or what to do with the information collected (1 pt if mentioned without specifics)\n\nMonitor weight - should include something about freq of monitoring or what to do with the information collected  (1 pt if mentioned without specifics)\n\nMonitoring mood – journal (1 pt if mentioned without specifics)\n\nMonitoring SOB/CP/fatigue – must be specific about how to monitor or what to do with the information (1 pt if mentioned without specifics)\n\nMinus 1 point for using jargon"
+  ],
+  "MK": [
+    "Warned me about the dangers associated with uncontrolled hypertension. (Must mention 2 of the items listed below).",
+    "Write out your explanation to Mr. Thornton about what you think is going on with him, using the actual words you would say to him.\n\nExplanation (maximum of 5 pts)\n\nFatigue (1 pt)\n\nHeart failure (1 pt)\n\nDepression (1 pt)\n\nHigh blood pressure (1 pt)\n\nDiscussion of medications (1 pt)\n\nMinus 1 point for using jargon"
+  ],
+  "SBP": [
+    "Recommended that I see or set up an appointment for me to see a dietician or nutritionist to help with dietary recommendations.",
+    "In addition to a physician, what other types of health care providers would you want to include in the team caring for Joe Thornton? List at least 2.\n\nOther Health care providers (maximum 2 points)\n\n1 point for a mental health professional (psychologist, psychiatrist, social worker)\n\n1 point for any other (pharmacist, care manager, nutritionist, patient educator, community resources)",
+    "What features of a record-keeping/information system would you design to provide optimal care for Joe Thornton or other patients like him with chronic medical illness (ex: an electronic record system that includes both inpatient and outpatient information)? List at least 2.\n\n2 points for each (maximum of 4 pts):\n\nElectronic medical record system\n\nIntegrated pharmacy information\n\nIntegrated Radiology/Other studies (cardiac)\n\nSpecialists/Outside clinics/Hospitals\n\nAlerts and reminders for when a patient is not up to date with appointments or not at treatment goals\n\nAbility to create a patient registry\n\nAbility to track data over time (weight/BMI/BP/lipids)\n\nIntegrated clinical guidelines\n\nInterface for patients (allowing them to access their information or download home-monitoring)"
+  ],
+  "ICS": [
+    "Asked for my opinion about how well I am managing (controlling) my hypertension or heart disease OR if I have any concerns about how well my hypertension or heart disease is being controlled.",
+    "Negotiated with me a plan to help me with medication compliance.",
+    "Helped me identify ways to remember to check my blood pressure more often outside of the doctor’s office (can be advising me to check when I go to a grocery store with the automated machine, or to do it at the same time of the day, etc.)",
+    "Expressed compassion/concern/empathy about the death of my wife AND asked about my support systems.",
+    "Explained in advance on at least one occasion what s/he would be doing during the physical examination.",
+    "Conveyed at least one aspect of the results of the physical examination to you.",
+    "effectively gathered information – collected information in a way that seemed organized; began with several open-ended questions and progressed through interview using a balanced ratio of open- to closed-ended questions; summarized periodically.",
+    "listened actively – paid attention to both my verbal and non-verbal cues; used facial expressions/body language to express encouragement; avoided interruptions; asked questions to make sure s/he understood what I said.",
+    "established personal rapport – introduced self warmly; verbally/non-verbally showed interest in me as a person, not just my condition; avoided technical jargon.",
+    "appropriately explored my perspective – encouraged me to identify everything that I needed to say.",
+    "addressed my feelings – acknowledged and demonstrated interest in my expressed and/or unexpressed feelings and experience.",
+    "met my needs – worked toward a plan which addressed both the diagnosis and my concerns about my illness."
+  ],
+  "PBLI": [
+    "Describe how you would integrate two recommendations from the heart failure guidelines provided in the red folder for patients with a chronic heart failure into your practice (ex: would send flu vaccine reminders annually to all CHF patients using a patient registry).\n\n2 points for each (maximum of 4 pts):\n\n(Note:  must include specifics about how the guidelines would be implemented in order to receive credit)",
+    "Read through the following elements of the Chronic Care Model:\n\n1. Delivery system design – structuring a multidisciplinary health care team with defined roles to care for the patient\n\n2. Clinical information systems – organizing patient and population data to facilitate effective care.\n\n3. Decision-support - embedding evidenced based guidelines into daily practice\n\n4. Self-management support – emphasizing the patient’s central role in managing their health and organizing resources to provide support for self-management.\n\nThinking back on your LCE (or recent clinical experiences), briefly describe (in 1-3 sentences) a patient with a chronic condition(s) who would have benefited from incorporation of one of the above elements of the Chronic Care Model.  Please state how you think care could have been improved with one of these elements.\n\n4 points – Must include discussion of a specific patient (1 pt) and the element of the Chronic Care Model that would have improved care (3 pts)"
+  ],
+  "PROF": [
+    "Appropriately draped you during the physical exam.",
+    "appeared professionally competent – seemed to know what s/he was doing; inspired my confidence; appeared to have my interests at heart."
+  ]
+}

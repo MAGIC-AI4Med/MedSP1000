@@ -1,0 +1,34 @@
+{
+  "case_id": "mededportal_10122",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10122/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Summarizes the treatment plan for the acute problem(s) and makes clear transition statement to discuss CPR",
+    "Provides a clear summary of a plan of care and treatment for this hospitalization based on the decisions reached, and clarifies the family\u2019s understanding of the plan",
+    "GET TO KNOW YOUR PATIENT \u2013 what are his/her values and goals?  What is meaningful in his or her life?",
+    "Ask patient or family what his/her/their understanding is of chronic medical problem(s) including prognosis"
+  ],
+  "MK": [
+    "Clearly reviews the patient\u2019s current and overall medical condition and prognosis",
+    "Explores and explains the expected functional outcomes if CPR is attempted in the setting of a cardiac arrest",
+    "Makes a recommendation in light of identified goals and expected outcomes if a cardiac arrest occurred",
+    "Fill in gaps in understanding of chronic disease and clarifies prognosis"
+  ],
+  "SBP": [
+    "Assesses readiness to make a decision. If the patient or surrogate needed more time, establishes a decision process in terms of what to do and when to conclude the process and make a decision"
+  ],
+  "ICS": [
+    "Establishes a comfortable atmosphere and puts patient/family at ease",
+    "Uses open-ended questions when appropriate",
+    "Uses understandable language and avoids medical jargon",
+    "Responds to verbal and non-verbal cues",
+    "Demonstrates empathy and compassion throughout the encounter",
+    "Ask patient/family if they have questions or concerns regarding chronic disease/prognosis",
+    "Finish by asking if the patient has any questions"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Affirms the intention to provide the best care of the patient regardless of the patient\u2019s resuscitation status"
+  ]
+}

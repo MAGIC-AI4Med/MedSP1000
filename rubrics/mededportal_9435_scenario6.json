@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "M1 Wash hands",
+    "M31: Test auditoryacuity bilaterally",
+    "M32: Inspect externalear bilaterally (D)",
+    "M33: Perform otoscopicexam bilaterally (D)",
+    "M34: Perform RinneTest (D)",
+    "M35:Perform WeberTest (D)"
+  ],
+  "MK": [
+    "M31: Test auditoryacuity bilaterally | S31: Reduced auditoryacuity((Sim) | S31: Reduced auditoryacuity",
+    "M32: Inspect externalear bilaterally (D) | S32: No lesions present | S32: Possible vesicles inherpes",
+    "M33: Perform otoscopicexam bilaterally (D) | S33: Bulging, redtympanic membrane onright side (Mod) | S33: Normal tympanicappearance without fluid",
+    "M34: Perform RinneTest (D) | S34: Bone conductionlonger than air conductionon right side (Sim) (NB) | S34: Air conduction longerthan bone conductionbilaterally",
+    "M35:Perform WeberTest (D) | S35: Sound better in theright side (Sim) | S35:Sound better in the leftside",
+    "Given the results of your physical exam, which diagnosis is most likely? [x] serous otitis media [ ] sudden (viral) hearing loss [ ] neither because the findings are ambiguous or contradictory [ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

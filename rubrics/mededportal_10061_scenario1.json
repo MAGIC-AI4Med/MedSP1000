@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10061",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10061/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "$\\mathrm { O } _ { 2 } / \\mathrm { I V } / $ monitor",
+    "History and physical examination",
+    "Requisite studies o Labs: CMP, CBC with differential, ABG, coagulation profile, toxicology screens, ammonia, fingerstick o Images: ECG, CXR, head CT",
+    "Diagnosis and treatment of opiate overdose",
+    "Diagnosis and treatment of torsades de pointes/polymorphic VT"
+  ],
+  "MK": [
+    "Failure to correctly identify opiate overdose Failure to identify and treat torsades de pointes/polymorphic VT"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.10924-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10924-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for intravenous (IV) access, to have patient placed on monitor, call for nasal cannula",
+    "Ask for vital signs",
+    "Assess airway, breathing and circulation",
+    "If learner chooses to do needle decompression, describe the procedure:Prepare equipment: personal protective equipment (PPE), 18 gauge needle, cleaning solutionDescribe procedure of needle decompression:Describe anatomy: midclavicular line over 2nd intercostal spaceSterilize field and place on personal protective equipmentInsert large bore needle at 90o angle to chest wall until hear a “pop” and a rush of air through needleAsk for confirmatory imaging",
+    "If learner chooses to do chest tube, describe the procedurePrepare equipment: PPE (a white coat and gloves), scalpel, cleaning solution, drape, analgesia, chest tube, suture kit, sutures, curved Kelly clamp, closed drainage system, gauze for dressingsDescribe procedure of chest tube insertion:Identify insertion site: 4th or 5th intercostal space in mid-to-anterior axillary line. Position patient with arm on affected side over patient’s headPrep the patient’s skin with cleaning solutionDrape patientAdminister analgesia Make 2-4 cm transverse incision through skin and subcutaneous tissues.  Dissect down to pleura.  Placing a hemostat (no Kelly clamps available in Patan’s chest tube kit) above the rib, push through pleura and expand space prior to withdrawing.Insert index finger to ensure in correct spacePlace chest tube and direct in direction of patient’s head and anteriorlyConnect chest tube to closed suction systemSuture down chest tubeDress chest tube with gauzeAsk for confirmatory imaging"
+  ],
+  "MK": [],
+  "SBP": [
+    "Learner will call general surgery",
+    "Describe case succinctly and arrange for proper disposition"
+  ],
+  "ICS": [
+    "The learner will take lead and assign clear roles",
+    "Ask for help"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

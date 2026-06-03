@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_9938",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9938/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Taylor may need to increase her weight close to where she was before losing weight to regain her menses.",
+    "Her height should be followed closely.",
+    "DXA bone measurements should be considered at a year of amenorrhea."
+  ],
+  "MK": [
+    "Medical concerns include bone loss from amenorrhea and possible other causes of amenorrhea such as elevated prolactin, thyroid disease, or ovarian insufficiency."
+  ],
+  "SBP": [
+    "Signed releases need to be obtained for communication."
+  ],
+  "ICS": [
+    "Establishing communication between team members is paramount."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "School notification may differ from patient to patient but discussion of Taylor’s case should include elements about confidentially from various disciplines and what should or should not be shared by various team members and the school."
+  ]
+}

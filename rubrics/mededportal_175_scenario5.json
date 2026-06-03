@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_175",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_175/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Needing to suggest HIV testing"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Your task is to inform Mrs. Taylor of her diagnosis.",
+    "Dealing with denial and with anger",
+    "Can always achieve closure"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

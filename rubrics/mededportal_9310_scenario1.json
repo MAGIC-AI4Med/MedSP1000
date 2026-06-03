@@ -1,0 +1,37 @@
+{
+  "case_id": "mededportal_9310",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9310/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "ABCDE",
+    "Obtain further history",
+    "Expose patient",
+    "Apply monitor",
+    "Prepare suction apparatus",
+    "Check BP",
+    "Stop GT feeds/Make NPO",
+    "Order Abdominal Xray",
+    "Re-evaluate ABCDE",
+    "Optimize access",
+    "Provide fluid resuscitation",
+    "Re-check BP after fluids",
+    "Place nasogastric tube for decompression",
+    "Order labs: complete blood count (CBC), basic metabolic panel (BMP)",
+    "Draw cultures and provide antibiotics (broad-spectrum)"
+  ],
+  "MK": [
+    "Recognize acute abdomen",
+    "Develop differential of acute abdomen/peritonitis in the GT-dependent child",
+    "Recognize shock",
+    "Recognize GT malposition as primary cause of peritonitis and septic shock in this patient",
+    "Recognize septic shock and treat with antibiotics"
+  ],
+  "SBP": [
+    "Call primary service (i.e. service that placed the tube originally)",
+    "Order dedicated GT-dye study and/or obtain urgent surgical consultation"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

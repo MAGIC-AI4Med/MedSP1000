@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_592",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_592/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Primary trauma survey - findings as above- proper communication offindings within team",
+    "IV/O2/monitor- vascular access (&gt; 18 gauge) - oxygen administration (nonrebreather mask) - cardiac monitor with continuous pulseoximetry",
+    "Breathing interventions:- left needle thoracentesis (within 10 minutesof arrival)",
+    "Circulation interventions: - additional vascular access (&gt; 18 gauge)- volume resuscitation (fluids + blood)",
+    "Disability interventions:- supportive measures",
+    "Exposure interventions (Secondary traumasurvey): - findings as above- proper communication offindings within team",
+    "Acquisition and acknowledgement of all vital signsPerformance of history and exam targeted to situation and patientpresentation",
+    "INVESTIGATIVE PROBE:□team successfully completes airway management of patient 2a (within 10 minutes of arrival)AND□ needle decompression of patient 2b (within 10 minutes of arrival)"
+  ],
+  "MK": [
+    "Rapid recognition of disease process with appropriatemanagement actions",
+    "Proper consideration of alternate diagnoses and precipitantsAvoidance of premature diagnostic closure",
+    "Recognition of critical patient state and need for emergenttreatmentAwareness of unresolved issues"
+  ],
+  "SBP": [
+    "Disposition:- expeditious arrangement of thoracic andtrauma surgical interventions (inoperating room)"
+  ],
+  "ICS": [
+    "Patient report and acceptance",
+    "Formal transition of care with report of patient presentation, resuscitative events,and treatment",
+    "Succinct and complete verbal presentation to accepting personnelRespectful interaction with patient and staffSafe medication ordering",
+    "Manages scenario and leads team members with fluency,automaticity， simultaneity， rapidity and knowledge base"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

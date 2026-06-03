@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_8175",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8175/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Same initial issues of assessment and getting help. Do not forget quality CPR and directing others so that someone is doing it (teamwork).",
+    "Strip #9: torsades de pointe: get them to recognize this and treat with Mg. You may add the history that the patient is alcoholic (prone to hypomagnesemia)."
+  ],
+  "MK": [
+    "Use strips #1 and/or #10 to go down the adult cardiac arrest algorithm unless they seem to have it down cold by now.",
+    "Strip # 2 and 3: Review the asystole branch of the adult cardiac arrest algorithm (agonal rhythm treated as asystole/PEA). Make sure to confirm asystole in another lead.",
+    "Get students to apply a differential diagnosis and possible evaluation/treatment to this particular patient:\nLikely diagnoses: hypoxia (from post-op pneumonia or pneuomothorax); pulmonary embolism; hypokalemia or hyperkalemia ( from IVF’s); pre-existing acidosis (sepsis, obesity hypoventilation)\nLess likely: hypothermia (unless she was immediately out of the operating room), drug overdose",
+    "Variation: have them look at strip # 19 but make sure they still look for breathing/pulse. Describe that there is no pulse and review Pulseless Electrical Activity and the differential diagnosis pertinent to this presentation to include: hypovolemia; hypoxia; hypo/hyperkalemia; acidosis; tension pneumothorax (in OR yesterday); pulmonary embolism."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

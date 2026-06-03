@@ -1,0 +1,46 @@
+{
+  "case_id": "mep-12-10409-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10409-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assessed initial vital signs",
+    "Secured airway",
+    "Appropriate ACLS protocol",
+    "Asked for patient history",
+    "Wash hands",
+    "Obtain focused PE",
+    "Monitors the status of the patient"
+  ],
+  "MK": [],
+  "SBP": [
+    "Recognize medical error/adverse event",
+    "Identify contributors of the medical error",
+    "Identify strategies to decrease probability of this error",
+    "Generate a root cause analysis",
+    "Uses resources efficiently to maximize team performance",
+    "Monitors fellow team members to ensure safety and prevent errors",
+    "Monitors the environment for safety and availability of resources (e.g. equipment)",
+    "Monitors profess toward the goad and identifies changes that could alter the plan of care"
+  ],
+  "ICS": [
+    "Assembles a team",
+    "Assigns or identifies team members",
+    "Includes patients and families as part of the team",
+    "Provides brief, clear, specific, and timely information to team members",
+    "Seeks information from all available sources",
+    "Uses check back to verify information that is communicated",
+    "Uses SBAR, call-outs, and handoff techniques to communicate effectively with team members",
+    "Identifies team goals and vision",
+    "Balances workload within the team",
+    "Delegates tasks or assignments, as appropriate",
+    "Fosters communication to ensure that team members have a shared mental model"
+  ],
+  "PBLI": [
+    "Conducts debrief. Huddles, and debriefs"
+  ],
+  "PROF": [
+    "Holds team members accountable",
+    "Role models teamwork behaviors"
+  ]
+}

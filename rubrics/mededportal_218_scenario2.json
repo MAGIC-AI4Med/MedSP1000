@@ -1,0 +1,50 @@
+{
+  "case_id": "mededportal_218",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_218/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Tobacco and/or alcohol use and amount",
+    "Describes details of specific case feature (tobacco use, social setting, symptom history, etc.)",
+    "Mental status exam",
+    "Examines shoulder for range of motion, strength",
+    "Examines back for scoliosis, tenderness, range of motion",
+    "Examines abdomen for masses, tenderness",
+    "Does neurological exam for gait",
+    "Checks for orthostatic blood pressure",
+    "Distracts patient and applying palpation to an area that previously elicited pain (abdomen, shoulder, or back)",
+    "indicates correct drug or other medical treatment (antidepressant)",
+    "describes patient behavioral management, education, counseling, or other non-drug interventions",
+    "Offered treatment for depression with antidepressants",
+    "Offered or encouraged group therapy in self management",
+    "Offered interventions directed at reducing specific sources of stress, including physical exercise, family systems interventions",
+    "Offered benign interventions such as hot and cold packs, bandages, canes, lotions, vitamins nutritional supplements",
+    "Offered alternative medicine such as acupuncture, chiropractic, biofeedback"
+  ],
+  "MK": [
+    "identifies most likely diagnosis (somatization disorder) indicates differential diagnosis and why these are less likely (if relevant) other somatoform disorders, malingering or factitious disorder, Mood disorders and depression, Anxiety disorders, physical illness",
+    "identifies other key features in problem list and addresses them (depression)",
+    "includes impact of psychosocial setting, patient factors, etc. in the assessment (some financial stress, possible lortab abuse, history of suicide attempt))",
+    "correctly interprets lab, study, or physical exam findings (if relevant) (notes that workup already been done by other providers)",
+    "gives rationale for diagnosis (many physical complaints before age 30, last several years, significant impairment socially, occupationally), 4 pain symptoms (head, abdomen, back, shoulder), 2 GI symptoms (nausea, bloating), 1 sexual symptom (disinterest), one pseudoneurologic symptom—dizziness); symptoms not explained by any general medical condition and do not seem to be  due to substance abuse)",
+    "notes that no evidence that symptoms are made up to realize some conscious or unconscious gain"
+  ],
+  "SBP": [
+    "writes down any relevant lab or study results (mostly from previous encounters with other providers)",
+    "numbered problem list format",
+    "identifies and lists first the chief complaint",
+    "Arranged for follow-up that consists of regularly scheduled, brief office visits (15 min once a month)",
+    "Offered regularly scheduled, brief office visits",
+    "indicates appropriate triage, hospitalization, or follow-up (referral for psychotherapy, but continued follow-up with primary care as well, which should be on a time-contingent not symptom-contingent basis)"
+  ],
+  "ICS": [
+    "Asked open ended questions that engaged the patient and demonstrated empathy",
+    "Provided acceptable explanation of symptoms to patients (avoids “It’s all in your head.” Uses statement something like “The results of my exam and of the tests show you do not have a life-threatening illness. However, you do have a serious and impairing medical condition, which I see often but which is not completely understood. Although no treatment is available that can cure it completely, there are a number of interventions that can help you deal with the symptoms better than you have so far. We don’t know why some people feel their body sensations more than others. “  “The good news is that you don’t have a disease. You have an illness called somatization.”)",
+    "Acknowledged patient’s suffering",
+    "Provided reassurance",
+    "Avoided rejection",
+    "Acknowledged limitations of treatment"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

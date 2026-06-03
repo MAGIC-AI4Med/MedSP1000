@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Student should offer to develop an individualized quitting plan with you. You should discuss the following elements:\nReview prior quit attempts to pinpoint problem areas\nSet a specific quit date\nReinforce motivations\nStrategize about how to break down barriers\nDiscuss behavioral coping strategies\nReview medication use\nSchedule follow-up",
+    "You discussed getting rid of products so it will be harder to restart (cigarettes, lighters, ash trays)",
+    "You helped me choose some friends that I can tell about my quit so that I have people to help me"
+  ],
+  "MK": [
+    "Student Should Counsel You on the Following Points\nIn general, tapering is not a good way to quit smoking. Just as in your case, most people cannot get below a certain number before they begin to escalate again.\nIn order to quit successfully, a smoker must break the physical addiction as well as the behavioral connections that trigger urges. The best way to do that is to stop completely on a specific day.\nThen the quitter should combine a smoking cessation medication with a behavior modification program. Research shows that this is the best way to quit smoking.\nConcrete behavioral suggestions as to how you could deal with urges in the evening and while golfing. If no specific suggestions are made, the student should make reference to where you can get this information.\nIf you discuss the cost of cessation medications, the student should advise you that the short-term cost of any of the products far outweighs the long-term costs of continued smoking. The average smoker in PA spends about \\$2,000 a year on cigarettes. The average cost of a course of medication is \\$200 or less.\nQuitting at any age is beneficial. Research done on smokers in the seventies and eighties shows definite health benefits to quitting even at that age.\nThere is no proof that smoking just a few cigarettes a day is safe. The only safe number of cigarettes is zero!\nNote: Smoking is one of the leading causes of impotence in men. Since you are already on Viagra, the student should mention this fact to you. Quitting could possibly reverse any problems you are experiencing."
+  ],
+  "SBP": [],
+  "ICS": [
+    "You identified that I was ready to make a quit attempt"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

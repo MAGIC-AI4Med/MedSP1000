@@ -1,0 +1,24 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "The learner should know that Dr. Taylor did not get all of your tumor out, and you shouldn’t be surprised to learn that you need chemo.",
+    "the focus should not be on details of chemotherapy, but rather the context of treatment (curative rather than palliative);"
+  ],
+  "SBP": [],
+  "ICS": [
+    "After introducing yourself, ask her to tell the story from the beginning.",
+    "Learner should recognize and reflect your intuition it was cancer.",
+    "Learner needs to reflect feeling of lack of a pre-existing doctor-patient relationship, new diagnosis, advanced disease at diagnosis.",
+    "Learner should not go on to discuss perspective for visit but should revisit Mary’s narrative with her from the beginning, exploring and empathizing with:\nTrauma of abrupt change from excellent health to illness;\nSelf -blame regarding ignoring symptoms;\nTrauma of lack of relationship with doctor giving bad news;\nStress of being told she has stage III cancer;\nWorry about not having entire tumor removed.",
+    "Start from her perspective regarding the reason for seeing you.",
+    "the learner should address Mary’s two major fears of debilitation from chemotherapy and chemotherapy irrevocably affecting her health.",
+    "Ideally, the learner should avoid over-reassurance, mobilize support, and end with a partnership statement.",
+    "Focus on assessing her coping style, her strengths, and her support systems."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

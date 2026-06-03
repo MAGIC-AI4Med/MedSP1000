@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.11269-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11269-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Not evaluating patient for responsiveness and pulse: The first learner to enter the room must assess the hypotensive patient for responsiveness and pulse. Failure to do so will require a pause of the case to allow for coaching of the learner. The case will then start from the beginning.",
+    "The team immediately begins putting pads and limb leads on the patient.",
+    "The leader will then instruct the team to prepare for synchronized cardioversion.",
+    "Patient’s oxygen increased to 100% by nonrebreather or bagging with BVM.",
+    "The leader will instruct the person operating the defibrillator to put it in manual mode, synchronize it, and charge it to 50-100J.",
+    "Leader will instruct a person to re-cycle blood pressure and the defibrillator operator will be instructed to synchronize it and charge it to appropriate energy."
+  ],
+  "MK": [
+    "The rhythm is immediately analyzed, and the leader will state that the patient is still in SVT.",
+    "The new rhythm is analyzed and named sinus tachycardia by the team leader.",
+    "Inappropriate use of adenosine: Learners should understand that Adenosine may only be used in management of stable SVT and is not appropriate for treating unstable SVT."
+  ],
+  "SBP": [
+    "The learner will name the rhythm unstable SVT and call for a crash cart and defibrillator.",
+    "The team will then delegate consulting and consider disposition."
+  ],
+  "ICS": [
+    "Failure to define roles and use closed loop communication: Clearly defined roles and closed loop communication will be assessed by instructors. Failure by learners to display these behaviors will lead to a pause in the simulation for micro skill improvement.",
+    "Leader will then instruct the team to appropriately clear from the patient and announce to the room that shock will be delivered.",
+    "Once again, the leader will instruct all team member to “clear”, and the charge will be delivered."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

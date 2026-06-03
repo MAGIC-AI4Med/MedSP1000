@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_9133",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9133/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "What caused you to comeback again to clinic today? Have you tried anythingother than Tylenol?"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "What impact is this illnesshaving on you/your family?How has this affected you?What are you most worriedabout? What are you mostafraid of? (Begin with “feverwon&#x27;t go away&quot;...thengradually reveal fear aboutwork.)",
+    "Have you tried any non-medication remedies/folkremedies/herbal remediesfor this problem?What treatment do you thinkSammy should have?",
+    "Addressing)chief)complaints,)symptoms)that)began)many)days)ago\n\nUse)of)open<ended)questions:))tell)what’s)been)happening)since)this)started;)tell)me) the)story)of)the)illness.))Then)what?)Then)what?)What)else? What)made)you)decide)to)come)in)today? Have)you)seen)anyone else)for)this?))Is)this)your)first)visit)about)this)problem?"
+  ],
+  "PBLI": [
+    "Addressing)unfamiliar)medications)\n\nAcknowledge)not)knowing)and)step)out)to)look)things up Importance)of)investigating)before)dismissing or)instructing not)to)use"
+  ],
+  "PROF": []
+}

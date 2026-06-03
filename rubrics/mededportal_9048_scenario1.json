@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_9048",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9048/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Student asked about fever or chills",
+    "Student asked me about nausea or vomiting",
+    "Student asked me about getting easily tired",
+    "Student asked me about having any chronic disease",
+    "Student asked me if I have ever been diagnosed with hypertension",
+    "Student asked me if I have ever had been diagnosed with rheumatoid arthritis",
+    "Student asked me if I have a kidney disease",
+    "Student asked if I know about any defects I may have been born with",
+    "Student asked if I have had a heart disease",
+    "Student asked if I smoke",
+    "Student asked if I consume alcohol regularly",
+    "Student asked me if Iuse “recreational drugs&quot;",
+    "Student asked me about family history of chronic diseases (diabetes,hypertension, kidney disease,arthritis) NOTE: Must ask at least two!",
+    "Student asked me about my diet",
+    "Student asked about my physical activity/exercise"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Student established a good working relationship, with appropriate eye contact,body language and verbal communication",
+    "Student used open-ended questions appropriately",
+    "Student tactfully disclosed to me their preliminary diagnosis: that I might havea chronic problem with my heart (aortic stenosis)",
+    "Student provided a closing summary at the end of the encounter and sharedwith me his/her diagnostic plans"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

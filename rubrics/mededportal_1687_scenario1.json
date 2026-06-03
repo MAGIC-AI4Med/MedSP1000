@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_1687",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1687/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Recognize the severely ill patient",
+    "Quick management: upright position, O2, NTG, MSO4, lasix, consider inotropes? (dobutamine, dopamine, PDI (milrinone); note learning point: when to use or avoid betablockers & ACEI for acute decompensated CHF",
+    "Quick orders: EKG(LVH,atrial dil, LBBB, old MI), CXR, BNP, CE, chem7, ABG, CBC",
+    "On a separate handout, individual learners are asked to provide medication orders, fluid orders (if appropriate), follow-up labs and tests (15 min)."
+  ],
+  "MK": [
+    "Formulate initial ddx",
+    "Etiology of acute CHF—MI, infxn, anemia etc"
+  ],
+  "SBP": [
+    "Identify required level of care by obtaining appropriate information using history, physical exam findings, and other sources (labs/studies)",
+    "Document clinical reasoning by writing a brief assessment of the situation and a plan of care and admission orders for treatment and subsequent studies"
+  ],
+  "ICS": [],
+  "PBLI": [
+    "Individual learners write a brief (1-2 paragraphs) assessment of the case with instructions to provide reasons for their decisions, alternative diagnoses they considered and reasons that they settled on the diagnosis."
+  ],
+  "PROF": []
+}

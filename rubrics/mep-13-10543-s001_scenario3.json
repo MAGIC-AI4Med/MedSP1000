@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-13-10543-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10543-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain an interval history and discuss your concerns regarding non-compliance and missed appointments in a sensitive and respectful manner."
+  ],
+  "MK": [],
+  "SBP": [
+    "Try to elicit the barriers to care and compliance"
+  ],
+  "ICS": [
+    "Engage parent to discuss her perceptions and beliefs of lack of compliance/adherence to prescribe therapy",
+    "Establish a partnership and work towards establishing trust and offer solutions to overcome any identified barriers"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

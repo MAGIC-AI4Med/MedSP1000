@@ -1,0 +1,53 @@
+{
+  "case_id": "mededportal_9500",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9500/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asked All of the Orientation questions in the order provided",
+    "Immediate Recall challenge was administered so that the patient was prompted to say the words only after the student uttered all three words, each separated by pauses",
+    "Provided a second trial of the Immediate Recall challenge (because the patient erred in the first attempt).",
+    "In the Serial 7’s challenge, avoided prompting the patient with subsequent numbers in the series such as by saying “for example, 100-7 is 93, 93-7 is 86 ..” (Instructions were provided with no additional prompting or hints.)",
+    "Omitted WORLD spelled forwards and backwards (because the patient agreed to do the Serial 7s).",
+    "In the Delayed Recall challenge, avoided giving the patient hints. NOTE: Avoids “Try again.” “One of them was a fruit. Does that help?”",
+    "Comprehension challenge was administered correctly as a three-step command rather than three one-step commands.",
+    "Deflected/avoided patient requests for elaboration on the instructions. (Restating instructions allowed, but not rephrasing or providing additional information or clarification)"
+  ],
+  "MK": [
+    "Mini Mental Status Exam (MMSE)/Clock Draw Test (or cognitive assessment) indicates that the patient has cognitive deficits in registration, recall, attention, comprehension, and drawing suggestive of memory impairment and/or possible dementia."
+  ],
+  "SBP": [
+    "Mini-Mental Status Exam (MMSE) score 18/30",
+    "Orientation: 3/10 – deficits with date, county, town",
+    "Registration: 2/3 objects",
+    "Serial sevens: 3/5",
+    "Recall: 0/3",
+    "Comprehension: 2/3",
+    "Drawing: 0/1",
+    "Clock Draw Test (CDT) score 2/4"
+  ],
+  "ICS": [
+    "Introduced his/her function/role to the patient NOTE: “I’m here to conduct part of an evaluation that your doctor has requested. “ “I’m here to help out with an assessment that needs to be done.”",
+    "Before beginning the MMSE, made remarks to establish rapport with the patient and put her at ease NOTE: “Do you mind if I ask you a few questions about your memory? Please answer them as best you can.” “ I have a set of questions to ask you. Is it OK if we get started?”",
+    "Remarks introducing MMSE were free of any reference to the MMSE’s being easy or silly. NOTE: Avoids: “Some of these questions are kind of silly.” “Don’t worry. These are really easy questions.”",
+    "Avoided comments or body language that highlighted errors or validated correct responses, thereby maintaining a neutral testing environment. NOTE: Avoids “Good try” or “Almost” or “Good job” or “You did great.”",
+    "Made good eye contact throughout the interview",
+    "Asked each question slowly and clearly",
+    "SPEECH: Is the student's speech free of any characteristics (accent, diction, volume) which create abarrier to clear communication?",
+    "VOIcE: Does the student's voice communicate warmth, interest and caring? (Or, do you hear hints ofdisbelief, judgment, and il-timed amusement even though the \"right things\" are said?)",
+    "LANGUAGE: LANGUAGE: Does the student use appropriate language free of toilet terms,indelicateslang,or jargon that he doesn't bother to explain? Is the language sophisticated enough so that you don'tfeel \"talked down to\"?",
+    "INTRODUCTION/ENTRANCE: When the student enters the room, does the introduction include the student doctor's * last name * and * position/job title *? Is the student doctor cordial? Notes: Use of a first name only -- Dr. Molly --is never acceptable unless interacting with young children. Use of a last name ONLY- Dr. Rogers - is, unfortunately,customary in medicine but would never be acceptable in other professions. In order to encourage proper introduction, unless BOTH a first AND last name are used, score the student as Lacking.",
+    "DISTRACTloNS: Does the student doctor cope with the medical chart, note taking and any other distractions without neglecting interaction with you? Notes: You can decide if an apology or explanation from the student regarding what he's examining might make his absorption in the materiai less offensive.",
+    "CONFIDENCE: Does the student doctor appear appropriately confident and relaxed without being overly casual?",
+    "FACE TIME: Is the student doctor's eye contact and facial expression appropriately inviting/open or serious (as the situation dictates)? Is it free of judgment, disbelief or misplaced amusement?",
+    "BODY LANGUAGE: Does the student doctor's body language encourage communication through nods,head tilts and leaning into you? Does s/he maintain an appropriate distance & position in the room？ Notes: -- Posture should not be overly casual -- Should be seated during the interview,but not at a level higher than you - A comforting pat may make this behavior exemplary,but too much touching can be discomforting",
+    "CLOSURE/FAREWELL: Does the student doctor's departure include * cordial farewell in keeping with the mood of the encounter * and * an opportunity/invitation for you to ask final questions *.",
+    "PREPARATIoN: Does the student doctor make any introductory statement explaining the hands-on technique (exam skillor treatment procedure) or verbal assessment (i.e. Mini Mental StatusExam) about to be used on you?Notes: Expect a statement or brief explanation regarding the purpose of whatever you are being subjected to.\"l'm going to listen to your heartand lungs toassess thatthey are functioning properly.\" \"I'dlike to askyou a series of questions to help me better understand how you are processing information.\"",
+    "EMPATHY: Through word or gesture (i.e.patonthearm or shoulder),does the student doctor somehow acknowledge your (portrayed) distress, emotional state or worries? Notes:Areyoumadetofelthatyourproblemsituationisimportantands/heisrealyivestedinresolvingitYou'relookingforan overall mood conveyed during the encounter (notaspecific statement,asin the next question). Consider allformsof communicating empathy -- eyes,body language, tone of voice,etc.",
+    "SUPPORT: Does the studentdoctormakeanykindofsupportive statementthatacknowledges yoursituation--anddoesit sound genuine rather than rote/rehearsed? Notes:\"I'm sorry you are having this trouble/pain,..\" \"Wow, you've been having a rough time.\" \"Let's see what we can do to get you to get you back to your activities.\" \"Anotherpound lost-Icansee youve been reallytaking care of yourself.\""
+  ],
+  "PBLI": [],
+  "PROF": [
+    "GROoMING: Does the student doctor appear appropriately groomed, adhering to the essentials of our attire guidelines? Is hygiene good?"
+  ]
+}

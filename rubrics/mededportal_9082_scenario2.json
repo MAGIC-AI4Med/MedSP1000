@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_9082",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9082/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Information accurate",
+    "Clearly statebenefit/risk of plan",
+    "Credible source"
+  ],
+  "SBP": [
+    "Appropriately involveattend"
+  ],
+  "ICS": [
+    "Addresses all parentalconcerns",
+    "Acknowledge validity",
+    "Clearly addressesparental concern",
+    "Minimizes/explains jargon and “big”words",
+    "Provides next steps",
+    "Conveys empathy"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Typos/gram errors",
+    "Respect for parent"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11388-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11388-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Enquired about patient’s PMH including:\nMedications patient takes\nAllergies to medications",
+    "Enquired about paradoxical reactions to medications"
+  ],
+  "MK": [],
+  "SBP": [
+    "Assessed room safety including:\nKeeps self between patient and door\nAssessed and removed any items in the room that may become dangerous to patient and/or staff",
+    "Confirmed proper medication and dosing with team and nursing staff",
+    "Identified a team leader",
+    "Demonstrated proper “crowd control” (asking unnecessary/ancillary staff to leave the room)"
+  ],
+  "ICS": [
+    "Introduced self to patient",
+    "Approached patient in a calm way, examples include:\nUsed a non-aggressive stance\nUsed simple/plain language\nUses validating statements\nLeaves space in between patient and provider",
+    "Attempted Verbal De-escalation with examples including but not limited to:\nAssessing sensory triggers/overstimulation\nOffering distractions such as sensory tools, drawing, iPad, or other “acts of kindness” (blankets, snacks)\nOffer coping strategies (deep breathing, yoga stretches, physical and tactile stimulation)",
+    "Involved patient and/or parent in choice of medication",
+    "Utilized closed loop communication when interacting with other team members"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

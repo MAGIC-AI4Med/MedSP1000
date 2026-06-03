@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_9279",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9279/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Place patient on monitor",
+    "Obtain intraosseous access",
+    "Order IV fluid bolus (20cc/kg)",
+    "Suction airway",
+    "Order Chemistry panel",
+    "Order US of abdomen"
+  ],
+  "MK": [
+    "Recognize and diagnose pyloric stenosis"
+  ],
+  "SBP": [
+    "Surgery consult"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

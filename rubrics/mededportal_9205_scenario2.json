@@ -1,0 +1,32 @@
+{
+  "case_id": "mededportal_9205",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9205/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Record levels and changes in levels using pain rating scales.",
+    "Has this treatment improved functioning?",
+    "Any side effects or toxicities of the medications?",
+    "A number of things may improve overall pain control and decrease use of short-acting opioids: Increase dose of long-acting opioid: According to his history, the patient is taking an additional $3 0 ~ \\mathrm { m g }$ per day of oxycodone in the short-acting form in addition to $4 0 \\mathrm { m g }$ of long-acting opioid. By gradually increasing his long-acting medication, you may expect the use of the short-acting medication to decrease accordingly. Although oxycodone extended release is a 12-hour medication, the patient may benefit from taking the second dose earlier, perhaps right after work. Take medications 1 hour prior to those times if predictable to have analgesia on board, such as in the evening after work. Add/increase adjuvant medications and alternative therapies. Consider additional sleep aid. Add and/or schedule non-opioid medications at particularly difficult times to try to minimize opioid use: In the morning before work In the afternoon after work Before bed",
+    "Increasing doses of long-acting opioids: start low and go slow(ly): Small changes at weekly to monthly intervals. Continue short-acting medications while adjusting dose of long-acting medications, but expect/plan that the number of pills and frequency of use of short-acting medications will go down as long-acting dose is optimized."
+  ],
+  "MK": [
+    "Reassessment of diagnosis and the process that was followed to make that diagnosis Consideration of whether further diagnostic testing or referrals are warranted Periodic physical examination to support diagnosis.",
+    "Signs of abuse of the medication.",
+    "Is your overall impression that this patient is benefiting (eg. benefits, such as pain relief, outweigh side effects) from opioid therapy? x Yes  No  Unsure",
+    "In this case, it is of concern that the patient is taking more short-acting medication than he is prescribed, has called in for early refills, and may be taking medications from other sources (because he is taking more than is prescribed but not getting early refills from the provider’s office).",
+    "Overall, however, as his medications have been increased, he has shown improvement in his pain levels and decreases in these irregularities in medication use, suggesting the behaviors may be in response to undertreated pain.",
+    "Behaviors more likely to be associated with medication abuse/addiction: Selling medications Falsification of prescription—forgery or alteration Injecting medications meant for oral use Obtaining medications from nonmedical sources Resistance to changing medications despite deterioration in function or significant negative effects Loss of control over alcohol use Use of illegal drugs or controlled substances that are not prescribed for the patient Recurrent episodes of: Prescription loss or theft Obtaining opioids from other providers in violation of treatment agreement Increases in dosing without provider’s instruction Running short with medication supply and requests for early refills.",
+    "Behaviors that look aberrant but may be more a part of the process of stabilizing a patient’s pain condition and less predictive of medication abuse/addiction, such as: Asking for, or even demanding, more medication Asking for specific medications Stockpiling medications during times when pain is less severe Use of the pain medications to treat other symptoms Reluctance to decrease opioid dosing once stable And, in the earlier stages of treatment: Increasing medication dosing without provider instruction to do so Obtaining prescriptions from sources other than the primary pain treatment provider Sharing or borrowing similar medications from friends/family.",
+    "Inadequate pain management: Stable condition but inadequate pain control Progressive condition/pathology Tolerance to opioids.",
+    "Inability to comply with treatment: Cognitive impairment Psychiatric conditions.",
+    "Self-medication of mood, anxiety, sleep, posttraumatic stress disorder, addiction, etc.",
+    "Diversion by patient or others."
+  ],
+  "SBP": [
+    "For patients exhibiting these types of behaviors that could be explained by legitimate reasons other than substance abuse, it is valuable to: Express concern. Review the treatment agreement. Increase the frequency of monitoring, especially in the early stages of treatment when the patient is first being stabilized."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

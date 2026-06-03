@@ -1,0 +1,33 @@
+{
+  "case_id": "mep_2374-8265.10875-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10875-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Based on age and risk factors, Dan should have lipid screening and DM screening",
+    "According to CDC guidelines1, **all men who have sex with men** (MSM) should be screened for:\nChronic HBV infection by testing for HBsAg detection.\nHCV for any past or current drug users.",
+    "For **sexually active men**, screening tests should be done **at least annually** for *Neisseria gonorrhoeae* and *Chlamydia trachomatis* in the following manner\nMen who have ***insertive*** anal sex: test for **urethral** infection with ***N. gonorrhoeae* and *C. trachomatis***, preferred approach is a urine sample sent for nucleic acid amplification testing (NAAT).\nMen who have ***receptive***anal sex: test for **rectal** infection with ***N. gonorrhoeae* and *C. trachomatis***, preferred approach is NAAT of a rectal swab specimen.\nMen who perform **oral** sex (i.e. their mouth was on their partner’s penis, vagina, or anus) test for pharyngeal infection with ***N. gonorrhoeae***alone, preferred approach is NAAT of a pharyngeal specimen.\nTesting for *C. trachomatis* pharyngeal infection is not recommended",
+    "Serologic testing for HSV is not routinely recommended however this can be considered.",
+    "For sexually active men, **annual syphilis** testing should be performed by serology.",
+    "For sexually active men who have sex with men, **annual (at a minimum) HIV** testing should be performed:\nMost common test is an antibody screening test (immunoassay) which can be performed on blood or oral fluid.\nCombination tests that detect both antibodies and the p24 antigen are the current recommended tests and can detect HIV as soon as three weeks after exposure. These 4th generation tests are only available for testing on blood.\nWhen there is concern for an acute HIV infection, RNA-PCR based testing is required to detect the virus.",
+    "No clear guidelines are currently available regarding routine anal cytology testing by anal Papanicolaou smear",
+    "Screening can be considered starting at age 30 and done every two years for MSM or annually HIV-infected MSM2,3",
+    "Advisory Committee on Immunization Practices (ACIP) of the CDC previously recommend Human papilloma virus (HPV) vaccine (9 valent) for MSM or immunocompromised men from age 11- 26.7\nThe recommendation for other men was age 11-21\n**Since 2018, the ACIP expanded vaccination to men and women from age 9-45**",
+    "The CDC and ACIP recommend hepatitis A and hepatitis B vaccines for men who have sex with men in previously unvaccinated adults4.\nSerologic testing for both HAV and HBV can be performed, and vaccinations offered for those without documented history of vaccination and show no immunity on serologic testing5,6",
+    "Annual influenza vaccinations",
+    "Td/TDaP vaccination based upon ACIP guidelines for the general population",
+    "Outbreaks of meningococcal meningitis have been reported among MSM8. Current ACIP guidelines do not include this group in the high-risk category and do not recommend routine vaccination9.\nMultiple local health departments recommend vaccination for men who have sex with men.3",
+    "PrEP is one prevention tool that should be combined with other preventative measures (including condom use)",
+    "Monitoring is recommended with\nAn HIV antibody/antigen test at least every 3 months\nRenal function assessments at least every 6 months\nBacterial STI screening every 6 months or every 3 months for MSM who have recently had an STI or who have multiple sex partners"
+  ],
+  "MK": [
+    "Frequency of the above tests in not specified.",
+    "Daily oral antiretroviral pre-exposure prophylaxis is used to reduce the risk of acquiring HIV infection for HIV-negative people at substantial risk for infection. (**see table)**",
+    "The only medication regimen currently approved by the FDA for PrEP is the once-daily fixed combination of tenofovir disoproxil fumarate (TDF) 300mg and emtricitabine (FTC) 200mg, with the tradename of Truvada®.",
+    "A 2015 Canadian/French study in NEJM showed that “On-demand” PrEP i.e. Truvada taken in anticipation of sexual activity was effective in preventing HIV in a high risk MSM population. However, this is not standard of care in the United States.20"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

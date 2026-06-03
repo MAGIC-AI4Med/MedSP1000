@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_9711",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9711/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Take a focused history and physical (MK, PC, PL)",
+    "Demonstrate the correct management of shock. (MK, PC, PL, SB)"
+  ],
+  "MK": [
+    "Recognize a presentation of anaphylaxis. (PC,MK)",
+    "Outline the proper management of a patient in shock. (PC, MK, SB)"
+  ],
+  "SBP": [
+    "The Student(s) demonstrated an understanding of systems based practice including the effective use of healthcare resources."
+  ],
+  "ICS": [
+    "Communicate and transfer care effectively to consultant. (IC, PR)",
+    "Communicate effectively with the patient, family and nursing staff (IC, PR)",
+    "Demonstrate empathy. (IC, PR)"
+  ],
+  "PBLI": [
+    "The Student(s) demonstrated effective practice-based learning, including the selfanalysis/critique of their performance during the simulation exercise."
+  ],
+  "PROF": [
+    "The Student(s) displayed professionalism"
+  ]
+}

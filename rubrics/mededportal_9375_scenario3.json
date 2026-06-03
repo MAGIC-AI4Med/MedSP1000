@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9375",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9375/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Collect Appropriate History",
+    "IV, O2, Monitor",
+    "Obtain basic laboratory studies\nEKG/Troponin/Chest X-ray"
+  ],
+  "MK": [
+    "Properly Interpret EKG\nNormal sinus rhythm",
+    "Interpret CXR\nInfiltrate"
+  ],
+  "SBP": [
+    "Admit patient to appropriate service (ICU)"
+  ],
+  "ICS": [
+    "Relay relevant information to examiner after completion of scenario"
+  ],
+  "PBLI": [
+    "Name 3 cognitive errors you committed in this scenario.",
+    "What internal factors contributed to your errors?",
+    "What external factors contributed to your errors?",
+    "What could you have done to avoid committing the above errors?",
+    "What most contributed to the error in your thought process?"
+  ],
+  "PROF": []
+}

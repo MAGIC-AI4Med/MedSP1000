@@ -1,0 +1,16 @@
+{
+  "case_id": "mep-14-10717-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10717-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "One thing the teaching resident should do in this case is reinforce the expectations of the clerkship and potentially include that passing this clerkship is a graduation requirement. The feedback should include as many specifics as possible. For this case, being on time for shifts, settled and ready to participate in patient care at the start time for your shift.",
+    "Adult learners are more invested in their education when they understand the context of the information they are being provided, so in this case remind the student that when they start internship they will have the potential to be the first to evaluate a patient with an undifferentiated complaint and the emergency department is an excellent place to gain those skills. This should help get the learner to buy into the value of the rotation and increase motivation.",
+    "Attempting to tailor a student’s experience toward what their planned field is also a great way to increase interest in the student needing motivation. While Radiation Oncology cases aren’t common in the department, they serve as consultants to other physicians. Pointing out the good and bad in consultants as they interact with them though the month are helpful learning points for them. Knowing what your learners are planning for their future is helpful to pull in relevant teaching points on their cases."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

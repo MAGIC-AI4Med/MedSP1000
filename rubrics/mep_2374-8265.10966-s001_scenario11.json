@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.10966-s001",
+  "scenario": "scenario11",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10966-s001/scenario11",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask for vital signs",
+    "Ask if this headache a new symptom?",
+    "Are there alarm features (photophobia, nausea/vomiting, visual disturbance, neurologic symptoms)?",
+    "Oral acetaminophen 500mg – 650mg would be appropriate for mild pain"
+  ],
+  "MK": [
+    "In this case, since it is not a new symptom, she does not need further work up"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

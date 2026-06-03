@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_8006",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8006/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Hyperventilation-Initially with a face-mask, and then continued throughout the scenario. Participants should ventilate to at least maintain normocarbia.",
+    "Place the patient in Reverse Trendelenburg position",
+    "Administer propofol",
+    "Administer and wait for muscle relaxant to have an effect",
+    "Perform direct laryngoscopy and endotracheal intubation-Performed when blood pressure has been properly controlled",
+    "Mechanical hyperventilation and maintenance anesthesia",
+    "Administer mannitol and furosemide",
+    "Administer fentanyl",
+    "Administer hydralizine, sodium nitroprusside, nitroglycerin",
+    "Administer labetalol",
+    "Administer atropine, epinephrine or ephedrine",
+    "Administer nicardipine"
+  ],
+  "MK": [],
+  "SBP": [
+    "Call for help-The patient's neurosurgeon should be notified, and experienced anesthesia providers gathered to treat this patient"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

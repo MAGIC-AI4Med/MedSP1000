@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11577-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11577-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Do you know why Brian has received some vaccines but not others?"
+  ],
+  "MK": [],
+  "SBP": [
+    "During the role play, facilitators should encourage discussion about the incomplete vaccination status and whether or not Brian should attend nursery school.",
+    "The students should consider the types of vaccine exemptions that exist (such as, medical, religious, philosophical) and determine which types apply in their location (they should realize that other places may have different regulations).",
+    "Do parents understand the school exemptions?"
+  ],
+  "ICS": [
+    "Facilitators should be prepared to remind students that they have learned the C.A.S.E. approach for talking to vaccine-hesitant patients and families2, and that the students playing the physician role should:\nCorroborate—Acknowledge the vaccine hesitant patient’s concern(s) and verbalize an understanding of why they might feel this way.\nAbout me—Move from acknowledging the concern to describing how they became educated on the issue.\nScience—Transfer key information that addresses the vaccine hesitant patient’s specific concern.\nExplain/advise—Discuss why they believe that immunization is important and in the best interest of the patient.",
+    "Do you fully understand the parents’ hesitation? What are their concerns, and where are they obtaining their information?",
+    "Do the parents understand the complications of measles?",
+    "Do the parents know how vaccines work?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "In addition, students should include a framing of the physician’s arguments from an ethical perspective (i.e., which of the 4 guiding principles is respected in each argument)."
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_10061",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10061/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Telemetry monitoring",
+    "Rapid patient history",
+    "Rapid physical examination",
+    "Supplemental O2",
+    "IV access",
+    "Obtain labs, imaging (CXR), ECG",
+    "Diagnosis of ST elevation myocardial infarction and appropriate management",
+    "Hemodynamic stabilization",
+    "Initiation of transcutaneous pacing"
+  ],
+  "MK": [
+    "Diagnosis of impaired right ventricular function and preload dependence"
+  ],
+  "SBP": [
+    "Contact appropriate consultants",
+    "Activation of cardiac catheterization laboratory"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

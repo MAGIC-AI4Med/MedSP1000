@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.11298-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11298-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Refill all medicines and obtain a hemoglobin A1c for diabetes, BMP and urine studies for chronic kidney disease. Consider adding another blood pressure medication such as amlodipine. The patient should follow up in 3 months."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Establish rapport and take a history for a new patient who is establishing care with a new primary care physician.",
+    "Utilize WAKE active bystander strategies to acknowledge and address a patient’s bias toward younger physicians."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "The challenge in this case is for the learner to address the patient’s assumption about the patient’s age and bias that older doctors are always better than younger doctors in a professional, polite, and non-judgmental manner."
+  ]
+}

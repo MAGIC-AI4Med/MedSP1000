@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-14-10774-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10774-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Advocate. Work to get them time off.\nConsider involving chief residents to move shifts around or find coverage for a short period to allow the resident time to be with family.",
+    "Use external support. If your hospital/GME office offers counseling sessions for residents, offer a referral to these",
+    "If it is a personal issue (sick family member, etc), I encourage the learner to tell their PD, and offer to support them in any way they would like."
+  ],
+  "ICS": [
+    "Begin with “I’m on your side.” Emphasize motivation to help them improve. Often, this starts well before the conversation begins and extends to your entire relationship with the resident",
+    "Inquiry is telling the learner your concerns about it and asking for their thoughts.",
+    "Be inquisitive. Either from a single advocacy inquiry statement or may require more “digging” to actually “get to the root of” why it is happening.",
+    "Co-create a plan for future improvement.  Have the learner first suggest ways they think they could improve their behavior. Modify the plan as needed.  Learners are more likely to be successful if they came up with the solution.",
+    "Empathize. Reassure learner that they will not be seen as weak for attending to a family crisis.",
+    "Create alliance. Let the learner know that they have the support of the program and that other members of the department will step up in their time of need."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "mededportal_8196",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8196/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain pertinent history and perform appropriate physical examination.",
+    "Systematically assess airway, breathing, and circulation.",
+    "Order appropriate laboratory studies, radiographic imaging, etc.",
+    "Continuous cardiovascular monitoring should be started as well as lines to include 2 large bore (18G or larger) peripheral IV\u2019s or a central venous line under ultrasound guidance, and a foley catheter to monitor urine output.",
+    "The following cultures/gram stains should be obtained but trainee will be informed that results are pending: Blood, sputum, and urine.",
+    "Given acute change in mental status and low GCS, airway and breathing should be reassessed per Basic Life Support protocol.",
+    "Trainee should identify appropriate actions including providing supplemental oxygen, bag-valve mask ventilation, and/or intubation as necessary.",
+    "IV fluid resuscitation should be continued using boluses and monitoring perfusion parameters.",
+    "A central line should be placed under ultrasound guidance if not yet performed.",
+    "A vasoconstrictor should be started immediately via the central line.",
+    "An arterial catheter should be placed for continuous hemodynamic monitoring.",
+    "Stress dose steroids should then be considered.",
+    "Broad spectrum antibiotic coverage should include one drug with proven effectiveness against methicillin resistant *S. aureus*, and one or two antipseudomonal agents.",
+    "Appropriate actions include repeat cultures from all lines, fungal culture of sputum, and CT scans to rule out abscess.",
+    "Speciation and sensitivities of cultures with subsequent adjustment of antibiotic regimen should be addressed, as well as prophylaxis against stress ulcers and venous thromboembolic disease if not discussed earlier during order writing exercise."
+  ],
+  "MK": [
+    "Interpret lab results, chest x-ray, and electrocardiogram",
+    "Identify unstable vital signs and symptoms.",
+    "Once the patient is hemodynamically stable, the trainee should be asked to consider antibiotic coverage if not already addressed during the order writing exercise, and to elaborate on reasons for choice of type, dosage, and route.",
+    "Trainee will be asked to formulate a plan of action should the patient remain febrile with elevated white blood cell count 3 days after beginning antibiotics."
+  ],
+  "SBP": [
+    "Each trainee will be given a blank admission order template (see Appendix C: Part I) and asked to \u201cadmit the patient to the ICU\u201d."
+  ],
+  "ICS": [
+    "Perform brief sign-out during patient turnover to new team."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

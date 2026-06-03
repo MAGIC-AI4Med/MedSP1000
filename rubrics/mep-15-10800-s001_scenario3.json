@@ -1,0 +1,20 @@
+{
+  "case_id": "mep-15-10800-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10800-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "| **What further treatment and diagnostic workup will you perform for each problem?** | **1. Fever, abdominal pain, and elevated liver enzymes**   * **Broad spectrum antibiotics!** * RUQ ultrasound * Urine culture, blood culture   2. Hyperglycemia  - Insulin drip, IV fluids, frequent electrolyte monitoring |"
+  ],
+  "MK": [
+    "| **Read the HPI: What is the patient’s presenting complaint?** (using semantic qualifiers, precise medical language) | Acute onset confusion and fever |",
+    "| **What are the key clinical findings of the case?** (list up to 7 from HPI, PE, labs) | 1. Confusion  2. Fever  3. RUQ and epigastric tenderness  4. Leukocytosis w/ left shift  5. Elevated transaminases and bilirubin (mixed cholestatic and hepatocellular injury pattern)  6. Severe hyperglycemia  7. end organ damage (AKI and elevated lactate) |",
+    "| **Form a one sentence summary statement** (including context, temporal relationship, semantic qualifiers, key clinical findings) | This is a 78 year old nursing home resident with history of dementia, DMII, and recurrent UTI presenting with fever, hyperglycemia, abdominal tenderness, and elevated liver enzymes |",
+    "| **Make a prioritized problem list using precise medical language** | 1. Acute abdominal pain, fever, and elevated liver enzymes  2. Hyperglycemia  3. Acute kidney injury  4. Altered mental status  5. |",
+    "| **List your differential diagnosis and briefly argue for or against the diagnosis** | 1. Abdominal pain, fever, elevated liver enzymes  The most concerning diagnosis at this point is acute cholangitis given fever, leukocytosis, and elevated liver enzymes (transaminases and bilirubin). A complicated UTI such as prostate abscess or pyelonephritis could also explain his presentation but would not account for the liver abnormalities. |"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

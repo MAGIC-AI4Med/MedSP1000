@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.10982-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10982-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain a focused history",
+    "Perform a focused physical exam",
+    "Obtain a STAT EKG and Chest X-ray",
+    "Administer 324 mg of ASA",
+    "Treat pain with SL nitroglycerine followed by morphine",
+    "Administer oxygen for O2 sat <92%"
+  ],
+  "MK": [
+    "Recognition of STEMI"
+  ],
+  "SBP": [
+    "Call for help / activate interventional cardiology according to local protocols"
+  ],
+  "ICS": [
+    "Explain the working diagnosis to the patient"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

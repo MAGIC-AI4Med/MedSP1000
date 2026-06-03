@@ -1,0 +1,22 @@
+{
+  "case_id": "mededportal_9393",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9393/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "What is your diagnosis? Delirium",
+    "Is the patient CAM positive, why or why not?YES, Acute onset/change from baseline, inattention, disorganized thinking (hallucinations)",
+    "Predisposing factors for delirium\nterminal illness, functional impairment, elderly, bed rest",
+    "Precipitating factors for delirium?\nInfection/sepsis, dehydration, pain?, metastatic disease, electrolyte abnormalities, renal insufficiency"
+  ],
+  "SBP": [
+    "identify surrogate decision maker or HCPOA",
+    "refer to patient’s PCP or primary oncologist, case management, hospice, palliative care"
+  ],
+  "ICS": [
+    "discuss goals of care with family"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

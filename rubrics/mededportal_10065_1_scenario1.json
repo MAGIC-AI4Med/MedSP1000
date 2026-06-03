@@ -1,0 +1,52 @@
+{
+  "case_id": "mededportal_10065_1",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10065_1/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Place effective tourniquet",
+    "Perform effective junctional wound packing",
+    "Perform needle decompression for tension PTX",
+    "Place chest tube",
+    "Volume resuscitate with crystalloid AND PRBCs",
+    "Pain management",
+    "Cover open sucking chest wound (with 3 sided dressing)",
+    "Perform FAST US exam",
+    "Does not remove the large piece of stabilized shrapnel",
+    "Intubate patient with GCS 3",
+    "Place intraosseus (IO) for difficult IV access",
+    "Order hypertonic saline or mannitol",
+    "Obtain head CT",
+    "Assess fetal heart rate with US",
+    "Pain control",
+    "Needle decompression for tension PTX",
+    "Perform pericardiocentesis",
+    "Perform intubation for GCS 6",
+    "Control arterial bleeding with manual pressure on artery / packing or tourniquet placement",
+    "Perform cricothyrotomy (on task trainer)"
+  ],
+  "MK": [
+    "Determine need for stat C-section"
+  ],
+  "SBP": [
+    "Identify a team leader to coordinate all resuscitation efforts and consultants",
+    "Team leader delegate at least one physician to be in charge of each patient",
+    "Prioritize Sim 4, Sim 6, Sim 7 as first 3 patients for operative intervention with the others that are more stable to follow",
+    "Activate the hospital disaster plan (and/or other appropriate actions) to gain more resources for patient care",
+    "Identify unclaimed backpack in the room as potential bomb",
+    "Stabilize patient in ED with above interventions and does **not** prioritize this patient for immediate operative intervention",
+    "Does **not** prioritize this patient for immediate operative intervention",
+    "Prioritize this patient for operative intervention",
+    "Consult Neurosurgery",
+    "Consult ophthalmology for penetrating eye injury",
+    "Prioritize this patient for operative intervention with OB and surgery",
+    "Assign someone to look after the patient, as she is a minor",
+    "Stabilize the patient; does **not** prioritize patient for immediate operative intervention"
+  ],
+  "ICS": [
+    "Team leader communicate with each physician leader caring for individual patients to ascertain urgency of operative intervention / diagnostic needs",
+    "Discuss with consultants head CT vs. ventriculostomy placement in OR (no right answer, but should be able to justify their decision-making as time in CT may risk fetal demise and if CNS mass lesion missed may risk herniation)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_7833",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_7833/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Get information about the following components of her medical history\n\nHistory of Present Illness\n\nPast Medical History\n\nMedications\n\nAllergies\n\nFamily History\n\nSocial History\n\nHealth Related Behaviors",
+    "Elicit the patient’s understanding of her medical illness and how her illness has affected her function on a daily basis.",
+    "Inquire about psychosocial stressors and their impact on her ability to manage her illness.",
+    "Inquire about the impact of the patient’s illness on her family and their role in helping to manage her illness."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Open the interview (greet the patient, make introductions, inquire into patient’s purpose for the visit)",
+    "Build a relationship and establish rapport",
+    "Engage in open-ended inquiry, listening, summarizing"
+  ],
+  "PBLI": [
+    "Student interviewer should first give his/her perceptions of the interview, including:\n\nwhat went well and what to focus on improving."
+  ],
+  "PROF": []
+}

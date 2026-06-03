@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11377-s001",
+  "scenario": "scenario11",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11377-s001/scenario11",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Raquel tiene fiebre.La temperatura de su cuerpo esta masaltadelo normal.Lafebre noespeligrosa y es una reaccion normal del cuerpo cuando tiene un virus u otra infeccion.No siempre sabemos la causa precisa. Usted debe fjarse en los sintomas de Raquel en los proximos dias.Esos sintomas,como tos,dolorenlabarriguitaoenla gargantamocoso cambiosenelpipfepop,ospuedendarapista sobre la causa de la febre. >",
+    "Eldiagnsticodefebrepediatricasehacedespuesde:\nEs c u c h a r l o s s ínto m a s y e l h i sto ri a l m é d i c o d e l p a c i e nte H a c e r u n exa m e n fís i c o A ve c e s s e h a c e n otr a s p r u e b a s p a r a i d e nti! c a r l a c a u s a d e la febrepero no siempre serecomiendan",
+    "La fiebre se trata con medicamentos de venta libre,o sea sin receta, pero es importante darle la dosis correcta segun su peso.",
+    "Vamos a pesar a Raquel para calcular la dosis.En casa,debe medir la medicina usando el vasito o jeringa que viene con el frasco hasta legar a la linea indicada. No use una cuchara.Puede medicarla cada 3 horas alternando entre ibuprofeno   \ny acetaminofeno.Por ejemplo,sile   \nda acetaminofeno a las 3 y   \ntodavia tiene febre a las   \n6,le puede dar ibuprofeno.",
+    "Es buena idea tener un termometro en casa para medirle la temperatura. Hay varios tipos: rectal, timpanico (se mide en el oido) y temporal (en la frente). Debe hablar con su médico sobre la mejor opcion para su hijo o hija.",
+    "La doctora explica que si la nina esta empeorando o si nota ciertos sintomas de alarma,como seales de deshidratacion,debebuscar atencionmedica urgentemente.",
+    "La febre normalmente dura varios dias. Sin embargo,a veces los ninos con febre se pueden deshidratar. Si usted nota algunos sintomasdealarma,debetraeraRaquel al hospital o llamar urgentemente a su medico.",
+    "POSIBLES SINTOMAS DE ALARMA:\nFiebre que dura más de 5 días seguidos Poca cantidad de orina Cansancio o inactividad excesiva Problemas para respirar",
+    "Las infecciones virales son la causa mas comun de la febre pediatrica $\\nparallel$ son muy contagiosas. Es importante hablar con Raque $\\eta$ su madre sobre como prevenir que otras personas se enfermen.",
+    "The student provides a clear definition or explanation of the term.",
+    "The student provides a word/phrase synonym in plain language.",
+    "The student provides sufficient context for the term during the encounter/transcript that the meaning of the term becomes clear."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

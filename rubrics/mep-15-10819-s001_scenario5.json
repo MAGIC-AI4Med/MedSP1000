@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "After introducing yourself, ask her to tell the story from the beginning.",
+    "Learner should recognize and reflect your intuition it was cancer.",
+    "Learner needs to reflect feeling of lack of a pre-existing doctor-patient relationship, new diagnosis, advanced disease at diagnosis.",
+    "Learner should not go on to discuss perspective for visit but should revisit Mary’s narrative with her from the beginning, exploring and empathizing with:\n\n* Trauma of abrupt change from excellent health to illness;\n* Self -blame regarding ignoring symptoms;\n* Trauma of lack of relationship with doctor giving bad news;\n* Stress of being told she has stage III cancer;\n* Worry about not having entire tumor removed."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

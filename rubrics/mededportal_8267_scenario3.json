@@ -1,0 +1,66 @@
+{
+  "case_id": "mededportal_8267",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8267/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Silence during EMS report ☐MD Primary evaluates ABCs (primary survey)",
+    "ED Technician places patient on ☐BP cuff ☐pulse oximeter ☐cardiac monitor and ☐checks temp ☐Vital Signs called out",
+    "Vital Signs repeated during case ☐Nurse 1 obtains IV access",
+    "1000cc NS bolus ☐1000cc NS bolus ☐2 Units of Packed Red Blood Cells ☐Nurse 1 prepares and administers fluid or blood via rapid infuser ☐ECG ordered ☐ED Technician obtains ECG ☐Blood Glucose ordered ☐ED Tech obtains Blood Glucose ☐Airway Management ☐Rapid Sequence Intubation: ☐Fentanyl ☐Lidocaine ☐Etomidate ☐Succinocholine",
+    "Preoxygenate patient (hypoxic) ☐C-Spine immobilization maintained during intubation ☐MD1 places left chest tube ☐ED Technician prepares pleur-evac as chest tube is being inserted ☐Focused Assessment with Sonography for Trauma (FAST) exam performed ☐Massive transfusion cooler ordered (MTC)(optional, with Fresh Frozen Plasma (FFP)/platelets)",
+    "MD Primary evaluates ABCs (primary survey)",
+    "ED Technician places patient on ☐BP cuff ☐pulse oximeter ☐cardiac monitor and ☐checks temp",
+    "Vital Signs called out ☐Vital Signs repeated during case",
+    "Nurse 1 obtains IV access",
+    "1000cc NS bolus ☐Nurse #1 prepares and administers fluid",
+    "Blood Glucose ordered ☐ED Tecnician obtains blood glucose",
+    "Sedative(s) ordered ☐Nurse 1 prepares and administers sedative(s) Dose given:",
+    "Airway Management ☐Rapid Sequence Intubation (RSI): ☐Fentanyl ☐Lidocaine ☐Etomidate ☐Succinocholine ☐Nurse #1 prepares RSI medications ☐Preoxygenate patient or ☐Ventilate/oxygenate if hypoxic ☐C-Spine immobilization maintained during intubation ☐Chest X-ray post intubation",
+    "Temporary dressing removed and wound examined",
+    "MD 1 obtains Focused Assessment with Sonography in Trauma (FAST) exam",
+    "CT head",
+    "CT C-spine"
+  ],
+  "MK": [
+    "Avoid fixation errors",
+    "Generate new ideasand provide clarityof established ideas",
+    "Promote internal and external thinking“outside the box&quot;"
+  ],
+  "SBP": [
+    "Triage: ☐ Highest Level ☐Lower Level (dependant on hospital system)",
+    "Universal precautions by all team members ☐ Nurse 1: Rapid infuser ☐ MD Procedures: Ultrasound, IV/Central Access ☐ MD Airway MD: Airway equipment ☐ ED tech: Chest tube and ☐Blood Cooler",
+    "Nurse 2 documents assessment",
+    "ED Technician obtains MTC ☐ED Technician puts patient on transport monitor",
+    "Backboard removed prior to CT scan ☐ICU ☐Non-Critical Care Bed",
+    "EMS Radio Pre-notification answered/acknowledged ☐Haloperidol order accepted/verified ☐Orders alternative sedation:",
+    "Triage: Triage: ☐ Highest Level ☐Lower Level (dependant on hospital system)",
+    "Discussion between Team Leaders from each trauma room for both patients regarding CT priority ☐Backboard removed prior to CT ☐ED Technician puts patient on transport monitor",
+    "Disposition: : ☐OR ☐CT ☐ICU ☐Non-Critical Care Bed",
+    "Steps back,physically and mentally, to manage the event",
+    "Know when and whom to call for help",
+    "Identify the sources of help available",
+    "Ascertain the type of help needed: advice, hands on,specialized",
+    "Prepare for anticipated needs: special carts or equipment",
+    "Understand the infrastructure of the trauma bays"
+  ],
+  "ICS": [
+    "Silence during paramedic report",
+    "Sets clear goals",
+    "Organizes the team and delegates responsibility",
+    "Feed back event management data",
+    "Provide task and cognitive support",
+    "Introduce themselves and address people directly",
+    "Establish communication paths",
+    "Use nonjudgmental comments",
+    "Close the loop and give feedback",
+    "Use clear and standard language",
+    "Team leader summarizes patient history, data, differentialand current situation"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Hand washing",
+    "Hand washing ☐Universal precautions by all team members",
+    "Assume and complete assigned responsibilities"
+  ]
+}

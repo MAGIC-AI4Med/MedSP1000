@@ -1,0 +1,34 @@
+{
+  "case_id": "mep-14-10752-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10752-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Initiate a basic mental health screening and ask specific screening questions for human trafficking."
+  ],
+  "MK": [
+    "The scars and bruise are indicative of violent situations.",
+    "Idiopathic abdominal pain is a common symptom in patients who have experienced rape or other sexual trauma.",
+    "Advanced dermatological findings can indicate severe neglect and unhygienic living conditions.",
+    "Tattoos can also be indicative, especially if they bear male names or symbols of currency.",
+    "The flat affect may indicate underlying psychiatric conditions.",
+    "The fact that she is required to interact with clients after hours is a significant red flag for sex trafficking.",
+    "Certain businesses, such as massage parlors, nail salons, and cantinas, are often implicated in human trafficking."
+  ],
+  "SBP": [
+    "For patients who are interested in leaving, providers can offer to call the National Human Trafficking Hotline.",
+    "If the patient is not yet ready, the provider may give the patient this information for when they are ready.",
+    "If the patient feels comfortable seeking help, child or adult protective services may be enlisted.",
+    "If a patient is in imminent danger, it may be necessary to contact law enforcement."
+  ],
+  "ICS": [
+    "Accept the boyfriend’s offer to translate.",
+    "Wait for the Thai translator to help with the history and exam.",
+    "Warn the patient that in the United States, prostitution is illegal and she should get out of her situation immediately and report her trafficker.",
+    "It is more helpful to focus on building patient rapport so that you can gradually encourage them to seek help in the future."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Healthcare providers should not aggressively force victims to leave or testify against their trafficker."
+  ]
+}

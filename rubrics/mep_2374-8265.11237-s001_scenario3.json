@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.11237-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11237-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Counsel patient on safe firearm storage, describing why the patient may be at higher risk. Describe options for safe firearm storage."
+  ],
+  "MK": [
+    "Patient is a victim of firearm violence who owns a firearm that is stored unlocked and loaded. In addition, the patient lives at home with his son who is 5 years old. Due to this recent history, he is at increased risk of being involved in violence in the future. In addition, there is risk of unintentional injury to his son."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,44 @@
+{
+  "case_id": "mep_2374-8265.11269-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11269-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "The learner immediately checks for a pulse and recognizes Vtach on the monitor.",
+    "Pulselessness is recognized and chest compressions begin immediately.",
+    "HOB and side rails are put in the down position and the backboard is placed under the patient.",
+    "Compressions continue at a rate of 100-110/minutes with proper depth.",
+    "The team opens the crash cart, and the defibrillator pads are placed properly.",
+    "The defibrillator is turned on, and one learner begins bagging the patient at 30:2.",
+    "The team puts the defibrillator in manual mode as compressions are resumed.",
+    "The defibrillator operator will charge to 200J, and all teammates are cleared from the patient.",
+    "A charge is delivered.",
+    "Then a new team member will take a turn beginning compressions for 2 more minutes.",
+    "During this time, the team leader instructs another team member to assemble an epinephrine syringe.",
+    "After two minutes the compressor will pause, and there will be a pulse check.",
+    "The leader will ask the compressor to resume, and the defibrillator operator will prepare a charge of 200-360J.",
+    "All team members will clear from the patient and the shock is delivered followed by the resumption of compressions.",
+    "The team leader will instruct a specific teammate to administer 1 mg epinephrine IV.",
+    "CPR will continue for another 2 minutes while the second dose of epinephrine is simultaneously prepared.",
+    "At the end of two minutes, there will be a pulse check.",
+    "The team leader will instruct a team member to recycle blood pressure.",
+    "Therapeutic hypothermia will be discussed, and hypotension will be treated with fluid bolus or vasopressors."
+  ],
+  "MK": [
+    "The leader asks the compressor to pause, and the rhythm is analyzed.",
+    "The leader recognizes that the rhythm is pulseless Vtach and requires defibrillation.",
+    "The team will also discuss “Hs and Ts”.",
+    "The team leader will analyze the rhythm and state that it is still pulseless Vtach and will require defibrillation again.",
+    "The team will visually analyze the rhythm and verbally state that the rhythm is sinus tachycardia with a pulse."
+  ],
+  "SBP": [
+    "The team will ask for an EKG and lab work to inform patient disposition."
+  ],
+  "ICS": [
+    "The learner will call for help and ask for a crash cart.",
+    "A leader is then established and assigns the other learners to roles.",
+    "Failure to define roles and use closed loop communication: Clearly defined roles and closed loop communication will be assessed by instructors. Failure by learners to display these behaviors will lead to a pause in the simulation for micro skill improvement."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

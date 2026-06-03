@@ -1,0 +1,52 @@
+{
+  "case_id": "mep-15-10804-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10804-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Initial Oxygen saturation monitor placed",
+    "Initial Cardiac monitor placed",
+    "Initial Request IV x 2",
+    "Initial Place patient on oxygen",
+    "Initial Obtains complete history",
+    "Initial Performs physical exam",
+    "Initial NS bolus 20 mL/kg",
+    "Initial Bolus given by push-pull",
+    "Initial Order antibiotics",
+    "Labs Blood glucose and venous blood gas/lactate",
+    "Labs CBC, CMP, CRP, procalcitonin",
+    "Labs Blood culture x 2",
+    "Labs UA and urine culture",
+    "Labs RVP",
+    "Labs PT/INR/PTT",
+    "Labs Chest x-ray",
+    "No IV Place IO",
+    "No IV First bolus given IO",
+    "No IV Re-assess vitals",
+    "No IV Re-assess physical exam",
+    "No IV Re-assess perfusion",
+    "No IV 2nd NS bolus push-pull",
+    "Vomits Suction mouth",
+    "Vomits Increase supplemental O2",
+    "Vomits Discuss steps of intubation",
+    "2nd bolus in Re-assess vitals",
+    "2nd bolus in Re-assess physical exam",
+    "2nd bolus in Re-assess perfusion",
+    "2nd bolus in Orders dopamine or norepinephrine",
+    "2nd bolus in Re-assess following vasopressor"
+  ],
+  "MK": [
+    "Initial Identifies vitals abnormal for age",
+    "Initial Verbalizes shock",
+    "Vomits Identifies need for intubation",
+    "2nd bolus in Verbalize starting dose (or where to find)"
+  ],
+  "SBP": [
+    "2nd bolus in Notifies PICU"
+  ],
+  "ICS": [
+    "Initial Ask for help"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

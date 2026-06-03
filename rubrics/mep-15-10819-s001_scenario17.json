@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario17",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario17",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "At this point, the conversation should shift primarily to the learner, who should be able to walk Mary through the concept of a “core circle” and, most importantly, designating a health care proxy."
+  ],
+  "ICS": [
+    "Learner should recognize Mary’s anxiety and address appropriately. This can sound like “I know you have a lot on your mind; let me help you talk through some of this.” Or “You must be anxious about these big changes in your life. Is there anything in particular you wanted to address?”",
+    "The learner should ask at this point who is Mary’s life would be in the “core circle.” This might be asked as “Who do you trust in your life?” Or “Who are the people closest to you?”",
+    "The learner should be reassuring to Mary, both about the future and about the role of the healthcare proxy and other healthcare team members who will look out for her best interest."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

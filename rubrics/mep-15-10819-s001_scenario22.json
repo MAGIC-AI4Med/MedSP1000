@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario22",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario22",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "**Learner**: Based on what has been happening, I can only say that it is likely you will not live longer than the months we talked about. It is difficult to be precise, so I would focus on helping you day to day and hope you will be as comfortable as entirely possible. I will do all I can and be there for you."
+  ],
+  "SBP": [
+    "**Learner**; No, you don’t. Although there will be a form for you to sign, giving oral permission is also acceptable. The palliative care or hospice team can review that with you in detail.",
+    "**Learner**: Yes, the basic difference is that with hospice care discussions have to include the likelihood that your prognosis is limited to months.",
+    "**Learner**: When we sign a patient on to hospice, it means that it is likely or wouldn’t be a “surprise’ if the patient were to die within 6 months. It allows us to use the hospice benefit appropriately, and in many cases the patient does not live for 6 months. In other cases, they do, but can still use the benefit.",
+    "**Learner**: We will talk more about it if you want… for now, let’s take a break and I will call them for the referral."
+  ],
+  "ICS": [
+    "*Learner should begin by greeting Mary and assessing how she is feeling.*",
+    "*Learner should ask open ended questions to investigate what things were discussed with palliative care.*",
+    "**Learner**: (Suggested explanation) The church's teaching on DNR focuses on the distinction between ordinary and extraordinary medical treatment. The teaching is that one is obliged to preserve one's life, but not in the case in which the means of self-preservation are useless, as in your case where additional chemotherapy would harm you and not benefit you. In your situation CPR, which is reviving your heart if it stops, would only prolong suffering if you were revived. Similarly, machines like respirators would not prolong any meaningful life for you; they would only prolong suffering."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

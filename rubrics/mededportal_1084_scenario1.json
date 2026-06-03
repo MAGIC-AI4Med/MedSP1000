@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_1084",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1084/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "ABC&#x27;s (must demonstrate or state that they are evaluating the airway/breathing and circulation) Asks appropriate history (a majority of the following: hx of injury, seizure, recent illness) Specifically asks about medications in the home Checks pupil size Recognizes hypoxia, begins 100% oxygen by NRB Asks for IV access to be obtained",
+    "Check bedside glucose Asks for IV naloxone (Narcan） - mg/kg dosing or 2 mg Asks for urine toxicology screen (at least) After prompted that child is not breathing, begins bag- mask ventilation with 100% oxygen",
+    "Recognizes need to intubate for airway control Orders RSI Drugs: If attempted without RSI drugs, resident will be told that the jaw is too stiff to open - still eligible for credit Atropine (0.3 - 0.5 mg) Paralytic (any ok)",
+    "Adjust bed height for intubation, position patient Gathers necessary equipment (ET Tube,laryngoscope, bag/mask - if not done at step above) Suction at bedside",
+    "Chooses proper blade size and type (Miller or Mac 2)",
+    "Chooses proper endotracheal tube size (5.0-6.0 uncuffed endotracheal tube)",
+    "Uses cricoid pressure to prevent aspiration until airway control (intubation) is achieved",
+    "Endotracheal tube passed using correct technique (credit for holding blade in correct hand, correct body position - no penalty for “breaking teeth&quot;)",
+    "Confirms endotracheal tube position: (Resident will be asked to explain his/her method(s) for confirming proper tube placement - if not offered spontaneously) Auscultates the chest Auscultates over stomach Assesses chest rise Asks for EtCO2 monitoring Orders confirmatory chest X-ray Secures endotracheal tube Places nasogastric tube (ok if prompted by “stomach is distended comment&quot;)"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "provide signout to the PICU fellow about this patient"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

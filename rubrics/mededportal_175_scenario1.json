@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_175",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_175/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Everything that is said will be vividly remembered - don't do something, just stand there",
+    "How to ask for an autopsy .",
+    "What can you do for them - using other support resources"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Realizing that not everyone can be calmed down"
+  ]
+}

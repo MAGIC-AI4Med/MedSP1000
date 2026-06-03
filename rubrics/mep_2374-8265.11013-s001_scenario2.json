@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.11013-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11013-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Mental Health - adolescents who identify as lesbian/gay/bisexual (LGB) are more likely to experience depression, anxiety, suicidal ideation",
+    "Safety/School - relationships with peers, bullying, physical/verbal/sexual abuse, violence",
+    "It’s very important to always address STI and pregnancy prevention",
+    "Learning about her specific sexual practices may help you determine risks and allow you to test and counsel appropriately",
+    "Always ask about birth control –lesbian and bisexual women are more likely to have unplanned pregnancies when compared with their heterosexual peers as noted in the stats above. Many will not disclose that they specifically engage in penile-vaginal sex and providers often forget to recommend birth control and to test for pregnancy",
+    "Testing: routinely test for HIV, gonorrhea, chlamydia, and have routine pap smears per guidelines"
+  ],
+  "MK": [
+    "Note: there are increased risk of BV and trichomonas so consider these infections if symptomatic (but no routine screening is recommended)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Counseling: birth control, protecting against STIs, dental dams and external condoms for sex toys"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

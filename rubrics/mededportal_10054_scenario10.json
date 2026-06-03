@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_10054",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10054/scenario10",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Did the participant consult other members of the health care team hierarchy if the advocacy and inquiry were ineffective (i.e. nursing supervisor, anesthesia floor manager, surgical OR director, subspecialty consultants)? Yes ___ No",
+    "Did a patient safety breach occur? Yes ___ No",
+    "If yes, could it have been prevented? Yes ___ No"
+  ],
+  "ICS": [
+    "Time To Initiate The 2 Challenge Rule: Seconds",
+    "Was advocacy employed?: Yes ___ No __",
+    "Was the advocacy clear and evidence based? Yes ___ No ___",
+    "Was the advocacy respectful? Yes ___ No ___",
+    "Was the advocacy effective? Yes ___ No ___",
+    "Was inquiry employed?: Yes ___ No __",
+    "Was the inquiry respectful? Yes ___ No __",
+    "Was the inquiry effective? Yes ___ No __",
+    "Did the participant use CUSS (Concerned, Uncomfortable, Safety and Stop)? Yes ___ No"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

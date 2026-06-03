@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.11360-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11360-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Reflect Back 1 heard you say __, can you explain what you mean by_",
+    "Communicate Impact\n&#x27;Using words like___ makes me feel uncomfortable.&#x27;",
+    "Raise Awareness 1 believe a more inclusive term is__.&#x27;",
+    "Check-ln (with the person who commited a microaggression):\n1&#x27;ve been reflecting on the conversation from our team meeting yesterday. Can we find some time to check-in?&#x27;"
+  ],
+  "PBLI": [
+    "Other learners should observe and provide feedback to the variable responses",
+    "Reflect on the impact of not addressing the microaggression (the target, actor, witnesses, and self)"
+  ],
+  "PROF": []
+}

@@ -1,0 +1,14 @@
+{
+  "case_id": "mep_2374-8265.11027-s001",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11027-s001/scenario10",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "“It can be so hard to cut down on the food we have grown up to love eating and your favorite sandwich is still okay to eat occasionally. However, all processed meats, including bacon, are not only unhealthy, they are also considered carcinogenic by the WHO. And bagels, while they don’t taste sweet, still raise your blood sugar and increase your risk for diabetes. If you want to make a sandwich to eat more regularly, how about using whole grain bread instead of a bagel and avocado or tomato instead of bacon?”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

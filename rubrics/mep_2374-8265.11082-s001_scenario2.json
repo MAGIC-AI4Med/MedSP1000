@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11082-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11082-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain full set of current vital signs",
+    "Assess if patient having any symptoms or signs of active bleeding",
+    "Determine IV access patient currently has",
+    "Ask to obtain more IV access and other lab work including type and screen, INR, repeat H/H",
+    "Transfuse blood and give IVF; start IV pantoprazole for possible upper GI bleed",
+    "Ask about history of esophageal varices, consider starting octreotide"
+  ],
+  "MK": [],
+  "SBP": [
+    "Discuss patient with senior resident, consider calling GI fellow after evaluating patient",
+    "Documentation: as this patient now has hemodynamic instability, important to write an event note describing patient’s melena, vital signs, orders placed and assessment/plan"
+  ],
+  "ICS": [
+    "Communicate to the nurse that you are concerned about this patient and you will come assess them urgently"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

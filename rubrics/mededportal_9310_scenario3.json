@@ -1,0 +1,38 @@
+{
+  "case_id": "mededportal_9310",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9310/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "ABCDE",
+    "Obtain further history",
+    "Neurological assessment",
+    "Secure access",
+    "Serum Labs: Glucose, comprehensive metabolic panel (CMP), complete blood count (CBC), blood culture (BCx), consider antiepileptic drug (AED) levels",
+    "Obtain stat noncontrast Head CT and shunt series, includingabdominal xrays",
+    "Re-evaluate ABCDE",
+    "Calculate GCS",
+    "Obtain stat noncontrast Head CT and shunt series",
+    "Supply oxygen",
+    "Bag mask ventilate with 100% oxygen",
+    "Rapid Sequence Intubation: Consider premedication with lidocaine, etomidate or thiopental , avoid ketamine.",
+    "Ventilate to maintain PaCO2 between 35-38 mmHg unless there are signs of acute herniation, then hyperventilate for PaCO2 below 30.",
+    "Fluid resuscitation +/- pressors",
+    "Elevate HOB between 15 to 30 degrees",
+    "Keep head midline, as able",
+    "Consider Mannitol 0.25 to 1 g/kg IV bolus to increase serum osmolarity to 300-310 mOsm/L or Hypertonic (3%) NaCl at 5 ml/kg.",
+    "Execute initial stabilization of decompensating patient with ICP"
+  ],
+  "MK": [
+    "Recognize altered mental status",
+    "Develop differential of vomiting and   change in mental status in medically complex child",
+    "Recognize VPS failure as primary cause of altered mental status"
+  ],
+  "SBP": [
+    "Call primary service (in this case, pediatric neurosurgery)",
+    "AVOID: non-medicated intubation, ketamine, prolonged propofol infusions, hypotonic fluids, fevers, seizures, systemic vasodilators."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

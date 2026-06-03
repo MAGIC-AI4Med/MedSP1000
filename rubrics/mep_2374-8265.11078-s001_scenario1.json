@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11078-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11078-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Demonstrate an appropriate initial approach to a critically ill newborn via primary survey (ABCDE)",
+    "Completion of a secondary survey",
+    "Secure an airway via endotracheal intubation",
+    "Secure intraosseous access after failing intravenous access x 3",
+    "Appropriately manage seizure with antiepileptic drugs",
+    "Recognize and treat coagulopathy with vitamin K and FFP (fresh frozen plasma)"
+  ],
+  "MK": [
+    "Formulate a differential diagnosis, including sepsis, seizure or metabolic disorder, intracranial mass or bleed, inflicted or accidental trauma, acquired/congenital bleeding disorder including vitamin K deficiency",
+    "Recognize cerebral hemorrhage on head imaging (if available)"
+  ],
+  "SBP": [
+    "Activate the neonatal intensive care unit and neurosurgical teams for further management (if available)"
+  ],
+  "ICS": [
+    "Demonstrate effective team leadership, roles, and communication"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

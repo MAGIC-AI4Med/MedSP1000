@@ -1,0 +1,24 @@
+{
+  "case_id": "mep_2374-8265.11377-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11377-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Eldiagnsticodeuna infeccionurinaria sehacedespuesde:\n\nEs c u c h a r s u s s ínto m a s y s u h i sto ri a l m é d i c o H a c e r u n exa m e n fís i c o H a c e r u n a n á l i s i s d e o ri n a y u n c u ltivo d e o ri n a",
+    "Para tratar lainfecciondeorina,le vamosarecetar un antibiotico.Elantibiotico a veces causa un poco de rritacionenelestomagoohecesfojas.Es muy importante tomar el tratamiento completo\naungue usted se sienta mejor antes\nde terminar todas las pastilas.\nUn tratamiento parcial podria\ncausar crecimiento de la bacteria y\nempeoramiento de la infeccion.",
+    "Las infecciones urinarias son muy comunes y a veces no se pueden evitar. Hay medidas que ayudan a prevenir las infecones urinarias. Por ejemplo: debe beber mucha agua, orinar siempre que tenga ganas $\\nparallel$ tambien antes y despues de relaciones sexuales."
+  ],
+  "MK": [],
+  "SBP": [
+    "Sitodaviamesientomalmaanadeboregrearaspita?\n\nEs normalque todavia tenga sintomas por unos dias.Despues dedos o tres dias de tomar el antibiotico,debe notar alivio. Si usted nota que no esta mejorando,debe regresar al hospital para otra evaluacion Algunas personas recomiendan jugo de arandanos rojos para prevenir o tratar las infecciones urinarias. La doctora le explica a Clara que estä bien tomarlo. Lo mas importante es tomar bastante liquido, especialmente agua.",
+    "POSIBLES SINTOMASDEALARMA:\n\nEl dolor abdominal está empeorando Dolor del costado Fiebre Vómito excesivo ？ Reacción alérgica (picazón, salpullido, problemas para respirar)"
+  ],
+  "ICS": [
+    "Usted tiene una infeccion urinaria. Tambien se conoce como infeccion de orina o infeccion de la vejiga.Es un problema muy comun que ocurre cuando algunas bacterias en la piel entran en la orina y crecen en la via urinaria.Frecuentemente este tipo de infeccion causa incomodidad oardor al orinar,ganas de orinar con mas frecuenciay urgencia de lo normalydoloren la parte baja de la barriga o el costado.",
+    "The student provides a clear definition or explanation of the term.",
+    "The student provides a word/phrase synonym in plain language.",
+    "The student provides sufficient context for the term during the encounter/transcript that the meaning of the term becomes clear."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

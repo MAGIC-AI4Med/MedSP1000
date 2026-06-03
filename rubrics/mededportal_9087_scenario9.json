@@ -1,0 +1,14 @@
+{
+  "case_id": "mededportal_9087",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9087/scenario9",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "\u00b7Explained to the patient/family the need for involving otherhealth-care resources* in the patient's health-care plan\u00b7 Recommended specific available resources based on thorough understanding of those agencies/groups\u00b7 Wrote referral or called for consultation for resources."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

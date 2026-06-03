@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-14-10774-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10774-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Do you tell the program director or CCC chair about difficult behavior in your didactic?\nIn general, the answer should be “yes”.\nThe PD (and maybe the CCC) need to know if patterns of behavior are emerging for any one resident - they are uniquely positioned to have this perspective.\nIf this is an isolated incident, they will likely not do anything further with the information.\nIf this is a pattern of behavior, or is an egregious act, the resident may need some more dedicated coaching from the program.\nIf it is a personal issue (sick family member, etc), I encourage the learner to tell their PD, and offer to support them in any way they would like."
+  ],
+  "ICS": [
+    "Begin with “I’m on your side.” Emphasize motivation to help them improve. Often, this starts well before the conversation begins and extends to your entire relationship with the resident",
+    "Advocacy is stating something that you noticed. This is the “O” from the SOAP Process.\nInquiry is telling the learner your concerns about it and asking for their thoughts.",
+    "Be inquisitive. Either from a single advocacy inquiry statement or may require more “digging” to actually “get to the root of” why it is happening."
+  ],
+  "PBLI": [
+    "Assessment. Clarify if resident truly is at the level perceived (are they covering for deficits?).\nFind out what they are currently doing to learn emergency medicine\nEmphasize the difference between clinical knowledge and boards/In-training exam knowledge (can be strong in one area and not the other)",
+    "Co-create a study plan.\nHave the learner first suggest ways they think they could improve their medical knowledge.\nBe specific. Have the learner pick a reading material and include chapters to cover.\nCreate a deadline. Use a calendar to outline curriculum keeping in mind the rotations of the learner.\nModify the plan as needed. Learners are more likely to be successful if they came up with the solution.\nAccountability. Schedule time for check-ins and commit to placing in calendar.\nEvaluation. Use various modalities for assessment. (e.g. Rosh review, question banks, etc.)\nCelebrate mini-successes.",
+    "Testing effect/retrieval practice (for those already reading/listening to podcasts/etc.\nCreating flashcards then testing themselves\nCreating mini-lectures/1-minute presentations and encourage teaching junior learners."
+  ],
+  "PROF": []
+}

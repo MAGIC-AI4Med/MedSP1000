@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Do Not perform a physical exam.",
+    "*Student should offer to develop a quitting plan with you.* You should discuss the following elements:\nReview prior quit attempts to pinpoint problem areas\nSet a specific quit date\nReinforce motivations\nStrategize about how to break down barriers\nDiscuss behavioral coping strategies\nReview medication use\nSchedule follow-up",
+    "Reinforce the concept that you do need to quit as soon as possible.",
+    "Review *in detail* what you did not do correctly with the patches a few weeks ago and how to now use the patches correctly:\nBased on the amount you smoke you should have started on the highest patch strength, 21mg, not the lowest. You were clearly not getting an adequate amount of nicotine.\n*Advise you to get rid of* <u>*all*</u> *your cigarettes when you quit.* If cigarettes are available you will probably smoke them.\nPatches should not be removed to smoke. When you quit you should make a commitment not to smoke at all.\nStrongly recommend that you read the package insert to learn exactly how to use the product correctly.\nYou should use the patches for the full ten-week course recommended by the manufacturer. Using them for this time period significantly increases your chances of staying quit permanently.",
+    "The student should explain that there is no cure to smoking. Zyban and the patch are helpful, but it doesn't make you want to stop smoking, it just makes you feel better while you are quitting by preventing the nicotine withdrawal. Furthermore, he or she should tell you that the best way to quit is to use a smoking cessation medication *correctly* combined with some type of behavior change."
+  ],
+  "MK": [
+    "You identified that I was ready to make a quit attempt"
+  ],
+  "SBP": [
+    "Refer you to some type of behavioral counseling as an adjunct to the in-office counseling. Any of the following are acceptable:\nThe PA state quit line\nA local group or individual counselor\nThe behavioral counseling program that comes with the patch you are using"
+  ],
+  "ICS": [
+    "Applaud and support your desire to quit."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

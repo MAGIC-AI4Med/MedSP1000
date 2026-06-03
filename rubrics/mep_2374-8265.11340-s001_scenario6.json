@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.11340-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11340-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Smell is typically deferred. You can assess visual acuity, extraocular movements, visual fields, facial expressions, facial sensation possible (stroke side of the face can also check rooting for infants), hearing with toy or voice (do they sooth to parent’s voice?). Pupils are more challenging but can be checked with a parent/caregiver using the flashlight. Also can observe for excessive drooling. Can watch them drink a bottle/feed to assess suck, swallow and for dysphagia. Sternocleidomastoid muscles can be assessed by observing head control. Parent/caregiver can pull to sit and allow you to assess head lag (this also is an indicator of tone). If able, try to visualize tongue to assess if midline, appropriate bulk or if fasciculations. Unable to assess fundi/red reflex adequately via telehealth, palate difficult to visualize at this age",
+    "Stool samples for C. botulinum (toxin may not been present in stool for up to several months)"
+  ],
+  "MK": [
+    "The time course of onset and progression of symptoms are important for the differential considerations. Complete blood count, comprehensive metabolic panel and urine drug screen. Infectious etiologies should be considered such as polio, west nile virus, enterovirus D68, parainfluenza, metapneumovirus, sepsis, etc. Acquired etiologies such as acute flaccid myelitis, guillane-barre syndrome or its variants, acute demyelinating encephalomyelitis (ADEM), transverse myelitis (less likely with cranial nerve involvement). Spinal muscular atrophy expected to be more subacute but possible and important for early treatment. A variety of metabolic disorders are also on the differential.",
+    "Note the pattern of weakness (descending) rather than ascending, and time course (acute-subacute, progressive) helps guide the differential. Botulism given the constellation of symptoms with bilateral cranial nerve involvement would be highest on the differential."
+  ],
+  "SBP": [
+    "These all need to be evaluated urgently. Patient should be sent to the emergency room for further evaluation and treatment"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

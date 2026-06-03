@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_9889",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9889/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Placement of the patient on telemetry",
+    "Placement of IV",
+    "Obtaining a 12-lead EKG",
+    "Obtaining a complete history, including eliciting history of viral illness",
+    "Performing a complete physical examination, including assessing for thyromegaly",
+    "Administering IV fluids"
+  ],
+  "MK": [
+    "Recognizing atrial fibrillation with rapid ventricular response",
+    "Recognizing dehydration",
+    "Recognizing that nodal agents are not the most effective treatment in this scenario"
+  ],
+  "SBP": [
+    "Admitting the patient to the hospital or observation unit"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

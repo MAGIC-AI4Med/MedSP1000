@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_653",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_653/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Review his labs and use the website cited at the beginning of the case to deduct his diagnosis.",
+    "What defect (s) does he have in hemoglobin production?",
+    "What is the biochemical basis for this disorder(s)?",
+    "What is a retic count? Why is it elevated in this patient?",
+    "What clinical manifestations/problems can be expected? How do these change over the course of life? How do these compare with sickle cell disease?",
+    "Why was this infant placed on prophylactic penicillin? How long will he need to take it?",
+    "Should the parents undergo any further testing prior to another pregnancy?",
+    "What is the likelihood of having a similarly affected sibling?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "What is the meaning of the abnormal test my baby had? It means he has Hemoglobin SC disease.",
+    "What is Hemoglobin SC Disease? A genetic problem with producing red blood cells that can cause many lifelong problems. Your baby inherited one gene for Sickle cell anemia and one gene for a different kind of anemia called Hemoglobin C disease. This means that he will have some problems associated with both diseases. Red blood cells carry oxygen to all parts of the body, so a disease that affects these cells can affect the whole body.",
+    "Will he have any medical problems as a result of this? Yes. The most immediate problem is that he cannot fight some kinds of bacterial infections, which is why he is on an antibiotic every day to prevent infection. He will need to stay on this antibiotic until he is at least five years old. He may also have problems with the abnormal red blood cells getting stuck in his veins, which can cause organ damage in the lungs, eyes, kidneys, brain, and penis. Babies with this disease need to be brought to the doctor’s office more frequently for checkups, and have to be seen by a doctor every time they have a cough, cold, or fever, or if they seem fussier than usual to make sure they do not have a more serious infection. He will also have to be seen by specialists periodically to watch for evidence of organ damage due to his disease.",
+    "Could I have another baby with this problem or with worse problems? Yes. Your future children have a 25% chance of having the same problem as Michel. To determine the chances of your children having other problems with red blood cells, you should be tested to see if there are any other problems you may carry in your hemoglobin genes (thalassemia.) If all your other genes are normal, you have a 25% chance of having a baby with normal genes, a 25% chance of having a baby that is a carrier for Hemoglobin C disease, and a 25% chance of having a baby who is a carrier for Sickle Cell disease."
+  ],
+  "PBLI": [
+    "Make sure you cite your references!"
+  ],
+  "PROF": []
+}

@@ -1,0 +1,66 @@
+{
+  "case_id": "mep-15-10829-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10829-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform initial primary assessment of airway, breathing, circulation and disability",
+    "Identify concern for CVA and prioritizes acquisition of imaging",
+    "Perform assessment of patient with NIH stroke scale",
+    "Administer tPA, evaluates for contraindications",
+    "Recognize abnormal vitals and change in mental status",
+    "Intubate for airway protection",
+    "Order repeat head CT",
+    "Treat impending cerebral herniation with hyperosmolar therapy",
+    "Place patient on monitor",
+    "Rapidly obtains blood sugar",
+    "Addresses blood pressure prior to administration of tPA",
+    "Reassess patient following tPA administration",
+    "Continuously reassesses patient",
+    "Reliable focused HPI",
+    "Elicits past medical history",
+    "Performs focused physical exam",
+    "Requests access to an NIH stroke scale resource",
+    "Calculates NIH stroke scale independent of outside resources*",
+    "Orders CBC, BMP, INR and ECG",
+    "Assesses drug allergies",
+    "Begins treatment with oxygen",
+    "Selects appropriate anti-hypertensive agent prior to tPA",
+    "Administrates appropriate RSI medications*",
+    "Confirms tube placement*",
+    "Verifies intubation equipment*",
+    "Identifies backup airway maneuver prior to intubation*"
+  ],
+  "MK": [
+    "Recognizes normal CT does not exclude ischemic stroke (family/nurse may ask if not apparent)",
+    "Identifies patient as “sick”",
+    "Excludes other stroke-like illnesses",
+    "Considers differential for change in mental status following tPA"
+  ],
+  "SBP": [
+    "Consult surgical or interventional neuroradiology",
+    "Admit to intensive care unit (ICU)",
+    "Considers “cost-effective” medicine",
+    "Activates stroke team",
+    "Contacts neurologist in timely fashion"
+  ],
+  "ICS": [
+    "Discuss risks, benefits and alternatives of treatment",
+    "Discusses intubation with family member",
+    "Request patient representative for family during decompensation",
+    "Provides family member with possible diagnoses",
+    "Provides family patient education",
+    "Establishes rapport",
+    "Listens to patient and family",
+    "Elicits reason for ED visit",
+    "Effectively speaks with patient/family",
+    "Delivers clear nursing orders",
+    "Concisely presents patient to admitting physician"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Demonstrates a caring approach",
+    "Respects patient and session",
+    "Reports on-time for simulation"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "case_id": "mededportal_1118",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1118/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Hematemasis: 1 attack of frank blood, no clots, not preceded by vomiting, about 1 small glass of water in amount. No previous attack.",
+    "Melena: passing of black stool for 1 week, no hematochesia",
+    "Associated with: dizziness, easy fatigability, on/off heartburn, loss of appetite and loss of weight.",
+    "No Abdominal pain, projectile vomiting. There is loss of bowel habits recently.",
+    "PMH: Gastric ulcer 5 years back (treated but no follow up). No history of DM or HTN or blood transfusion",
+    "Social history: smoker around 1 pack/day for 30 years",
+    "Systemic review: Unremarkable",
+    "General Lock: unwell, under weight and pale",
+    "V/S: Temp=37, Pulse =110, BP=90/60 with positive orthostatic hypotension, RR=18/min, O2 sat=95%",
+    "General: palpable left supraclavicular, lymph node, no signs of CLD",
+    "Abdominal Examination:\nInspection: unremarkable",
+    "Palpation: no superficial tenderness but deeply palpable epigastric mass  2x3, not tender, not mobile, firm to hard in consistency. No organomegaly",
+    "Percussion: negative for shifting dullness",
+    "Auscultation: audible bowel sounds, no renal bruit",
+    "PR exam: positive for melena",
+    "CBC, Blood grouping and cross matching, LFTs, RFTs, PT, PTT",
+    "ECG (ask for cardiac enzymes)",
+    "Upper GI endoscopy and biopsy",
+    "Abdominal ultrasound and CT Scan",
+    "Resuscitation and stabilization:\n2 wide bore cannulas\nIV fluid: NS\nBlood Transfusion",
+    "Management of unstable angina by blood transfusion, NO ASA",
+    "Management of upper GI bleeding by I.V PPI,  and then orally",
+    "Rx of anemia"
+  ],
+  "MK": [
+    "What is your problem list?\nGI bleeding\nWt. loss\nEpigastric mass\nHistory of PUD",
+    "What is your D.D?\nPUD (Peptic Ulcer Disease)\nGastric Malignancy\nGastritis",
+    "CBC (to be provided) shows severe microcytic hypochromic anemia",
+    "ECG (to be provided) shows changes of ischemia.",
+    "CT Scan abdomen, mass in the gastric antrum",
+    "Endoscopy and biopsy report: adenocarcinoma",
+    "The Final Diagnosis: Severe microcytic hypochromic anemia due to gastric cancer, and IHD."
+  ],
+  "SBP": [
+    "Admission to hospital",
+    "Surgical consult"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

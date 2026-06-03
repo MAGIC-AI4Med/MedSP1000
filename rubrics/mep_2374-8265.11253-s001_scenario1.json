@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11253-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11253-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Ask participants if they consider Dr. Smith’s request to his program director as a “reasonable” accommodation. Discuss why or why not. It is important to note that if someone has documented accommodations that have been approved by a disability services provider, those accommodations should be taken as reasonable, not re-evaluated on an individual basis.",
+    "Widespread ableist attitudes that negatively impact providers with disabilities are also affecting their non-disabled peers. Stigma against disability is reflected in the work environment and work culture for everyone, perpetuating poor health hygiene and burnout for providers, regardless of disability status.",
+    "Medical school curricula and medical educators foster awareness of accommodations for providers with disabilities. Sessions to chiefs and directors can improve leadership understanding and provision of accommodations.",
+    "There are social or cultural norms that may have been barriers to Dr. Smith’s disclosure and request for accommodations. Medicine’s culture values overworking and self-sacrifice. The expectation that by entering medicine, providers are “signing up for it”, disempowers healthcare workers. Overworked and unwell providers make for an unsafe and compromised experience for patients as well.",
+    "Medical hierarchies should not interfere with responsible provision of accommodations, regardless of whether the provider is an attending or a resident. Fear of lack of accommodations can impact the inclusion of providers with disabilities in medicine, and especially in specialties that present additional barriers to accommodation.",
+    "Available accommodations and assistive technologies are frequently being updated. Institutions should do their best to remain aware of available options and work alongside providers with disabilities to accommodate their inclusion using available resources."
+  ],
+  "ICS": [
+    "Allyship between providers can help combat barriers to reasonable accommodation in professional medical settings. By supporting each others’ needs, a healthier culture in medicine can be developed."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Consider how ableist standards lead to providers with disabilities feeling “guilt” when self-advocating for their needs.",
+    "For example, think of what assumptions the program director made about how remote work would damage Dr. Smith’s reputation as a provider amongst his professional peers.",
+    "There are larger implications for the safety and well-being of disabled providers when providers are labeled as “heroes” (or martyrs), particularly during times of crisis. There are ableist constructs that blur the balance between professional and personal responsibility. Being risk-averse in order to protect one’s health should not be looked down upon. Providers are human too, and medicine must make room for that."
+  ]
+}

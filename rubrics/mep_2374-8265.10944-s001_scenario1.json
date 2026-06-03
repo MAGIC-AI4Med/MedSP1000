@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.10944-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10944-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "You should see this patient right away and perform a head-to-toe physical exam to evaluate for any possible sources of infection.",
+    "In addition, this patient merits broad-spectrum antibiotics and cultures looking for potential source of infection.",
+    "For laboratory evaluation, this would include CBC, LFTs, 2 sets of blood cultures from peripheral veins and/or any catheters, urinalysis and urine culture, and consideration of chest X-ray.",
+    "For treatment, good broad-spectrum antibiotics would include piperacillin/tazobactam or cefepime (though cefepime will not cover anaerobes well).",
+    "If there is concern for Gram positive infection, or if the patient is hemodynamically unstable, you should also add on vancomycin for MRSA coverage.",
+    "While in most cases no clear source for the infection is found, prompt antibiotics and supportive care (e.g. fluids) are important to prevent patient from decompensating."
+  ],
+  "MK": [
+    "As such, this is a neutropenic fever, defined as one temperature over 38.3 or two measurements 1 hour apart of 38.0 in a patient with neutropenia (less than 1500 neutrophils/microliter blood."
+  ],
+  "SBP": [
+    "The senior resident should be notified for anyone with neutropenic fever given that this can be life-threatening if prompt action is not taken."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

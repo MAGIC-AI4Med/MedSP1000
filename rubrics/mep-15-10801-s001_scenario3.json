@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-15-10801-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10801-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [
+    "Did you learn anything new about yourself or about how others may feel or respond?",
+    "Are there any new insights into how anyone is feeling, the impact of the event, statements, etc.?",
+    "What happened here?",
+    "Did the experience evoke specific emotions, feelings or thoughts?",
+    "Would you want to change any part of the scene? What part(s)? Why?",
+    "Would anyone like to act out that change?"
+  ],
+  "PROF": [
+    "Did the scenario portray any implicit or explicit bias?"
+  ]
+}

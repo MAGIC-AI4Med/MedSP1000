@@ -1,0 +1,16 @@
+{
+  "case_id": "mep-14-10737-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10737-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "Your patient has an acute painful injury. Please explain how you would treat this patient’s pain at home and how you would counsel him if provided with narcotics at discharge."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "You decide to prescribe cephalexin for 7 days. Please describe your discharge instructions to a patient you are about to start on antibiotics."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

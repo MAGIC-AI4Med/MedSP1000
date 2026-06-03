@@ -1,0 +1,36 @@
+{
+  "case_id": "mededportal_8001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "The leader must quickly complete a primary survey within 2 minutes of presentation",
+    "Two large bore IV or IO lines must be obtained within 3 minutes of patient presentation",
+    "AMPLE history must be obtained",
+    "Leader must recognize hypotension and initiate fluid resuscitation",
+    "The leader must order and interpret portable radiographs of the pelvis, C-spine, and chest x-ray.",
+    "The leader must recognize potential need for blood transfusion, order a type and cross, and consider the need for emergency release blood",
+    "Patient’s clothes should be removed",
+    "Sequences critical actions in patient care:   vitals signs, ABCs,  primary survey, establishes IV/IO x2, AMPLE history, fluid resuscitation, order and interpret radiographs, order blood transfusion, attain surgical consult",
+    "Reevaluates patient after fluid bolus, when VS start to deteriorate after initial stabilization, and following blood transfusion."
+  ],
+  "MK": [
+    "Describes indications/contraindications for each therapy and need for early surgical consult",
+    "Describes an appropriate differential, plan, and disposition",
+    "Explains the pathologic basis for management"
+  ],
+  "SBP": [
+    "Surgical consult must be obtained. This should be attained early (soon after the patient arrives) and again after patient has been resuscitated and injuries identified.",
+    "Carries out appropriate admission/transfer plan, and notifies accepting MD as indicated"
+  ],
+  "ICS": [
+    "The leader must direct the team assertively and delegate tasks appropriately",
+    "Introduces self and efficiently establishes respectful and effective communication with patient/EMS.",
+    "Gathers essential and accurate information from patient/EMS (history of trauma, initial vital signs in the field, symptoms, severity, duration)",
+    "Communicates clearly, concisely, and professionally with staff regarding interventions, radiology, lab orders, and consults."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Can handle distractions while maintaining patient care priorities"
+  ]
+}

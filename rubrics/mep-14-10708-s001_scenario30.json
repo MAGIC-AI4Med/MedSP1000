@@ -1,0 +1,14 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario30",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario30",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "\"I have a patient with a history of afib and CVA presenting with a cold, painful right foot and I am concerned about acute limb ischemia. Can you see this patient urgently?\""
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

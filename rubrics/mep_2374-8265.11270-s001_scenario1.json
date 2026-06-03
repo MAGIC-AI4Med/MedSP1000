@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11270-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11270-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "**Q**: *Ask the residents: \u201cWhat further information is helpful to obtain?\u201d If no one knows, prompt the residents to think about medical etiologies of his symptoms, as well as external stressors.*\n\n**A**: 1. How long has he had the symptoms of trouble focusing or increased activity?\n\n2. Did he ever have elevated lead?\n\n3. What is his sleep schedule? History of sleep dysregulation or snoring?\n\n4. Any recent stress at home?\n\n5. Did the mother receive similar reports from his previous teachers?\n\n6. Does the mother believe he understands and is capable of doing the school work?",
+    "**Q**: *Ask the residents: \u201cWhat screening tools would be helpful in this situation?\u201d*\n\n**A**: Screening tool (SNAP or Vanderbilt for mother and teacher)",
+    "**Q**: *Ask the residents: \u201cWhat treatment options would you recommend?\u201d If no one knows, prompt the resident to think about both medication and therapy options.*\n\n**A**: A stimulant medication trial +/- a referral for parent management training, behavior therapy, and/or social skills training",
+    "Behavioral changes at home may be helpful\u2014good sleep hygiene, adequate physical activity, structure and routines, and providing clear, simple directions for child to follow",
+    "Stimulant medication can be very effective, and often symptoms can be stabilized with no or minimal side effects",
+    "If children are having functional impairments in academic, social, or emotional functioning, treatment is indicated"
+  ],
+  "MK": [
+    "**Q**: *Ask the residents: \u201cWhat is an appropriate diagnosis for Jaden?\u201d*\n\n**A**: ADHD, Combined Type",
+    "**Q**: *Ask the residents: \u201cWhat are the differences between ADHD, combined type; ADHD, inattentive type,*\n\n*and ADHD, impulsive/hyperactive type?*\n\n**A**: ADHD, combined type is the most common type of ADHD. The person will show impulsive and hyperactive behavior, as well as getting distracted easily and struggling to maintain attention.\n\nPeople with ADHD, predominantly inattentive type will get distracted easily and find it difficult to pay attention.\n\nADHD, predominantly impulsive/hyperactive is the least common type. People with this will show signs of hyperactivity and the need to move constantly, as well as displaying impulsive behavior.",
+    "**Q**: *Ask the residents: \u201cHow many different settings must ADHD symptoms be noticed in for it to be diagnosed?\u201d*\n\n**A:** Two or more"
+  ],
+  "SBP": [
+    "**Q:** *Ask the residents: \u201cWho fills out the SNAP or the Vanderbilt?*\u201d\n\n**A:** The main teacher (or teachers if they have multiple types of classes) and the parent",
+    "Encourage the mother to send in the screener and request it back before the next appointment, and to get any additional information from the teacher she can (report card, progress notes, how Jaden socializes, etc.)",
+    "**Q**: *Ask the residents: \u201cWhat can be done in school whether or not a parent is open to medication?\u201d*\n\n**A**: If academic impairments are noted then a request for IEP (individualized education program)\n\nevaluation should be requested"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

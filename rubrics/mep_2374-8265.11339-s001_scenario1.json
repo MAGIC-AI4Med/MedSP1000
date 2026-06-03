@@ -1,0 +1,32 @@
+{
+  "case_id": "mep_2374-8265.11339-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11339-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Eliciting the “LMNOPQRST” of the pain",
+    "Consider the patient’s chronic use of morphine for back pain— there are implications for tolerance and incomplete cross tolerance.",
+    "**First line treatment option:** Ketorolac 10-15mg (IV) **or** Morphine 2-10 mg IV (may increase given home morphine); could consider combination of the two drugs x2 doses each. (**Or** titrate hydromorphone 0.2-1mg for patients who don’t respond to or can’t receive prior two options)",
+    "Most medications have onset of analgesic effect within 15-30 minutes, therefore you should consider revisiting Ms. C then. With the patient, re-check NRS to evaluate for clinically significant decrease.",
+    "**Second line:** Could consider redosing any of the above or move on to the next options.",
+    "**Second line:** Acetaminophen 1000mg (PO vs. IV) Q6H **or** Lidocaine 1-1.5mg/kg IV **or** Ketamine 0.1-0.3mg/kg IV over 15 minutes. Fentanyl 25-50mcg IV could be considered for patients in severe pain refractory to NSAIDs and morphine.",
+    "Likely discharge plan with 2-5 days of NSAIDs and possible adjuncts:\nTrial of tamsulosin 0.2–0.4 mg once daily for four weeks may help passage of stone.\nDiclofenac 50mg PO TID or Ibuprofen 600mg PO Q6H or Naproxen 250mg PO Q8H for 3-5 days.\nAPAP to alternate with NSAID, if necessary, 500mg PO Q6H for 3-5 days.\nMorphine sulfate immediate release 15mg PO Q4-6H.",
+    "Screen for substance use.",
+    "In SUD and particularly OUD, trial non-opioids as able and if opioids are necessary, monitor the side effects.",
+    "Continue the patient’s methadone or buprenorphine and monitor with withdrawal scores.",
+    "For patients with alcohol use disorder, you would **not change** your pain plan dramatically. However, you may need to use caution with hepatically-cleared or hepatotoxic analgesics."
+  ],
+  "MK": [
+    "Interpreting the pertinent physical exam findings",
+    "Most likely an inflammatory and/or visceral pain.",
+    "Example List: Renal Colic or Pyelonephritis, appendicitis, Cystitis, TOA/ovarian torsion, perhaps abdominal vascular pathology."
+  ],
+  "SBP": [
+    "Follow up with either PCP or Urology. Include hydration recommendations."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": [
+    "Assessing for any biases that may play into the next portion of the case discussion"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "case_id": "mep_2374-8265.11434-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11434-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "How could newborn toxicology testing results inform clinical management of Armani’s care?\nIf a toxicology (tox) test result can influence the need for a lumbar puncture (LP), electroencephalogram (EEG), or magnetic resonance imaging (MRI), it could be useful. Evaluations such as a LP, EEG, MRI, etc are more invasive and costly than a toxicology test. For the purposes of this discussion, it can be presumed that there are no other clinical symptoms or evidence of sepsis for Armani.",
+    "If Armani’s toxicology testing is positive, does this change your plan of care? What if Armani’s toxicology testing is negative?\nRegardless of the results of the toxicology test, a clinician is able to make a clinical diagnosis of NOWS and initiate first line nonpharmacologic treatment. Since the newborn is 2 – 3 days old, accuracy of a newborn’s urine and meconium test, the latter being highly dependent on collection technique, is limited. Some delivery hospitals are able to test a sample of umbilical cord tissue within a timeframe of days after birth, which may have higher sensitivity. Obtaining a maternal urine tox test could help with triangulation verification but would reflect medications received during labor (even those received via epidural). Lastly, some labs may need to send out certain tox tests and the turn-around time on the result will also need to be considered. It would not be safe to delay an LP or EEG for a toxicology test result if the clinical exam is concerning for meningitis or seizures rather than NOWS.",
+    "What information is a toxicology test unable to tell you in this case?\nToxicology testing detects the presence of a substance but cannot tell you the source or chronicity of exposure. There is also the possibility of multiple pathologic processes being underway, so it is important for a toxicology test to be interpreted in the context of a differential diagnosis.",
+    "What factors might influence the accuracy or interpretation of the toxicology testing result?\nAccuracy of a newborn’s urine and meconium test, the latter being highly dependent on collection technique, have been called into question. Some delivery hospitals may test a sample of umbilical cord tissue within a timeframe of days after delivery, which may have higher sensitivity. Discussions with your hospital lab can clarify concerns and ensure optimization. Turn-around time on testing results may preclude their usefulness for timely medical management decisions."
+  ],
+  "SBP": [
+    "From an institutional perspective?\nBalancing clinician decision making with responsibility to local institutional or legal frameworks\nMissing a diagnosis identifiable via testing could lead to patient harm and be considered negligent care.",
+    "From a population health perspective?\nexacerbation of health disparities as younger, Medicaid, and minority populations have been identified to be at increased risk for inequitable care due to unconscious biases."
+  ],
+  "ICS": [
+    "From the clinician’s perspective?\npotential of jeopardizing trust with the family or jeopardizing family engagement in newborn care",
+    "What information can screening questionnaires or conversations provide? What information can’t be ascertained through this approach?\nScreening questionnaires are crucial to building rapport with families, especially on topics which are currently stigmatized and on which implicit biases have been shown to lead to disparate care. There is potential for more nuanced information to be obtained via questionnaire or interview than that provided by a tox test.",
+    "Relational Ethics: (Slide 48)\nHow can the therapeutic alliance between family and health care clinicians be prioritized?",
+    "Trauma-Informed Care: (Slide 49)\nDoes Jada feel safe to engage with the healthcare team?",
+    "What is the role of informed parental permission or parental assent?\nA newborn cannot provide consent for toxicology testing. Informed parental permission or parental assent requires disclosure of the indications, benefits, and risks of an intervention. A risk of newborn toxicology testing is mandatory reporting of positive toxicology testing results to CPS. If informed assent is pursued, it is important to disclose what the plan of care would be after a parent declines a newborn toxicology test. If engaging CPS is a planned response to a declined toxicology test, this plan should be included in the informed assent process. If a clinician plans to proceed with a test due to medical necessity regardless of parental opinion, then a framework of disclosure rather than informed assent can be helpful.",
+    "How can clinicians facilitate a conversation that conveys respect?\nFor example, providing time for a parent to consider their path and ask follow-up questions is an expression of respect.",
+    "How can clinicians facilitate transparency?\nFor example, the health care team can map out what the process would look like no matter which path a parent chooses."
+  ],
+  "PBLI": [
+    "Anchoring Bias: Does one piece of information dominate decision-making?",
+    "Implicit Bias: How can clinicians guard against implicit bias in this case?"
+  ],
+  "PROF": [
+    "From the family’s perspective?\nfear of being stigmatized, anxiety of child protective service (CPS) engagement, worry of legal implications and the impact this may have on other children, employment, etc.",
+    "Respect for Autonomy: (Slide 40-41)\nDisclosure and/or parental permission: the parent has a right to make decisions for their child",
+    "Beneficence: (Slide 42)\nThe infant has a right to be free from suffering\nThe medical team has a duty to the patient, which includes consideration of the family",
+    "Nonmaleficence: (Slide 42)\nThe medical team has a duty to do no harm through neglectful actions",
+    "Justice: (Slide 43)\nIs this how another family or infant would be treated?",
+    "Feminist Ethics: (Slide 45)\nHow might broader hierarchical social systems limit the autonomy of individuals in this case?",
+    "Narrative Ethics: (Slide 46-47)\nHow will this family tell their infant’s “birth story”?"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_10181",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10181/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess ABCs.",
+    "Request IV, O2, and monitor including pulse oximetry.",
+    "Ask appropriate questions (directed history-taking):\nHistory of asthma.\nOnset, provoking/alleviating factors, severity, time course.\nHistory of recent steroid and inhaler use.\nPrevious hospitalization/intubation history.\nPeak flow and triggers.",
+    "Perform physical examination – ask for specific physical exam findings: use of accessory muscles/nasal flaring/retractions, end-expiratory wheezing, hypoxia and cyanosis.",
+    "Start appropriate treatment: O2 via non-rebreather mask, Albuterol/Atrovent nebs, steroids, (may request Xopenex, magnesium, Heliox). Patient improves somewhat with treatment.",
+    "Reassess ABCs.",
+    "May give IV Fluids, try vagal maneuvers, adenosine (ask student for appropriate dose of 6mg, 12mg, 12mg)."
+  ],
+  "MK": [
+    "Ask for EKG –student to verbally interpret.",
+    "Assess for: stable vs. unstable."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,27 @@
+{
+  "case_id": "mep_2374-8265.11526-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11526-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Primary, secondary survey",
+    "Recognize, treat hypothermia (move patient away from water, provide shelter, replace wet clothing with dry)",
+    "Recognize signs and symptoms, and management of concussion."
+  ],
+  "MK": [],
+  "SBP": [
+    "Assess and constantly reassess the scene for safety",
+    "Activate EMS as soon as cell service is available",
+    "Assess both the scene and the status of the patient to determine the safest manner of evacuating"
+  ],
+  "ICS": [
+    "Assign clear team roles and responsibilities",
+    "Communicate effectively as a team, including using directed, closed-loop communication",
+    "Give comprehensive patient sign-out to Medic",
+    "Approach patient in non-threatening way using appropriate communication",
+    "Keep patient updated with medical management in a level of detail appropriate to their level of understanding",
+    "Obtain consent to treat and proceed when possible"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

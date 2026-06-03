@@ -1,0 +1,39 @@
+{
+  "case_id": "mep_2374-8265.11047-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11047-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Ensure that the patient’s camera setup and positioning are optimal for physical exam, including space for them to maneuver to show the camera different aspects of the physical exam",
+    "Anticipate physical exam requirements, including positioning or uncovering certain body areas while maintaining modesty and in a manner appropriate for video platform",
+    "Ensure that patient is in a comfortable position, which may be sitting, standing or laying",
+    "Ask patient to move further away or closer to camera depending on area being examined",
+    "Begin by assessing patient’s general appearance: ill-appearing or non-toxic? Is the patient shifting position and appearing anxious or relaxed and well? Is the patient well kept in terms of personal hygiene?",
+    "Move onto assessing vital signs that can be obtained – be explicit in instructing patient how to do each of the following\nHave patient check their own pulse. Have patient feel for their radial pulse and count how many beats while you time them for a given duration\nWhile they are sitting in silence checking pulse, count their respiratory rate. Make sure that you have a good view on camera of patient’s chest rise.\nIf patient has ahome thermometer, ask them to check their temperature\nIf patient has a home blood pressure machine, ask them to check their BP\nIf patient has a home pulse oximeter, ask them to check their O2 saturation\nIf patient has a home glucometer, depending on the scenario you may choose to ask them to check a blood glucose",
+    "Move onto visually inspecting patient patient (use of each of the below may depend on scenario and history obtained – this discussion should have a different target than last)\nHEENT: Check head for gross abnormalities, look to see if tongue is dry or moist, look for tongue fasciculations, attempt assessment of pupils\nNeck: assess to see its supple\nLungs: Look for signs of increased respiratory effort\nHeart: Assessing capillary refill in digits maybe good surrogate for overall cardiovascular status\nExtremities: Look for stability of hands vs tremor, assess for how well kept the nails are or other areas of body\nSkin: assess for any rash or areas of possible trauma (self-inflicted or otherwise)\nPsych/Neuro: ask basic alertness and mental status questions, assess stability of gait, assess for suicidal or homicidal ideation"
+  ],
+  "MK": [
+    "Alcohol Withdrawal – tremors, tachycardia, recently discontinued alcohol intake with significant daily history",
+    "Depression with anxiety – Hx depression, anxious appearing, tachycardia, lack of energy,  Pulmonary Embolism - tachycardia"
+  ],
+  "SBP": [
+    "Appreciate the patient’s surroundings in their own home as part of your overall assessment, including perception of safety and any clues to augment the social history",
+    "Discuss your overall assessment of your patient’s safety in home environment",
+    "Make recommendations for treatment, which may include new medications, alcohol intake tapering plans, or even presenting to the closest ED.\nIf psych meds are considered, discuss dangers of beginning antidepressants without close follow-up\nIf patient is to present to the hospital, discuss whether the patient can go on their own, with social support from others close by, or there is the need to activate 911 (and how to go about doing so)\nIf patient is to stay at home, contract to safety and provide with emergency phone numbers for psychiatric assistance if needed.",
+    "Patient is in mild alcohol withdrawal which she has never had before. She has an unknown course through this illness and poor support structure readily available. Given difficulty to manage as outpatient, would recommend sending to emergency room for in person evaluation/treatment with benzodiazepines. It is important that a suicide evaluation is performed given initial history of depression."
+  ],
+  "ICS": [
+    "Continue to utilize and expand upon points learned from prior sessions:\nMaintain proper eye contact with the camera and thus patient throughout\nObtain a detailed medical, surgical, and family history, with particular attention to the social history\nSIG E CAPs utilization given concern for depression\nCommunicate without perceived judgement, with appropriate volume and cadence\nUse hand gestures when appropriate in slow, visible fashion\nUse facial expressions, smile throughout, appear engaged throughout session",
+    "Provide initial overview to the patient of the physical exam to be performed",
+    "Explain to patient the limitations of this video-based physical exam",
+    "Ensure that the patient is comfortable with what will be occurring in the physical exam",
+    "Reassure patient that they may terminate the tele-exam at any time",
+    "Summarize to the patient the findings of your history and physical exam, including the things that you feel may be important but you were not able to assess",
+    "Discuss the differential diagnosis in appropriate terms for the patient to understand"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Continue to utilize and expand upon points from prior debrief sessions:\nIncluding proper room setup\nLighting\nBackground color\nCamera height\nMinimizing external noise",
+    "If the physical exam is limited, try to readjust and be creative in getting the needed information while maintaining a professional demeanor. Recognize that the patient is trying their best and you two are on the same team in terms of getting the needed information.\nAvoid deep sighs or physical gestures that might convey frustration in this process\nVerbalize any limitations in your physical exam, particularly if pertinent to final disposition planning, so that the patient is informed as to how this influences your recommendations"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_10277",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10277/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Performed a focused history based on complaint",
+    "Perform focused history and physical exam based on degree of extremis",
+    "Obtain chest x-ray",
+    "Initiates resuscitation including IV/IO access and oxygen supplementation",
+    "Obtain access and initiate normal saline fluid resuscitation",
+    "Initiates prostaglandin therapy"
+  ],
+  "MK": [
+    "Recognizes pertinent exam findings (poor perfusion and absent femoral pulses)",
+    "Appropriate development of differential diagnosis of critical neonate",
+    "Recognition of cardiomegaly on CXR"
+  ],
+  "SBP": [
+    "Discuss case with cardiology or cardiothoracic surgery for acute intervention",
+    "Appropriate disposition to ICU with cardiac care capabilities"
+  ],
+  "ICS": [
+    "Participant communicated effectively with team members",
+    "Participant delegated tasks appropriately"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

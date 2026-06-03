@@ -1,0 +1,36 @@
+{
+  "case_id": "mep_2374-8265.11020-s001",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11020-s001/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "Defibrillate at 2-4 Joules/kg (8 kg = 16-32J, depending on rounding of defibrillator)",
+    "Resume CPR after defibrillation < 10 seconds between holding CPR and restarting",
+    "[for advanced learners] dose and draw up antiarrhythmics",
+    "First Responder: Enters the room, checks for responsiveness, sees an unresponsive patient. Shakes and shouts to make sure.",
+    "First responder feels for carotid pulse 5-10 seconds",
+    "Pulses should not be found, says “There is no pulse, I’m starting compressions” and starts compressions",
+    "Second responder becomes *airway*, gets BVM, hooks up O2, and starts coordinated CPR, remainder of team arrives",
+    "Team places stool for compressor, backboard, defibrillation pad placement, length-based tape, sets defibrillator, and charges it.",
+    "Bedside provider feels for 5-10 seconds and reports, “There is no pulse”",
+    "New *compressor* resumes CPR, Bedside Provider obtains IO access, draws up epinephrine, and gives first epinephrine dose with flush.",
+    "Bedside provider (who was first responder) checks access, draws up Epinephrine 0.01 mg/kg, 0.1 mL/kg = 0.8 mL of epinephrine. When ready, bedside provider checks dose with team lead and administers dose.",
+    "Team lead checks dose for second defibrillation (4J/kg, rounded up usually > 32 J)"
+  ],
+  "MK": [
+    "“I see ventricular tachycardia, this is pulseless VT, Clear the patient, on 3 I am shocking, 1,2,3, [push button]. [bedside provider] you are the new compressor, resume compressions, [airway] start 2-minute timer, [first compressor→ now bedside provider] draw up epinephrine”",
+    "“I see ventricular tachycardia, this is pulseless VT, Clear the patient, on 3 I am shocking, 1,2,3, [push button]. [bedside provider] you are the new compressor, resume compressions, [airway] start 2-minute timer, [first compressor→ now bedside provider] draw up antiarrhythmic.”"
+  ],
+  "SBP": [
+    "“Patient is unresponsive. I need help!” pushes code button and then gets gloves"
+  ],
+  "ICS": [
+    "Lead directs bedside provider into position, and for compressor to hold compressions as soon as initial priorities are finished.",
+    "Lead: “At end of cycle of 15, [bedside provider] feel for a pulse, [compressor] hold compressions and step down, I will analyze rhythm, [airway] please be ready to start 2-minute timer”",
+    "Airway and team lead should both be watching time, and at 1 minute 45 seconds, announce that there are 15 seconds remaining.",
+    "Lead directs bedside provider into position",
+    "Lead: “At end of the next cycle of 15 compressions, [bedside provider] feel for a pulse, [compressor] hold compressions and step down, I will analyze rhythm, [airway] please be ready to start 2-minute timer”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,40 @@
+{
+  "case_id": "mededportal_9553",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9553/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Presenter fails to give plans",
+    "Presenter gives incomplete or inaccurate plans",
+    "Presenter gives a succinct problem-based plan"
+  ],
+  "MK": [
+    "Presenter fails to give an impression",
+    "Presenter gives an impression that fails to display critical thinking",
+    "Presenter gives a well thought-out, succinct impression"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Presenter fails to introduce any members of the team",
+    "Presenter introduces key members of the team",
+    "Presenter fails to mention a recap of clinical information",
+    "Presenter gives a recap, but it either lacks important information, or contains too much information",
+    "Presenter gives a succinct, accurate recap",
+    "Presenter fails to mention any 24 hour events",
+    "Presenter mentions either too many or too few 24 hour events",
+    "Presenter mentions pertinent 24 hour events",
+    "Presenter fails to mention any part of the physical exam",
+    "Presenter gives either too much or too little information",
+    "Presenter mentions pertinent aspects of physical exam, including vital signs and I/Os",
+    "Presenter fails to mention any test results",
+    "Presenter mentions test results, but gives either too much or too little information",
+    "Presenter gives all pertinent test results",
+    "Presenter fails to ask for input from RN or other staff members present",
+    "Presenter asks for input from RN or other pertinent staff members present",
+    "Presenter fails to summarize the plan for the family",
+    "Presenter summarizes the plan for the family, but the summary was lacking in accuracy, efficiency or clarity",
+    "Presenter summarizes the plan for the family in an accurate, efficient and easily understood fashion"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

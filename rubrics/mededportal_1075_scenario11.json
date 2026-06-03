@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_1075",
+  "scenario": "scenario11",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_1075/scenario11",
+  "rubric_version": "v1",
+  "PC": [
+    "<u>***Student Should Counsel You On The Following Points***</u>\n\nNicotine is an addictive substance.\n\nIn the short time that you have smoked you have steadily increased the amount you are smoking. You are already following the typical pattern of most smokers.\n\nMost (80%) of high school smokers are still smoking in college.\n\nSixty percent of those students are smoking <u>**more**</u> in college than they did in high school.\n\nThe sooner you quit, the easier it will be.\n\nMost smokers take 5-7 tries before they quit for good.\n\nRelapse is a normal part of the process - just because you try and quit once doesn’t mean you can’t.\n\n1/2 of all smokers have quit, so it’s hard, but not impossible.",
+    "You identified that I had quit in the past, but had relapsed",
+    "You helped me find a reason to think about quitting (being grounded, cost, getting in trouble, smell on hair)",
+    "You helped me decrease barriers to quitting (It will be harder to quit in the future)",
+    "You explained that just because I had relapsed once that it doesn’t mean that I can’t quit. I just need to keep trying.",
+    "You clearly advised me to quit"
+  ],
+  "MK": [],
+  "SBP": [
+    "You scheduled a follow-up session"
+  ],
+  "ICS": [
+    "You seemed to respect my views; I didn't feel “preached at”",
+    "Overall, you have definitely made me consider thinking about quitting again"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

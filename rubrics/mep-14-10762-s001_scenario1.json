@@ -1,0 +1,33 @@
+{
+  "case_id": "mep-14-10762-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10762-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Initial assessment of patient, ask for vital signs.",
+    "Assess airway, breath sounds, RR.",
+    "Assess circulation.",
+    "Expose patient (put in gown).",
+    "Monitor airway.",
+    "Administer oxygen.",
+    "Administer albuterol.",
+    "Place patient on SpO2 monitor.",
+    "Administer adjunct asthma medications: ipratropium, steroids, epinephrine, terbutaline.",
+    "Request chest x-ray (CXR) (if available at your site)"
+  ],
+  "MK": [
+    "Recognize hypoxia in the setting of respiratory distress.",
+    "Recognize progressive respiratory distress",
+    "Recognize respiratory distress and asthma exacerbation.",
+    "Consider differential for respiratory distress with wheeze."
+  ],
+  "SBP": [
+    "Call medics (911) immediately upon recognizing decompensating patient.",
+    "Sign out to Medics."
+  ],
+  "ICS": [
+    "Learners establish team roles."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10902-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10902-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Recognizes that the patient is a minor, and thus cannot legally refuse care",
+    "Asks whether the patient’s parents are available for decision making",
+    "Learner should ask whether there is any way to contact the patient’s parents. (not a critical action)",
+    "Denies the request to allow refusal and instructs the prehospital provider that the patient must be transported to the emergency department",
+    "Engages law enforcement to assist when necessary"
+  ],
+  "ICS": [
+    "Utilizes the radio correctly"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

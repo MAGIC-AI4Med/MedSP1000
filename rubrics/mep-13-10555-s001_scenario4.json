@@ -1,0 +1,54 @@
+{
+  "case_id": "mep-13-10555-s001",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10555-s001/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Performs primary survey and obtains all vital signs and AMPLE history",
+    "Performs bag-valve-mask ventilation",
+    "Establishes IV/IO access",
+    "Obtains bedside glucose/ Istat",
+    "Performs RSI using appropriate drugs, dosage, equipment size and technique. Confirms tube placement. Addresses post-intubation sedation needs",
+    "Open Airway  Assess Patency Opens Airway Recognizes child is vocalizing < 30 seconds",
+    "Assess Breathing < 30 seconds, auscultation, tachypnea, and WOB",
+    "Oxygen 100% oxygen via BVM or ETT",
+    "Monitors < 60 seconds Pulse oximetry and cardiac monitor in place",
+    "Pulse Check < 30 seconds",
+    "Blood Pressure <120 seconds",
+    "IV/IO PIV or IO placed in < 120 seconds",
+    "CPR  (Asystole or Respiratory Arrest <30 seconds after pulselessness Good technique",
+    "Effective Ventilation < 30 seconds after apnea Proper rate",
+    "CPR <30 seconds after pulselessness Good technique (proper rate and depth)",
+    "Epinephrine Correct dose < 30 seconds after asystole Correct route (IV/IO)",
+    "Pulse Check < 60 seconds after change in status"
+  ],
+  "MK": [
+    "Recognizes respiratory failure",
+    "Recognizes imminent cardiac arrest",
+    "Recognizes airway/respiratory compromise"
+  ],
+  "SBP": [
+    "Seeks appropriate disposition and consultation"
+  ],
+  "ICS": [
+    "Establishes appropriate team roles",
+    "Communicates patient handoff effectively to accepting physician",
+    "Maintains appropriate communication with patient’s family",
+    "Identify Yourself Well identified",
+    "Identify Patient Well identified",
+    "Describe why calling Clear statement",
+    "Patient’s Presenting Complaint Clear and complete",
+    "Relevant PMH Clear and complete",
+    "Brief code summary Clear and complete",
+    "Current Condition of Patient Clear and complete",
+    "Current Therapies Clear and complete",
+    "Transfer Request Clear and complete",
+    "Leader initiated response Initiated Response",
+    "Asked for team input Asked for input and acknowledged",
+    "Orders stated clearly Clear",
+    "Person receiving orders clearly identified Clear personnel identification",
+    "Readback Readback performed"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

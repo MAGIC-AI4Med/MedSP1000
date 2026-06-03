@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-12-10483-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10483-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Listens to lungs",
+    "Reviews prior chest radiograph",
+    "Orders chest radiograph",
+    "Orders blood gas (VBG or ABG)",
+    "Applies NRB face mask",
+    "Administers nebulizer",
+    "Orders BiPaP",
+    "Initiates CPR"
+  ],
+  "MK": [],
+  "SBP": [
+    "The students should verbally provide a transfer of care report to the ICU staff physician."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

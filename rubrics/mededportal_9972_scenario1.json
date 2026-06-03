@@ -1,0 +1,56 @@
+{
+  "case_id": "mededportal_9972",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9972/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Noted patient's age",
+    "asked if the pain started **gradually** or **suddenly** [Hx]",
+    "asked me to indicate exactly **where the pain is** located [Hx]",
+    "asked if I had suffered a **previous injury** to the shoulder [Hx]",
+    "asked if I play **sports** [Hx]",
+    "asked what type of **work** I do [Hx]",
+    "asked if my shoulder slips, pops, or feels **unstable** [Hx]",
+    "asked if I have **diabetes**, osteoporosis, arthritis, or a history of cancer [Hx]",
+    "used **hand sanitizer** (or washed hands) before exam [PE]",
+    "**inspected** both of my shoulders (looking at both sides) [PE]",
+    "**palpated** my right shoulder for tenderness at three spots (the AC joint, biceps tendon, subacromion area) [PE]",
+    "Instructed me to **move my shoulder** forward, backward, outward, and to rotate my left arm in and out [PE].",
+    "**moved my shoulder** forward, backward, and outward while my muscles were relaxed [PE]",
+    "Compared symptoms of active ROM with passive ROM",
+    "correctly performed the **painful arc test** [PE]",
+    "Correctly performed tests:\nEmpty can test (supraspinatus)\nInfraspinatus strength test\nLift-off test (subscapularis)\nHawkins’s test (impingement)\nSpeed’s test (biceps tendonitis)\nCross arm test (AC joint arthritis)\nApprehension test (dislocation)"
+  ],
+  "MK": [
+    "Correctly interpreted comparison of active and passive ROM",
+    "Observed, actively moved, passively moved, then palpated the shoulder\nStated how findings from these steps narrow the list of possible diagnoses",
+    "Proposed diagnosis well supported by data from the history and exam",
+    "SCHEME-BASED DECISION MAKING: based on your history and exam, you should be able to answer these four key questions that are used to narrow the list of possible diagnoses.\nThe onset of the patient’s shoulder pain was\nacute (usually traumatic)\ngradual (usually non-traumatic)\nThe structure causing the patient’s shoulder pain is\nlocal to the shoulder area\nreferred to the shoulder from another part of the body\nIf local to the shoulder, the structure causing the pain is\nglenohumeral (meaning the shoulder joint with its capsule and ligaments, the subacromion space, and the four muscles of the rotator cuff)\nextra-glenohumeral (meaning the AC joint, biceps tendon, and other structures adjacent to the glenohumeral joint)\nIf glenohumeral, then the pain is most likely coming from\nthe subacromion space (impingement)\none of the muscles or tendons of the rotator cuff (muscle tear or tendinitis)\nthe joint itself (arthritis with inflammation, ligament laxity, or scarring with adhesions)"
+  ],
+  "SBP": [
+    "made a recommendation for **next steps** [comm]",
+    "Next steps follow logically"
+  ],
+  "ICS": [
+    "Knocked before entering",
+    "Warm greeting. A bit of small talk.",
+    "Communicates warmly",
+    "Non-verbal cues convey attention",
+    "Upbeat greeting",
+    "Comfortable eye contact",
+    "Warm yet business-like",
+    "Non-verbal cues convey interest",
+    "Initial open-ended question",
+    "Allowed time for patient narrative",
+    "Open-ended question followed by an interactive, conversational narrative",
+    "listened and **paid attention** when I was talking [Comm]",
+    "provided **information** to me about my problem [Comm]",
+    "made me feel he/she **cared about me**/my problem [Comm]",
+    "Summarized findings",
+    "Findings described in clear terms"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "treated me **respectfully** [Comm]"
+  ]
+}

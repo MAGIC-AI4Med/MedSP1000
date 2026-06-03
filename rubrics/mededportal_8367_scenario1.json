@@ -1,0 +1,37 @@
+{
+  "case_id": "mededportal_8367",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8367/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "What lab tests or other diagnostic studies would you like to order? (You must give justification for each test.)",
+    "Would you order more tests?",
+    "If so, which ones? (You must justify them.)"
+  ],
+  "MK": [
+    "Now that you have taken the complete history, what problems have you identified with this patient?",
+    "What are the hypotheses/ differential diagnoses for the problems that you have identified?",
+    "Prioritize the hypotheses based on what problems you know so far.",
+    "What additional problems do you see from this history?",
+    "Are there any additional hypotheses with the new information, or any that can be deleted?",
+    "What problems did you identify during her physical?",
+    "What is her BMI?  Why does this matter?",
+    "What are your Differential Diagnoses (hypotheses) now?",
+    "Can you eliminate any of the hypotheses from your list based on this information?",
+    "What is the likely outcome with this patient?"
+  ],
+  "SBP": [
+    "What are some other ways that you can make Ms. Jenkins feel better, other than ordering tests?"
+  ],
+  "ICS": [
+    "What would you tell the patient at the end of her first visit before she goes home?",
+    "What will you tell the patient?",
+    "As a group, you should decide how you are going to advise Ms. Jenkins."
+  ],
+  "PBLI": [
+    "What are the gaps between this information and the history our group obtained initially?",
+    "Why do you think you missed some information?",
+    "How could you ask questions differently next time, so you can get more accurate information?"
+  ],
+  "PROF": []
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_10381",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10381/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "The correct answer is 1/8 (½ x ½ x ½)",
+    "Students must determine the mode of inheritance (X-linked recessive) from the reading assignment on Lesch-Nyhan, and they must correctly determine that Dee’s mother is an obligate carrier.",
+    "Then, Dee’s risk to be a carrier is ½, the chance she would pass the mutation to a child is ½, and the probability of a male is ½."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Focus on enabling the parents to make an informed decision about managing the risk to their fetus for Lesch-Nyhan syndrome and MCAD."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

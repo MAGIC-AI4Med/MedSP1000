@@ -1,0 +1,40 @@
+{
+  "case_id": "mededportal_9693",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9693/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Apply monitors in timely fashion",
+    "Reassess patient after each intervention",
+    "Request appropriate diagnostic tests (CXR)",
+    "Request appropriate diagnostic tests (CBG)",
+    "Identify correct treatment (inhaled bronchodilator)",
+    "Identify correct treatment (steroids)",
+    "Identify correct treatment (magnesium sulfate)",
+    "Properly administer treatment (MDI with chamber ornebulizer)",
+    "Correctly dose treatment (albuterol: 1 nebule [2.5mg/3ml (0.083%)] or 4-8 puffs)",
+    "Correctly dose treatment (prednisolone: 1-2mg/kg/daysteroids)",
+    "Correctly dose treatment (magnesium: 25-75mg/kg)"
+  ],
+  "MK": [
+    "Recognize respiratory distress versus respiratory failure(distress)",
+    "Recognize upper versus lower airway obstruction versuslung tissue disease (lower)",
+    "Recognize concerning\u201cquiet chest\u201d",
+    "Recognize decreased saturations due to V/Q mismatch after albuterol treatment",
+    "Correctly interpret diagnostic tests if obtained (CXR-hyperinflation, no consolidation)",
+    "Correctly interpret diagnostic tests if obtained (CBG-recognize transition from hyperventilation (early) toCO2 retention(late))"
+  ],
+  "SBP": [
+    "Call for additional support at appropriate time",
+    "Call appropriate support type (ie RRT, code, etc)"
+  ],
+  "ICS": [
+    "Clear communication between group members",
+    "Organized division of tasks",
+    "Reevaluate/summarize"
+  ],
+  "PBLI": [
+    "Express awareness of clinical practice guideline"
+  ],
+  "PROF": []
+}

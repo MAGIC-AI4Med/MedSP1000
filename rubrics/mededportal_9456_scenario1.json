@@ -1,0 +1,27 @@
+{
+  "case_id": "mededportal_9456",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9456/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Number of partners",
+    "Birth control",
+    "Condom use",
+    "STI history",
+    "Unprotected sex 48 hours ago",
+    "Learner should ask you the date of your last period, when your period started and general questions about your cycle as well as if you have ever been pregnant.",
+    "Regarding substance abuse, learner should ask about alcohol, tobacco and illicit drug intake.",
+    "For social history, learner should ask you about your home, your school, your hobbies and your interests.",
+    "Learner should recommend a urine pregnancy test BEFORE moving forward with implanon insertion.",
+    "Learner should offer emergency contraception because of the unprotected sex I had 48 hours ago.",
+    "Learner should recommend sexually transmitted infection testing.",
+    "Continued Condom Use"
+  ],
+  "MK": [],
+  "SBP": [
+    "Learner should recommend following up with a substance abuse clinic."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

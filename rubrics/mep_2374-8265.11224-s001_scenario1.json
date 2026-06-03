@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.11224-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11224-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "**Restoring Routine:** Discuss sleep hygiene and mealtime and snack routines. Encourage Henry to pick scheduled times for video games. Maybe play video games with uncles or mom. Scheduled time in nature/outside with trusted adult or peers.",
+    "**Relaxation and Regulation:** Elicit cultural and faith values important to family. Discuss relaxation techniques (e.g., breathing exercises, body scan) with family. Discuss mindful eating habits. Encourage cooking skills (with family’s collaboration) to enhance knowledge of nutritious meals. Together with family, identify calming/soothing skills beneficial to both Henry and mom. Refer for Trauma Informed mental health counseling."
+  ],
+  "MK": [
+    "**ACE Score for Henry- Minimum score of 4**\n\nParental separation\n\nWitness to physical assault\n\nMaternal mental illness\n\nDeath of uncle\n\nPossible bullying",
+    "**Henry FRAYED**\n\nF- fear of dad, angry outbursts, prolonged temper tantrums\n\nR- limited friendships in school, attention difficulties\n\nA- strained relationship with dad, few friendships in school\n\nY- angry outbursts, prolonged tantrums. Poor sleep hygiene\n\nE- learning challenges in school, sneaking food into room BMI>99%\n\nD- depressed, passive thoughts of self-harm, apathy regarding academics, BMI>99%",
+    "**Mom FRAYED**\n\nF- yelling when henry was younger, fear of Henry’s dad, generalized anxiety disorder.\n\nR- unemployment\n\nA- struggles with parenting Henry as a baby\n\nY- yelling at her son.\n\nE- Stalled college completion.\n\nD- multiple chronic health problems",
+    "**Henry THREADS**\n\nT- able to navigate video games.\n\nH- coding and programming in future, likes church.\n\nR- no alcohol or substance use\n\nE- willingness to engage with provider in visit.\n\nA- mom, grandmother, uncles\n\nD- adept at video games\n\nS- church, video gaming community, maternal uncles",
+    "**Mom THREADS**\n\nT- Made it into college.\n\nH- seeking ways to help Henry.\n\nR- no harmful substances or alcohol during pregnancy\n\nE- continues to parent Henry with significant chronic medical history, seeks preventive care for him.\n\nA- Henry, maternal grandmother\n\nD- bringing Henry in for appointments, honored prenatal visits.\n\nS- Church"
+  ],
+  "SBP": [
+    "Describe how the signs and symptoms of toxic stress in Henry’s mother has affected parenting, education, employment, and health?",
+    "How has she been affected by her father’s death and addiction illness? How could violence in the neighborhood be contributing to her experience of trauma?",
+    "How are Henry’s community adverse experiences impacting his health and education?",
+    "How is Henry’s toxic stress response to trauma impacting his health and education?"
+  ],
+  "ICS": [
+    "**Reassuring/Restoring Safety and Hope:** Remind Henry that his mom, grandma and uncles will keep him safe and look out for him. Remind him of his church community. Congratulate him on having plans for becoming a programmer and coder. Remind him his brain continues to learn new things and in new ways. Remind Mom she has kept Henry safe from infancy till now. Remind her of church community, grandmother, and her uncles. Connect family to community resources to bolster connections and mentoring."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

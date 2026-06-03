@@ -1,0 +1,28 @@
+{
+  "case_id": "mep-13-10561-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10561-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Integrates the three major perspectives of medical sciences (biological, behavioral, population) in cases and discussions. Examples are: Defines major/relevant learning issues for each perspective. Gives examples from case of how one perspective might affect or interact with another. Develops management strategy to address the three perspectives.",
+    "Demonstrates understanding of issues across levels of organization (e.g.,cellular and molecular; gross and microscopic; individual-family-community, organic and behavioral). Examples are:\nDiagrams mechanisms using flow charts and other visual aids.\nDemonstrates understanding of key or rate-limiting steps.",
+    "Relates learning issues to the patient case or problem(s).",
+    "Uses evidence to support reasoning. Examples include: Supports reasoning and conclusions with relevant and specific information. Provides sources(s) of information cited."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Summarizes issues succinctly. Examples are: Uses summary for clarification, checking understanding, integration, closure, or to set the stage for discussion. Presents case summaries that are concise and logical (i.e., have a beginning, middle, and end) and relates the learning issues/facts (i.e., the details) to the patient's story (i.e., the big picture). Develops concise/specific learning issues by formulating questions that can be answered in the available time. Clarifies, focuses,and refines learning issues.",
+    "Uses reasoning process as part of the presentation/discussion of learning issues. Examples include:\nDevelops a plan and method for presenting learning issues that is understood by group.\nConveys whatis to be presented in a clear manner.\nBalances the level of detail to the needs of the group.\nPresents in a logical, step-wise manner (i.e.,articulates start and end point of presentation).\nReiterates and checks others' understanding of learning issues.",
+    "Uses the board,diagrams,and audio-visual aids,including uses correctterminology and spelling, and writes legibly. Examples include:\nDiagrams transferred to board are helpful.\nSpontaneously uses the board when necessary to graphically demonstrate difficult concepts with little or no prompting.\nProvides concise summary materials and uses them to facilitate group learning.",
+    "Uses active listening skils. Examples include:\nAsks follow-up questions or clarifying questions.\nReiterates or paraphrases to check understanding.\nMakes connections between information from different sources.",
+    "Uses verbal communication skills. Examples include:\nMakes explicit the relationship of own and others' contributions to previously discussed material.\nExplanations are clear and easily understood.\nSpeaks clearly and succinctly,and with enthusiasm/interest.",
+    "Demonstrates team/helping behaviors. Examples include:\nChecks others' understanding, responds to lack of understanding in helpful manner, facilitating the learning of others.\nFacilitates the learning of others using questions which probe the level of understanding of conceptual material, as well as grasp of details and summarization.\nChallenges others' concepts and ideas in a constructive way.\nResponds constructively to verbal and non-verbal communication in group."
+  ],
+  "PBLI": [
+    "Regularly develops learning issues. Examples include: Asks key questions in showing inquisitiveness. Admits when knowledge is lacking. Identifies the“need to know\" in relating knowledge gaps to understanding the case at hand.\nInteracts with group to further define and “fine tune\" learning issues.\nWorks to prioritize learning issues.",
+    "Presents learning issue research with proper depth and relevance,in a style that teaches well. Examples include: Makes use of visual aids (black/white board,figures from books or Websites, overheads, etc.). Organizes information well before presenting it. Sorts research information to reflect the relevance of it to the case/Learning Issue at hand. Periodically during overall discussion adds information from own research that complements and supplements information presented by others. Brings unique/original resources to group.",
+    "Responds to uncertainty with a plan (e.g.,identifies problem, formulates hypotheses, test hypotheses, and re-evaluates using written, personal, or electronic resources). Examples include:\nDescribes steps taken in seeking information.\nSelects resources that are relevant to group's level of understanding.\nAble to choose from a variety of resources.\nDiscerns relative value of resources used."
+  ],
+  "PROF": []
+}

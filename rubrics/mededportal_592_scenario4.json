@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_592",
+  "scenario": "scenario4",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_592/scenario4",
+  "rubric_version": "v1",
+  "PC": [
+    "Patient assessment reveals vital signs and physical exam as above, without significant changes",
+    "Application of monitoring equipment (cardiac monitor, pulse oximetry)",
+    "Check vascular access",
+    "N-acetylcysteine infusion should be discontinued",
+    "Close monitoring for complications of N-acetylcysteine dosing error (hyponatremia, seizures)",
+    "Patient assessment reveals a seizing, then post-ictal patient, progressive tachycardia with myocardial irritability / arrhythmias, hypotension and hypoxia Physical examination:\nChest: symmetric breath sounds Heart: tachycardia\nNeuro: unresponsive, pupils dilated to 6mm; non-focal",
+    "Diagnostic evaluation\n- electrocardiogram (EKG) - selected toxicologic assays (e.g. cocaine, lithium) [ head computed tomogram (CT) ] [ lumbar puncture (LP) ]",
+    "Toxicologic ACLS as indicated - airway management (endotracheal intubation) - ventilatory support (mechanical ventilation)\n- circulatory support (IV access and fluids, lidocaine / dopamine infusions, defibrillation / cardioversion)\n- gastric decontamination (activated charcoal administration after airway protection; ? gastric lavage)\n- seizure management (benzodiazepines, barbiturates; avoidance of phenytoin)\n- toxicologic expert consultation",
+    "Recognize and adequately manage TCA OD (airway, fluids, sodium bicarbonate; check arterial blood gases (ABGs)"
+  ],
+  "MK": [
+    "Discussion of acetaminophen toxicity\n- acute vs. chronic intoxication\n- pediatric vs. adult\n- diagnostic procedure serum acetaminophen level / nomogram liver function tests, coagulation studies\n- therapeutic interventions gastric lavage activated charcoal oral N-acetylcysteine intravenous N-acetylcysteine supportive measures",
+    "Consider differential of seizure-inducing cardiotoxic ingestions\n- alcohols - anti-arrhythmics (class I; quinidine) - anti-cholinergics (diphenhydramine)\n- antidepressants (monoamine oxidase inhibitors, tricyclics)",
+    "Consider differential of other etiologies of seizures\n- infectious (meningoencephalitis)\n- metabolic (hypo-calcemia / glycemia / natremia)\n- neoplastic\n- neurologic (primary, acquired)\n- non-accidental injury\n- vascular (CVA)"
+  ],
+  "SBP": [
+    "Patient report and acceptance from EMS / ED provider",
+    "Continued consultation with poison control center to determine further treatment",
+    "As the initial ordering physician (Dr. Finlay) is no longer available, the SIM facilitator nurse will be resistant to changing N-acetylcysteine dose because she knows and trusts Dr. Finlay. She will require evidence-based support (e.g. Web references, drug package inserts, pharmacist review) to change the medication order.",
+    "Investigative probe: incorrect medication order is detected by treatment team and corrected",
+    "Formal transition of care + disposition of patient to ICU",
+    "Formal transition of care with report of patient presentation, resuscitative events, and treatment"
+  ],
+  "ICS": [
+    "Error disclosure and followup - objective disclosure of error to family - activation of resources tasked with error investigation (supervisor / administrator; anonymous reporting) - critical incident debriefing"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

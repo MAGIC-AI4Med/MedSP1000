@@ -1,0 +1,27 @@
+{
+  "case_id": "mep-14-10714-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10714-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Physical Exam Prepares patient before physical exam actions anddescribes exam findings during the exam(\"l am going to_\u201d then \u201cyour lungs sound healthy\")",
+    "Behavior Change/Self ManagementAsks if patient wants help with health behavior change.Explores pros and cons of behaviors (respectsambivalence)Reflects comments about: desire,ability, reason, need.Asks permission to give adviceIf patient wants help, asks patient: To brainstorm activities and choose one to reach goalTo name activity frequency and time of dayScales confidence in change (1-10)Assesses patient barriersAdjusts plan to address barriersUses action plan worksheet (in AVS or separate)]Affirms prior/current behaviorchange effort"
+  ],
+  "MK": [],
+  "SBP": [
+    "Electronic Medical Record UseBy 10 seconds, describes reason for each screen gaze] Shares/pointsat screen during at least 2 visit phases(agenda setting, history,Rx / Lab review,typing AVS)\u25a1]Maintains eye contact and/or shares screen at least2/3rds of the visitAsk patient to confirm or contribute to documentation"
+  ],
+  "ICS": [
+    "Establishes RapportIntroduces self (before gazing at computer)Warm greeting (before gazing at computer)Acknowledges allin the room by name Uses eye contactHumor ornon medical interaction",
+    "Maintains Relationship Throughout the Visit Uses verbal or non-verbal empathy during discussionsor during the examUses continuer phrases (\"um hmm\")Repeats (reflects) important verbal contentDemonstrates presence,curiosity, intent focus,notseeming \u201crushed\"and acknowledges distractions",
+    "Collaborative upfront agenda setting\u25a1Acknowledges agenda items from other team member(eg MA) or from EMR.Additional elicitation- \u201csomething else?\" * X* each elicitation counts as a new elementAsks or confirms what is most important to patient.",
+    "Maintains Efficiency using transparent (outloud) thinking and respectful interruption:Talks about visit time use /visit organizationNegotiates priorities (includes provider agenda items)Talks about problem solving strategiesRespectful interruption/redirection using EEE:Excuseyour self,Empathize/validate issue being interrupted,Explain the reason for interruption (eg,for Topic tracking)",
+    "Gathering Information Uses open-ended question X] Uses reflecting statement XUses summary/clarifying statement XCount each time the skill is used as one element",
+    "Assessing Patient or Family Perspective onHealthAcknowledges patient verbal or non-verbal cues.Explores patient beliefs (explanatory model) or feelingsExplores contextual influences: family, cultural,spiritual.Number of patient verbal/ non-verbal cues",
+    "Sharing Information]Avoids or explains medical jargon] Summaries cover biomedical concerns] Summaries cover psychosocial concerns.Invites Q/A",
+    "Co-creating a planDescribes optionsDiscusses pros and consDiscusses uncertainties with the decisionAssesses patient understandingAsks for patient preferencesldentifies and resolves decisional differences Plan respects patients goals and values",
+    "Closure Asks for questions about today's topics. Co-creates and prints a readable After Visit Summary Uses Teachback. = Asking the patient to explainhis/her understanding of the plan Combines Teachback and AVS creation while sharingthe screen or notepad. (Counts for 3elements)"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

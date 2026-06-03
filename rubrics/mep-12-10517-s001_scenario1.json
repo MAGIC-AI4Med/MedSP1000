@@ -1,0 +1,23 @@
+{
+  "case_id": "mep-12-10517-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10517-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtains and recognizes patient status and/or unstable vital signs",
+    "Provides appropriate initial stabilizing treatment for the patient’s acute medical concerns: Obtain 12 lead EKG",
+    "Provides appropriate initial stabilizing treatment for the patient’s acute medical concerns: Give Anticoagulation (Antiplatelet Agents and Heparin)",
+    "Provides appropriate initial stabilizing treatment for the patient’s acute medical concerns: Performs BLS and ACLS according to protocol for a patient with Pulseless Ventricular Tachycardia"
+  ],
+  "MK": [
+    "Provides appropriate initial stabilizing treatment for the patient’s acute medical concerns: Recognize Acute ST Elevation MI"
+  ],
+  "SBP": [
+    "Asks for help when needed from nursing, pharmacy, senior resident, or consultants",
+    "Determines appropriate disposition for the patient",
+    "Provides appropriate initial stabilizing treatment for the patient’s acute medical concerns: Consult Cardiology for Emergent Catheterization"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

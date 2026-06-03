@@ -1,0 +1,25 @@
+{
+  "case_id": "mededportal_9568",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9568/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "CBC, Blood culture",
+    "Urinalysis, Urine culture",
+    "Bronchiolitis:\nIf not low risk on labs:\nPerform LP\nIf low risk on labs:\nNo LP\nDisposition based on bronchiolitis",
+    "No Bronchiolitis:\nPerform LP"
+  ],
+  "MK": [
+    "If low risk on labs (definition below):\nCBC:\nWBC ≥ 5 K and ≤ 15 K\nBand to neutrophil ratio < 0.2\nNegative Urinalysis\nCSF:\nWBC < 8/HPF\nNormal glucose, protein\nNegative gram stain"
+  ],
+  "SBP": [
+    "If not low risk:\nStart antibiotics\nAdmit",
+    "Discharge home with close follow-up",
+    "No Antibiotics if no LP!",
+    "Regardless of where you are practicing, if you are going to give empiric antibiotics be sure that you do a full evaluation beforehand",
+    "Therefore, brief hospitalization or outpatient management with close follow-up may be considered for infants with UTIs at very low risk of adverse events."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

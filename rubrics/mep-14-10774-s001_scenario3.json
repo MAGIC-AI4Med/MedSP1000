@@ -1,0 +1,30 @@
+{
+  "case_id": "mep-14-10774-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10774-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "A: assessment - what could be driving their undesired behavior? (“what was the reason for the many interruptions today?”) - you will not know the reason until you ask – many times the true reason for their behavior may surprise you!",
+    "Identify acute concerns, especially financial\nAre they in danger of being evicted/losing their car?  Does the residency/department need to offer this learner a short-term loan to keep the lights on, or is the problem only with organization?",
+    "Examine their organization system\nHow do they process and prioritize incoming tasks and emails?\nWhat additional time commitments this learner has in addition to residency, as these may be contributing to their perceived ‘disorganization.’ Is there a young child at home? Stress from a significant other?\nDiscuss clinical efficiency and how to balance taking care of patients with the ability to chart on shift, which may open up more free time for the learner."
+  ],
+  "SBP": [
+    "Targeted mentorship. This can be powerful especially when given from selected senior residents and faculty who are successful with balancing multiple responsibilities",
+    "Do you tell the program director or CCC chair about difficult behavior in your didactic?\nIn general, the answer should be “yes”.\nThe PD (and maybe the CCC) need to know if patterns of behavior are emerging for any one resident - they are uniquely positioned to have this perspective.\nIf this is an isolated incident, they will likely not do anything further with the information.\nIf this is a pattern of behavior, or is an egregious act, the resident may need some more dedicated coaching from the program.\nIf it is a personal issue (sick family member, etc), I encourage the learner to tell their PD, and offer to support them in any way they would like."
+  ],
+  "ICS": [
+    "S: subjective (how did you feel?) – annoyed, disappointed, angry (“I felt disrespected when…”)",
+    "O: objective - what exactly did they do that made you feel that way?  (focus on specific actions, behaviors, such as “I noticed you interrupted me 5 times during that session”)",
+    "Begin with “I’m on your side.” Emphasize motivation to help them improve. Often, this starts well before the conversation begins and extends to your entire relationship with the resident",
+    "Advocacy is stating something that you noticed. This is the “O” from the SOAP Process.",
+    "Inquiry is telling the learner your concerns about it and asking for their thoughts.",
+    "Be inquisitive. Either from a single advocacy inquiry statement or may require more “digging” to actually “get to the root of” why it is happening."
+  ],
+  "PBLI": [
+    "P: plan – make a plan together for improvement going forward (use implementation intentions, described below). Essential to get their input and buy-in on this, as solutions won’t work if they are not on board.",
+    "Co-create a plan for future improvement.  Have the learner first suggest ways they think they could improve their behavior. Modify the plan as needed.  Learners are more likely to be successful if they came up with the solution.",
+    "Use accountability and implementation intentions."
+  ],
+  "PROF": []
+}

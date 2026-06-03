@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_10210_1",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10210_1/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Resident asks nurse to explain why s/he has made the assessment of infection of the PICC line.",
+    "Resident asks what is being administered through the PICC line. [SP should answer “the antibiotics and IV fluids.”]",
+    "Resident asks if there is any other IV access.",
+    "Resident requests patient’s vital signs. [Must ask for ALL three for credit: temperature, blood pressure, heart rate.]",
+    "Resident told me to start a peripheral IV first.",
+    "Resident told me to discontinue (pull) the PICC after the peripheral IV is started.",
+    "Resident told me to culture the tip of the PICC.",
+    "Resident ordered a peripheral blood culture."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Resident clearly states his/her name.",
+    "Resident identifies service/specialty. For example, “Night Team,” “Cross Cover,” “Medicine [specific team name],” “ Surgery team,” “Pediatrics”",
+    "Resident said he/she will come to visit the patient.",
+    "Resident gave an estimated time of arrival to see patient."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

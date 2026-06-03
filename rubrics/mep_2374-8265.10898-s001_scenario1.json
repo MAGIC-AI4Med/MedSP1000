@@ -1,0 +1,20 @@
+{
+  "case_id": "mep_2374-8265.10898-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10898-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Your job is to help the group learn the material presented on the following page while dealing with any potential issues that arise.",
+    "You should try to make your session interactive and involve all students if possible.",
+    "If the facilitator says something like, “Let’s give someone else a turn to answer”, you stop answering questions. At this point, you should only answer the question if there is a pause and no one else is answering.",
+    "If the facilitator asks you a question, you should say “Sorry, I wasn’t listening. What did you say?”. If they do try to engage you specifically, you should start paying better attention.",
+    "If the facilitator tells you they don’t have time to go over that, you look disappointed but then say you will just read over it while he or she continues with the topic.",
+    "If the facilitator redirects the class to the topic at hand by saying something like “Okay, let’s get back to what we were talking about”, you stop being distracting.",
+    "If the facilitator asks you a question, you should say very hesitantly, “I’m not sure. Maybe the answer is _____?” If the facilitator praises/encourages you, you should smile and be more confident with additional answers."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

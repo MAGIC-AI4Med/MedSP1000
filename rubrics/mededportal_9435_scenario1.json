@@ -1,0 +1,35 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "When a simulator (model) is used, the student first examines the PI in its entirety and, when finished with the PI, goes to the simulator",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M1Wash hands</td><td colspan=\"1\" rowspan=\"1\"></td><td colspan=\"1\" rowspan=\"1\"></td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M55: Check jugularvenous pulse (JVP)</td><td colspan=\"1\" rowspan=\"1\">S55: Normal</td><td colspan=\"1\" rowspan=\"1\">S55:Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M56: Palpate aortic areaD)</td><td colspan=\"1\" rowspan=\"1\">S56:Possible thrill ornormal</td><td colspan=\"1\" rowspan=\"1\">S55: Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M57: Palpate pulmonicarea</td><td colspan=\"1\" rowspan=\"1\">S57: Normal</td><td colspan=\"1\" rowspan=\"1\">S57: Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M58: Palpate tricuspidarea</td><td colspan=\"1\" rowspan=\"1\">S58: Normal</td><td colspan=\"1\" rowspan=\"1\">S58: Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\"> M59: Palpate mitral area(D) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S59:PMl in normallocation, but sustained</td><td colspan=\"1\" rowspan=\"1\">S59:PMl laterally displacedand hyperdynamic ornormal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M60: Auscultate aorticarea (diaphragm) (D)(Mod)</td><td colspan=\"1\" rowspan=\"1\">S60a: Systoliccrescendo-decrescendo murmurradiating to carotidsS60b: S2 soft(decreased intensity)</td><td colspan=\"1\" rowspan=\"1\">S60:Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M61: Auscultate pulmonicarea (diaphragm) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S61: Normal</td><td colspan=\"1\" rowspan=\"1\">S61: Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M62: Auscultate tricuspidarea (diaphragm) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S62: Normal</td><td colspan=\"1\" rowspan=\"1\">S62: Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M63:Auscultate mitral area (diaphragm) (D)(Mod)</td><td colspan=\"1\" rowspan=\"1\">S63: S4 audible</td><td colspan=\"1\" rowspan=\"1\">S63a:S3 audibleS63b: Holosystolic murmurradiating to axillaS63c: Murmur continuespast S2</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M64: Auscultate aorticarea (bell) (D) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S64a: Systoliccrescendo-decrescendo murmurradiating to thecarotidsS64b: S2 soft(decreased intensity)</td><td colspan=\"1\" rowspan=\"1\">S64: Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M65:Auscultate_pulmonicarea (bell) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S65: Normal</td><td colspan=\"1\" rowspan=\"1\">S65: Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M66: Auscultate tricuspidarea (bell) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S66: Normal</td><td colspan=\"1\" rowspan=\"1\">S65: Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M67:Auscultate mitralarea (bell) (D) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S67: Normal</td><td colspan=\"1\" rowspan=\"1\">S67a: S3 audible S67b: Holosystolic murmur radiating to axillaS67c: Murmur continuespast S2</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M68:Auscultate carotid artery bilaterally (D) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S68: Systolic murmur radiates to the carotids(neck)</td><td colspan=\"1\" rowspan=\"1\">S68:Normal</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M69:Palpate carotid artery bilaterally (D) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S69: Carotid upstroke isdelayed and hasdecreased amplitude(\"pulses parvus et tardus\")</td><td colspan=\"1\" rowspan=\"1\">S69: Carotid upstroke isbrisk, but falls off quickly(bounding)</td></tr>",
+    "<tr><td colspan=\"1\" rowspan=\"1\">M46: Auscultate posterior lungs fields bilaterally &amp;symmetrically (D) (Mod)</td><td colspan=\"1\" rowspan=\"1\">S46: Normal</td><td colspan=\"1\" rowspan=\"1\">S46: Possible crackles inmore advances stage ornormal</td></tr>"
+  ],
+  "MK": [
+    "Given the results of your physical exam, which diagnosis is most likely?\n[x] aortic stenosis\n[ ] mitral regurgitation\n[ ] neither because the findings are ambiguous or contradictory\n[ ] neither, for any other reasons or otherwise you would be guessing"
+  ],
+  "SBP": [
+    "Following the encounter, the student documents his/her findings."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

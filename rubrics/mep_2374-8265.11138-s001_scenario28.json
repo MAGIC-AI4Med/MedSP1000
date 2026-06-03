@@ -1,0 +1,25 @@
+{
+  "case_id": "mep_2374-8265.11138-s001",
+  "scenario": "scenario28",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11138-s001/scenario28",
+  "rubric_version": "v1",
+  "PC": [
+    "Ask about prior clonazepam order -> Nurse states that patient received 1mg of clonazepam at 9am and 3pm (12 and 6 hours ago)",
+    "Ask if patient is on home anxiety medications -> Nurse states that that computer only lists bupropion as a home medication",
+    "Administer lorazepam or clonazepam at low dose",
+    "Go assess the patient -> If assessment done at this point, proceed to **Appendix I: *Anxiety Simulation Case*** for standardized participant scenario. No further calls for this patient.",
+    "Ask about home sleep aids -> Nurse will not know if patient takes anything to help him sleep at home, or if the patient has a history of difficulty falling asleep.",
+    "Order diphenhydramine or zolpidem"
+  ],
+  "MK": [
+    "The learners should explain that bupropion can lower seizure threshold and make the patient more prone to seizures, so this medication must be avoided for now."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Actively listening to the patient\u2019s concerns and complaints without frequent interruptions.",
+    "Using open and welcoming body language and verbal language to de-escalate a tense situation with potential for patient harm.",
+    "Negotiation of a mutually satisfying plan with the patient."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

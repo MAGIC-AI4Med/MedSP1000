@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.10918-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10918-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Chooses correct answer (A).",
+    "Chooses incorrect answer (B, C, D)"
+  ],
+  "MK": [
+    "Identifies phenytoin as the culprit",
+    "Includes phenytoin in a list of possible culprits",
+    "Does not correctly identify phenytoin"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

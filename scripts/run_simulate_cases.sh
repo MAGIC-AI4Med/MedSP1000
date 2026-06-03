@@ -4,11 +4,12 @@ set -o pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ROOT_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
-SIM_ROOT="$ROOT_DIR/a-simulate"
+# Engine lives in src/; `python -m simulate.runner` runs with src/ as the cwd.
+SIM_ROOT="$ROOT_DIR/src"
 
-CASE_FILE="$SCRIPT_DIR/scenario_directories_full.json"
-CONFIG_FILE="$SIM_ROOT/simulate/config.yaml"
-LOG_ROOT_DIR="$ROOT_DIR/z-logs"
+CASE_FILE="$ROOT_DIR/scenario_directories_full.json"
+CONFIG_FILE="$ROOT_DIR/configs/config.yaml"
+LOG_ROOT_DIR="$ROOT_DIR/runs/logs"
 LOG_DIR=""
 BATCH_NAME="simulate_batch_$(date '+%Y%m%d_%H%M%S')"
 BATCH_LOG_FILE=""
@@ -33,9 +34,9 @@ Usage: run_simulate_cases.sh [options]
 Options:
   -j, --jobs N             Number of concurrent jobs. Default: 2
   -c, --case-file PATH     JSON file containing case directories
-  -l, --log-dir PATH       Batch log directory. Default: z-logs/simulate_batch_<timestamp>
+  -l, --log-dir PATH       Batch log directory. Default: runs/logs/simulate_batch_<timestamp>
   -p, --python-bin PATH    Python executable used to run simulate.runner
-  --config PATH            Path to simulate/config.yaml
+  --config PATH            Path to runtime config YAML. Default: configs/config.yaml
   --examinee-model NAME    Override agents.examinee.model for this batch.
   --sp-env-eval-model NAME Override agents.sp.model / agents.environment.model /
                            agents.evaluator.model with the same NAME for this batch.
@@ -159,6 +160,8 @@ fi
 
 if [[ ! -f "$CONFIG_FILE" ]]; then
     echo "Config file not found: $CONFIG_FILE" >&2
+    echo "Create it first, e.g.: cp configs/config.example.yaml configs/config.yaml" >&2
+    echo "then export your provider credentials (OPENAI_API_KEY, ...)." >&2
     exit 1
 fi
 

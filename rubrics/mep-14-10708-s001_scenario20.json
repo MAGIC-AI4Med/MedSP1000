@@ -1,0 +1,19 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario20",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario20",
+  "rubric_version": "v1",
+  "PC": [
+    "Inquire about current regimen",
+    "Inquire about abdominal pain",
+    "Recognize that this patient may require assistance from ‘above’ and ‘below’ and provide verbal orders for such regimen:\nCould add polyethylene glycol (less desirable sorbitol or lactulose)\nShould add something from below – bisacodyl suppository, tap water or mineral oil enema  Phosphate (Fleet’s) enema should be avoided in this patient with ESRD, as well as magnesium containing products",
+    "Provide verbal order for antiemetic – ondansetron, prochlorperazine; should avoid Phenergan in this elderly patient, as well as anticholinergics (Scopolamine patch)."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Clear, closed-loop communication when relaying orders to nursing staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

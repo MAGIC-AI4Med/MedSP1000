@@ -1,0 +1,61 @@
+{
+  "case_id": "mededportal_10373",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10373/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Student: Can you show me/tell me where it hurts?",
+    "Student: Does the pain travel anywhere else? Are you having any other pain?",
+    "Student: Have you had any trouble controlling your urine or bowels? Must ask both",
+    "Student: Do you have any numbness, altered sensation or tingling?",
+    "Student: Have you noticed any weakness? Is your right leg weak?",
+    "Student: Is the pain constant? Does the pain ever go away?",
+    "Student: On a scale of 1 to 10, 10 being the worst imaginable pain, how would you rate this pain?",
+    "Student: Does it hurt to urinate?",
+    "Student: Do you have any blood in your urine?",
+    "Student: Is there anything that makes it worse?",
+    "Student: Have you ever had a back problem before? Have you had a problem like this before?",
+    "Student: Do you have any fever?",
+    "Student: Have you lost weight?",
+    "Student: Have you fallen? Do you know of any trauma?",
+    "Student: Do you take any medications?",
+    "Washed/ foamed hands in my presence before examining me or put on gloves.",
+    "Pushed down on my vertebral column (at least thoracic and lumbar)",
+    "Lifted both legs individually (at 45 degree angle) while I was lying on my back.",
+    "Tested the skin sensation on outer ankle/top of foot on both sides.",
+    "Tested the strength in both my ankles or toes.",
+    "Tested the reflexes in 2 areas (knee & ankle) of both legs)",
+    "Palpated the mid lateral back for tenderness.",
+    "Checked the range of motion of my back.",
+    "Student: Do you have any numbness where your underwear touches between your legs?",
+    "What is the appropriate next step in managing this patient?\nNon-steroidal anti-inflammatory, bed rest, follow-up 2 weeks",
+    "What is the appropriate next step in managing this patient?\nNon-steroidal anti-inflammatory, physical therapy, follow-up 2 weeks",
+    "The patient later complains of tripping and reports the right foot is dragging. What then becomes the appropriate next step in management?\nLumbar spine MRI"
+  ],
+  "MK": [
+    "Dx #1\nLumbar Strain",
+    "Dx #1\nOsteoarthritis",
+    "Dx #1\nSpinal stenosis",
+    "Dx #1\nNerve root compression T12",
+    "Dx #1\nNerve root compression L4",
+    "Dx #1\nNerve root compression L5",
+    "Dx #2\nLumbar Strain",
+    "Dx #2\nOsteoarthritis",
+    "Dx #2\nSpinal stenosis",
+    "Dx #2\nNerve root compression T12",
+    "Dx #2\nNerve root compression L4",
+    "Dx #2\nNerve root compression L5",
+    "Dx #3\nVertebral Fracture",
+    "Dx #3\nVertebral Osteomyelitis"
+  ],
+  "SBP": [
+    "The patient later complains of tripping and reports the right foot is dragging. What then becomes the appropriate next step in management?\nSurgical consultation"
+  ],
+  "ICS": [
+    "I said this or something similar. The student asked me to explain further or in some way sought to delve deeper into the reason(s) for the statement",
+    "I said this or something similar. The student acknowledged with validation of my concern, such as \"I know you are nervous but we have a great team. We will take good care of you; Dr X is really good.\"",
+    "I said this or something similar. The student minimally acknowledged (one word something such as “Okay,” “Yes,” or short sentence such as “I understand”) He/she then continued with the interview."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

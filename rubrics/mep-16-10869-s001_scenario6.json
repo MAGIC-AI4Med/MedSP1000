@@ -1,0 +1,27 @@
+{
+  "case_id": "mep-16-10869-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-16-10869-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Would you offer genetic testing to the family? Which relatives are you most concerned about? Why?",
+    "What type of genetic testing would you use to determine if there is DMD in the family?"
+  ],
+  "MK": [
+    "Where can you find information about the common features of Duchenne muscular dystrophy (DMD)? Which features in this case are consistent with DMD?",
+    "What risks might exist for other members of the family? What additional information would you wish to gather?",
+    "What is the chance that future pregnancies to the mother would be affected? (The initial partner has passed, so we assume her new partner is unlikely to have DMD.)",
+    "If the affected child were to reproduce, what would be her offspring’s chance of being affected with DMD?"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Assign one person to play the role of the physician and one to play to role of the mother of the affected little girl. Role play delivery of the information to the family.",
+    "What information might be available to help the family adjust to this diagnosis? How do you help the mother adjust to her own fears for her health and possible feelings of guilt?"
+  ],
+  "PBLI": [
+    "Where could you find information about current management and treatment options?"
+  ],
+  "PROF": [
+    "What are the ramifications of consanguinity in this family for this woman who is now 19 and had a child 5 years ago?"
+  ]
+}

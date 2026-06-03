@@ -1,0 +1,24 @@
+{
+  "case_id": "mededportal_717",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_717/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Directed history and physical",
+    "Prepare for difficult airway",
+    "Secure airway",
+    "Confirm airway placement",
+    "Films: Soft tissue neck at bedside, CT neck (opt) Labs: CBC，Chem-7, TSH, others optional"
+  ],
+  "MK": [
+    "Expanding neck mass",
+    "Need for difficult airway management"
+  ],
+  "SBP": [
+    "Admit to hospital",
+    "Appropriate direction and mobilization of staff ENT and/or anesthesia consultation"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

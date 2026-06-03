@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11020-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11020-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Set up equipment for intubation",
+    "Opens airway and ventilates",
+    "Gives 20ml/kg bolus",
+    "Intubates patient",
+    "Second responder enters and gets gloves as the First Person conducts rapid assessment of perfusion, respiratory examination including pulse, airway, and breath sounds while obtaining pulse oximeter reading.",
+    "Prepare suctioning while bagging"
+  ],
+  "MK": [
+    "After suctioning and oxygen, team leader should share partial mental model recognizing tachycardia and compensated shock.",
+    "Team Leader shares mental model Five problems: airway obstruction (now cleared), apnea (continuing) hypoxia (now improving), compensated shock (now improving), and need to transfer to intensive care"
+  ],
+  "SBP": [
+    "Calls for help"
+  ],
+  "ICS": [
+    "Team should follow choreography of intubation"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

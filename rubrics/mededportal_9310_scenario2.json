@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9310",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9310/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain further history",
+    "Expose patient",
+    "Apply monitor",
+    "Suction tracheostomy\n(RESULT: cannot pass suction catheter fully)",
+    "Supply 100% oxygen",
+    "Supply positive pressure vent\n(RESULT: resistance to positive pressure ventilation (PPV) noted when Bag-Valve-Mask (BVM) attempted—learner should then attempt BVM with facemask over mouth)",
+    "Stop GT feeds/Make NPO",
+    "Order Chest Xray:",
+    "Apply positive pressure ventilation (RESULT: resistance to PPV noted when BVM attempted--learner should then attempt BVM with facemask over mouth)",
+    "Change tracheostomy tube",
+    "Rapid sequence intubation (if tracheostomy tube cannot be replaced)"
+  ],
+  "MK": [
+    "Recognize acute respiratory distress",
+    "Develop differential diagnosis of acute respiratory distress in the tracheostomy-dependent child",
+    "Recognize tracheostomy occlusion as primary cause of acute respiratory distress",
+    "Recognize impending respiratory failure"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

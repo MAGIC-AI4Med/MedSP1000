@@ -1,0 +1,16 @@
+{
+  "case_id": "mep_2374-8265.11027-s001",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11027-s001/scenario6",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "Contemplation."
+  ],
+  "SBP": [],
+  "ICS": [
+    "“That’s great to hear. I definitely think making some dietary changes could help you lower your cholesterol and reduce your risk for heart disease. What would need to happen for you to improve your diet?”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

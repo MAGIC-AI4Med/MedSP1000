@@ -1,0 +1,26 @@
+{
+  "case_id": "mep_2374-8265.11391-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11391-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "**Ask** anyone with symptoms of trauma",
+    "If the physician asks about Alex’s weight loss, tell the physician that you are having difficulty affording the formula, so you have had to decrease how much he is getting.",
+    "If the physician asks what your biggest financial barriers are, let the physician know the above stressors.",
+    "Discuss the management of symptoms with the knowledge about their trauma because now you can provide effective interventions."
+  ],
+  "MK": [
+    "Linking the trauma exposure to patient’s symptomatology aids in the understanding of the connection between exposure and health. *“This may be contributing to why we are having such a hard time managing your symptoms.”*"
+  ],
+  "SBP": [
+    "2-1-1 List/include SDOH Resources",
+    "Discuss any reporting requirements with a trauma-informed perspective",
+    "**Scenario ends when the physician provides resources and/or discusses involving APS to help the family get resources.**"
+  ],
+  "ICS": [
+    "I am sorry this happened to you.",
+    "I believe you and I can help."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

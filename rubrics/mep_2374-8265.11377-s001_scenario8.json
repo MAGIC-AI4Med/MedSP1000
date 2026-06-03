@@ -1,0 +1,14 @@
+{
+  "case_id": "mep_2374-8265.11377-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11377-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Jargon terms are considered to be explained if they meet one or more of the following criteria:\nThe student provides a clear definition or explanation of the term.\nThe student provides a word/phrase synonym in plain language.\nThe student provides sufficient context for the term during the encounter/transcript that the meaning of the term becomes clear."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_9076",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9076/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Conduct brief history and physical exam, with re-evaluation as indicated",
+    "Determine level of stability",
+    "The Intern provides an Amp of D50 and begins D5 in IV fluids to maintain blood glucose."
+  ],
+  "MK": [
+    "Properly order and interpret studies",
+    "Correctly diagnose the underlying problems",
+    "The Intern will order a glucose level as one of the first steps, determine hypoglycemia as the cause of the seizure, and provide medications to increase the serum glucose.",
+    "Intern provides anti-seizure medications, but fails to address the underlying cause of the seizure.",
+    "Intern fails to order a glucose level or act on the hypoglycemia."
+  ],
+  "SBP": [
+    "Intern reviews sign-out and recognizes that the patient is admitted for hip fracture. Intern may also notice that the patient is receiving sliding scale insulin (SSI) and NPH insulin.",
+    "Intern calls senior resident for help. Places order to move patient to Intermediate Care Unit. Places order to increase oxygen flow."
+  ],
+  "ICS": [
+    "Give appropriate orders to the Nurse",
+    "Intern interviews the Nurse and is provided with current vitals and documentation from prior notes in the chart that do not provide any indication for current seizure."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

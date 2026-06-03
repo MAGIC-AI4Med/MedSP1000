@@ -1,0 +1,36 @@
+{
+  "case_id": "mep_2374-8265.11544-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11544-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform a thorough physical and neurological exam, documenting findings suggestive of functional neurologic disorder or related diagnoses.",
+    "Resident accesses patient vital sign trends",
+    "Resident evaluates labs",
+    "Resident evaluates, intake and output trends in the chart (for in-person assessment only)",
+    "Resident evaluates pediatric eCART score____",
+    "Airway assessment (may be included in breathing assessment if air movement/breathing described as adequate) ____",
+    "Breathing (e.g., Apnea, description of respiratory effort or air movement) ____",
+    "Circulation ( e.g., pulses, blood pressure) ____"
+  ],
+  "MK": [
+    "Identify unresponsiveness with rhythmic shaking as possible non-epileptic events."
+  ],
+  "SBP": [
+    "Avoid unnecessary escalation of care while ensuring the patient’s safety."
+  ],
+  "ICS": [
+    "Communicate findings clearly during an ABC-SBAR handoff.",
+    "Situation (reason for call) ____",
+    "Background (e.g., reason for admission) ____",
+    "Assessment and/or recommendation ____",
+    "Airway assessment included before background, assessment or recommendation ____",
+    "Breathing assessment included before background, assessment or recommendation ____",
+    "Circulation assessment included before background, assessment or recommendation ____",
+    "Situation assessment included before background, assessment or recommendation ____",
+    "Information on airway, breathing and circulation within the first 10 seconds of the presentation ____",
+    "Presentation completed within 30 seconds ____"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

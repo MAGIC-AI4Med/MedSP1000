@@ -1,0 +1,29 @@
+{
+  "case_id": "mep_2374-8265.11361-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11361-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Informs family member of the next step (e.g., seeing the patient, waiting in family room, etc.)",
+    "Offers support services (e.g., social worker, chaplain, calling additional family, etc.)"
+  ],
+  "ICS": [
+    "Introduces self and role",
+    "Confirms family member’s relationship to the patient",
+    "Inquires what the family member already knows",
+    "Gives a warning – (e.g., “I have some bad news for you….”)",
+    "Gives important news without unnecessary delay",
+    "Deliver the news that the patient’s son died in the cath lab",
+    "Uses appropriate compassionate communication and body language",
+    "Avoids medical jargon",
+    "Avoids euphemisms",
+    "Appropriate affect",
+    "Acknowledges family member’s feelings",
+    "Answers family member’s questions",
+    "Inquires if the family member has any questions"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

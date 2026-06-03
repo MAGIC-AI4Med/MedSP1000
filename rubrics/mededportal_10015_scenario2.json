@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10015",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10015/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Interrupts patients/family, does not use silence, gives too much information, is falsely reassuring, becomes defensive",
+    "Listened carefully and used silence, avoided false reassurance, didn’t give too much information without permission, uses some NURSE (naming, understanding, emotions)",
+    "Listens, Responds to emotion (names, understands, responds, supports and explores emotion) uses silence, warning shots and body language effectively; Avoided false reassurance, paces conversation well, asked permission before providing information",
+    "Start by asking what the patient knows because you haven’t talked to her before. Take time to LISTEN. Name the anger that the patient is demonstrating, being empathic while doing so (e.g “I know, this must be very shocking for you”). Understand what the patient/family is going through. Respect how often the family has been with the patient (They were only gone a small time when this all happened)",
+    "Student will be defensive, asks loaded questions, defensive, or deflective, e.g., “I am just an intern.”",
+    "Student will be there for Camilla, listening to her concerns, redirecting her away from her feelings of guilt. Asks about family support. (Ask what the patient knows, takes time to listen.) Names Camilla’s emotions. Explores why she feels guilty. Demonstrates respect towards her and how much time she has spent at the bedside.",
+    "Student unaware of the concerns driving Camilla’s reactions. Student overdramatizes or downplays respiratory arrest, unaware of her immediate needs."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

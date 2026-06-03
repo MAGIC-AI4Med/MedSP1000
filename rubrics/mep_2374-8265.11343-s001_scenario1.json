@@ -1,0 +1,18 @@
+{
+  "case_id": "mep_2374-8265.11343-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11343-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Affirm that this case does not require DCYF involvement"
+  ],
+  "ICS": [
+    "Address racial bias"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Identify racial bias in a consultant’s assessment"
+  ]
+}

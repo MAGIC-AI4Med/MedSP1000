@@ -1,0 +1,33 @@
+{
+  "case_id": "mep-13-10643-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10643-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Secure airway",
+    "Obtain IV/IO access",
+    "Manage dysrhythmias",
+    "Manage hypothermia",
+    "Manage potential trauma",
+    "Assessment of ABCDE’s □ Done Well □ Needs Work",
+    "Initial management of submersion injury □ Done Well □ Needs Work"
+  ],
+  "MK": [
+    "Recognize potential ingestions (alcohol (ETOH)/drugs)",
+    "Avoiding premature diagnostic closure □ Done Well □ Needs Work",
+    "Recognizing submersion injury □ Done Well □ Needs Work"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Division of labor to accomplish multiple tasks simultaneously",
+    "Discussion amongst participants about likely diagnosis and appropriate management",
+    "Clear communication with team members",
+    "Open communication with the parent even if there is uncertainty",
+    "Leader/Roles Identified & Maintained □ Done Well □ Needs Work",
+    "Directed Call out □ Done Well □ Needs Work",
+    "Check back/Closed loop communication □ Done Well □ Needs Work",
+    "Shared Mental Model □ Done Well □ Needs Work"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.10922-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10922-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "You need to explain a full rule out sepsis (blood, urine and lumbar puncture) to the father.",
+    "How well did the patient’s father understand the plan of care for his child?",
+    "What strategies did the doctor use to communicate clearly to the patient’s father?",
+    "How effectively did the doctor assess the patient’s father’s understanding of the plan of care?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

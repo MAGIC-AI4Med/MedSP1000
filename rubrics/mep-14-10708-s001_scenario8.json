@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario8",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario8",
+  "rubric_version": "v1",
+  "PC": [
+    "Replete $\\mathsf { K } { - } 2 0 { - } 6 0 \\mathsf { m E q } - \\mathsf { P O }$ powder or IV (recognize IV might be uncomfortable and takes longer)",
+    "Replete $\\mathsf { M g } - \\mathsf { P O } - \\mathsf { m g }$ oxide 400mg; IV would be faster $( \\sim 2 \\cdot 4 \\theta )$"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Clear, closed-loop communication must be used when relaying orders to nursing staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

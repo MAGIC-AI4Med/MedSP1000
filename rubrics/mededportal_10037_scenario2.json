@@ -1,0 +1,20 @@
+{
+  "case_id": "mededportal_10037",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10037/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Do you want to discontinue one or two of his antihypertensive drugs? (Teacher note: this question is different from patient 1. Patient 2 is frail with multiple co-existing conditions and has complex needs. He has polypharmacy. Both patient and his wife are interested in reducing the antihypertensive medications. Does this patient need antihypertensive medication based on JNC VIII Hypertension Treatment Guideline? Here is an example of why the evidence-based hypertension guidelines might NOT be applicable to this patient who is frail and multiple co-existing conditions. In addition, the patient and his wife are interested in reducing his medications. The instructor should emphasize that many evidence-based clinical practice guidelines might not be applicable to frail older patients with multiple co-existing conditions. The suggested answer is a. Any answer can be correct if the student provides a good reason)\n\nYes\\_\\_\\_X\\_\n\nMight stop\\_\\_\\_\\_\n\nNo\\_\\_\\_\n\nMight not stop\\_\\_\\_\\_"
+  ],
+  "MK": [
+    "What is the PICO question for this patient? (Teacher’s note: the PICO format is described above. This patient is more complex and typically seen in geriatric practice. The instructor  needs to emphasize the big picture of patient as a whole person and patient-centered outcomes)\n\nP=an 82 year old man who is frail, has multiple co-existing conditions and symptoms, takes multiple medications, and has hospital readmission\n\nI=discontinue 1 or 2 antihypertensive drugs\n\nC=continue taking all current medications\n\nO=feels better i.e., no symptoms, has quality of life and independent function",
+    "How long will this patient live based on the article published in JAMA (Walter)?\n\nLess than 6 months\n\nLess than 1 year\n\nLess than 2-3 years\n\nLess than 4-5 yeas\n\n6-8 years\\_\\_\\_\\_\n\n9-10 years\\_\\_\\_\\_\n\n10-12 years\\_\\_\\_\\_",
+    "Write down reasons <u>**to Continue**</u> his antihypertensive drug for this patient and reasons <u>**to Discontinue**</u> his antihypertensive drug for this patient (Teacher’s note: decision making is based on integration of evidence and many competing factors. This exercise focuses on deep thinking and decision making process. The decision-making factors listed in the first case are used here)"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Write down the goals of care for this patient based on your encounter described above.\n\nFeels better  i.e., no symptoms): this is main one\n\nHas a good quality of life  which could be\n\nMaintains independent physical function which could be"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

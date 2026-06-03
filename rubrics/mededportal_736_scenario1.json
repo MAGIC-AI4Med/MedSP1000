@@ -1,0 +1,30 @@
+{
+  "case_id": "mededportal_736",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_736/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Take patient’s history",
+    "Perform physical examination",
+    "Place Monitors:\nNon-invasive BP monitor\nPulse Oximeter\nECG",
+    "Order a Chest X-ray, 12 lead EKG, electrolytes, and perhaps an arterial blood gas and blood count",
+    "Deliver supplementary oxygen",
+    "Start peripheral IV",
+    "Control blood pressure with appropriate agent",
+    "Start diuretic therapy"
+  ],
+  "MK": [],
+  "SBP": [
+    "Consenting the patient to anesthesia is a “fail” in the scenario.",
+    "Cancel the case",
+    "Call surgeon to discuss findings and canceling the case",
+    "Call front desk",
+    "Call OR staff",
+    "Call Primary Care Physician to arrange for proper follow up care"
+  ],
+  "ICS": [
+    "Discuss findings and canceling of case with the patient"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,17 @@
+{
+  "case_id": "mededportal_8285",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8285/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Initial management\nMonitor\nIV access\nOxygen",
+    "Chest pain management\n12-lead ECG\nASA",
+    "Right STEMI recognition and management\nIVF started or attention to need for volume\nHeparin\nDisposition for PCI\nAvoid beta-blocker, nitro, and opiates",
+    "History and physical examination"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

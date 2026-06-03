@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_9087",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9087/scenario5",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Document in note any discussion or decision about preventive services discussed",
+    "Document specifically the specific preventive care topics discussed",
+    "Document his/her recommendations for the preventive-care topics discussed",
+    "Document the decision reached for each preventive-care topic",
+    "Document orders or specific plan for each of the preventive-care topics discussed",
+    "Document the preventive-care topics that require further discussion"
+  ],
+  "ICS": [
+    "Explain the purpose of screening tests Explain what cancer screenings s/he feels are indicated",
+    "Explain any screening tests that are on the daughter’s note, which the resident feels are not indicated",
+    "Mention educational materials of any kind regarding health maintenance for older adults"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

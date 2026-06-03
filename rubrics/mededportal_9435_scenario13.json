@@ -1,0 +1,28 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario13",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario13",
+  "rubric_version": "v1",
+  "PC": [
+    "M1Wash hands",
+    "M85: Inspect andpalpate handsbilaterally (D)",
+    "M86:Assess fingerextension bilaterally(D)",
+    "M87: Assess fingerflexion bilaterally (D)",
+    "M88: Assess range ofmotion of wristsbilaterally",
+    "M89: Inspect andpalpate wrists bilaterally(D)",
+    "M90: Assess range of motion of elbowsbilaterally (D)",
+    "M91: Inspect andpalpate elbowsbilaterally (D)",
+    "MA12: Perform PhalenTest (D)",
+    "M118: Test gripstrength bilaterally",
+    "MA30:Assess hand pain diagram (D)",
+    "MA31: Test hand sensation (D)"
+  ],
+  "MK": [
+    "In anticipation of your physical exam of the fingers and arms, list the positive sign(s) associated with each diagnostic hypothesis.",
+    "Given the results of your physical exam, which diagnosis is most likely? [x] carpal tunnel syndrome (repetitive motion injury)"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,28 @@
+{
+  "case_id": "mep-14-10723-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10723-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "A thorough history and physical is essential in the evaluation of a complex care patient. Understanding the patient’s baseline vitals, exam, and level of function is important to determine how to proceed.",
+    "Special attention should be given to past illnesses to determine if symptoms began in a similar fashion. Closer monitoring may be required.",
+    "According to the guidelines from the Infectious Diseases Society of America and the American Thoracic Society, chest x-rays (C) should only be done in support of the diagnosis of pneumonia, along with the clinical symptoms.3,4",
+    "A blood gas can be considered if the patient is toxic appearing with labored breathing to determine effective ventilation, but is not recommended in this setting."
+  ],
+  "MK": [],
+  "SBP": [
+    "High value care encompasses not only minimizing healthcare waste from ordering multiple, unnecessary tests, but also protecting the patient by considering patient safety, the appropriateness of each study ordered, and improving patient outcomes.",
+    "Also consider creating a comprehensive care plan for each complex care patient and making sure it is reviewed with the family.",
+    "An additional thing to consider is calling the primary care physician if there are significant questions in the care."
+  ],
+  "ICS": [
+    "Discuss your clinical findings",
+    "It is important to keep an open dialogue to hear her concerns.",
+    "Seek your patient’s participation.",
+    "Help your patient explore and compare treatment options",
+    "Assess your patient’s values and preferences",
+    "Reach a decision with your patient"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

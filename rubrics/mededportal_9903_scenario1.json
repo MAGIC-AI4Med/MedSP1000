@@ -1,0 +1,33 @@
+{
+  "case_id": "mededportal_9903",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9903/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Did the physician wash their hands?",
+    "Did the fellow comprehensively interview the patient? (e.g. ask about medication use and alcohol use?)",
+    "Did the fellow comprehensively examine patient?",
+    "Did the fellow conduct an appropriate neurologic exam?",
+    "Did the fellow conduct an appropriate hearing screen?",
+    "Did the fellow conduct an appropriate vision screen?",
+    "Did the fellow perform a Get Up and Go Test? (or Timed Up and Go)",
+    "Did the fellow develop an appropriate management plan to improve mobility?",
+    "Did the fellow develop an appropriate management plan to reduce risk of future falls? (including assist devices and adaptive equipment)",
+    "Did the fellow appropriately modify medication use? (including alcohol)"
+  ],
+  "MK": [],
+  "SBP": [
+    "Fellow appropriately documented the encounter?"
+  ],
+  "ICS": [
+    "Did the SP understand the physician’s questions?",
+    "Did the SP understand the physician’s answers?",
+    "Did the SP feel that she played an active role in decision making?",
+    "Fellow was able to communicate the issues and plan appropriate with patient using shared decision making (when appropriate)?"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Did the SP feel respected by the physician?",
+    "Did the physician treat the patient well?"
+  ]
+}

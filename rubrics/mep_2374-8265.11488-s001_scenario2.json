@@ -1,0 +1,30 @@
+{
+  "case_id": "mep_2374-8265.11488-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11488-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Identify the patient’s chief concern and patient needs",
+    "Explore precipitating factors contributing to the patient’s presentation",
+    "Identify static suicide risk factors",
+    "Identify dynamic suicide risk factors",
+    "Identify protective factors",
+    "Assess for current suicidal ideation and baseline suicidal thoughts (if applicable)",
+    "Complete a safety plan with the patient, including: limiting access to lethal means (which could include locking up medications and sharps), increasing family supervision, and utilizing supports, including crisis resources, when needed."
+  ],
+  "MK": [
+    "Borderline personality disorder - leading diagnosis. Patient with history of chronic passive suicidal ideation, self-harm, impulsive behavior, low self-esteem, and concerns with abandonment",
+    "Substance (alcohol)-induced mood disorder: patient with depressed mood and suicidal thoughts in the setting of consistent alcohol use (though more today). However, few clear depressive symptoms noted/reported. * Unspecified mood disorder - rule out major depressive disorder, adjustment disorder with depressed mood, and bipolar disorder: patient with mood symptoms requiring further diagnostic clarification (ie, number of depressive symptoms/their time course and further characterization of mood lability to rule out hypomanic/manic episodes)"
+  ],
+  "SBP": [
+    "Disposition: home considering higher level of care such as partial hospitalization program (PHP) or intensive outpatient program (IOP)"
+  ],
+  "ICS": [
+    "Greet patient, state name, and state role being clear and concise",
+    "Respect the patient’s personal space and be approachable",
+    "Offer validation and reinforce that the patient is safe",
+    "Appropriate support should be provided to the patient throughout the interview."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

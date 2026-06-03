@@ -1,0 +1,18 @@
+{
+  "case_id": "mep-13-10574-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10574-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [
+    "List any additional pieces of data about Mr. Gates that would help you make a decision about appropriateness of screening him.",
+    "List and quantify 1-2 specific benefits of screening him for lung cancer.",
+    "List 3 specific harms as possible if he decides to proceed with lung cancer screening. For each individual harm, discuss why you believe he is below average risk, average risk, or above average risk."
+  ],
+  "SBP": [],
+  "ICS": [
+    "List 1-2 misconceptions about lung cancer screening that may be useful to discuss with Mr. Gates up front."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

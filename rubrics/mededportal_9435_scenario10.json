@@ -1,0 +1,29 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario10",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario10",
+  "rubric_version": "v1",
+  "PC": [
+    "b) To perform the physical exam maneuvers on a patient instructor exhibiting certain positive findings (Patient instructors are highly trained standardized patients who not only simulate clinical findings but also provide instruction to the students when needed, for example, correcting a poorly or incorrectly executed physical exam maneuver);",
+    "M1Wash hands",
+    "M70: Palpate femoralpulse bilaterally (D)",
+    "M71: Palpate poplitealpulse bilaterally (D)",
+    "M72: Palpate post. tibialpulse bilaterally (D)",
+    "M73: Palpate dosalispedis pulse bilaterally(D)",
+    "MA9: Inspect lower limbD)",
+    "MA18:PerformBuerger&#x27;s Test (D)",
+    "MA11: Have patientwalk and describe sensation; palpatepulses (D)"
+  ],
+  "MK": [
+    "a) To anticipate the positive physical findings for each diagnosis in the differential and identify the discriminating findings between the diagnoses;",
+    "c) To interpret the findings by proposing a most likely diagnosis;"
+  ],
+  "SBP": [
+    "e) To document the findings associated with their physical exam."
+  ],
+  "ICS": [],
+  "PBLI": [
+    "d) To correct any physical exam maneuvers, as prompted by the patient instructor if needed, that were incorrectly executed or omitted initially and revise their working diagnosis if needed; and"
+  ],
+  "PROF": []
+}

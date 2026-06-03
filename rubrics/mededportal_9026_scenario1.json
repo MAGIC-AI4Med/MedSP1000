@@ -1,0 +1,55 @@
+{
+  "case_id": "mededportal_9026",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9026/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Chief Complaint?",
+    "Elaboration of chief complaint?",
+    "Duration?",
+    "Interest?",
+    "Sleep?",
+    "Appetite/Weight Changes?",
+    "Spending?",
+    "Concentration?",
+    "Libido?",
+    "Grandiosity?",
+    "Psychosis?",
+    "Suicidal Ideation?",
+    "Homicidal Ideation?",
+    "History of similar behavior?",
+    "Past psychiatric treatment?",
+    "Past medical history?",
+    "Medications?",
+    "Depression?",
+    "Alcohol?",
+    "Drugs?",
+    "Family Psychiatric History?",
+    "Developmental History?",
+    "Legal/Behavior problems?",
+    "Marriage?"
+  ],
+  "MK": [],
+  "SBP": [
+    "I told the patient that I would be communicating what they had told me to my supervisor, an attending physician, who would subsequently be continuing the discussion with them."
+  ],
+  "ICS": [
+    "Making an empathetic statement?",
+    "I identified myself to the patient by my surname and professional role (medical student).",
+    "I addressed the patient by their surname.",
+    "I spoke in language easily understandable to the patient.",
+    "I used smooth, appropriate transitions and seemed organized.",
+    "I listened carefully to the patient.",
+    "I brought the encounter to a close.",
+    "I confirmed that the patient understood what I intended to do for them.",
+    "I think that this patient trusts, or has confidence, that I will help them.",
+    "I think the patient will do, or adhere to, what I ask them to do.",
+    "I think that this patient would be willing to return to me for care in the future.",
+    "Overall, I think the patient was satisfied with care I provided to them."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "I treated the patient with respect.",
+    "I demonstrated care for the patient and their health."
+  ]
+}

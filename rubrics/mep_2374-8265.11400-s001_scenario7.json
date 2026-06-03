@@ -1,0 +1,19 @@
+{
+  "case_id": "mep_2374-8265.11400-s001",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11400-s001/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Recommend Chris continue the medication, switch to evening dosing if tolerated, and increase Zoloft 25mg to 50mg po daily for MDD."
+  ],
+  "MK": [],
+  "SBP": [
+    "Confirm individual psychotherapy has been established at next appointment.",
+    "Follow-up scheduled in-person in one month"
+  ],
+  "ICS": [
+    "Reviewed R/B/A/SE with parents without new questions/concerns."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

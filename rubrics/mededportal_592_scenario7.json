@@ -1,0 +1,55 @@
+{
+  "case_id": "mededportal_592",
+  "scenario": "scenario7",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_592/scenario7",
+  "rubric_version": "v1",
+  "PC": [
+    "Assess A,B,C",
+    "request vital signs and monitors",
+    "request IV access and oxygen",
+    "request glucometer",
+    "request fluid bolus",
+    "$+ / -$ naloxone",
+    "draw baseline labs, CBC, Lytes, tox screen, BAL, ABG",
+    "Recognize need to stabilizeairway (airway adjunct NPA)",
+    "prepare for RSI and intubation",
+    "Cricoid pressure",
+    "RSI",
+    "Intubation",
+    "ETCO2 detector",
+    "nasogastric tube",
+    "post intubation chest xray",
+    "History and physical based on case"
+  ],
+  "MK": [
+    "Consider co-ingestion",
+    "consider RSI",
+    "Avoids premature diagnostic closure",
+    "Recognizes diagnosis",
+    "Recognizes unresolved issues",
+    "Avoids common cognitive errors²"
+  ],
+  "SBP": [
+    "PICU",
+    "Appropriately dispositions patient",
+    "Obtains all appropriate consults/follow-ups",
+    "Anticipation and planning",
+    "Awareness and utilization of all available resources",
+    "Distribution of workload and mobilization of help",
+    "Routine reevaluation of the situation",
+    "Awareness and utilization of all available information",
+    "Triage and prioritization",
+    "Effective coping with disruptions/distractions",
+    "Safe medication ordering (asks about allergies,Knows indications/contraindicationsfor therapy,communicates dose,route and timing, knows pt weight)",
+    "Any potentially harmful behaviors should be noted"
+  ],
+  "ICS": [
+    "Identify leader assign roles",
+    "Patient reassurance",
+    "Information transfer to supervisor / admitting MD",
+    "Respectful interaction with patient",
+    "Works effectively with ED staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

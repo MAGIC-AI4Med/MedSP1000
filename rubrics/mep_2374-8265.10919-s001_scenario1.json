@@ -1,0 +1,23 @@
+{
+  "case_id": "mep_2374-8265.10919-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10919-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Give three DuoNebs and reassess response",
+    "Give steroids PO or IV",
+    "Recognize lack of sufficient improvement and start continuous albuterol",
+    "Make child NPO",
+    "Obtain IV access, appropriate labs (VBG, BMP)",
+    "Discuss addition of IV magnesium with IV crystalloid bolus"
+  ],
+  "MK": [
+    "Recognize respiratory distress secondary to status asthmaticus"
+  ],
+  "SBP": [
+    "Repeat assessment with stabilization and slow improvement and determine appropriate disposition to moderate care floor"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,19 @@
+{
+  "case_id": "mededportal_10204",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10204/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Perform primary assessment/reassessment (Airway, Breathing, Circulation, Deficit) as appropriate based on initial and evolving patient condition",
+    "Perform a focused present and past medical history and focused physical exam",
+    "Remove FB using Magill forceps",
+    "Manage deterioration with ACLS"
+  ],
+  "MK": [
+    "Recognize the presence of a critical airway threat – foreign body obstruction"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

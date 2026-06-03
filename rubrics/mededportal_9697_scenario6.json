@@ -1,0 +1,41 @@
+{
+  "case_id": "mededportal_9697",
+  "scenario": "scenario6",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9697/scenario6",
+  "rubric_version": "v1",
+  "PC": [
+    "Check Responsiveness",
+    "Check for a pulse",
+    "Evaluate airway, work of breathing",
+    "Place patient on monitor",
+    "Stability assessment: pulse ox, vitals, mental status",
+    "Give Oxygen if hypoxemic",
+    "Place pads on patient, attach leads, turn on defibrillator",
+    "Establish IV access",
+    "Amiodarone150 mg IV over 10 minutes with 1 mg/min infusionOR Procainamide20-50 mg/min until arrhythmia suppressed, hypotensionensues,QRS increases &gt; 50% wider, or 17/mg/kg givenOR Sotalol100 mg IV over 5 minutes. Avoid if long QT.NOTE:may proceed directly to cardioversion",
+    "Prepare for synchronized cardioversion",
+    "Have available:Oxygen, suction, intubation tray, IV line",
+    "Premedicate if possible   Ativan 1 mg",
+    "Engage synchronization mode",
+    "Look for markers on R waves indicating sync mode",
+    "Charge",
+    "Clear",
+    "DC Cardiovert 100 J",
+    "Check monitor and pulse",
+    "Reset synch mode",
+    "DC Cardiovert 200 J"
+  ],
+  "MK": [
+    "Identify rhythm on monitor /assess appropriateness forclinical condition",
+    "Request 12-lead EKG to confirm rhythmNarrow or wide?Regular or irregular?",
+    "Assess if tachycardia is monomorphic or polymorphic?Prompt: Describe the EKG findings"
+  ],
+  "SBP": [],
+  "ICS": [
+    "Get Help/Assign roles"
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Confirm Code Status"
+  ]
+}

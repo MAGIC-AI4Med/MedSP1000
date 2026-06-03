@@ -1,0 +1,54 @@
+{
+  "case_id": "mededportal_9025",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9025/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Onset",
+    "Course",
+    "Location",
+    "Intensity",
+    "Modifying factors",
+    "Associated symptoms",
+    "Significant past medical history",
+    "Significant past surgical history",
+    "Medications",
+    "Allergies",
+    "Family History",
+    "Tobacco/alcohol/illicit substances",
+    "Abuse history",
+    "Living situation assessment",
+    "Depression/suicidal ideation",
+    "Sleep problems",
+    "Effect on daily activities",
+    "Heart",
+    "Lungs",
+    "Abdomen/pelvis",
+    "Extremities/pulses",
+    "Inspect area of concern",
+    "Range of motion",
+    "Palpation",
+    "Provocative maneuvers",
+    "Motor strength",
+    "Reflexes",
+    "Sensory",
+    "Upper Motor Neuron Signs",
+    "Gait",
+    "Signs of somatoform disorder (Waddell’s/Hoover’s)",
+    "examine the shoulder?"
+  ],
+  "MK": [
+    "investigate the possibility of cervical myelopathy and carpal tunnel?"
+  ],
+  "SBP": [
+    "Litigation/Workers compensation",
+    "“red flags” for possible urgent situation"
+  ],
+  "ICS": [
+    "Proper introduction",
+    "Elicited chief complaint effectively",
+    "appropriately explore the psychosocial issues that complicate this case?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

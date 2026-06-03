@@ -1,0 +1,36 @@
+{
+  "case_id": "mep-12-10495-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-12-10495-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "Change to fluoridated toothpaste.",
+    "Help Susie with brushing with a ‘rice grained’ portion of fluoridated toothpaste. Until such time that from a developmental status that Susie can tie her own shoelaces, Susie will need help brushing at least twice a day.",
+    "Limit the use of the sippy cup with apple juice to Susie’s meal times. She can have one 4 oz. glass of juice a day with a meal.",
+    "The best in-between meal drink for Susie is fluoridated municipal tap water.",
+    "Brush Susie’s teeth before bedtime.",
+    "Apply fluoride varnish at this appointment.",
+    "Don’t rinse, eat or drink after brushing before going to bed.",
+    "While messy, Susie should be able to start drinking from a regular cup.",
+    "Sit Susie down in her highchair for meals and snacks and drinks.",
+    "You can apply Fluoride varnish to the ‘white spot’ lesions and all of Susie’s teeth. This can be applied after positioning Susie in the knee to knee position with Susie’s mom, lifting her lip and drying her teeth with cotton gauze."
+  ],
+  "MK": [
+    "Susie’s risk for ECC High (AAPD –High risk: mom has active caries, Susie’s mother’s low socioeconomic status, bed with bottle with natural and added sugar, white spot lesions, Also moderate risk factors –premature birth. No protective factors.)",
+    "The cells that manufacture enamel are sensitive to systemic insults. Disruption in the production of enamel will result in a defect which may be micro or macroscopic. It is difficult to distinguish early decalcification from enamel defects, but this does not affect management. Enamel defects are associated with substantially increased risk of ECC.",
+    "Fluoridated Water, Fluoridated toothpaste, fluoride varnish, fluoride gels, foams and mouthwashes, Fluoride supplements",
+    "Dental fluorosis is a discoloring of the teeth due to chronic, excessive exposure to fluoride during tooth development. Fluorosis does not occur once teeth are fully developed. It is a cosmetic issue that does NOT affect systemic health. In its most common manifestation, it presents as a white mottling of the tooth enamel. It develops from exposure during tooth development to excessive fluoride at an intake of more than 0.06 milligrams per kilogram of body weight per day. Do not prescribe fluoride supplements without testing the fluoride content of the child’s water supply and a thorough history of all sources of water in the child’s diet, educate parents to use age appropriate amounts of toothpaste when brushing (for Susie a smear of toothpaste on her toothbrush). Fluoride varnish applied every two to four times per year is not a major risk factor for fluorosis since it is an episodic exposure, not chronic. Current clinical guidelines do not recommend use of fluoride supplements for children at low risk for dental caries because it increases the risk for fluorosis without adding significant prevention benefits."
+  ],
+  "SBP": [
+    "Refer Susie’s Mom to a dentist also.",
+    "Is water Susie drinks fluoridated? Test well water and take history of ALL sources of water in Susie’s diet and any other fluoride supplements before prescribing fluoride supplements.",
+    "As Susie is at high risk, the establishment of a ‘dental home’ by the first birthday or within 6 months of eruption of the first tooth, whichever occurs first, is recommended. <http://www.aapd.org/media/Policies_Guidelines/P_DentalHome.pdf>",
+    "fluoride supplements should NEVER be prescribed without a careful history regarding sources of water in the child’s diet – ex. Caregiver may have fluoridated water, caregiver/mom may use fluoridated bottled water for formula and drinking for Susie, her family’s well may have high enough levels of fluoride ion naturally (0.3-0.7 ppm). You should also take a careful history to be sure no other providers have already prescribed fluoride supplements already.",
+    "Follow up with Susie within 3 months to reapply fluoride varnish and/or ensure that the dental referrals have been followed up on. White spot lesions can rapidly proceed to cavitated lesions (cavities) requiring restorative intervention (which is hard to do in a 12 – 36 month old!)"
+  ],
+  "ICS": [
+    "Advise her mother that Susie is developing cavities and they are currently preventable."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

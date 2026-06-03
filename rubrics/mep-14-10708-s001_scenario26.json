@@ -1,0 +1,21 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario26",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario26",
+  "rubric_version": "v1",
+  "PC": [
+    "Agree to assess patient urgently",
+    "ECG",
+    "Inquires about antibiotics, if they’ve received doses – start vancomycin",
+    "Inquires about end-organ damage: mental status changes, urine output"
+  ],
+  "MK": [],
+  "SBP": [
+    "Verbal orders for 1 L NS bolus, transition to higher level of care – IMC v. ICU (will depend on their hospitals capabilities)"
+  ],
+  "ICS": [
+    "Clear, closed-loop communication when relaying orders to nursing staff"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

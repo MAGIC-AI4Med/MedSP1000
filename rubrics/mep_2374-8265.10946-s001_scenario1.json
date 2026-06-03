@@ -1,0 +1,35 @@
+{
+  "case_id": "mep_2374-8265.10946-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10946-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Complete primary and secondary assessment",
+    "Collect focused history.",
+    "Identify stridor and administer racemic epinephrine and dexamethasone.",
+    "Repeat assessment after first dose of racemic epinephrine and dexamethasone.",
+    "Obtain IV/IO access",
+    "Start antibiotics for bacterial tracheitis."
+  ],
+  "MK": [
+    "Develop differential diagnosis for stridor.",
+    "Recognize worsening respiratory state after first dose of racemic epinephrine and steroids.",
+    "Recognize need for continued racemic epinephrine.",
+    "Recognize need for third dose of racemic epinephrine.",
+    "Repeat assessment and broaden differential.",
+    "Consider alternative diagnoses such as bacterial tracheitis, peritonsillar abscess, retropharyngeal abscess, epiglottitis, airway foreign body.",
+    "Order neck x-ray and identify radiologic signs of tracheitis."
+  ],
+  "SBP": [
+    "Identify need for potential support from otolaryngology, Anesthesiology, PICU.",
+    "Determine disposition - floor vs. ICU"
+  ],
+  "ICS": [
+    "Leader/Roles Identified & Maintained",
+    "Directed Call out",
+    "Check back/Closed loop communication",
+    "Shared Mental Model"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

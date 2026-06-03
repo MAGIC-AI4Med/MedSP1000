@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.10995-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10995-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Ascertain complete history and physical from Emergency Department (ED) report",
+    "Order appropriate labs for a patient presenting to the ED for complications due to a medication abortion and meeting criteria for sepsis with possible shock and end organ damage\nCBC\nCMP\nUrine pregnancy test\nLactate\nVenous blood gas\nCoagulation panel\nType and screen\nBlood Culture",
+    "Perform bimanual and speculum exam to evaluate uterine bleeding",
+    "Perform bedside ultrasound to evaluate for retained products of conception",
+    "Recognize worsening vital signs: tachycardia, hypotension",
+    "Prepare for resuscitation efforts with two large bore IVs and requesting crossmatched units of blood",
+    "Prepare for and perform immediate manual vacuum aspiration\nRecognize the importance of performing the procedure in the trauma bay, which is faster than transferring the unstable patient to the operating room\nHave the following supplies available:\nMVA supplies\nDilation and Evacuation kit\nUterotonics including Misoprostol, Carboprost, Methylergonovine (Methergine)\nAnesthesia/sedation (fentanyl/midazolam)",
+    "Review plan for antibiotics\nBroad spectrum antibiotics: clindamycin and vancomycin\nConsult Infectious Disease"
+  ],
+  "MK": [
+    "Review the differential diagnosis\nSeptic abortion\nEndometritis\nPID/TOA\nHemorrhagic shock"
+  ],
+  "SBP": [
+    "Work with ED colleagues to follow hospital sepsis protocols re: initiation of vasopressor support if BP refractory to IV fluids",
+    "Prepare disposition plan\nCT abdomen to be obtained in the ED prior to transfer pending stability\nConsult ICU"
+  ],
+  "ICS": [
+    "Demonstrate effective communication skills and workflow management with co-residents and emergency medicine colleagues"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,27 @@
+{
+  "case_id": "mep-15-10796-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10796-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Are you on cross hormone therapy?",
+    "Did you receive gender-affirming surgery?",
+    "Do you have any family members with cancer?",
+    "Ask about current sexual practices: this may clue you into whether anal HPV testing is indicated.",
+    "Chart review: HIV Status?",
+    "Colonoscopy +/- Mammography and PSA."
+  ],
+  "MK": [
+    "She does not have a cervix, so pap is not indicated."
+  ],
+  "SBP": [],
+  "ICS": [
+    "Is it okay for me to ask some questions about your medical history so I can provide you with accurate recommendations for cancer screening?",
+    "What are your goals for cancer screening?",
+    "Breast tenderness, nodularity, and pain can be experienced by women for up to 5 years following initiation of hormone therapy. Mammography is unlikely to cause sustained pain on top of this."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "Limit questions to those that are relevant to the current visit or problem."
+  ]
+}

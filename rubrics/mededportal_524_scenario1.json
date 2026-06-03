@@ -1,0 +1,37 @@
+{
+  "case_id": "mededportal_524",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_524/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Primary assessment (ABCDs)",
+    "Acquisition of vital signs",
+    "Removal of clothing",
+    "Basic airway management (OPA, NPA, $100 \\%$ oxygen administration with mask ventilation)",
+    "Basic circulatory management (effective tourniquet application, peripheral venous access)",
+    "Advanced airway management (endotracheal intubation, placement confirmation and securement, ventilator management)",
+    "Advanced circulatory support (cardiac monitor, additional venous access)",
+    "Secondary assessment (incl. log-rolling patient)",
+    "Hemorrhagic shock evaluation and management (implementation of specific testing, i.e. hematocrit, and treatment, crystalloid infusion and type-specific blood)",
+    "Long-bone fracture recognition and management (splint)",
+    "Extremity burn recognition and management (fluid resuscitation, burn dressings)",
+    "Continued patient evaluation and respiratory / circulatory support",
+    "Supportive therapies upon improvement of circulatory function (sedation, analgesia, wound cleaning, antibiotic and tetanus vaccine administration, fluid warmer, space blanket)",
+    "Duration to critical actions- resuscitation to be completed within 15-20 minutes of starting scenario"
+  ],
+  "MK": [
+    "Recognition of respiratory failure (hypoxia)",
+    "Recognition of circulatory failure (impaired perfusion)",
+    "Hemorrhagic shock recognition (incl. identification of hemorrhage sites)"
+  ],
+  "SBP": [
+    "Call for assistance",
+    "Patient information transfer to surgeon for definitive intervention and disposition"
+  ],
+  "ICS": [
+    "Establishment of team structure with role assignment",
+    "Deployment of appropriate communications $^ +$ teamwork behaviors"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

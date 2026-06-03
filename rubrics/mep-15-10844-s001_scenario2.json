@@ -1,0 +1,73 @@
+{
+  "case_id": "mep-15-10844-s001",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10844-s001/scenario2",
+  "rubric_version": "v1",
+  "PC": [
+    "The patient’s vital signs should be checked (temperature, blood pressure, heart rate); blood pressure and heart rate may be elevated since patient has not been taking medications as prescribed",
+    "Students may perform auscultation (heart, lung, bowel)",
+    "Students should assess patient’s current interests, what is important to the patient, establish foundational information.",
+    "Assess transfer ability (sit-stand, bed-chair transfers)",
+    "Accurately implement, score and interpret the MOCA with the client",
+    "Correctly administer and interpret the timed-up-and-go test for balance and fall risk assessment\nConsider an alternative to this test, if appropriate",
+    "Identify at least 2 interventions (including assistive device recommendations) that the patient can implement after this initial session, and coordinate with other members of the management team as appropriate",
+    "Perform a geriatric assessment including evaluating functional abilities, cognitive decline, age related physical changes, and appropriateness of medications in older adults.",
+    "Describe the timed up and go test and implement in a clinical encounter.",
+    "Employ screening tests for depression in a geriatric patient.",
+    "Employ screening tests for cognitive decline and implement in a patient encounter.",
+    "Demonstrate ability to conduct a patient history and diet interview.",
+    "Perform a nutrition focused physical examination.",
+    "Complete a nutrition assessment\nverify and interpret data\nanthropometric data\nbiochemical data\nclinical data (medications, histories, review of systems, history & physical, etc.)\ndietary data\nnutrition focused physical exam findings",
+    "Determine appropriate nutrition care plan including intervention, monitoring, and evaluation.",
+    "Develop and recommend an oral health treatment plan with realistic goals and evidence-based standards for care",
+    "Demonstrate ability to complete a focused physical assessment of an older patient"
+  ],
+  "MK": [
+    "Based upon the info provided, students can calculate creatinine clearance (CrCl). Students should know that lisinopril is renally excreted. Based upon patient’s renal function and CrCl, students should discuss renal-dosing of medications.",
+    "Identify at least 1 additional assessment tool they would complete to gain a more in depth understanding of the client’s cognitive deficits.",
+    "Identify up to 3 additional tests and measures that would contribute to a successful overall patient assessment, particularly regarding fall risk and fracture risk",
+    "Evaluate the impact of certain medications and polypharmacy on patient safety and fall risk in older adults.",
+    "Identify BEERS criteria and appropriate medication use in care of older adults.",
+    "Employ the FRAX tool to assess fracture risk in a patient with osteopenia and calculate fracture risk",
+    "Determine high priority nutrition diagnosis",
+    "Collect and analyze data to determine the general and oral health of the client"
+  ],
+  "SBP": [
+    "Did someone verify patient’s name and date of birth?",
+    "A referral for a low vision evaluation by a specialist might be warranted.",
+    "Consult with medical professionals regarding the client’s overall health",
+    "Identify safety issues related to polypharmacy in an older adult",
+    "Develop an interdisciplinary plan of care to address the holistic needs of an older adult patient"
+  ],
+  "ICS": [
+    "Dismissive of other team members’ roles, knowledge, and/or contributions to healthcare",
+    "Respectfully receives input, ideas, and/or opinions from other disciplines",
+    "Actively seeks to involve other disciplines by encouraging others to get involved or asking questions to learn from them",
+    "Is hesitant to contribute to discussion/activity and may need prompting",
+    "Contributes to discussion/activity with appropriate level of confidence and humility",
+    "Overly confident to the point that student appears arrogant and/or tends to dominate the activity",
+    "Does not engage in the activity to share discipline-specific information unless prompted",
+    "Shares information but uses discipline-specific terminology/jargon such that others may feel excluded",
+    "Shares information AND avoids using jargon and/or takes care to explain meanings to others.",
+    "Is hesitant to contribute to discussion/activity and/or dominates communication to the detriment of others",
+    "Contributes to discussion/activity with appropriate verbal and non-verbal skill. May need occasional prompt. May use occasional jargon.",
+    "Effectively uses verbal and non-verbal skills throughout activity. Does not use jargon and uses patient-friendly language",
+    "Communicate 2 recommendations/interventions based on assessment findings with the client and other team members.",
+    "Demonstrate effective communication with interdisciplinary team members and with the client.",
+    "Successfully communicate findings and additional recommendations to the patient and other members of the management team",
+    "Review medications with patient so he knows the reason for each, how/when to take it, and potential adverse effects.",
+    "Review strategies to reduce fall risk in the home",
+    "Review memory strategies, work simplification, organizational strategies for cognitive functioning in performing daily tasks.",
+    "Review proper care of dentures",
+    "Provide nutritional information to patient"
+  ],
+  "PBLI": [
+    "Unable/unwilling to articulate anything learned from another discipline and/or ways in which this session differed by having interprofessional contributions rather than being solely uniprofessional",
+    "Limited ability to articular contributions of other disciplines. Limited or constricted viewpoint of other disciplines",
+    "Articulates something learned from another discipline and/or ways this session was different by having interprofessional contributions rather than being solely uniprofessional"
+  ],
+  "PROF": [
+    "Respect the contributions that each discipline can make and encourage quiet team members to share their insights.",
+    "If there is physical examination component that you wish to evaluate, ask the patient for permission."
+  ]
+}

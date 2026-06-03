@@ -1,0 +1,35 @@
+{
+  "case_id": "mep_2374-8265.11215-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11215-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Equipment collection: Learner should collect all recommended equipment prior to entering the room, including medication and backup airway equipment. Equipment should be checked.",
+    "Introduction and assessment: Learner should introduce themselves and assess the patient.",
+    "Pre-oxygenation: Learner should switch out the patient’s simple face mask for a non-rebreather face mask to improve delivered FiO2 for preoxygenation.",
+    "Positioning: Learner should optimize patient positioning on the ICU gurney (such as removing the headboard, changing the gurney height, and positioning the patient in sniffing position).",
+    "Preparation for possible difficult airway: Learner should have backup airway equipment readily available, such as a bougie or a video laryngoscope.",
+    "Intubation strategy: Learner should choose rapid sequence intubation, and induce with an IV induction agent (ketamine, etomidate, or propofol) and paralytic (succinylcholine or rocuronium).",
+    "Proper sequence of airway attachments: Learner should inflate the endotracheal tube cuff and attach the endotracheal tube to ventilator prior to applying positive pressure ventilation to prevent aerosolization of airborne pathogens.",
+    "Verification of endotracheal tube positioning: Learner should confirm endotracheal tube position (such as with end tidal CO2, chest rise, tube fogging, or ultrasound for lung sliding).",
+    "Sedation strategy: Learner should choose a continued sedation strategy (such as with dexmedetomidine or propofol). Nurse will prompt resident to vocalize plan.",
+    "Management of post-induction hypotension: Learner should start a vasopressor (phenylephrine, norepinephrine) for post-induction hypotension.",
+    "Management of ventilator: Learner should interpret and change ventilator settings for lung-protective ventilation in the setting of poor lung compliance and hypoxia (such as setting low tidal volumes and increasing PEEP). Learner should interpret and change ventilator settings with given arterial blood gas values."
+  ],
+  "MK": [],
+  "SBP": [
+    "Donning with PPE: Learner should choose appropriate PPE and demonstrate each step of the donning procedure by following posted cognitive aids. ICU attending will observe and provide real-time feedback as the safety monitor.",
+    "Doffing part 1: Learner should leave the room once the patient is stable, by doffing appropriately. Nurse will call out need to complete specific steps for doffing if learner does not do so themselves.",
+    "Doffing part 2: Learner continues to demonstrate appropriate doffing procedure outside of the ICU room.",
+    "Handoff report: Learner should provide a verbal sign-out to the ICU attending."
+  ],
+  "ICS": [
+    "Communication of assessment and plan: Learner should review patient history and be able to recognize acute hypoxemic respiratory failure. Learner should coordinate and vocalize intubation plan with the ICU attending. Roles and tasks should be delegated.",
+    "Communication with patient: Learner should assuage patient anxiety with empathy and communicate care plan.",
+    "Communication with nurse and other learner: Orders should be clearly delegated. Call-outs and check-backs should be used to close the communication loop.",
+    "Communication of plan with nurse: Learner should communicate with the nurse regarding goals and plan of care.",
+    "Family update: Learner should communicate with the patient’s family member over the phone, providing updates and answering questions with empathy."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

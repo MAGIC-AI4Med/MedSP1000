@@ -1,0 +1,31 @@
+{
+  "case_id": "mep_2374-8265.10925-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10925-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Make patients more likely to disclose by using specific examples of violence and unwanted sex. Patients are less likely to disclose when you use phrases like “rape” “abuse” or “domestic violence” Have you ever been in a relationship where your partner has hit, pushed, or slapped you?  Have you ever been in a relationship where your partner threatened you with violence?  Have you ever been in a relationship where your partner has thrown, broken, or punched things?1",
+    "Has anyone ever made you have intercourse, oral or anal sex against your will?  Has anyone ever touched private parts of your body, or made you touch theirs, under force or threat?  Has anyone ever taken advantage of you sexually when you were too drunk or out of it to stop it?  Have there any other situations in which another person tried to force you to have unwanted sexual contact?2",
+    "“How are you coping with these experiences? Are you ever bothered by bad memories? Do you ever feel anxious or afraid when you think about them?”",
+    "“Are there situations that make you feel anxious or uncomfortable, such as medical exams?”",
+    "Avoid asking questions about the details of the event as these are not necessary to assess an accurate history. The provider’s task is not to determine veracity. Eliciting specific trauma details can trigger or exacerbate trauma symptoms."
+  ],
+  "MK": [],
+  "SBP": [
+    "Provide patient with specific options for addressing trauma through medical care, mental health care, and social resources Our clinic offers programs to help women with these experiences  [INSERT CONTACT INFO] Our medical team includes psychologists who work with women who have experienced violence. They can help you cope with emotions and memories related to this experience.  [INSERT CONTACT INFO] Your health care should be the least scary and most comfortable experience possible. A lot of women find aspects of their OB/GYN care uncomfortable, painful, or frightening. What parts of the visit could I make more comfortable for you?"
+  ],
+  "ICS": [
+    "Make the patient more likely to disclose by helping them feel comfortable. Ask others to leave because the patient may not want them to know about violence or they may be the person committing the violence. It is important that we conduct this part of the visit with just you in order to ensure our privacy. Would you mind if your [friend, partner, family member] stepped out for a moment? Many women have experienced violence. I am going to ask you some questions about violence, since these experiences can affect your health. Answering questions about violence may be uncomfortable but knowing what you’ve been through helps me take better care of you.",
+    "Validate the seriousness of abuse and the difficulty of disclosure by providing the patient with empathy. That must have been difficult to talk about. Thank you for trusting me with this information. IT IS NOT YOUR FAULT that someone hurt you. No one deserves to be treated that way. You deserve to be treated with respect in all relationships. You especially deserve to feel safe and comfortable. I am concerned and would like to help.",
+    "It is appropriate to include a “set-up” (Handout #3, Items 1-4) but take care not to “apologize” for asking the question as this can reinforce stigma.",
+    "Avoid leading or half-questions that are not really questions, e.g., “Any/No trauma or abuse in your life?”",
+    "Avoid vague terminology that could be interpreted to mean multiple things, e.g., “Have you been raped/molested?”",
+    "When in doubt, stick to the script, especially if you find yourself struggling to “find the right words.”",
+    "Be VERY selective in using “alternatives” to phrases and terms described in the script as these can often contain vague language that is open to interpretation (e.g., rape, molestation, trauma)."
+  ],
+  "PBLI": [],
+  "PROF": [
+    "“These questions are very personal, so I need to make it clear that this information is confidential, meaning that it will only be shared with people who are directly involved with your medical care. Do you have any questions about this?”",
+    "Avoid victim-blaming language. Be aware that certain questions (e.g., Were you intoxicated? Why didn’t you report it?) suggest blaming."
+  ]
+}

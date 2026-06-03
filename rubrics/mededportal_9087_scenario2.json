@@ -1,0 +1,23 @@
+{
+  "case_id": "mededportal_9087",
+  "scenario": "scenario2",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9087/scenario2",
+  "rubric_version": "v1",
+  "PC": [],
+  "MK": [],
+  "SBP": [
+    "Did the resident seek information to determine if the patient had assigned a health-care proxy and/or previously discussed preferences regarding end-of-life issues with family members?",
+    "Did the resident summarize the agreed-upon short-term and long-term goals, identifying additional resources (clergy, ethicist, etc…) and asking if there are further questions or comments?"
+  ],
+  "ICS": [
+    "Did the resident introduce himself or herself, and introduce and delineate the roles of each of the persons present at the meeting?",
+    "Did the resident begin the conversation with open-ended questions to assess the family’s level of understanding the situation?",
+    "Did resident positively focus the conversation (i.e., everyone is here to try to do what is best for the patient)?",
+    "Did the resident communicate the patient’s condition using language the family members could understand?",
+    "Did the resident communicate the severity of illness including: i. Clearly conveying the number of organ systems involved? ii. Qualitatively describing the overall likelihood of survival without using percentages?",
+    "Did s/he use clear, straightforward language such as “he is likely to die?”",
+    "Did resident explore short-term and long-term goals with the family, explicitly describing what they believe the most likely short-term and long-term outcomes would be and whether these are achievable?"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

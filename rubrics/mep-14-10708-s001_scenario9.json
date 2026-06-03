@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-14-10708-s001",
+  "scenario": "scenario9",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10708-s001/scenario9",
+  "rubric_version": "v1",
+  "PC": [
+    "When asked regarding his pain regimen, assess for any contraindications to increasing opioid therapy (mental status, GI side effects)",
+    "If there is concern for increase in pain acutely; intern must notify nurse they will assess patient – should not increase pain regimen without doing so"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "Be clear about your role in the medical team – you are cross cover and are not intimately aware of the details; don’t speculate"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

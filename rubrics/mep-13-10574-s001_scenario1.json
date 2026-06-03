@@ -1,0 +1,17 @@
+{
+  "case_id": "mep-13-10574-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10574-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "List 3-5 additional pieces of information about Mr. Anderson that you would need to help make a patient-centered decision about prostate cancer screening."
+  ],
+  "MK": [
+    "List and quantify 1-2 benefits of screening him for prostate cancer.",
+    "List as many specific harms as possible if he decides to continue PSA screening. Based on what you know about this patient, rank the top 3 harms relevant to him."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "mededportal_8436",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_8436/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Diagnostics Indicated:\nTSH, free T4, CBC, BMP, EKG, cardiac monitor",
+    "Therapy Indicated:\nBeta blockers, Propylthiouracil (PTU) or Methimazole, Potassium iodide (after PTU or Methimazole), Glucocorticoids",
+    "Expected Learner Interventions\nRecognize thyroid storm, give beta blockers, PTU or methimazole prior to iodide, start glucocorticoids, ICU or Medicine/Endocrine consultation for admission Fluid resuscitate for tachycardia with volume expander (Normal Saline or Lactated Ringer's Solution)."
+  ],
+  "MK": [],
+  "SBP": [
+    "Consultants\n. Medicine (Endocrinology) . ICU"
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

@@ -1,0 +1,26 @@
+{
+  "case_id": "mededportal_10120",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10120/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Verbalized components of general inspection of neck and limited exam of shoulder",
+    "Neck ROM was assessed",
+    "Palpation of paraspinal muscles and trapezius",
+    "Shoulder PROM and AROM assessed",
+    "Assessment of strength in upper extremities",
+    "Assessment of reflexes in upper extremities",
+    "Any 2 of 3 tests for radiculopathy (Spurling‘s, abduction relief, or cervical distraction)",
+    "Any 2 of 3 tests for signs of myelopathy (Lhermitte’s, Hoffman’s, Babinski)",
+    "Assessment of strength and reflexes in lower extremities",
+    "Rate appropriateness of diagnostic/therapeutic plan"
+  ],
+  "MK": [
+    "Learner arrived at correct diagnosis *before* feedback was given (no = 2, yes = 4)",
+    "Rate thoroughness and appropriateness of DDx"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

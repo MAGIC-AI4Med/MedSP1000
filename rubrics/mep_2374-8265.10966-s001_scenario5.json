@@ -1,0 +1,28 @@
+{
+  "case_id": "mep_2374-8265.10966-s001",
+  "scenario": "scenario5",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.10966-s001/scenario5",
+  "rubric_version": "v1",
+  "PC": [
+    "What is her baseline, and what is happening now? (important to keep mental status up to date in the chart in progress notes)",
+    "What are her vitals, including oxygen saturation? If the patient has not had recent vitals, ask the nurse to obtain a new set while you are on your way to see the patient.",
+    "Since she is diabetic, also ask nurse to get an accucheck.",
+    "Treat the hypoglycemia: since she is altered, give D50 by IV. If she were not altered, can treat with juice.",
+    "Make sure to adjust insulin dosing (likely decrease sliding scale and decrease basal) and make sure to notify team in the morning so they can continue to adjust insulin."
+  ],
+  "MK": [
+    "Hypoxia- O2 sat ok in this patient, quick easy test for all AMS patients",
+    "Hypoglycemia – given acuity of AMS, concerning, check accucheck (quick test for all AMS patients, higher level of suspicion if on insulin or sulfonylurea, received insulin for hyperkalemia, septic, or have liver failure)",
+    "Hypercalcemia- check BMP, especially concerning if history of cancer, hyperparathyroidism,",
+    "Hypo/hypernatremia – check BMP",
+    "Hypercapnic respiratory failure – check ABG, higher suspicion in patients with COPD, obesity hypoventilation syndrome",
+    "Narcotic overdose – check medication list and when they were given",
+    "Infection – can be new infection",
+    "Intracranial pathology – stroke or bleed less likely to cause AMS unless significant bleed or edema",
+    "Investigate why patient was hypoglycemic: Check insulin dosing, see if she is eating less than normal, and check creatinine to see if she may not be clearing insulin well."
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

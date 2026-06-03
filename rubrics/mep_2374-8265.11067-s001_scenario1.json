@@ -1,0 +1,17 @@
+{
+  "case_id": "mep_2374-8265.11067-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11067-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Students should ask parents to take off the child’s shirt and to look for pulling of muscles underneath the child’s rib cage, in between the child’s ribs, or around the child’s neck. They should also ask the parent about flaring of the child’s nostrils or bobbing of the child’s head with breathing.",
+    "To assess dehydration, students should ask for details about the volume of liquid consumed and the frequency/amount of urine output."
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "At the end of this case, the facilitator should ensure that the student has instructed the parent on return-to-care instructions and that the student has ensured parental understanding of these recommendations."
+  ],
+  "PBLI": [],
+  "PROF": []
+}

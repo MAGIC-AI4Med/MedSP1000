@@ -1,0 +1,22 @@
+{
+  "case_id": "mep-14-10744-s001",
+  "scenario": "scenario3",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-14-10744-s001/scenario3",
+  "rubric_version": "v1",
+  "PC": [
+    "Requests additional history (e.g., prior Emergency Department course and exam).",
+    "Performs or delegates ventilator troubleshooting and endotracheal tube inspection.",
+    "When apneic, the patient is extubated (potentially over a Bougie).",
+    "When unable to mask ventilate, reintubation via various maneuvers.",
+    "If unable to intubate, surgical airway is pursued."
+  ],
+  "MK": [
+    "Identifies significant air leak in the ventilator system and dislodged tube."
+  ],
+  "SBP": [
+    "Requests anesthesiologist assistance and bronchoscope (which will be delayed)."
+  ],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": []
+}

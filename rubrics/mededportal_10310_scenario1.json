@@ -1,0 +1,48 @@
+{
+  "case_id": "mededportal_10310",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_10310/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Patient appears mildly dehydrated. Patient has received one $2 0 \\mathsf { m l / k g } \\mathsf { N S }$ bolus. Will repeat NS bolus and continue IV rehydration as necessary. Start ondansetron PRN emesis. Consider abdominal ultrasound to evaluation for intussusception. Consider stool culture and ova and parasite studies if ultrasound is normal and child begins stooling. Repeat abdominal exams.",
+    "Reassess vital signs and hydration status - continue fluid resuscitation as needed",
+    "Allow to PO if awake/alert and interested in eating",
+    "Inquire about current vital signs- If not taken recently, ask for repeat vitals. (Afebrile, HR 160s, normal BP, RR and $\\mathsf { O } _ { 2 }$ saturation)",
+    "Ask about interventions such as recent IV placement, use (None)",
+    "Next step: Go see the patient. Acetaminophen may be deferred until student sees patient",
+    "Ask about the color and quantity of blood (dark red, more blood than stool)",
+    "Ask for guaiac and/or to hold diaper so student may see it",
+    "May agree to send stool for culture and ova and parasite",
+    "May ask for repeat CBC, coagulation panel",
+    "Ask for contrast enema",
+    "She should be kept NPO."
+  ],
+  "MK": [
+    "IMPRESSION: 11-month old girl with vomiting, abdominal pain, fever and dehydration. Differential diagnosis includes: early acute gastroenteritis, pneumonia, acute appendicitis, intussusception, pyelonephritis, malrotation with volvulus....",
+    "Patient with possible right upper lung pneumonia on outside x-ray but has no cough or respiratory findings to support this diagnosis. Will have our radiologist review films and will monitor patient’s respiratory status.",
+    "Mild tachycardia possibly due to fever, dehydration or pain. Blood pressures normal/elevated now but will monitor for signs of hemodynamic compromise.",
+    "Patient is sleepy at times. Consider causes of altered mental status - ingestion, electrolyte abnormality, hypoglycemia, hypoxia, hypercarbia, intussusception, etc... Monitor neuro status closely.",
+    "Determine whether to continue antibiotics based on clinical status, culture results and chest x-ray diagnostic impression",
+    "Next step: Discuss possibility of intussusception and plan to order ultrasound with likely consultation with senior resident/attending"
+  ],
+  "SBP": [
+    "Patient requires inpatient care until she is able to tolerate PO and abdominal pain improves",
+    "Call referring hospital for results of urine culture",
+    "Review chest x-ray from referring hospital personally and with radiologist; load images into your hospital’s electronic imaging system",
+    "Update PMD about patient status and current admission",
+    "Next step: discuss with surgery and senior team members",
+    "Surgery needs to evaluate patient",
+    "Transfer patient to surgical service - transfer order needs to be entered and transfer summary completed.",
+    "This patient is a \u201cwatcher\u201d",
+    "Follow-up with surgery after they have seen the patient.",
+    "Place the transfer order to transfer her to their service after signout has been completed between the 2 teams.",
+    "Complete the transfer summary.",
+    "If she develops vital sign instability, worsening abdominal pain and/or peritoneal signs you should immediately notify surgery and order antibiotics and an abdominal x-ray series to look for free air suggesting perforation.",
+    "If she develops signs of intestinal perforation, I will page surgery immediately and order an abdominal x-ray."
+  ],
+  "ICS": [
+    "Update mother with Spanish interpreter"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

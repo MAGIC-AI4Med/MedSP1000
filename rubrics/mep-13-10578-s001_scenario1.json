@@ -1,0 +1,48 @@
+{
+  "case_id": "mep-13-10578-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-13-10578-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Baseline Activated Clotting Time (ACT)",
+    "Heparinization \u2013 know to withdraw blood and give heparin centrally",
+    "Redraw ACT at appropriate interval after heparin",
+    "Systolic Blood Pressure (SBP) <100 prior to aortic cannulation (optional)",
+    "Empty urometer for bypass",
+    "Turn Volatile gas off/ventilator off. Ensure perfusion has appropriate volatile on board",
+    "Turn vasoactive infusions off when Mean Arterial Pressure (MAP) stabilizes on bypass",
+    "Other IV anesthetics to administer?",
+    "Optional \u2013 verify cannulation with (Transesophageal Echocardiogram) TEE",
+    "Watch MAP, urine output, ACT",
+    "Optional \u2013 observe bispectral index and cerebral oximetry",
+    "Treat hyperglycemia",
+    "Patient\u2019s heart rhythm? Pacing required? Do you have a pacing box? Did you check the batteries?",
+    "What is patient\u2019s temperature? Observe the difference between peripheral and core temperature",
+    "Check arterial blood gases, electrolytes, acid base status, hemoglobin as needed",
+    "Patient\u2019s heart rhythm? Pacing required?",
+    "Are you ventilating?",
+    "Is there air in the heart on echo? Do we need a Valsalva/Trendelenburg to de-air the heart",
+    "Do you have anesthetic on?",
+    "Inotropy? SVR? How does the heart function look on TEE? Restart vasoactive infusions as necessary",
+    "Separated from cardiopulmonary bypass and hemodynamics are stable, protamine?",
+    "ACT normalized, send coagulation factors"
+  ],
+  "MK": [
+    "Confirm ACT appropriate for CPB",
+    "Do I need further coagulation testing or thromboelastogram prior to separation from bypass"
+  ],
+  "SBP": [
+    "Watch circuit for clot",
+    "Machine Alarms to bypass mode",
+    "Verify appropriate blood product availability",
+    "Reassess availability/necessity for blood product",
+    "Is the monitor switched off Cardiac Bypass Mode?",
+    "Zero your invasive pressure monitors"
+  ],
+  "ICS": [
+    "Loudly announce to surgeon initiation of protamine",
+    "Loudly announce 50% of protamine is in. Ask surgeon permission to proceed"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

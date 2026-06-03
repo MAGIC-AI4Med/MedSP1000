@@ -1,0 +1,39 @@
+{
+  "case_id": "mededportal_9435",
+  "scenario": "scenario14",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mededportal_9435/scenario14",
+  "rubric_version": "v1",
+  "PC": [
+    "Student washed his/her hands before performing the physical examination without having to be prompted.",
+    "Have patient point out swollen/painful area",
+    "Shoulder Flexion: Stand behind patient and have patient’s gown completely untied and open in the back. Observe shoulder flexion by asking patient to bring the arms forward and then raise them overhead.",
+    "Shoulder Internal Rotation: Stand behind patient and have patient’s gown completely untied and open in the back. Instruct the patient to place both hands behind the back as high up on the back as possible while you observe from behind.",
+    "Shoulder External Rotation: Stand behind patient and have patient’s gown completely untied and open in the back. Instruct patient to clasp both hands behind the neck and to pull the elbows back while you observe from behind.",
+    "Assess Neck Flexion: Have patient stand and instruct him/her to place his/her chin on chest.",
+    "Assess Neck Extension: Have patient stand and ask him/her to look up at the ceiling.",
+    "Assess Right and Left Rotation of the Neck: Have patient place his/her chin on each shoulder.",
+    "Assess Lateral Bending of the Neck: Ask the patient to incline each ear toward each shoulder.",
+    "Shoulder palpation  Step 1: Palpate for tenderness or deformities along the clavicle, moving outward to the acromioclavicular joint.  Step 2: Feel around the top and sides of the shoulder joint for tenderness. If tenderness is present, palpate for heat, using the backs of two fingers.  Examine the subacromial bursa, which lies deep to the deltoid muscle. It is about 3 cm across and separates teh deltoid muscle from the joint capsule. Press inward, feeling for tenderness.  Palpate the insertion of the biceps tendon (long head), a tendinous cord that runs just medial to the greater tubercle of the humerus. Located it on the medial side of the upper arm, just below the shoulder joint, and slide your fingers over it, feeling it pop across. Palpation here is aided by externally rotating the arm.",
+    "**Active shoulder abduction**  With patient's arms outstretched in front, palms down, observe: abduction as patient swings his/her arms laterally and moves them over head, palms touching.",
+    "**Passive shoulder abduction**  Passively abduct patient's arm as explained in handout."
+  ],
+  "MK": [
+    "Before you examine the shoulder, list the positive sign(s) associated with adhesive capsulitis.",
+    "Before you examine the shoulder, list the positive sign(s) associated with rotator cuff tendonitis.",
+    "After the unprompted section of the physical exam what was the student's diagnosis?\n( ) Rotator cuff tendinitis\n( ) Adhesive capsulitis\n( ) Neither because the findings are ambiguous or contradictory\n( ) Neither, for any other reasons; otherwise, would be guessing",
+    "After the PROMPTED section of the physical exam what was the student's diagnosis?\n( ) Rotator cuff tendinitis\n( ) Adhesive capsulitis\n( ) Neither because the findings are ambiguous or contradictory\n( ) Neither, for any other reasons; otherwise, would be guessing\n( ) N/A because everything done correctly unprompted",
+    "Given the results of your physical exam, which diagnosis is most likely?\n[ ] rotator cuff tendonitis\n[x] adhesive capsulitis (frozen shoulder)\n[ ] neither because the findings are ambiguous or contradictory\n[ ] neither, for any other reasons or otherwise you would be guessing",
+    "Diffuse pain: Patient unable to identify specific point that is painful.",
+    "Painful shoulder flexion",
+    "Painful shoulder internal rotation",
+    "Painful shoulder external rotation",
+    "Painful active shoulder abduction",
+    "Painful passive shoulder abduction"
+  ],
+  "SBP": [],
+  "ICS": [],
+  "PBLI": [],
+  "PROF": [
+    "Student described non-existent finding(s)-DESCRIBE IN NOTE"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "case_id": "mep_2374-8265.11430-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep_2374-8265.11430-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Asks for vital signs",
+    "Asks for events leading up to RRT",
+    "Asks for current medication list",
+    "Asks for past medical history",
+    "Asks for recent labs",
+    "Obtains PIV",
+    "Broad spectrum antibiotics (to include Cefepime +Metronidazole, Piperacillin/tazobactam, or Carbapenem +/- Vancomycin)",
+    "IV fluid bolus or vasopressor (30cc/kg or at least 1L)",
+    "Perform focused physical exam.",
+    "Assess patient's vascular access.",
+    "Lowers head of bed.",
+    "Obtained relevant diagnostic data including cultures, lactate, CXR.",
+    "Apply oxygen delivery device."
+  ],
+  "MK": [
+    "Identifies shock",
+    "Identifies sepsis",
+    "Discussed a differential diagnosis for shock including sepsis.",
+    "If simulation goes to state 3: recognize need for intubation."
+  ],
+  "SBP": [
+    "Get help early – resident, attending, STAT nurse, MICU, RT etc",
+    "Call anesthesia for intubation",
+    "Called the MICU for assessment and transfer."
+  ],
+  "ICS": [
+    "Identifies self as leader of RRT",
+    "Stands at foot of bed",
+    "Assigns roles (or identifies roles)",
+    "Closed loop communication- also confirming task completion",
+    "Share your thought process and ask the team for input early- create a shared mental model",
+    "Avoid task saturating nursing staff – asking for multiple tasks all at once; instead say “I will need A, B, and C. Could you start with A?”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

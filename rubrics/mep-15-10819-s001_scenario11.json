@@ -1,0 +1,25 @@
+{
+  "case_id": "mep-15-10819-s001",
+  "scenario": "scenario11",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10819-s001/scenario11",
+  "rubric_version": "v1",
+  "PC": [
+    "Strategize: Begin endocrine therapy and bisphosphonate"
+  ],
+  "MK": [],
+  "SBP": [],
+  "ICS": [
+    "S Set up the interview",
+    "P Assess the patient’s perception – Bridging (“Recall we discussed that the cancer could come back years down the line.”)",
+    "I Obtain the patient’s invitation",
+    "K Giving knowledge to the patient",
+    "E Address emotions (RAP), empathy – learner should validate emotions and shift self-blame and emotions to coping strategies that may be more helpful. Watch for use of RAP.",
+    "Summarize the discussion",
+    "Sustain hope: Indolent, new options on horizon.",
+    "Survey of concerns: Linda: “My husband won’t survive without me.”",
+    "Support coping. First learner should ascertain support systems: husband, son, daughter-in-law, friends; then reinforce that to patient",
+    "Statement of support: “I will be here for you.”"
+  ],
+  "PBLI": [],
+  "PROF": []
+}

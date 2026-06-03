@@ -1,0 +1,46 @@
+{
+  "case_id": "mep-15-10826-s001",
+  "scenario": "scenario1",
+  "scenario_dir": "/mnt/petrelfs/liangcheng/data/simulate_eval/scrapy_meded/test_multi/a-case-datas/mep-15-10826-s001/scenario1",
+  "rubric_version": "v1",
+  "PC": [
+    "Obtain a history."
+  ],
+  "MK": [],
+  "SBP": [
+    "After you have completed your history, review the results of the physical exam which will be in a folder in the room - you will not be performing a physical exam.",
+    "Only review the physical exam folder AFTER you are done with the history."
+  ],
+  "ICS": [
+    "Counsel the patient about your care plan before completing the visit.",
+    "The trainee introduced himself or herself to me.",
+    "The trainee introduced me to the patient.",
+    "The trainee adequately explained the purpose of the interview.",
+    "The trainee explained my role to the patient at the beginning.",
+    "The trainee arranged the seating in a manner conductive to effective interpretation.",
+    "The trainee asked me one question at a time.",
+    "The trainee listened to me as I interpreted the patient’s answers, without unnecessary interruption.",
+    "The trainee asked questions to clarify his/her own understanding of the patient’s answers.",
+    "The trainee asked the patient if he or she had any questions.",
+    "The trainee maintained direct eye contact with the patient instead of me most of the time.",
+    "The trainee addressed the patient in first person, and not as “he/she.”",
+    "The trainee kept me “on track.” (eg: questioned me when lapses led to incomplete translations)",
+    "The trainee showed direct eye contact with me during the encounter instead of at the interpreter most of the time.",
+    "The trainee directly addressed the issues interpreted that were of concern to me.",
+    "The trainee acknowledges and responds to my beliefs, concerns, and expectations about my problems.",
+    "The trainee asked me questions in the first person (example: “Do you feel…” rather than “interpreter, can you ask him if he…”)",
+    "The trainee sat at a comfortable distance from me (not too close and not too far away.)",
+    "The trainee’s non-verbal body communications was reassuring (ie: mannerisms, facial expressions, and body language.)",
+    "The trainee explained the interpreter’s role to the patient at the beginning.",
+    "The trainee asked the patient one question at a time.",
+    "The trainee listened to the patient without unnecessary interruption.",
+    "The trainee presented information at a pace that was easy to follow for both patient and interpreter; that is, information was given in “digestible chunks.”",
+    "The trainee maintained direct eye contact with the patient (instead of the interpreter).",
+    "The trainee addressed the patient in the first person and not as “he/she.”",
+    "The trainee appropriately closed the encounter: at a minimum, asked the patient if he/she had any questions.",
+    "To what extent did the trainee keep the interpreter on track within his/her assigned role?",
+    "Global rating of trainee’s effectiveness in using the interpreter for the patient encounter."
+  ],
+  "PBLI": [],
+  "PROF": []
+}
