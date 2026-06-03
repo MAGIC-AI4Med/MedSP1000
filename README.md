@@ -163,3 +163,11 @@ Released under the [MIT License](LICENSE).
 Source cases are drawn from [MedEdPORTAL](https://www.mededportal.org/). Scoring
 follows the [ACGME Core Competencies](https://www.acgme.org/). The test-time-compute
 study adapts the [MedAgents](https://github.com/gersteinlab/MedAgents) framework.
+
+## Contact
+
+If you have any question, don't hesitate to contact us!
+
+- [liangcheng1026@sjtu.edu.cn](mailto:liangcheng1026@sjtu.edu.cn)
+- [henrychur@sjtu.edu.cn](mailto:henrychur@sjtu.edu.cn)
+
