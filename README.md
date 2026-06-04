@@ -2,7 +2,7 @@
 
 ### Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases
 
-[![Paper](https://img.shields.io/badge/paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![Paper](https://img.shields.io/badge/paper-arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.05112)
 [![Dataset](https://img.shields.io/badge/🤗%20HuggingFace-Dataset-yellow.svg)](https://huggingface.co/datasets/byrLLCC/MedSP1000)
 [![Project Page](https://img.shields.io/badge/project-page-blue.svg)](https://your-project-page.github.io)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -12,7 +12,7 @@
 > <br/><sub>\* Equal contribution&nbsp;&nbsp;† Corresponding author</sub>
 
 This repository is the official implementation of
-[**MedSP1000**](https://arxiv.org/abs/XXXX.XXXXX).
+[**MedSP1000**](https://arxiv.org/abs/2606.05112).
 
 
 ---
@@ -228,7 +228,7 @@ Key flags (see `--help` for the full list):
   author  = {Liang, Cheng and Qiu, Pengcheng and Zhang, Ya and Wang, Yanfeng and Wu, Chaoyi and Xie, Weidi},
   journal = {<Venue>},
   year    = {2026},
-  url     = {https://arxiv.org/abs/XXXX.XXXXX}
+  url     = {https://arxiv.org/abs/2606.05112}
 }
 ```
 
