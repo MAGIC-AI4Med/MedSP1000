@@ -223,12 +223,14 @@ Key flags (see `--help` for the full list):
 ## Citation
 
 ```bibtex
-@article{liang2026medsp1000,
-  title   = {MedSP1000: Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases},
-  author  = {Liang, Cheng and Qiu, Pengcheng and Zhang, Ya and Wang, Yanfeng and Wu, Chaoyi and Xie, Weidi},
-  journal = {<Venue>},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2606.05112}
+@misc{liang2026evaluatinglargelanguagemodels,
+      title={Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases}, 
+      author={Cheng Liang and Pengcheng Qiu and Ya Zhang and Yanfeng Wang and Chaoyi Wu and Weidi Xie},
+      year={2026},
+      eprint={2606.05112},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.05112}, 
 }
 ```
 
